@@ -1,0 +1,346 @@
+id: 1
+UniqueID: lesson_1_locale_1
+ShortTitle: FemalesSing
+PublicationStatus: Live
+Language: English
+Country: United States
+DefaultLanguage: English
+DefaultCountry: United States
+LastUpdated: 2023-05-04 14:41:34
+FirstPublicationDate: 2021-12-16 16:03:12
+MediumTitle: '''Females singing to be heard'' |Math| G5–8 & 9–12 (en-US)'
+lang: en
+lng: eng
+locale: en-US
+DefaultLocale: en-US
+TemplateVer: 0.5.0
+galacticPubsVer: 0.9.6
+URL: https://galacticpolymath.com/lessons/1
+GPCatalogURL: https://gp-catalog.vercel.app/lessons/FemalesSing_en-US/LESSON.json
+GPCatalogPath: .na
+GitHubPath: git@github.com:galacticpolymath/FemalesSing_en-US.git
+GdriveHome: GP-LIVE
+GdriveDirName: FemalesSing_en-US
+GdriveTeachMatPath: GalacticPolymath/'Females singing to be heard' |Math| G5–8 & 9–12
+  (en-US)
+GdriveTeachMatID: .na
+GdrivePublicID: 1XBmDhUv1dJUR1SL5WZV4P_tJUVOw37P2
+GdriveDirID: 1ZK_7lIrBBjq3mGoeVkpVS67Ly6h8TaUR
+GdriveMetaID: 1e9A_s4y0vddignJ6Pu1Lo0CuFVprR5N5
+GdriveTeachItID: 1CfSyunZH29kbIX6R_5OkJ1gI1pX7QR0qq8LnCrLjFWM
+GdriveStandardsID: 17LQk_E24nfMAdO3O54OvBXa28YW0kcpnhDModalTpes
+GdrivePublishedID: 1bJLtzE0TCZptVTd4HQ4eJMKf8K5A29De
+GdriveDirURL: https://drive.google.com/drive/folders/1ZK_7lIrBBjq3mGoeVkpVS67Ly6h8TaUR
+RebuildAllMaterials: no
+ReleaseDate: '2021-12-16'
+Title: Females singing to be heard
+Subtitle: Challenging long-held assumptions about birdsong through data visualization
+SponsorName: Animal Behaviour Society
+SponsoredBy: The [Animal Behaviour Society](https://www.animalbehaviorsociety.org/web/index.php),
+  an international non-profit scientific society that encourages and promotes the
+  professional study of animal behavior.
+SponsorLogo: assets/_banners_logos_etc/sponsor_logo_41be63750b.png
+LessonBanner: assets/_banners_logos_etc/banner.png
+TargetSubject: Math
+LessonEnvir:
+- Classroom
+- Remote
+ForGrades: 5–8 & 9–12
+GradesOrYears: Grades
+EstLessonTime: 3 x 45 min
+PullStandardsInfoFrom: standardX
+LearningPlotCorrection: yes
+LearningChartFriendly: yes
+LearningEpaulette: assets/_learning-plots/GP-Learning-Epaulette.png
+LearningEpaulette_vert: assets/_learning-plots/GP-Learning-Epaulette_vert.png
+LearningEpaulette_params_defaults: yes
+LearningEpaulette_params_heightScalar: 0.5
+LearningEpaulette_params_randomSeed: 101
+LearningChart: assets/_learning-plots/GP-Learning-Chart.png
+LearningChart_params_centralText: grades\n5-12
+LearningChart_params_caption: .na
+LearningChart_params_captionN: no
+SupportingMedia:
+- assets/_other-media-to-publish/FemalesSing_P3_Table 2_TEACHER.docx
+- assets/_other-media-to-publish/male barn swallow sings on wire_3705.jpg
+- assets/_other-media-to-publish/study-paper.png
+- assets/_other-media-to-publish/vocab.csv
+DrivingQ: What is the best way to visualize data?
+EssentialQ: |-
+  1. How do our assumptions (biases) affect our conclusions?
+  2. What are the pros and cons of scatterplots vs. histograms?
+Hooks: This lesson focuses a lot on puzzles called ciphers and uses a goofy video
+  showing connections between histograms and dot plots to engage students.
+LearningSummary: Students will learn how data visuals tell a story. They will analyze
+  real bird song data to try to understand why female singing behavior has been overlooked
+  in one of the most common birds in the world. They will also gain a deeper insight
+  into the scientific peer review process.
+MiscMD: .na
+LearningObj: |-
+  - Solve a cipher (a type of secret message)
+  - Learn and use new vocabulary
+  - Interpret a scatter plot
+  - Create a histogram from raw data
+  - Compare and contrast scatter plots and histograms
+  - Persevere, even when a task seems too hard
+PublicationDate: '2021-11-29'
+Tags:
+- animal communication
+- barn swallows
+- birds
+- data literacy
+- dot plots
+- histograms
+- peer review
+- scatter plots
+- song
+- grit
+Description: |-
+  This lesson teaches students about data visualization (how to read and interpret scatter plots, dot plots, and histograms), and connects to a broader theme of how our assumptions affect our conclusions. Students learn how scientists and birders alike have assumed for decades that most female birds don't sing. As students explore real data from a recent study, they will learn how this assumption could be reinforced by the fact that females sing much less than males, and further, how this biased oversight has limited our understanding of bird research from its very beginnings. [See Scientific Background](#background) for details.
+
+  The lesson will take 3 class periods for most learners. Students dive in with a data literacy puzzle, which we call a “Polymath Puzzle.” Students are given a figure from a current scientific study on barn swallows (a common bird across the world), but with text elements coded with an alphabetic shift (e.g. each letter is shifted: A to B, B to C, and so on). They have to work in teams (or individually) to decipher the messages, and then try to understand the figure. This is a high-level data literacy task that piques students’ natural love of puzzle-solving, while working on GRIT/grappling and the [21st Century Skills (4 Cs)](https://www.aeseducation.com/blog/four-cs-21st-century-skills). Videos guide students through each stage of the Polymath Puzzle. In Parts 2 and 3, students create and interpret histograms from the same data, allowing for a deeper understanding of the pros and cons of scatter plots and histograms for visualizing data patterns. The culminating task is for students to synthesize the conclusions from the two types of graph, along with additional background information to hypothesize a reason for why female song has been missed until 2020 in this widely studied species.
+QuickPrep: |-
+  1. Check out lesson multimedia below
+  2. Look over [Teaching Materials](#teaching_materials)
+  3. Teach it and [let us know what you think!](#feedback)
+Bonus: |-
+  For students who finish early/ want to explore on their own at home, there is a code hidden in the lesson title. Decoding it will require them to gain new tech skills. It also gives them a glimpse at a huge realm of knowledge (binary and hexadecimal encoding of data), though they don’t need to fully understand it to solve the problem.
+
+  At the end of the worksheet, students can optionally learn to translate a hexadecimal code into a web address. Hexadecimals (hex) are a system for encoding information in computers. Search for a “hex to text converter.” Translate the Task # on the front page to get a secret web link.
+
+  This is a fun “tech-savviness/independence” growth activity. Students are asked to dive into a complex topic (hexadecimal encoding/decoding of text) without much support. But it’s actually not that hard. The goal is to encourage all students to not shut down when something sounds complicated and to learn how to think creatively and use the power of the web to their benefit.
+
+  They should do a web search for “hex to text converter”
+
+  1. The first hit is likely: http://www.unit-conversion.info/texttools/hexadecimal/, but almost any will work
+  2. They have to type or cut and paste “6269742e6c792f6770686935” from the title page into the “Input Data” field
+  3. Choose “Hex to Text” to decode (the example converter defaults to encoding Text to Hex)
+  4. You “magically” get bit.ly/gphi5
+  5. If the student then copies/types that web address into the address bar, it will result in:
+  6. ![a cat gif](https://bit.ly/gphi5)
+Extensions: .na
+Background: "![studyThumbnail.png](study-paper.png)\n[Link to the scientific study](https://www.unco.edu/nhs/biology/about-us/benedict-lauryn/documents/publications/Wilkins_et_al_2020.pdf)\n\nThis
+  lesson is based on a recent study that describes female song in barn swallows for
+  the first time. Barn swallows are one of the most common birds in the world and
+  have been the subject of more than 1000 studies, yet published birding field guides
+  and scientific papers have all failed to describe female song or they describe it
+  incorrectly as being the same as male song (females have their own song type). This
+  is an important oversight, because research on male bird song has informed a lot
+  of theory in biology about how populations evolve through mate choice and competition
+  involving vocal communication, and how new species form. \n\nIgnoring the sounds
+  females make may result from inherent biases. Since bird song became an area of
+  scientific study in the 1800s, it was almost exclusively researched by white males
+  in the Northern Hemisphere. Since women have become welcomed into all areas of science,
+  and research institutions have focused more intent study in tropical regions of
+  the world, studies have discovered that female song is the ancestral state (i.e.
+  the ancestor of all living song birds had both singing males and females). Moreover,
+  female song has not been entirely lost in most species. As in the barn swallow,
+  natural selection has favored females that sing less often, and to have more concise
+  songs that are often restricted to the pre-egg-laying part of the breeding season.
+  This drop in female singing after egg-laying is thought to stem from trying not
+  to draw predators to nests. Due to lack of study, the full function of song in competition
+  among females, male mate choice, or other functions is not well understood in most
+  species.\n\nFurther Reading: \n- [Why We Didn't Know That Female Birds Sing](https://www.scientificamerican.com/article/why-it-took-so-long-to-appreciate-female-birds-songs/):
+  Two authors of the study this lesson is based on discuss its broader implications
+  for society and K-12 education.\n- [Female birds sing. These biologists want you
+  to listen.](https://www.washingtonpost.com/news/speaking-of-science/wp/2018/03/14/female-birds-sing-these-biologists-want-you-to-listen/)
+  (features Drs. Karan Odom and Lauryn Benedict who worked on the study this lesson
+  is based on).\n    - If you're getting paywalled, try clearing your cache or opening
+  the article in an incognito window.\n- [Female bird song ignored by science, researchers
+  say](https://www.australiangeographic.com.au/topics/science-environment/2019/04/female-bird-song-ignored-by-science-researchers-say/)
+  (features Dr. Karan Odom and Dr. Naomi Langmore, who was influential in shifting
+  scientists' thinking about female song)\n- [Study reveals gender bias in bird song
+  research and impact of women on science](https://phys.org/news/2020-08-reveals-gender-bias-bird-song.html)
+  (features Dr. Karan Odom)"
+ConnectionToResearch: |-
+  This lesson allows students to explore the actual data from [the study](https://www.unco.edu/nhs/biology/about-us/benedict-lauryn/documents/publications/Wilkins_et_al_2020.pdf) and to hear from the study’s lead author to deepen data literacy and understanding of the scientific method. Students explore one of the primary figures in the study, a scatter plot (graph) showing different patterns of male and female singing output over the breeding season. Importantly, males sang much more than females and for a longer time (May-Aug, rather than just May). Thus, because males sing more frequently, if we assume (as has been common for birders and scientists until recently) that only males sing, your assumptions are reinforced more easily, because you are less likely to see a female sing.
+
+  During the peer review process, an anonymous scientist suggested that the scatter plot was not a good way to represent the data, instead suggesting that the authors should have displayed a histogram. In Parts 2 and 3 of the lesson, students aggregate (combine) the authentic study data in order to create a histogram. They must then interpret the data in both formats (deepening their understanding of how histograms and scatter plots relate to each other), and conclude which is a better way to demonstrate the study’s findings, explaining why.
+
+  For further reflection, students are then asked to synthesize what they have learned, along with new information presented to them. Why has female song been missed? Partially because of a pre-existing assumption that females don't sing, along with less common singing behavior in females. Why do females sing less? Because natural selection favors females who sing less. Females must sit on eggs for around 2 weeks, leaving them open to predation. If they were to sing as loudly and provocatively as males, they would attract predators which would eat them or their eggs, passing on no genes. Thus, natural selection has likely caused female song to be lost, simplified, or to be produced for short time periods during establishment of the breeding season in many species around the world.
+Feedback: "### Got suggestions or feedback? \n#### We want to know what you think
+  with this short 3 min. survey:\n- [For Teachers](https://forms.gle/afC2ffa8nn1vQK2U9)\n-
+  [For Students](https://forms.gle/88f5QzAze5tiiTvq6)\n\n[Please share your thoughts
+  using this form](https://docs.google.com/forms/d/e/1FAIpQLSdz7_81uUZrsmEfdXk-DPW5J72gViBUO-cy2sakojs5sqAAqQ/viewform?usp=sf_link)
+  and we will use it to improve this and other future lessons.\n### What others had
+  to say about this lesson:\n#### Teachers\n> This is a fantastic lesson! I love how
+  it combines actual research and allows the students the opportunity for analysis.
+  I also love the fact that the peer review process is included in the explanation
+  for the types of graphs used. This really allows students to see and understand
+  the scientific process in action. Love it!!  \n> **Overall Rating:** 5/5  \n> **Student
+  Engagement:** 4/5  \n> **Overall Learning:** 5/5  \n> **Would Recommend to Other
+  Teachers:** 5/5  \n> **Student Level:** Grade 8  \n>   \n> –Sarah Huneycutt, Homeschool
+  Teacher in Nashville, TN\n\n#### Students\n> I really enjoy this lesson! It is so
+  engaging and fun! \n>  \n> –11th Grader in Nashville, TN\n\n> I think it looks like
+  a very interactive lesson and it will hopefully be engaging and interesting to some
+  students. It looks uncomplicated and it gives you all of the resources you will
+  ever need for the lesson. The fact that it shows you how to create graphs and diagrams
+  in the individual powerpoints is a good attribute in my opinion. \n> -11th Grader
+  in Savannah, GA\n  \n> My biggest takeaway from the lesson was the importance of
+  choosing the right way to display data...I don’t have any negative feedback…I really
+  liked the lesson and appreciated how it was interactive and not just a lecture,
+  like many of my online classes have become.\n>  \n> –11th Grader in Nashville, TN"
+Credits: |-
+  #### Lead author and creative director:
+  Matt Wilkins, PhD
+
+  “I worked on this lesson for months, adapting my research into what will hopefully be a mind-expanding learning experience for pretty much all students, aged 11 and up! If you enjoy this lesson, please let us know–we want your feedback! This is the first of many, many Galactic Polymath lessons. Feel free to tag me ([@mattwilkinsbio](https://twitter.com/mattwilkinsbio)) and GP ([@galacticPM](https://twitter.com/galacticPM)) on Twitter with your experiences and student questions! And don’t forget to [sign up for our mailing list](https://bit.ly/getGPemails) to hear about what’s coming up next!”
+
+  #### Graphic Design Work:
+  Carver Lee, MA ([csalt design co.](https://www.csaltdesign.co/))
+
+  #### Development of Learning Assessments and Standards Alignment:
+  [Elaine Perignat, PhD](https://scholar.google.com/citations?user=G12SJQoAAAAJ&hl=en&oi=ao)
+
+  #### Video production courtesy of:
+  Stephanie Castillo (aka [Phuture Doctors](https://phuturedoctors.com/))
+Acknowledgments:
+  Role:
+  - Beta Testers
+  - Beta Testers
+  - Peer Reviewers
+  - Peer Reviewers
+  - Peer Reviewers
+  - Peer Reviewers
+  - Peer Reviewers
+  Role_def:
+  - teachers who trialed earlier versions of the lesson with their children or students
+  - teachers who trialed earlier versions of the lesson with their children or students
+  - instructional and subject experts who provided input or validation on content
+    accuracy
+  - instructional and subject experts who provided input or validation on content
+    accuracy
+  - instructional and subject experts who provided input or validation on content
+    accuracy
+  - instructional and subject experts who provided input or validation on content
+    accuracy
+  - instructional and subject experts who provided input or validation on content
+    accuracy
+  Name:
+  - Jennifer Gentry, PhD
+  - Sarah Huneycutt, PhD
+  - Greta Clinton-Selin
+  - David Gammon, PhD
+  - Lauryn Benedict, PhD
+  - Jeannie Long, PhD
+  - Greta Knudson MAT
+  Title:
+  - Postdoc, Homeschool Teacher
+  - Postdoc, Homeschool Teacher
+  - Education Program Coordinator
+  - Professor
+  - Professor
+  - Presidential PAEMST 2020 Award-Winning Science Teacher
+  - STEAM Instructional Coach
+  Affiliation:
+  - Vanderbilt U, Collab for STEM Ed & Outreach
+  - Vanderbilt U, Collab for STEM Ed & Outreach
+  - Vanderbilt U, Collab for STEM Ed & Outreach
+  - Elon University
+  - University of Northern Colorado
+  - Cleveland High School
+  - Croft Middle School
+  Location:
+  - Nashville, TN
+  - Nashville, TN
+  - Nashville, TN
+  - Elon, NC
+  - Greeley, CO
+  - Cleveland, TN
+  - Nashville, TN
+  Link:
+  - https://www.vanderbilt.edu/cseo/who-we-are/staff/
+  - https://www.vanderbilt.edu/cseo/who-we-are/staff/
+  - https://www.vanderbilt.edu/cseo/who-we-are/staff/
+  - https://facstaff.elon.edu/dgammon/
+  - https://www.unco.edu/nhs/biology/about-us/benedict-lauryn/lab-home.aspx
+  - https://twitter.com/bjlongscience?lang=en
+  - https://twitter.com/GretaKnudson
+Versions:
+  ver_num:
+  - 0.1.0
+  - 0.1.1
+  - 0.2.0
+  - 0.3.0
+  - 0.3.1
+  - 0.4.0
+  - 1.0.0
+  - 1.0.1
+  - 1.1.0
+  - 1.1.1
+  - 1.1.2
+  - 1.1.3
+  - 1.2.0
+  date:
+  - 4/13/2020
+  - 8/12/2020
+  - 9/21/2020
+  - 10/4/2020
+  - 1/5/2021
+  - 3/1/2021
+  - 4/1/2021
+  - 4/5/2021
+  - 4/20/2021
+  - 8/16/2021
+  - 8/20/2021
+  - 7/26/2022
+  - 5/3/2023
+  ver_summary:
+  - Initial lesson build.
+  - Minor update to assets and styling.
+  - Added videos
+  - Lesson broken up
+  - Part 3 modified to be more active
+  - Major improvements to style and flow
+  - First public release
+  - Minor fixes to Part 3 & Teach It in 15 presentations
+  - Added classroom materials and remote fixes
+  - Updated Parts 1 & 3 Nearpod versions for all grades, which had links to old videos.
+  - Updated lesson front matter
+  - Fixed an issue with remote handout
+  - Rebuilt lesson for galacticpolymath.com relaunch
+  ver_notes:
+  - This is intended to be taught in a single day. Includes both classroom and a remote
+    version with Nearpod.
+  - .na.character
+  - Produced by Phuture Doctors, scaffolding student understanding of content
+  - From 1 day into 3 separate class sessions.
+  - For G9-12, students make both histograms; younger students make the female histogram
+    in Part 3.
+  - Aesthetics streamlined, graphics, new video showing song counting and other changes.
+  - Debut version of the first official Galactic Polymath lesson. Fully differentiated
+    for G5-6, 7-8, 9-12, also with remote versions. Also added Teach-It-In-15 quickview
+    presentations for all 3 days, and a lesson trailer.
+  - Fixed slides 44-47 in Part 3 remote presentation  more intuitive. Added pink coloring
+    to lesson plan time, grade and subject stats.
+  - First version with a full complement of in-person classroom versions of presentations
+    and handouts. Fixed problem with Part 3 warm-up. The descriptions of the solution
+    were backwards (i.e. the cipher is -3 encipher, +3 decipher, not the opposite).
+  - Also updated links in acknowledgments
+  - -Changed driving question from "Why has female barn swallow song been ignored
+    or missed by scientists and bird watchers until 2020?" to "What is the best way
+    to visualize data?"
+  - .na.character
+  - .na.character
+  ver_acknowledgments:
+  - .na.character
+  - .na.character
+  - .na.character
+  - Thanks to Sarah Huneycutt (Nashville, TN) for beta testing this with her class
+    and indicating this needed to be broken up.
+  - Thanks to Lauryn Benedict (Greeley, CO) for making the suggestion that students
+    create (not just interpret) the histogram, and deepen learning.
+  - .na.character
+  - Thanks to Bonnie Flint (Dallas, TX) for feedback leading to changes to our final
+    lesson format.
+  - Thanks to Emily Hudson (Nashville, TN) for suggestions.
+  - .na.character
+  - .na.character
+  - .na.character
+  - .na.character
+  - .na.character
+ScriptsToRun: .na
+ReadyToCompile:
+- Front Matter
+- Standards Alignment
+- Teaching Materials

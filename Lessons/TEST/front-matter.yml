@@ -1,0 +1,147 @@
+id: 999
+UniqueID: lesson_6_locale_1
+ShortTitle: TEST
+PublicationStatus: Draft
+Language: English
+Country: United States
+DefaultLanguage: English
+DefaultCountry: United States
+LastUpdated: 2023-06-13 17:05:23.570928
+FirstPublicationDate: 2023-04-10 12:14:57
+MediumTitle: '''TEST'' |Science| G7-12 (en-US)'
+lang: en
+lng: eng
+locale: en-US
+DefaultLocale: en-US
+TemplateVer: 0.5.4
+galacticPubsVer: 0.9.6
+isTestRepo: yes
+URL: https://galacticpolymath.com/lessons/999
+GPCatalogURL: https://gp-catalog.vercel.app/lessons/TEST/LESSON.json
+GitHubURL: git@github.com:galacticpolymath/TEST.git
+GdriveHome: GP-Studio
+GdriveDirName: TEST
+GdriveTeachMatPath: GP-Studio/Edu/Lessons/TEST/teaching-materials
+GdriveTeachMatID: 1xkeDnmP-ymqrfPL9q_X22hitwIkgtzvM
+GdrivePublicID: .na
+GdriveDirID: 1m8SVQpK_XZishGFUiia7RGxdrFUrbTY2
+GdriveMetaID: 1mApvrZPNcTPOFGQW8p8tmzjOPjXO77Ya
+GdriveTeachItID: 1UMg2Cu5dMQW5GPTpChIMkMIZIXESB6V7gAW8SFCqjv4
+GdriveStandardsID: 1V-c6lwWeEbAaAWJh5Eh-bLZp-6d4rxKJo7NDkXE9Juo
+GdrivePublishedID: 1nAz4WEnsvhixGmT0COv3r9qtegbYqEeE
+GdriveDirURL: https://drive.google.com/drive/folders/1m8SVQpK_XZishGFUiia7RGxdrFUrbTY2
+RebuildAllMaterials: no
+ReleaseDate: '2050-01-01'
+Title: TEST
+Subtitle: howdy
+SponsorName:
+- NSF
+- FunsizePhysics
+- University of Nebraska-Lincoln
+SponsoredBy: |-
+  - University of Nebraska-Lincoln's [Funsize Physics](https://funsizephysics.com/). Whether you’re 7 or 107, a full-blown science fanatic or simply curious, this is the place for you.
+  - National Science Foundation grant DMR 2048959
+SponsorLogo:
+- assets/_banners_logos_etc/FunSizePhysics_logo.png
+- assets/_banners_logos_etc/NSF_4-Color_bitmap_Logo@0.25x.png
+- assets/_banners_logos_etc/R-UNL_RGB_logo.jpg
+LessonBanner: assets/_banners_logos_etc/banner.png
+TargetSubject: Science
+LessonEnvir: Classroom
+ForGrades: 7-12
+GradesOrYears: Grades
+EstLessonTime: 4 x 45 min classes
+PullStandardsInfoFrom: myFile
+LearningPlotCorrection: yes
+LearningChartFriendly: yes
+LearningEpaulette: assets/_learning-plots/GP-Learning-Epaulette.png
+LearningEpaulette_vert: assets/_learning-plots/GP-Learning-Epaulette_vert.png
+LearningEpaulette_params_heightScalar: 0.5
+LearningEpaulette_params_randomSeed: 101
+LearningChart: assets/_learning-plots/GP-Learning-Chart.png
+LearningChart_params_centralText: .na
+LearningChart_params_caption: .na
+LearningChart_params_captionN: yes
+SupportingMedia: assets/_other-media-to-publish/vocab.csv
+LearningSummary: Crystals aren't magic, but they are amazing! In this student-driven,
+  lecture-free lesson, students will do card sorts, build hands-on models, solve engineering
+  design puzzles, and more! The whole experience is connected through a beautifully
+  crafted comic.
+DrivingQ: |-
+  - What are crystals and how do they form?
+  - How is molecular microstructure connected to functionality and properties we can easily observe?
+EssentialQ: 'What are crystals and in addition to being pretty to look at, how are
+  they relevant to our daily lives? '
+Hooks: An engaging, original comic weaves together background information, hands-on
+  activities, puzzles, and problem sets. Quick videos stoke curiosity and provide
+  support for activities.
+MiscMD: NA
+LearningObj: .na
+Tags:
+- crystals
+- symmetry
+- hands-on
+- comics
+- engineering mindset
+Description: .na
+QuickPrep: |
+  1. Check out lesson multimedia below
+  2. Look over [Teaching Materials](#teaching_materials)
+  3. Read our easy [Procedure](#procedure)
+  4. Teach it and [let us know what you think!](#feedback)
+Bonus: NA
+Extensions: NA
+Background: NA
+ConnectionToResearch: NA
+Feedback: |
+  ### Please let us know how it went with your class!
+  #### We want to know what you (and/or your students) think!
+  Share your feedback in < 5 min with these forms:
+  - [For teachers](https://forms.gle/HY1sFxZUH7uG6JqP8)
+  - [For students](https://forms.gle/gwkRYvvZY6Sp2dQb9)
+Credits: NA
+Acknowledgments:
+  Role: .na
+  Role_def: .na
+  Name: .na
+  Title: .na
+  Affiliation: .na
+  Location: .na
+  Link: .na
+Versions:
+  ver_num:
+  - 0.1.0
+  - 0.1.2
+  date:
+  - April 21, 2023
+  - June 13, 2023
+  ver_summary:
+  - Lesson initialized
+  - Added some stuff
+  ver_notes:
+  - .na.character
+  - .na.character
+  ver_acknowledgments:
+  - .na.character
+  - .na.character
+ScriptsToRun: .na
+GoogleCloudStorage:
+  filename:
+  - 2.png
+  - 3.png
+  WD_rel_path:
+  - assets/2.png
+  - assets/2.png
+  cloud_path:
+  - lessons/TEST/2.png
+  - lessons/TEST/2.png
+  mod_time:
+  - 2023-06-13 14:05:27.776893
+  - 2023-06-13 14:05:27.776893
+  last_uploaded:
+  - 2023-06-13 14:06:27.777106
+  - 2023-06-13 14:06:27.777106
+ReadyToCompile:
+- Front Matter
+- Standards Alignment
+- Teaching Materials

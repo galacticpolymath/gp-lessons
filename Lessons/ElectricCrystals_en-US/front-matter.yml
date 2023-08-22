@@ -1,0 +1,150 @@
+id: 6
+UniqueID: lesson_6_locale_1
+ShortTitle: ElectricCrystals
+PublicationStatus: Live
+Language: English
+Country: United States
+DefaultLanguage: English
+DefaultCountry: United States
+LastUpdated: 2023-06-02 14:48:34.778863
+FirstPublicationDate: 2023-04-10 12:14:57
+MediumTitle: '''Electric Crystals'' |Science| G7-12 (en-US)'
+lang: en
+lng: eng
+locale: en-US
+DefaultLocale: en-US
+TemplateVer: 0.5.2
+galacticPubsVer: 0.9.6
+isTestRepo: no
+URL: https://galacticpolymath.com/lessons/6
+GPCatalogURL: https://gp-catalog.vercel.app/lessons/ElectricCrystals_en-US/LESSON.json
+GitHubURL: git@github.com:galacticpolymath/ElectricCrystals_en-US.git
+GdriveHome: GP-LIVE
+GdriveDirName: ElectricCrystals_en-US
+GdriveTeachMatPath: GalacticPolymath/'Electric Crystals' |Science| G7-12 (en-US)
+GdriveTeachMatID: .na
+GdrivePublicID: 17GmAzcNYGrrTw7iBV-QQYHrPxw-C69WX
+GdriveDirID: 1J24HOKWaZM346IKL2Vs32YjAu9fvlEj5
+GdriveMetaID: 1dlkMAHfl7P-uFno3U_9lCheDFew3SjT5
+GdriveTeachItID: 1EeLGtFTENDXL3Qk6Bq8_h_cjsi6-yAhqyoFi8ot0zCw
+GdriveStandardsID: 12Uvoiwwz5ErDIAIByYCjqU0RKX4lQNoHCIEqpFs34gA
+GdrivePublishedID: 1dlN6OdrQXZi4YzV0-9sjsaPL3ZDAQK-C
+GdriveDirURL: https://drive.google.com/drive/folders/1J24HOKWaZM346IKL2Vs32YjAu9fvlEj5
+RebuildAllMaterials: no
+ReleaseDate: '2023-05-07'
+Title: Electric Crystals
+Subtitle: Exploring how crystal symmetry can power everyday life
+SponsorName:
+- NSF
+- FunsizePhysics
+- University of Nebraska-Lincoln
+SponsoredBy: |-
+  - [Funsize Physics](https://funsizephysics.com/), where working scientists invite *you* to share in the joy of scientific discovery.
+  - National Science Foundation grant DMR 2048959
+SponsorLogo:
+- assets/_banners_logos_etc/FunSizePhysics_logo.png
+- assets/_banners_logos_etc/NSF_4-Color_bitmap_Logo@0.25x.png
+- assets/_banners_logos_etc/R-UNL_RGB_logo.jpg
+LessonBanner: assets/_banners_logos_etc/banner.png
+TargetSubject: Science
+LessonEnvir: Classroom
+ForGrades: 7-12
+GradesOrYears: Grades
+EstLessonTime: 4 x 45 min classes
+PullStandardsInfoFrom: myFile
+LearningPlotCorrection: no
+LearningChartFriendly: yes
+LearningEpaulette: assets/_learning-plots/GP-Learning-Epaulette.png
+LearningEpaulette_vert: assets/_learning-plots/GP-Learning-Epaulette_vert.png
+LearningEpaulette_params_heightScalar: 0.5
+LearningEpaulette_params_randomSeed: 101
+LearningChart: assets/_learning-plots/GP-Learning-Chart.png
+LearningChart_params_centralText: .na
+LearningChart_params_caption: .na
+LearningChart_params_captionN: yes
+SupportingMedia: assets/_other-media-to-publish/vocab.csv
+DrivingQ: |-
+  - What are crystals and how do they form?
+  - How is molecular microstructure connected to functionality and properties we can easily observe?
+EssentialQ: Why are abstract concepts like geometry important for “real life”?
+Hooks: An engaging, original comic weaves together background information, hands-on
+  activities, puzzles, and problem sets. Quick videos stoke curiosity and provide
+  support for activities.
+LearningSummary: Crystals aren't magic, but they are amazing! In this student-driven,
+  lecture-free lesson, students will do card sorts, build hands-on models, solve engineering
+  design puzzles, and more! The whole experience is connected through a beautifully
+  crafted comic and supporting videos.
+MiscMD: .na
+LearningObj: .na
+Tags:
+- crystals
+- engineering applications
+- symmetry
+- physics
+Description: .na
+QuickPrep: |
+  1. Check out lesson multimedia below
+  2. Look over [Teaching Materials](#teaching_materials)
+  3. Teach it and [let us know what you think!](#feedback)
+Bonus: .na
+Extensions: .na
+Background: |
+  Crystals occupy a very specific niche in public discourse—especially with the controversy about their supposed powers for magic and healing. Yet these fantastic, naturally occurring materials are truly essential for our lives in many concrete ways. We need many types of crystals to maintain our health, such as salt or iodine. And most of our technology, such as semiconductor chips, depends on the regular structures that atoms form in crystals.
+  The discovery of piezoelectric materials in the 1800s further revolutionized our technological devices. Piezos are useful for sensing and actuation, and can sense and deform very precisely. These materials are all around us, but typically their properties are only studied by advanced graduate students in material science, electrical engineering, or physics. At the end of the day, the special features of these amazing materials depend entirely on the (a)symmetry of the crystal structure.
+  #### Further Reading:
+  - [It’s a Material World Podcast: Piezoelectric Materials: In Your Body, Underwater, and In Space](https://www.itsamaterialworldpodcast.com/podcast/episode/546c1514/41-piezoelectric-materials-in-your-body-underwater-and-in-space-ft-dr-susan-trolier-mckinstry)
+  - [Graz University of Technology: Advanced Solid State Physics | Piezoelectricity](http://lampx.tugraz.at/~hadley/ss2/crystalphysics/piezo.php)
+  - [Journal of Physics: Conference Series | The Piezoelectric Effect – an Indispensable Solid State Effect for Contemporary Actuator and Sensor
+  Technologies](https://iopscience.iop.org/article/10.1088/1742-6596/1775/1/012012/pdf)
+ConnectionToResearch: |-
+  Students explore the various ways that scientists study crystals across scales: molecular models, modular unit cells, and bulk solid materials. They learn not only about crystals, but also the value of representing the same information in several ways to learn different things.
+  This lesson is also an exploration of symmetry and its importance in nature. Symmetry is what allows crystals to grow, and also what gives them some of their special powers, like the piezoelectric effect! Through video demonstrations and clear worksheet instructions, students are guided through activities in 3D modeling as well as electric dipole calculations to experience how symmetry determines all the properties of a crystal.
+Feedback: |
+  ### Please let us know how it went with your class!
+  #### We want to know what you (and/or your students) think!
+  Share your feedback in < 5 min with these forms:
+  - [For teachers](https://forms.gle/S2B6pvXKjoC2Do5FA)
+  - [For students](https://forms.gle/JhWFX8ZkaxGszdug6)
+Credits: |
+  **[Madelyn Leembruggen](https://www.linkedin.com/in/madelyn-leembruggen/)** *Led the project; developed and researched storylines; drafted all learning materials; developed, filmed and edited supporting videos.*
+
+  **[Caroline Hu, PhD](https://www.hudrewthis.com/)** *Developed and illustrated comic narrative; did background research on devices; helped weave learning activities into the narrative.*
+
+  **[Shireen Adenwalla, PhD](https://unlcms.unl.edu/cas/physics/adenwalla/)** *Defined outreach goals; provided feedback throughout development; provided scientific validation of lesson content.*
+
+  **[Xiaoshan Xu, PhD](https://xiaoshanxu.unl.edu/welcome-xu-group)** *Defined outreach goals; provided feedback throughout development; provided scientific validation of lesson content.*
+
+  **[Leigh M. Smith, PhD](https://researchdirectory.uc.edu/p/smithlm)** *Defined outreach goals; provided feedback throughout development; provided scientific validation of lesson content.*
+
+  **[Jocelyn Bosley](https://twitter.com/SciTalker)** *Defined outreach goals; provided feedback throughout development; provided scientific validation of lesson content.*
+
+  **[Matt Wilkins, PhD](https://mattwilkinsbio.com)** *Directed the project; helped develop, edit, and revise all aspects of the lesson*
+Acknowledgments:
+  Role: SciComm Consultant
+  Role_def: Helped envision and plan an earlier version of the lesson
+  Name: Carleen Sabusap, PhD
+  Title: .na
+  Affiliation: .na
+  Location: Nashville, TN
+  Link: https://www.linkedin.com/in/carleen-sabusap-phd-1b769199/
+Versions:
+  ver_num:
+  - 0.1.0
+  - 0.2.0
+  date:
+  - April 22, 2023
+  - May 08, 2023
+  ver_summary:
+  - Lesson initialized
+  - Public release!
+  ver_notes:
+  - .na
+  - .na
+  ver_acknowledgments:
+  - .na
+  - .na
+ScriptsToRun: .na
+ReadyToCompile:
+- Front Matter
+- Standards Alignment
+- Teaching Materials

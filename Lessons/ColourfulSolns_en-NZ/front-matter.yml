@@ -1,0 +1,170 @@
+id: 4
+UniqueID: lesson_4_locale_1
+ShortTitle: ColourfulSolns
+PublicationStatus: Live
+Language: English
+Country: New Zealand
+DefaultLanguage: English
+DefaultCountry: New Zealand
+LastUpdated: 2023-05-06 18:03:14
+FirstPublicationDate: 2022-06-26 20:30:21
+MediumTitle: '''Colourful Solutions'' |Science| Y9-13 (en-NZ)'
+lang: en
+lng: eng
+locale: en-NZ
+DefaultLocale: en-NZ
+TemplateVer: 0.5.0
+galacticPubsVer: 0.9.6
+URL: https://galacticpolymath.com/lessons/4
+GPCatalogURL: https://gp-catalog.vercel.app/lessons/ColourfulSolns_en-NZ/LESSON.json
+GPCatalogPath: https://gp-catalog.vercel.app/lessons/ColourfulSolns_en-NZ/LESSON.json
+GitHubPath: git@github.com:galacticpolymath/ColourfulSolns_en-NZ.git
+GdriveHome: GP-LIVE
+GdriveDirName: ColourfulSolns_en-NZ
+GdriveTeachMatPath: GalacticPolymath/'Colourful Solutions' |Science| Y9-13 (en-NZ)
+GdriveTeachMatID: .na
+GdrivePublicID: 1kAnrrr3od18bIaeATw7d03ImScFUqkwA
+GdriveDirID: 1VMKHGhLAJ6ssn32d7PFs5MC0zkFwCBSv
+GdriveMetaID: 11QafuhqWT4Ao4BOqmZMw3OitZFrSRoFz
+GdriveTeachItID: 15QZMawAg4m3yBACtchdAkj-lRmfVMskObUnYZgAvOCw
+GdriveStandardsID: 1v-fgNIb23vv11gOqoG7-1bbSmqyvcF1KgTmFH9F2JDs
+GdrivePublishedID: 1SXg5rfPo0i-nr-sRsDJxihBQHmZ6Xfeh
+GdriveDirURL: https://drive.google.com/drive/folders/1VMKHGhLAJ6ssn32d7PFs5MC0zkFwCBSv
+RebuildAllMaterials: no
+ReleaseDate: '2022-09-01'
+Title: Colourful Solutions
+Subtitle: Chemical Engineering Dyes to Brighten Lives
+SponsorName: University of Canterbury
+SponsoredBy: '[The Department of Chemical and Process Engineering at the University
+  of Canterbury](https://www.canterbury.ac.nz/engineering/) in Christchurch, New Zealand'
+SponsorLogo: assets/_banners_logos_etc/canterbury_logo.jpg
+LessonBanner: assets/_banners_logos_etc/banner.jpg
+TargetSubject: Science
+LessonEnvir: Classroom
+ForGrades: 9-13
+GradesOrYears: Years
+EstLessonTime: 3 x 45min classes
+PullStandardsInfoFrom: myFile
+LearningPlotCorrection: no
+LearningChartFriendly: no
+LearningEpaulette: assets/_learning-plots/GP-Learning-Epaulette.png
+LearningEpaulette_vert: assets/_learning-plots/GP-Learning-Epaulette_vert.png
+LearningEpaulette_params_heightScalar: 0.5
+LearningEpaulette_params_randomSeed: 101
+LearningChart_params_centralText: .na
+LearningChart_params_caption: .na
+LearningChart_params_captionN: yes
+SupportingMedia: assets/_other-media-to-publish/paper.png
+DrivingQ: How have different dye technologies been used to produce colorful clothing
+  across cultures and over time?
+EssentialQ: How can a career in chemical, genetic, or process engineering create opportunities
+  to solve complex societal problems?
+Hooks: "- Part 1 begins with a warm-up “Dye-versity Audit,” In which students will
+  quantify the number of dyes they brought to class on their person and reflect on
+  what they mean in terms of self-expression. The rest of Part 1 focuses on narratives
+  designed to appeal to students’ curiosity.\n- Part 2 involves a card-based puzzle
+  activity. \n- Part 3 puts students directly in the decision-maker position, giving
+  them an opportunity to choose a course of action based on their own values and reasoning."
+LearningSummary: Students will learn to think like chemical engineers as they delve
+  into the dye technologies that allow us to express ourselves through colourful clothing.
+  They will read and discuss complex texts, analyse concept maps and graphs, and develop
+  an appreciation for indigenous (Māori) dye technology.
+MiscMD: .na
+LearningObj: |-
+  1. Understand that chemical engineers develop economical commercial processes to convert raw material into useful products.
+  2. Compare and contrast the costs and benefits of synthetic vs natural dye production.
+  3. Interpret graphs to assess how prices for different technologies change with production scale.
+Tags:
+- chemical engineering
+- process engineering
+- dye
+- Māori
+- indigenous technology
+Description: "Students will gain a deep appreciation for the technology behind the
+  colours we use to express ourselves in our everyday dress. This lesson offers a
+  brief but deep dive into chemical engineering through the lens of dye technology.
+  There are 3 parts, each expected to take about one 45-minute class period. \n\nPart
+  1 is a “student expert\" / [\"jigsaw\"](https://en.wikipedia.org/wiki/Jigsaw_(teaching_technique))
+  activity, where student groups number off into 3 subgroups. Each subgroup will read
+  an article about a dye technology, fill out a concept map to understand the chemical
+  process described, and teach this process to their group mates. The three technologies
+  students will learn about are: Tyrian Purple (a 4,000-year-old dyeing method that
+  uses sea snails); Tānekaha Red (a traditional Māori dye derived from tree bark);
+  and mauveine (the first synthetic dye—created from fossil fuels—and invented by
+  a teenager in the 19th Century).\n\nPart 2 builds on students' understanding of
+  these three dye technologies by challenging them to work together in groups to solve
+  an engineering puzzle. They are given a set of 18 cards representing steps in a
+  dyeing process. Students will figure out the correct sequence for all three dye
+  technologies. Each step also has an associated cost, and students will add up the
+  costs, calculate a starting price, and begin to reflect on the pros and cons of
+  each technology. \n\nPart 3 puts students in the position of a chemical engineer
+  who has to choose one of these technologies, taking into account a wide variety
+  of factors. The presentation walks students through the interpretation of a graph
+  showing how price scales with how many dyed items are being produced. They will
+  develop data literacy, critical thinking, and communication skills as they interpret
+  and discuss the various tradeoffs of each technology in terms of price, sustainability,
+  cultural significance, and the ability to serve the demands of everyone. Ultimately,
+  this lesson aims to broaden students’ conception of what technology is and to better
+  understand the value of engineering, whether or not they decide to pursue it as
+  a career.\n"
+QuickPrep: |-
+  1. Check out lesson multimedia below
+  2. Look over [Teaching Materials](#teaching_materials)
+  3. Teach it and [let us know what you think!](#feedback)
+Bonus: .na
+Extensions: |-
+  - Have students read and discuss the scientific paper about dye technologies [in the Background Section](#background). This paper is co-authored by Māori weaving expert and conservator Rangi Te Kanawa, PhD.
+  - Teach the [Black is Back](https://instructionalseries.tki.org.nz/Instructional-Series/Connected/Connected-2014-level-4-What-s-the-Evidence/Black-is-Back) lesson centred on Rangi’s conservatory work restoring Māori garments that were dyed using a different technology.
+  - Have students research the significance of the pepeha in Māori culture. They can create their own using this [great online tool](https://pepeha.nz/create-pepeha).
+  - Ask students to research chemical engineering, process engineering, chemistry, and related careers to find out median salary, school requirements, etc. A great resource is the [NZ Careers Website](https://www.careers.govt.nz/jobs-database/engineering/engineering/chemical-engineer/).
+  - Have students watch this video about [bioengineering dyes](https://www.youtube.com/watch?v=GIv25InZYig) and conduct independent research. For example, they could find a company developing sustainable dyes and make a presentation about why this company deserves investment, compared to others.
+  - Have students research [Rangi Te Kanawa](https://en.wikipedia.org/wiki/Rangi_Te_Kanawa), her mother [Diggeress](https://en.wikipedia.org/wiki/Diggeress_Te_Kanawa), and grandmother [Rangimārie](https://en.wikipedia.org/wiki/Rangim%C4%81rie_Hetet), and to reflect on the significance of preserving indigenous technologies.
+Background: "#### Māori Culture\nFor those unfamiliar with Māori culture and language,
+  here are some helpful links.\n- [Written Māori pronunciation guide](https://www.wgtn.ac.nz/maori-hub/ako/te-reo-at-university/te-reo-maori-pronunciation-guide)
+  and [Video of Māori vowel pronunciation](https://www.youtube.com/watch?v=O_DtsHdMAtk)\n-
+  [Māori dictionary](https://maoridictionary.co.nz/)\n- [Māori history Wikipedia entry](https://en.wikipedia.org/wiki/M%C4%81ori_history)\n
+  \n#### Scientific Background\nThis lesson helps build a high-level understanding
+  of the different processes behind 3 dye technologies: 2 derived from natural resources
+  (tānekaha red and Tyrian purple) and 1 derived from fossil fuels (mauveine). You
+  and your students can gain more detailed knowledge by reading this scientific paper,
+  coauthored by Rangi Te Kanawa.\n![Screenshot of the journal article](paper.png)\n-
+  [Link to Journal Article](https://www.dominikmatus.cz/files/Some%20Traditional%20Colourants%20of%20Maori%20and%20other%20Cultures.pdf)\n####
+  Further Reading:\n- [Middle East Eye | “Smelly Snails and deep purple: This ancient
+  dye costs $2,700 per gram”](https://www.middleeasteye.net/discover/colour-purple-dyeing-techniques-phoenician-sea-snails)\n-
+  [Pangaia | “Dyes and the Dyeing Process](https://pangaia.com/pages/dyes-and-the-dyeing-process):
+  a marketing blog about clothing company Pangaia’s search for sustainable dyes. Have
+  students read and discuss this blog with a critical eye.\n- [Science History | “Fit
+  to Be Dyed: The enduring appeal of tie-dye”](https://www.sciencehistory.org/distillations/fit-to-be-dyed) "
+ConnectionToResearch: .na
+Feedback: "### Please let us know how it went with your class! \n#### We want to know
+  what you (and/or your students) think!\nShare your feedback in < 5 min with these
+  forms:\n- [For teachers](https://docs.google.com/forms/d/e/1FAIpQLSd5KEkRFBHRk38k28Pnv4qUTixW-zomGVrVi6WEm8KUwA2I2w/viewform?usp=sf_link)\n-
+  [For students](https://forms.gle/6DChgVkyKK1fCNof9)\n"
+Credits: "#### Lesson Author and Creative Director:\n[Matt Wilkins, PhD](https://www.mattwilkinsbio.com)\n
+  \n#### Lesson Author and Graphic Design Consultant:\n[Stephanie Castillo, PhD](https://www.phuturedoctors.com/)\n
+  \n#### Education Consultant:\n[Madelyn Leembruggen](http://scholar.harvard.edu/madelynleembruggen)\n\n####
+  Sponsor and Producer\n[Matthew Cowan, PhD](https://www.canterbury.ac.nz/engineering/contact-us/people/matthew-cowan.html)\n\nPlease
+  [sign up for our mailing list](https://galacticpolymath.us8.list-manage.com/subscribe?u=42413c3d307f9b69fd5d5319e&id=33924ebd91)
+  to hear what’s coming up next!"
+Acknowledgments:
+  Role: .na
+  Role_def: .na
+  Name: .na
+  Title: .na
+  Affiliation: .na
+  Location: .na
+  Link: .na
+Versions:
+  ver_num: 0.1.0
+  date: April 27, 2023
+  ver_summary: Lesson initialized
+  ver_notes: .na
+  ver_acknowledgments: .na
+ScriptsToRun: .na
+ReadyToCompile:
+- Front Matter
+- Standards Alignment
+- Teaching Materials
+- Procedure
+- Acknowledgments
+- Versions

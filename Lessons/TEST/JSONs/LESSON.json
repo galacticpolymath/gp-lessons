@@ -1,0 +1,762 @@
+{
+  "id": 999,
+  "UniqueID": "lesson_6_locale_1",
+  "ShortTitle": "TEST",
+  "PublicationStatus": "Draft",
+  "Language": "English",
+  "Country": "United States",
+  "DefaultLanguage": "English",
+  "DefaultCountry": "United States",
+  "LastUpdated": "2023-06-01 09:05:46.659096",
+  "FirstPublicationDate": "2023-04-10 12:14:57",
+  "MediumTitle": "'TEST' |Science| G7-12 (en-US)",
+  "lang": "en",
+  "lng": "eng",
+  "locale": "en-US",
+  "DefaultLocale": "en-US",
+  "TemplateVer": "0.5.2",
+  "galacticPubsVer": "0.9.6",
+  "isTestRepo": true,
+  "URL": "https://galacticpolymath.com/lessons/999",
+  "GPCatalogURL": "https://gp-catalog.vercel.app/lessons/TEST/LESSON.json",
+  "GitHubURL": "git@github.com:galacticpolymath/TEST.git",
+  "GdriveHome": "GP-Studio",
+  "GdriveDirName": "TEST",
+  "GdriveTeachMatPath": "GP-Studio/Edu/Lessons/TEST/teaching-materials",
+  "GdriveTeachMatID": "1xkeDnmP-ymqrfPL9q_X22hitwIkgtzvM",
+  "GdrivePublicID": null,
+  "GdriveDirID": "1m8SVQpK_XZishGFUiia7RGxdrFUrbTY2",
+  "GdriveMetaID": "1mApvrZPNcTPOFGQW8p8tmzjOPjXO77Ya",
+  "GdriveTeachItID": "1UMg2Cu5dMQW5GPTpChIMkMIZIXESB6V7gAW8SFCqjv4",
+  "GdriveStandardsID": "1V-c6lwWeEbAaAWJh5Eh-bLZp-6d4rxKJo7NDkXE9Juo",
+  "GdrivePublishedID": "1nAz4WEnsvhixGmT0COv3r9qtegbYqEeE",
+  "GdriveDirURL": "https://drive.google.com/drive/folders/1m8SVQpK_XZishGFUiia7RGxdrFUrbTY2",
+  "RebuildAllMaterials": false,
+  "ReleaseDate": "2050-01-01",
+  "Title": "TEST",
+  "Subtitle": "Tryin' somethin' out again",
+  "SponsorName": [
+    "NSF",
+    "FunsizePhysics",
+    "University of Nebraska-Lincoln"
+  ],
+  "SponsoredBy": "- University of Nebraska-Lincoln's [Funsize Physics](https://funsizephysics.com/). Whether you’re 7 or 107, a full-blown science fanatic or simply curious, this is the place for you.\n- National Science Foundation grant DMR 2048959",
+  "SponsorLogo": [
+    "assets/_banners_logos_etc/FunSizePhysics_logo.png",
+    "assets/_banners_logos_etc/NSF_4-Color_bitmap_Logo@0.25x.png",
+    "assets/_banners_logos_etc/R-UNL_RGB_logo.jpg"
+  ],
+  "LessonBanner": "assets/_banners_logos_etc/banner.png",
+  "TargetSubject": "Science",
+  "LessonEnvir": "Classroom",
+  "ForGrades": "7-12",
+  "GradesOrYears": "Grades",
+  "SponsorImage": {
+    "url": [
+      "https://gp-catalog.vercel.app/lessons/TEST/FunSizePhysics_logo.png",
+      "https://gp-catalog.vercel.app/lessons/TEST/NSF_4-Color_bitmap_Logo@0.25x.png",
+      "https://gp-catalog.vercel.app/lessons/TEST/R-UNL_RGB_logo.jpg"
+    ]
+  },
+  "CoverImage": {
+    "url": "https://gp-catalog.vercel.app/lessons/TEST/banner.png"
+  },
+  "Section": {
+    "overview": {
+      "__component": "lesson-plan.overview",
+      "LearningSummary": "Crystals aren't magic, but they are amazing! In this student-driven, lecture-free lesson, students will do card sorts, build hands-on models, solve engineering design puzzles, and more! The whole experience is connected through a beautifully crafted comic.",
+      "EstLessonTime": "4 x 45 min classes",
+      "GradesOrYears": "Grades",
+      "ForGrades": "7-12",
+      "TargetSubject": "Science",
+      "Text": "#### Driving Question(s):\n- What are crystals and how do they form?\n- How is molecular microstructure connected to functionality and properties we can easily observe?\n#### Essential Question(s):\nWhat are crystals and in addition to being pretty to look at, how are they relevant to our daily lives? \n#### Hook(s):\nAn engaging, original comic weaves together background information, hands-on activities, puzzles, and problem sets. Quick videos stoke curiosity and provide support for activities.",
+      "Tags": [
+        {
+          "Value": "crystals"
+        },
+        {
+          "Value": "symmetry"
+        },
+        {
+          "Value": "hands-on"
+        },
+        {
+          "Value": "comics"
+        },
+        {
+          "Value": "engineering mindset"
+        }
+      ],
+      "SteamEpaulette": {
+        "url": "https://gp-catalog.vercel.app/lessons/TEST/GP-Learning-Epaulette.png"
+      },
+      "SteamEpaulette_vert": {
+        "url": "https://gp-catalog.vercel.app/lessons/TEST/GP-Learning-Epaulette_vert.png"
+      }
+    },
+    "preview": {
+      "__component": "lesson-plan.lesson-preview",
+      "SectionTitle": "Lesson Preview",
+      "QuickPrep": "1. Check out lesson multimedia below\n2. Look over <AnchorLink href=\"#teaching_materials\"> Teaching Materials <\/AnchorLink>\n3. Read our easy <AnchorLink href=\"#procedure\"> Procedure <\/AnchorLink>\n4. Teach it and <AnchorLink href=\"#feedback\"> let us know what you think! <\/AnchorLink>\n",
+      "Multimedia": [
+        {
+          "order": "2",
+          "type": "video",
+          "forPart": "1",
+          "title": "Cool beans",
+          "description": null,
+          "lessonRelevance": "Intro to the issues.",
+          "by": "Galactic Polymath",
+          "byLink": "https://www.youtube.com/channel/UCfyBNvN3CH4uWmwOCQVhmhg/featured",
+          "mainLink": "https://www.youtube.com/embed/PGmPIHPX9eQ",
+          "otherLink": null
+        },
+        {
+          "order": "4",
+          "type": "pdf",
+          "forPart": "2",
+          "title": "What's next?",
+          "description": null,
+          "lessonRelevance": "Go deeper.",
+          "by": "Galactic Polymath",
+          "byLink": "https://www.youtube.com/channel/UCfyBNvN3CH4uWmwOCQVhmhg/featured",
+          "mainLink": "https://docs.google.com/presentation/d/1im-4JZzjp-Om_oUxNgvuEqDr9quc1Ry7K3PlROMy2gs/preview?rm=minimal",
+          "otherLink": null
+        },
+        {
+          "order": "3",
+          "type": "shiny-app",
+          "forPart": "3",
+          "title": "Hear ya go!",
+          "description": null,
+          "lessonRelevance": "Wow, I never knew that!",
+          "by": "Galactic Polymath",
+          "byLink": "https://www.youtube.com/channel/UCfyBNvN3CH4uWmwOCQVhmhg/featured",
+          "mainLink": "https://www.youtube.com/embed/AiXyHxv4Sx4",
+          "otherLink": null
+        }
+      ],
+      "InitiallyExpanded": true
+    },
+    "teaching-materials": {
+      "__component": "teaching-resources.teaching-resources",
+      "SectionTitle": "Teaching Materials",
+      "Data": {
+        "lessonPreface": null,
+        "classroom": {
+          "gradeVariantNotes": [
+            {
+              "part": "1",
+              "partGradeVarNotes": null
+            },
+            {
+              "part": "2",
+              "partGradeVarNotes": null
+            },
+            {
+              "part": "3",
+              "partGradeVarNotes": null
+            },
+            {
+              "part": "4",
+              "partGradeVarNotes": null
+            }
+          ],
+          "resources": [
+            {
+              "grades": "Grades 7-12",
+              "gradePrefix": "G7-12",
+              "links": {
+                "linkText": "Browse & Download All G7-12 Materials",
+                "url": "https://drive.google.com/drive/folders/1gGRMiK0xybbS6ljqYykpmBOZniVeV3GV"
+              },
+              "parts": [
+                {
+                  "part": "1",
+                  "title": "Engagement hook",
+                  "tags": [
+                    null
+                  ],
+                  "preface": null,
+                  "itemList": [
+                    {
+                      "itemTitle": "Handout/ Card (Part 1)",
+                      "itemDescription": "Print 1 per Student",
+                      "itemCat": "presentation",
+                      "links": [
+                        {
+                          "linkText": "PDF (DRAFT FILE)",
+                          "url": "https://docs.google.com/presentation/d/1scNToDdJAckvn2eVq0QuMfTKqmF_FsCLthRpua8649I/export/pdf"
+                        },
+                        {
+                          "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
+                          "url": "https://docs.google.com/presentation/d/1scNToDdJAckvn2eVq0QuMfTKqmF_FsCLthRpua8649I/template/preview"
+                        }
+                      ]
+                    },
+                    {
+                      "itemTitle": "Teacher Worksheet (Part 1)",
+                      "itemDescription": "Print 1 Copy",
+                      "itemCat": "document",
+                      "links": [
+                        {
+                          "linkText": "PDF (DRAFT FILE)",
+                          "url": "https://docs.google.com/document/d/19vB7HdYeHAr9ericAYOPDmNV-cNZluSJtoDR7kz0S-w/export?format=pdf"
+                        },
+                        {
+                          "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
+                          "url": "https://docs.google.com/document/d/19vB7HdYeHAr9ericAYOPDmNV-cNZluSJtoDR7kz0S-w/template/preview"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "part": "2",
+                  "title": "Explorer (with Dora)",
+                  "tags": [
+                    null
+                  ],
+                  "preface": null,
+                  "itemList": [
+                    {
+                      "itemTitle": "Teacher Worksheet (Part 2)",
+                      "itemDescription": "Print 1 Copy",
+                      "itemCat": "document",
+                      "links": [
+                        {
+                          "linkText": "PDF (DRAFT FILE)",
+                          "url": "https://docs.google.com/document/d/1sY7UyQgcR9s9BlgYGL2TDxrfNw5ji1nurZbQuGA4YnM/export?format=pdf"
+                        },
+                        {
+                          "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
+                          "url": "https://docs.google.com/document/d/1sY7UyQgcR9s9BlgYGL2TDxrfNw5ji1nurZbQuGA4YnM/template/preview"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "part": "3",
+                  "title": "Game day",
+                  "tags": [
+                    null
+                  ],
+                  "preface": null,
+                  "itemList": [
+                    {
+                      "itemTitle": "Handout (Part 3)",
+                      "itemDescription": null,
+                      "itemCat": "presentation",
+                      "links": [
+                        {
+                          "linkText": "PDF (DRAFT FILE)",
+                          "url": "https://docs.google.com/presentation/d/1t3QZY_ofGlTjcEYPiT0fjzVyPQLdT-Z9k5KNxg8vARg/export/pdf"
+                        },
+                        {
+                          "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
+                          "url": "https://docs.google.com/presentation/d/1t3QZY_ofGlTjcEYPiT0fjzVyPQLdT-Z9k5KNxg8vARg/template/preview"
+                        }
+                      ]
+                    },
+                    {
+                      "itemTitle": "Teacher Worksheet (Part 3)",
+                      "itemDescription": "Print 1 Copy",
+                      "itemCat": "document",
+                      "links": [
+                        {
+                          "linkText": "PDF (DRAFT FILE)",
+                          "url": "https://docs.google.com/document/d/19uONOtDB6jbJzldCo1NLW1qsXj771jeWQeyusUCABCQ/export?format=pdf"
+                        },
+                        {
+                          "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
+                          "url": "https://docs.google.com/document/d/19uONOtDB6jbJzldCo1NLW1qsXj771jeWQeyusUCABCQ/template/preview"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "part": "4",
+                  "title": "Investigate on your own",
+                  "tags": [
+                    null
+                  ],
+                  "preface": null,
+                  "itemList": [
+                    {
+                      "itemTitle": "Teacher Worksheet (Part 4)",
+                      "itemDescription": "Print 1 Copy",
+                      "itemCat": "document",
+                      "links": [
+                        {
+                          "linkText": "PDF (DRAFT FILE)",
+                          "url": "https://docs.google.com/document/d/1a7tEpCIFtAoLOIw4pqp81RdvqQvfF80rqGPoGVMBLQ0/export?format=pdf"
+                        },
+                        {
+                          "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
+                          "url": "https://docs.google.com/document/d/1a7tEpCIFtAoLOIw4pqp81RdvqQvfF80rqGPoGVMBLQ0/template/preview"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        "parts": [
+          {
+            "partNum": 1,
+            "partTitle": "Procedure not documented yet",
+            "partDur": null,
+            "partPreface": null,
+            "chunks": null,
+            "partExtension": null
+          },
+          {
+            "partNum": 2,
+            "partTitle": "Procedure not documented yet",
+            "partDur": null,
+            "partPreface": null,
+            "chunks": null,
+            "partExtension": null
+          },
+          {
+            "partNum": 3,
+            "partTitle": "Procedure not documented yet",
+            "partDur": null,
+            "partPreface": null,
+            "chunks": null,
+            "partExtension": null
+          },
+          {
+            "partNum": 4,
+            "partTitle": "Procedure not documented yet",
+            "partDur": null,
+            "partPreface": null,
+            "chunks": null,
+            "partExtension": null
+          }
+        ],
+        "gatheredVocab": null
+      }
+    },
+    "background": {
+      "__component": "lesson-plan.collapsible-text-section",
+      "SectionTitle": "Background",
+      "Content": "#### Connection to Research\n NA \n#### Research Background\n NA",
+      "InitiallyExpanded": true
+    },
+    "standards-header": {
+      "__component": "lesson-plan.section-heading",
+      "SectionTitle": "Learning Standards"
+    },
+    "learning-chart": {
+      "__component": "lesson-plan.learning-chart",
+      "Title": "About the GP Learning Chart",
+      "Description": "This Galactic Polymath Learning Chart illustrates the areas of knowledge covered. This lesson targets Science, but it helps teach national learning standards in 4 subjects: \n- [Common Core Math](http://www.corestandards.org/Math/); [Common Core ELA](http://www.corestandards.org/ELA-Literacy/); [Next Generation Science (NGSS)](https://www.nextgenscience.org/); and [College, Career, and Civic Life (C3) Social Studies Standards](https://www.socialstudies.org/standards/c3).\nIn total, there are 18 standards across US grade band(s): 5-6, 7-8, 9-12.",
+      "Footnote": "",
+      "Badge": {
+        "url": "https://gp-catalog.vercel.app/lessons/TEST/GP-Learning-Chart.png"
+      }
+    },
+    "standards": {
+      "__component": "lesson-plan.standards",
+      "LearningObj": "NA",
+      "Data": [
+        {
+          "subject": "Math",
+          "target": false,
+          "sets": [
+            {
+              "slug": "CCM",
+              "name": "Common Core Math",
+              "dimensions": [
+                {
+                  "slug": "AGTC&HLT",
+                  "name": "Algebra, Geometry, Trig, Calculus & Higher Level Thinking",
+                  "standardsGroup": [
+                    {
+                      "parts": [
+                        "4"
+                      ],
+                      "codes": "7.EE.B.4",
+                      "grades": "7",
+                      "statements": "Use variables to represent quantities in a real-world or mathematical problem, and construct simple equations and inequalities to solve problems by reasoning about the quantities.",
+                      "alignmentNotes": "- Needs Documentation",
+                      "subcat": null
+                    },
+                    {
+                      "parts": [
+                        "3"
+                      ],
+                      "codes": "8.G.A.1",
+                      "grades": "8",
+                      "statements": "Verify experimentally the properties of rotations, reflections, and translations:",
+                      "alignmentNotes": "- Needs Documentation",
+                      "subcat": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "subject": "ELA",
+          "target": false,
+          "sets": [
+            {
+              "slug": "CCELA",
+              "name": "Common Core ELA",
+              "dimensions": [
+                {
+                  "slug": "W",
+                  "name": "Writing",
+                  "standardsGroup": [
+                    {
+                      "parts": [
+                        "1",
+                        "2",
+                        "3",
+                        "4"
+                      ],
+                      "codes": "W.7.1b",
+                      "grades": "7",
+                      "statements": "Support claim(s) with logical reasoning and relevant evidence, using accurate, credible sources and demonstrating an understanding of the topic or text.",
+                      "alignmentNotes": "- Needs Documentation",
+                      "subcat": null
+                    },
+                    {
+                      "parts": [
+                        "1",
+                        "2",
+                        "3",
+                        "4"
+                      ],
+                      "codes": "W.8.1b",
+                      "grades": "8",
+                      "statements": "Support claim(s) with logical reasoning and relevant evidence, using accurate, credible sources and demonstrating an understanding of the topic or text.",
+                      "alignmentNotes": "- Needs Documentation",
+                      "subcat": null
+                    },
+                    {
+                      "parts": [
+                        "1",
+                        "2",
+                        "3",
+                        "4"
+                      ],
+                      "codes": "W.9-10.1",
+                      "grades": [
+                        "9",
+                        "10"
+                      ],
+                      "statements": "Write arguments to support claims in an analysis of substantive topics or texts, using valid reasoning and relevant and sufficient evidence.",
+                      "alignmentNotes": "- Needs Documentation",
+                      "subcat": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "subject": "Science",
+          "target": false,
+          "sets": [
+            {
+              "slug": "NGSS",
+              "name": "NGSS",
+              "dimensions": [
+                {
+                  "slug": "SEP",
+                  "name": "Science & Engineering Practices",
+                  "standardsGroup": [
+                    {
+                      "parts": [
+                        "2",
+                        "3"
+                      ],
+                      "codes": "CEDS-M2",
+                      "grades": [
+                        "6",
+                        "7",
+                        "8"
+                      ],
+                      "statements": "Construct an explanation using models or representations.",
+                      "alignmentNotes": "- Needs Documentation",
+                      "subcat": "Constructing Explanations & Designing Solutions"
+                    }
+                  ]
+                },
+                {
+                  "slug": "CCC",
+                  "name": "Cross-Cutting Concepts",
+                  "standardsGroup": [
+                    {
+                      "parts": [
+                        "4"
+                      ],
+                      "codes": "SF-M2",
+                      "grades": [
+                        "6",
+                        "7",
+                        "8"
+                      ],
+                      "statements": "Structures can be designed to serve particular functions by taking into account properties of different materials, and how materials can be shaped and used.",
+                      "alignmentNotes": "- Needs Documentation",
+                      "subcat": "Structure & Function"
+                    },
+                    {
+                      "parts": [
+                        "1",
+                        "2",
+                        "3",
+                        "4"
+                      ],
+                      "codes": "PAT-M1",
+                      "grades": [
+                        "6",
+                        "7",
+                        "8"
+                      ],
+                      "statements": "Macroscopic patterns are related to the nature of microscopic and atomic-level structure.",
+                      "alignmentNotes": "- Needs Documentation",
+                      "subcat": "Patterns"
+                    },
+                    {
+                      "parts": [
+                        "4"
+                      ],
+                      "codes": "SF-H1",
+                      "grades": [
+                        "9",
+                        "10",
+                        "11",
+                        "12"
+                      ],
+                      "statements": "Investigating or designing new systems or structures requires a detailed examination of the properties of different materials, the structures of different components, and connections of components to reveal its function and/or solve a problem.",
+                      "alignmentNotes": "- Needs Documentation",
+                      "subcat": "Structure & Function"
+                    },
+                    {
+                      "parts": [
+                        "1",
+                        "2",
+                        "3",
+                        "4"
+                      ],
+                      "codes": "PAT-H1",
+                      "grades": [
+                        "9",
+                        "10",
+                        "11",
+                        "12"
+                      ],
+                      "statements": "Different patterns may be observed at each of the scales at which a system is studied and can provide evidence for causality in explanations of phenomena.",
+                      "alignmentNotes": "- Needs Documentation",
+                      "subcat": "Patterns"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "subject": "Science",
+          "target": true,
+          "sets": [
+            {
+              "slug": "NGSS",
+              "name": "NGSS",
+              "dimensions": [
+                {
+                  "slug": "SEP",
+                  "name": "Science & Engineering Practices",
+                  "standardsGroup": [
+                    {
+                      "parts": [
+                        "2",
+                        "3",
+                        "4"
+                      ],
+                      "codes": "MOD-M5",
+                      "grades": [
+                        "6",
+                        "7",
+                        "8"
+                      ],
+                      "statements": "Develop and/or use a model to predict and/or describe phenomena.",
+                      "alignmentNotes": "- Needs Documentation",
+                      "subcat": "Developing & Using Models"
+                    },
+                    {
+                      "parts": [
+                        "2",
+                        "3"
+                      ],
+                      "codes": "MOD-H4",
+                      "grades": [
+                        "9",
+                        "10",
+                        "11",
+                        "12"
+                      ],
+                      "statements": "Develop and/or use multiple types of models to provide mechanistic accounts and/or predict phenomena, and move flexibly between model types based on merits and limitations.",
+                      "alignmentNotes": "- Needs Documentation",
+                      "subcat": "Developing & Using Models"
+                    },
+                    {
+                      "parts": [
+                        "2",
+                        "3"
+                      ],
+                      "codes": "MOD-H5",
+                      "grades": [
+                        "9",
+                        "10",
+                        "11",
+                        "12"
+                      ],
+                      "statements": "Use a model to provide mechanistic accounts of phenomena.",
+                      "alignmentNotes": "- Needs Documentation",
+                      "subcat": "Developing & Using Models"
+                    }
+                  ]
+                },
+                {
+                  "slug": "CCC",
+                  "name": "Cross-Cutting Concepts",
+                  "standardsGroup": [
+                    {
+                      "parts": [
+                        "2",
+                        "3",
+                        "4"
+                      ],
+                      "codes": "SF-M1",
+                      "grades": [
+                        "6",
+                        "7",
+                        "8"
+                      ],
+                      "statements": "Complex and microscopic structures and systems can be visualized, modeled, and used to describe how their function depends on the shapes, composition, and relationships among its parts, therefore complex natural structures/systems can be analyzed to determine how they function.",
+                      "alignmentNotes": "- Needs Documentation",
+                      "subcat": "Structure & Function"
+                    },
+                    {
+                      "parts": [
+                        "4"
+                      ],
+                      "codes": "SF-H2",
+                      "grades": [
+                        "9",
+                        "10",
+                        "11",
+                        "12"
+                      ],
+                      "statements": "The functions and properties of natural and designed objects and systems can be inferred from their overall structure, the way their components are shaped and used, and the molecular substructures of its various materials.",
+                      "alignmentNotes": "- Needs Documentation",
+                      "subcat": "Structure & Function"
+                    }
+                  ]
+                },
+                {
+                  "slug": "DCI",
+                  "name": "Disciplinary Core ideas",
+                  "standardsGroup": [
+                    {
+                      "parts": [
+                        "1",
+                        "2",
+                        "3"
+                      ],
+                      "codes": "PS1.A-M5",
+                      "grades": [
+                        "6",
+                        "7",
+                        "8"
+                      ],
+                      "statements": "Solids may be formed from molecules, or they may be extended structures with repeating subunits (e.g., crystals).",
+                      "alignmentNotes": "- Needs Documentation",
+                      "subcat": "Structure & Properties of Matter"
+                    },
+                    {
+                      "parts": [
+                        "4"
+                      ],
+                      "codes": "PS1.A-H1",
+                      "grades": [
+                        "9",
+                        "10",
+                        "11",
+                        "12"
+                      ],
+                      "statements": "Each atom has a charged substructure consisting of a nucleus, which is made of protons and neutrons, surrounded by electrons.",
+                      "alignmentNotes": "- Needs Documentation",
+                      "subcat": "Structure & Properties of Matter"
+                    },
+                    {
+                      "parts": [
+                        "4"
+                      ],
+                      "codes": "PS1.A-H3",
+                      "grades": [
+                        "9",
+                        "10",
+                        "11",
+                        "12"
+                      ],
+                      "statements": "The structure and interactions of matter at the bulk scale are determined by electrical forces within and between atoms.",
+                      "alignmentNotes": "- Needs Documentation",
+                      "subcat": "Structure & Properties of Matter"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "feedback": {
+      "__component": "lesson-plan.collapsible-text-section",
+      "SectionTitle": "Feedback",
+      "Content": "### Please let us know how it went with your class!\n#### We want to know what you (and/or your students) think!\nShare your feedback in < 5 min with these forms:\n- [For teachers](https://forms.gle/HY1sFxZUH7uG6JqP8)\n- [For students](https://forms.gle/gwkRYvvZY6Sp2dQb9)\n",
+      "InitiallyExpanded": true
+    },
+    "credits": {
+      "__component": "lesson-plan.collapsible-text-section",
+      "SectionTitle": "Credits",
+      "Content": "NA",
+      "InitiallyExpanded": true
+    },
+    "acknowledgments": {
+      "__component": "lesson-plan.acknowledgments",
+      "SectionTitle": "Acknowledgments",
+      "Data": null
+    },
+    "versions": {
+      "__component": "lesson-plan.versions",
+      "SectionTitle": "Version Notes",
+      "Data": [
+        {
+          "major_release": "Beta",
+          "sub_releases": [
+            {
+              "version": "0.1.0",
+              "date": "April 21, 2023",
+              "summary": "Lesson initialized",
+              "notes": null,
+              "acknowledgments": null
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,284 @@
+id: 3
+UniqueID: lesson3_locale_1
+ShortTitle: geneticRescue
+PublicationStatus: Live
+Language: English
+Country: United States
+DefaultLanguage: English
+DefaultCountry: United States
+LastUpdated: 2023-06-02 14:23:06.891768
+FirstPublicationDate: 2021-12-15 17:06:16
+MediumTitle: '''Genetic Rescue to the Rescue'' |Science| G9-12 (en-US)'
+lang: en
+lng: eng
+locale: en-US
+DefaultLocale: en-US
+TemplateVer: 0.5.2
+galacticPubsVer: 0.9.6
+isTestRepo: no
+URL: https://galacticpolymath.com/lessons/3
+GPCatalogURL: https://gp-catalog.vercel.app/lessons/geneticRescue_sci/LESSON.json
+GitHubURL: git@github.com:galacticpolymath/geneticRescue_sci.git
+GdriveHome: GP-LIVE
+GdriveDirName: geneticRescue_sci
+GdriveTeachMatPath: GalacticPolymath/'Genetic Rescue to the Rescue' |Science| G9-12
+  (en-US)
+GdriveTeachMatID: .na
+GdrivePublicID: 1JwsZMLh8s7nd9rI6uJcvCmHkGRuGNj_S
+GdriveDirID: 1NWH6z13CgpVn0bFe1fWloeWw87ycGDti
+GdriveMetaID: 1XAqIyNWH9pdOmJNPV9WLKMMpebQBoXoM
+GdriveTeachItID: 1r2zH1P-fWUOwOtv2vMyL8XTLXxrs-_Xh90lM-meOQgU
+GdriveStandardsID: 176j3wF_Jt_SsTJoP4o8w_FWa2vNWybLIW3Crz0BRq88
+GdrivePublishedID: 1_8YhQHo4LftImt8U_WGVUm0sL3ypzKnD
+GdriveDirURL: https://drive.google.com/drive/folders/1NWH6z13CgpVn0bFe1fWloeWw87ycGDti
+RebuildAllMaterials: no
+ReleaseDate: '2021-12-15'
+PublicationDate: '2021-12-15'
+Title: Genetic Rescue to the Rescue
+Subtitle: Preventing extinction through gene flow
+SponsorName:
+- NSF
+- Sarah Fitzpatrick
+SponsoredBy: |-
+  - [Sarah Fitzpatrick, PhD](http://swfitz.com/index.php), Department of Integrative Biology at Michigan State University's W. K. Kellogg Biological Station
+  - [National Science Foundation](https://www.nsf.gov/) Grant DEB 2016569
+SponsorLogo:
+- assets/_banners_logos_etc/Fitzpatrick_lab_logo-transparent.png
+- assets/_banners_logos_etc/NSF_4-Color_bitmap_Logo.png
+LessonBanner: assets/_banners_logos_etc/banner.png
+TargetSubject: Science
+LessonEnvir: Classroom
+ForGrades: 9-12
+GradesOrYears: Grades
+EstLessonTime: 5 x 45 min
+PullStandardsInfoFrom: standardX
+LearningPlotCorrection: yes
+LearningChartFriendly: yes
+LearningEpaulette: assets/_learning-plots/GP-Learning-Epaulette.png
+LearningEpaulette_vert: assets/_learning-plots/GP-Learning-Epaulette_vert.png
+LearningEpaulette_params_heightScalar: 0.5
+LearningEpaulette_params_randomSeed: 111
+LearningChart: assets/_learning-plots/GP-Learning-Chart.png
+LearningChart_params_centralText: ''
+LearningChart_params_caption: ''
+LearningChart_params_captionN: no
+SupportingMedia:
+- assets/_other-media-to-publish/VanDeKerk_paper_screenshot.png
+- assets/_other-media-to-publish/ex_P2classdata.jpg
+- assets/_other-media-to-publish/fitzpatrick_paper_screenshot.png
+- assets/_other-media-to-publish/vocab.csv
+DrivingQ: Can genetic rescue (a conservation strategy involving movement of individuals
+  across populations) prevent the extinction of endangered species?
+EssentialQ: How do we use scientific methods to measure and develop solutions for
+  our negative impacts on the world?
+Hooks: Numerous puzzles, group activities, compelling videos, and active discussions
+  draw students into real world problems.
+LearningSummary: Students will deepen their understanding of basic genetics concepts
+  as they dive into real data sets from ongoing research. They will hone critical
+  thinking and communication skills and come away with clear examples of how science
+  can lead to positive impacts on wildlife populations.
+MiscMD: NA
+LearningObj: |-
+  1. Provide examples of variation in genes, traits, and individual survival, and why each is important for a species to persist and evolve.
+  2. Summarize how human activities fragment animal populations and how habitat fragmentation limits gene flow, reducing genetic variation.
+  3. Predict how increasing genetic variation by introducing new individuals (i.e. by conducting genetic rescue) will impact population size.
+  4. Create a logic model showing how genetic rescue occurs; i.e. how the introduction of new individuals to a small, inbred population on the verge of extinction provides needed genetic variation for the population to survive and recover.
+  5. Demonstrate understanding of how reduction in both population size and genetic variation in endangered species lead to the "extinction vortex"—the increasing likelihood of small populations to blink out due to low population size and recessive genetics from inbreeding.
+  6. Propose a model organism to use for research on species that are endangered or infeasible to study.
+  7. Interpret scatter plot data from a model organism (Trinidadian guppies) and compare to related data in an endangered species (Florida panthers) to draw broader conclusions about the effectiveness of genetic rescue.
+  8. Assess the potential risks and benefits of genetic rescue for a particular species, and propose a course of action.
+Tags:
+- genetic rescue
+- genetics
+- conservation
+- fish
+- cat
+- natural selection
+- variation
+- evolution
+- extinction
+Description: "Students learn about genetic rescue, an approach for helping endangered
+  populations recover by introducing closely related individuals from a different
+  population. The lesson is framed around the story of Florida panthers, which are
+  a classic success story for genetic rescue. In Part 1, students explore Florida
+  panther recovery through the lens of different stakeholders (ranchers, city-dwellers,
+  and Native Americans), discussing ways that each group may have positive or negative
+  associations with panthers. \n\nIn Part 2, they then explore different options for
+  helping panther recovery, discussing pros and cons of genetic rescue, captive breeding,
+  or doing nothing. \n\nPart 3 provides necessary scaffolding for a deeper dive into
+  genetic rescue by explaining key concepts in the context of Florida panthers. Students
+  also do a card-based activity simulating matings to better understand why inbreeding
+  and recessive traits are so problematic in small populations.\n\nPart 4, goes deeper
+  into genetic rescue: what can go wrong? Students provide evidence of their understanding
+  of how all the concepts connect through a concept mapping exercise, interspersed
+  with our carefully crafted explainer videos. A key take-home is that even though
+  genetic rescue worked in Florida panthers, it's quite risky to test out conservation
+  strategies on an endangered species. The concluding task is to analyze a table of
+  organisms and their characteristics to determine which would be good models to study
+  the effectiveness of genetic rescue without risking a rare species' extinction.
+  \n\nPart 5 builds on this to reveal Dr. Sarah Fitzpatrick's (this lesson's sponsor)
+  research using Trinidadian guppies as a model of genetic rescue. Students then spend
+  much of the class period analyzing real, paired data collected from Florida panthers
+  and guppies. They are asked to compare and label graphs from both species, and synthesize
+  broader conclusions. The lesson leaves open many options for project-based lessons
+  and independent projects."
+QuickPrep: |-
+  1. Check out lesson multimedia below
+  2. Look over [Teaching Materials](#teaching_materials)
+  3. Teach it and [let us know what you think!](#feedback)
+Bonus: NA
+Extensions: One exciting extension could be to have students investigate map data
+  of panther car collision mortality events over time. [This incredible interactive
+  web tool](https://geodata.myfwc.com/datasets/florida-panther-mortality/explore?filters=eyJEYXRlIjpbMTQ5Mzk2NDkyNzE4OS41NiwxNjA5NTQ1NjAwMDAwXX0%3D&location=26.491578%2C-81.497011%2C12.39)
+  would allow students to conduct an independent investigation of the leading cause
+  of Florida panther mortality (car crashes). Students could be asked to develop their
+  own recommendation for mitigation (a wildlife overpass, increased signage, or decreased
+  speed limit) on specific roadways that show high numbers of collisions.
+Background: "Watch this video for a lot of panther background: {vid3}  \n\nThe Florida
+  panther is a unique subspecies (*Puma concolor coryi*) of the American puma (*Puma
+  concolor*). It's not to be confused with black panthers, which are the dark (melanistic)
+  forms of leopards or jaguars. The Florida panther was nearly driven to extinction
+  by habitat loss, fragmentation, and targeted hunting. In the mid-1990s, there remained
+  only a tiny ~20 individual population of panthers in south Florida, and they were
+  highly inbred. They had a lot of recessive genetic abnormalities, including visible,
+  superficial traits like: kinked tails and cowlicks in their fur, to more significant
+  problems like: cryptorchidism (undescended testicles, causing infertility in males)
+  and heart defects. Wildlife managers decided to relocate 8 female pumas from Texas
+  (*Puma concolor couguar*) into Florida to introduce needed genetic variation.  \n\nStudents
+  will get to analyze 20 years worth of monitoring data to assess whether genetic
+  rescue was successful (it was! There are now over 200 Florida panthers). At the
+  same time, students will compare these results to a paired data set in Trinidadian
+  guppies to understand how model organisms can be used to answer scientific questions
+  that are difficult to answer in an endangered or difficult-to-study species.\n\n####
+  Related Florida Panther Paper:\n![screenshot of panther study paper](VanDeKerk_paper_screenshot.png)\n[Link
+  to study](https://wildlife.onlinelibrary.wiley.com/doi/10.1002/wmon.1041)\n\n\nThis
+  video connects genetic rescue research on Florida panthers to the Trinidadian guppy
+  model species: {vid 4}\n\nTo study many details of genetic rescue in a model system
+  where we don't have to worry about inadvertently driving a species extinct, Dr.
+  Sarah Fitzpatrick and colleagues went to Trinidad. They took advantage of previous
+  experiments that had moved guppies from a downstream population that had lots of
+  genetic variation into upstream pools with only a few, highly inbred fish. \n\nThis
+  genetic rescue experiment was indeed successful, and after only a few months, genetic
+  variation increased and the population rebounded from around 20 individuals to over
+  1,000.\n\n\n#### Related Guppy Paper:\n![screenshot of Scientific Study](fitzpatrick_paper_screenshot.png)\n[Link
+  to study](https://onlinelibrary.wiley.com/doi/10.1111/eva.12356)\n\n#### Further
+  Reading\n- [USFWS Florida Panther Profile](https://www.fws.gov/refuge/florida_panther/wah/panther.html)\n-
+  [Nat Geo: Planned roads could imperil Florida's panthers—and last remaining wilderness](https://www.nationalgeographic.com/animals/article/florida-toll-road-threatens-wildlife-panthers?loggedin=true)\n-
+  [The Florida Panther: Past, Present and Future](https://edis.ifas.ufl.edu/publication/UW402)\n-
+  [America’s cat is on the comeback](https://www.americanscientist.org/article/americas-cat-is-on-the-comeback)\n-
+  [Of kings and Alpine Ibex: the amazing resurrection of a species from near-extinction](https://natureecoevocommunity.nature.com/posts/59792-of-kings-and-alpine-ibex-the-amazing-resurrection-of-a-species-from-near-extinction)\n"
+ConnectionToResearch: 'How do we save endangered species? This lesson deals with one
+  option called *genetic rescue*—a conservation strategy that involves moving individuals
+  from one population into an endangered population that is highly inbred in order
+  to add genetic variation to enable population recovery. Students learn about two
+  distinct lines of research: one measuring the success of an attempt to save endangered
+  Florida panthers; the other using wild Trinidadian guppies as a model of endangered
+  species in order to better understand details of how genetic rescue can succeed
+  or fail.'
+Feedback: "### Please let us know how it went with your class! \n#### We want to know
+  what you (and/or your students) think!\nShare your feedback in < 5 min with these
+  forms:\n- [For teachers](https://docs.google.com/forms/d/e/1FAIpQLSfxvDUbICqdLgCiEY3dRPTizPumEZ9J8PAZohn07zXav5DAhg/viewform?usp=sf_link)\n-
+  [For students](https://forms.gle/AVTEdP6jV1U37FtW6)\n"
+Credits: "#### Lead Author and Creative Director:\nMatt Wilkins, PhD\nIf you liked
+  this lesson, please help spread the word! Feel free to tag me ([@mattwilkinsbio](https://twitter.com/mattwilkinsbio))
+  and GP ([@galacticPM](https://twitter.com/galacticPM)) on Twitter with your experiences
+  and student questions! \n\nAnd please [sign up for our mailing list](https://galacticpolymath.us8.list-manage.com/subscribe?u=42413c3d307f9b69fd5d5319e&id=33924ebd91)
+  to hear what’s coming up next!\n\n#### Sponsor and Producer\n[Sarah Fitzpatrick,
+  PhD](http://swfitz.com/)\n\n#### Animation and Video Editing:\n[Audrey Serene Barns](https://audreyserene.com/)
+  \n\n#### Narration and Scoring:\nStephanie Castillo (aka [Phuture Doctors](https://phuturedoctors.com/))\n\n####
+  Education Consultants:\n- [Karlisa Callwood, PhD](https://www.perryinstitute.org/staff/dr-karlisa-callwood)\n-
+  [Pedro Márquez-Zacarías](https://twitter.com/pedrom_z)\n- [Sarah Grasty, MS](https://www.linkedin.com/in/sarah-grasty-988676b0/)"
+Acknowledgments:
+  Role:
+  - Data
+  - '"Return of the Panther" Video'
+  - '"Are endangered species worth saving?" Video'
+  - Images of Florida Panthers
+  - Photo of Black Panthers
+  Role_def:
+  - Provided Florida panther data and expert feedback on Florida panther conservation
+  - For more, amazing videos like this, check out Chris's YouTube channel!
+  - Check out other fun, thought-provoking videos at Above the Noise!
+  - Florida Panthers & abnormalities in Part 1 Presentations
+  - '"Keira & Neron Jaguars" in Part 1 Presentation'
+  Name:
+  - Madelon van de Kerk, PhD
+  - Chris Morgan
+  - Myles Bess and team
+  - Panther Team
+  - Alma Leaper
+  Title:
+  - Assistant Professor
+  - Filmmaker, bear ecologist
+  - .na.character
+  - .na.character
+  - Lead Photographer
+  Affiliation:
+  - Western Colorado University
+  - Wildlife Media
+  - Above the Noise
+  - .na.character
+  - The Big Cat Sanctuary
+  Location:
+  - Gunnison, Colorado, USA
+  - .na.character
+  - .na.character
+  - .na.character
+  - UK
+  Link:
+  - http://www.westernwildlifelab.com/
+  - https://www.youtube.com/channel/UC59OLxYOFLRqS_0HDhLs7iQ
+  - https://www.youtube.com/channel/UC4K10PNjqgGLKA3lo5V8KdQ
+  - https://www.fws.gov/species/florida-panther-puma-concolor-coryi
+  - http://www.almaleaper.co.uk/
+Versions:
+  ver_num:
+  - 0.1.0
+  - 0.1.1
+  - 0.2.0
+  - 0.3.0
+  - 0.4.0
+  - 0.5.0
+  - 0.6.0
+  date:
+  - 12/9/2021
+  - 12/12/2021
+  - 12/13/2021
+  - 2/17/2022
+  - 3/3/2022
+  - 8/25/2022
+  - 5/5/2023
+  ver_summary:
+  - Initial lesson build.
+  - minor update
+  - Updated data & added lesson media browser
+  - Major revisions to Part 3
+  - Major updates to documentation
+  - Added assessments to lesson
+  - Rebuilt for galacticpolymath.com relaunch
+  ver_notes:
+  - .na.character
+  - Fixed version number issue & added Video Links to Teach it in 15 Quick Prep
+  - .na.character
+  - Added new Above the Noise video engagement at the beginning & numerous tweaks
+    to presentation and worksheet to improve flow & aid student understanding.
+  - Added more background information & the extensions section
+  - A pre-/post- test assessment tool
+  - .na.character
+  ver_acknowledgments:
+  - .na.character
+  - .na.character
+  - Thanks to [Kenzie Bottoms](https://www.linkedin.com/in/kenzie-bottoms/) for making
+    the media browser magic!
+  - .na.character
+  - .na.character
+  - .na.character
+  - .na.character
+ScriptsToRun: ''
+ReadyToCompile:
+- Front Matter
+- Standards Alignment
+- Teaching Materials
+- Procedure
+- Acknowledgments
+- Versions

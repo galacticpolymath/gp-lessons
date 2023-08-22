@@ -1,0 +1,300 @@
+{
+  "__component": "lesson-plan.standards",
+  "LearningObj": null,
+  "Data": [
+    {
+      "subject": "Math",
+      "target": false,
+      "sets": [
+        {
+          "slug": "CCM",
+          "name": "Common Core Math",
+          "dimensions": [
+            {
+              "slug": "AGTC&HLT",
+              "name": "Algebra, Geometry, Trig, Calculus & Higher Level Thinking",
+              "standardsGroup": [
+                {
+                  "parts": [
+                    "4"
+                  ],
+                  "codes": "7.EE.B.4",
+                  "grades": "7",
+                  "statements": "Use variables to represent quantities in a real-world or mathematical problem, and construct simple equations and inequalities to solve problems by reasoning about the quantities.",
+                  "alignmentNotes": "- Needs Documentation",
+                  "subcat": null
+                },
+                {
+                  "parts": [
+                    "3"
+                  ],
+                  "codes": "8.G.A.1",
+                  "grades": "8",
+                  "statements": "Verify experimentally the properties of rotations, reflections, and translations:",
+                  "alignmentNotes": "- Needs Documentation",
+                  "subcat": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "subject": "ELA",
+      "target": false,
+      "sets": [
+        {
+          "slug": "CCELA",
+          "name": "Common Core ELA",
+          "dimensions": [
+            {
+              "slug": "W",
+              "name": "Writing",
+              "standardsGroup": [
+                {
+                  "parts": [
+                    "1",
+                    "2",
+                    "3",
+                    "4"
+                  ],
+                  "codes": "W.7.1b",
+                  "grades": "7",
+                  "statements": "Support claim(s) with logical reasoning and relevant evidence, using accurate, credible sources and demonstrating an understanding of the topic or text.",
+                  "alignmentNotes": "- Needs Documentation",
+                  "subcat": null
+                },
+                {
+                  "parts": [
+                    "1",
+                    "2",
+                    "3",
+                    "4"
+                  ],
+                  "codes": "W.8.1b",
+                  "grades": "8",
+                  "statements": "Support claim(s) with logical reasoning and relevant evidence, using accurate, credible sources and demonstrating an understanding of the topic or text.",
+                  "alignmentNotes": "- Needs Documentation",
+                  "subcat": null
+                },
+                {
+                  "parts": [
+                    "1",
+                    "2",
+                    "3",
+                    "4"
+                  ],
+                  "codes": "W.9-10.1",
+                  "grades": ["9", "10"],
+                  "statements": "Write arguments to support claims in an analysis of substantive topics or texts, using valid reasoning and relevant and sufficient evidence.",
+                  "alignmentNotes": "- Needs Documentation",
+                  "subcat": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "subject": "Science",
+      "target": false,
+      "sets": [
+        {
+          "slug": "NGSS",
+          "name": "NGSS",
+          "dimensions": [
+            {
+              "slug": "SEP",
+              "name": "Science & Engineering Practices",
+              "standardsGroup": [
+                {
+                  "parts": [
+                    "2",
+                    "3"
+                  ],
+                  "codes": "CEDS-M2",
+                  "grades": ["6", "7", "8"],
+                  "statements": "Construct an explanation using models or representations.",
+                  "alignmentNotes": "- Needs Documentation",
+                  "subcat": "Constructing Explanations & Designing Solutions"
+                }
+              ]
+            },
+            {
+              "slug": "CCC",
+              "name": "Cross-Cutting Concepts",
+              "standardsGroup": [
+                {
+                  "parts": [
+                    "4"
+                  ],
+                  "codes": "SF-M2",
+                  "grades": ["6", "7", "8"],
+                  "statements": "Structures can be designed to serve particular functions by taking into account properties of different materials, and how materials can be shaped and used.",
+                  "alignmentNotes": "- Needs Documentation",
+                  "subcat": "Structure & Function"
+                },
+                {
+                  "parts": [
+                    "1",
+                    "2",
+                    "3",
+                    "4"
+                  ],
+                  "codes": "PAT-M1",
+                  "grades": ["6", "7", "8"],
+                  "statements": "Macroscopic patterns are related to the nature of microscopic and atomic-level structure.",
+                  "alignmentNotes": "- Needs Documentation",
+                  "subcat": "Patterns"
+                },
+                {
+                  "parts": [
+                    "4"
+                  ],
+                  "codes": "SF-H1",
+                  "grades": ["9", "10", "11", "12"],
+                  "statements": "Investigating or designing new systems or structures requires a detailed examination of the properties of different materials, the structures of different components, and connections of components to reveal its function and/or solve a problem.",
+                  "alignmentNotes": "- Needs Documentation",
+                  "subcat": "Structure & Function"
+                },
+                {
+                  "parts": [
+                    "1",
+                    "2",
+                    "3",
+                    "4"
+                  ],
+                  "codes": "PAT-H1",
+                  "grades": ["9", "10", "11", "12"],
+                  "statements": "Different patterns may be observed at each of the scales at which a system is studied and can provide evidence for causality in explanations of phenomena.",
+                  "alignmentNotes": "- Needs Documentation",
+                  "subcat": "Patterns"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "subject": "Science",
+      "target": true,
+      "sets": [
+        {
+          "slug": "NGSS",
+          "name": "NGSS",
+          "dimensions": [
+            {
+              "slug": "SEP",
+              "name": "Science & Engineering Practices",
+              "standardsGroup": [
+                {
+                  "parts": [
+                    "2",
+                    "3",
+                    "4"
+                  ],
+                  "codes": "MOD-M5",
+                  "grades": ["6", "7", "8"],
+                  "statements": "Develop and/or use a model to predict and/or describe phenomena.",
+                  "alignmentNotes": "- Needs Documentation",
+                  "subcat": "Developing & Using Models"
+                },
+                {
+                  "parts": [
+                    "2",
+                    "3"
+                  ],
+                  "codes": "MOD-H4",
+                  "grades": ["9", "10", "11", "12"],
+                  "statements": "Develop and/or use multiple types of models to provide mechanistic accounts and/or predict phenomena, and move flexibly between model types based on merits and limitations.",
+                  "alignmentNotes": "- Needs Documentation",
+                  "subcat": "Developing & Using Models"
+                },
+                {
+                  "parts": [
+                    "2",
+                    "3"
+                  ],
+                  "codes": "MOD-H5",
+                  "grades": ["9", "10", "11", "12"],
+                  "statements": "Use a model to provide mechanistic accounts of phenomena.",
+                  "alignmentNotes": "- Needs Documentation",
+                  "subcat": "Developing & Using Models"
+                }
+              ]
+            },
+            {
+              "slug": "CCC",
+              "name": "Cross-Cutting Concepts",
+              "standardsGroup": [
+                {
+                  "parts": [
+                    "2",
+                    "3",
+                    "4"
+                  ],
+                  "codes": "SF-M1",
+                  "grades": ["6", "7", "8"],
+                  "statements": "Complex and microscopic structures and systems can be visualized, modeled, and used to describe how their function depends on the shapes, composition, and relationships among its parts, therefore complex natural structures/systems can be analyzed to determine how they function.",
+                  "alignmentNotes": "- Needs Documentation",
+                  "subcat": "Structure & Function"
+                },
+                {
+                  "parts": [
+                    "4"
+                  ],
+                  "codes": "SF-H2",
+                  "grades": ["9", "10", "11", "12"],
+                  "statements": "The functions and properties of natural and designed objects and systems can be inferred from their overall structure, the way their components are shaped and used, and the molecular substructures of its various materials.",
+                  "alignmentNotes": "- Needs Documentation",
+                  "subcat": "Structure & Function"
+                }
+              ]
+            },
+            {
+              "slug": "DCI",
+              "name": "Disciplinary Core ideas",
+              "standardsGroup": [
+                {
+                  "parts": [
+                    "1",
+                    "2",
+                    "3"
+                  ],
+                  "codes": "PS1.A-M5",
+                  "grades": ["6", "7", "8"],
+                  "statements": "Solids may be formed from molecules, or they may be extended structures with repeating subunits (e.g., crystals).",
+                  "alignmentNotes": "- Needs Documentation",
+                  "subcat": "Structure & Properties of Matter"
+                },
+                {
+                  "parts": [
+                    "4"
+                  ],
+                  "codes": "PS1.A-H1",
+                  "grades": ["9", "10", "11", "12"],
+                  "statements": "Each atom has a charged substructure consisting of a nucleus, which is made of protons and neutrons, surrounded by electrons.",
+                  "alignmentNotes": "- Needs Documentation",
+                  "subcat": "Structure & Properties of Matter"
+                },
+                {
+                  "parts": [
+                    "4"
+                  ],
+                  "codes": "PS1.A-H3",
+                  "grades": ["9", "10", "11", "12"],
+                  "statements": "The structure and interactions of matter at the bulk scale are determined by electrical forces within and between atoms.",
+                  "alignmentNotes": "- Needs Documentation",
+                  "subcat": "Structure & Properties of Matter"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

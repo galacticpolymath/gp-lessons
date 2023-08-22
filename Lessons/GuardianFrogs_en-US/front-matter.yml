@@ -1,0 +1,270 @@
+id: 2
+UniqueID: lesson2_locale_1
+ShortTitle: GuardianFrogs
+PublicationStatus: Live
+Language: English
+Country: United States
+DefaultLanguage: English
+DefaultCountry: United States
+LastUpdated: 2023-05-06 21:21:03
+FirstPublicationDate: 2022-04-01 15:16:29
+MediumTitle: '''The Guardian Frogs of Borneo'' |Science| G5-9 (en-US)'
+lang: en
+lng: eng
+locale: en-US
+DefaultLocale: en-US
+TemplateVer: 0.5.1
+galacticPubsVer: 0.9.6
+URL: https://galacticpolymath.com/lessons/2
+GPCatalogURL: https://gp-catalog.vercel.app/lessons/GuardianFrogs_en-US/LESSON.json
+GitHubURL: git@github.com:galacticpolymath/GuardianFrogs_en-US.git
+GdriveHome: GP-LIVE
+GdriveDirName: GuardianFrogs_en-US
+GdriveTeachMatPath: GalacticPolymath/'The Guardian Frogs of Borneo' |Science| G5-9
+  (en-US)
+GdriveTeachMatID: .na
+GdrivePublicID: 1Ky0DSDrrtDl0nc0Ct9rKxrLUkzEvLKBQ
+GdriveDirID: 1TzFgd8KL7QeqSXUcg15WN5wYGlsSIZta
+GdriveMetaID: 185DoxTb81dVgRiUQaGEBDuD3JZjNJ-H8
+GdriveTeachItID: 1gF-OtbbWEbmu8-AVOQOBbriHCNJxlvwNQB1Ah38Wtk0
+GdriveStandardsID: 1R_60FTe7H6ix5cNSIM6NPX2l8QGm18J6UKIVPpeZNnk
+GdrivePublishedID: 1YHNOtsgW5Am5o7AmVoCPyzzF4ATZGt4N
+GdriveDirURL: https://drive.google.com/drive/folders/1TzFgd8KL7QeqSXUcg15WN5wYGlsSIZta
+RebuildAllMaterials: no
+ReleaseDate: '2022-04-22'
+Title: The Guardian Frogs of Borneo
+Subtitle: Why Exceptions Matter in Biology and Everyday Life
+SponsorName: Johana Goyes Vallejos
+SponsoredBy: '- [Johana Goyes Vallejos, PhD](https://jogoyesvallejos.weebly.com/)
+  — Postdoc in the Division of Biological Sciences, University of Missouri – Columbia'
+SponsorLogo: assets/_banners_logos_etc/MU_bio_logo.png
+LessonBanner: assets/_banners_logos_etc/banner.png
+TargetSubject: Science
+LessonEnvir: Classroom
+ForGrades: 5-9
+GradesOrYears: Grades
+EstLessonTime: 150 min. (~3 classes)
+PullStandardsInfoFrom: standardX
+LearningPlotCorrection: yes
+LearningChartFriendly: ''
+LearningEpaulette: assets/_learning-plots/GP-Learning-Epaulette.png
+LearningEpaulette_vert: assets/_learning-plots/GP-Learning-Epaulette_vert.png
+LearningEpaulette_params_heightScalar: 0.5
+LearningEpaulette_params_randomSeed: 107
+LearningChart: assets/_learning-plots/GP-Learning-Chart.png
+LearningChart_params_centralText: grades\n5-9
+LearningChart_params_caption: ''
+LearningChart_params_captionN: no
+SupportingMedia:
+- assets/_other-media-to-publish/goyespaper.png
+- assets/_other-media-to-publish/vocab.csv
+DrivingQ: |-
+  - Across animal species, is there truth to the stereotype that males are “competitive,” while females are “caring”, or is this an oversimplification?
+  - Are the smooth guardian frogs of Borneo the first known species of frog with “competitive females” and “caring males”?
+EssentialQ: |-
+  - How can we use scientific methods to identify a general pattern?
+  - Why do exceptions matter in science and in life?
+Hooks: NA
+LearningSummary: Out of 8,000+ frog species, Guardian Frogs are one of the first to
+  show females that call & males that care for offspring. Students will gain wonder
+  and appreciation for how diverse animal mating systems are while doing fun activities
+  and analyzing real data.
+MiscMD: "#### Hooks\n- Part 1: Highly interactive card-based activity that simulates
+  data collection + amazing animal videos\n- Part 2: Atmospheric videos of Borneo,
+  first person narrative of an early career Latina scientist + use of authentic data
+  \n"
+LearningObj: |
+  1. Explain how animal behavior facilitates survival and reproduction.
+  2. Collect, reorganize, and analyze data to identify a pattern (that males tend to have adaptations to compete for mates, while females provide more parental care), and interpret exceptions to that pattern.
+  3. Learn to test hypotheses by interpreting authentic scientific graphs and data.
+  4. Understand that there is always variability in scientific data.
+  5. Cite evidence to support explanatory claims.
+  6. Integrate multiple lines of evidence to explain why biological exceptions matter to science and society.
+Tags:
+- sex differences
+- frogs
+- mating systems
+- animal behavior
+- parental care
+- sexual selection
+Description: "This lesson puts students in the role of scientists, collecting and
+  analyzing real data to answer questions. In Part 1, students \"collect\" data through
+  a card-based activity called \"Role With It.\" Briefly, students get a male or female
+  card of 1 out of 12 species. When their card is called, students introduce it with
+  a \"song\" and dance that match the attributes of the species it represents. The
+  class then records data on sexual signal exaggeration and parental investment for
+  that species. \n\nOnce they have collected all 24 specimens (cards) students analyze
+  this data (for Part 2) to generate a general observation: \"across nonhuman animal
+  species, females tend to be more caring (contributing more parental investment),
+  while males tend to be more adapted to attracting and competing for mates.\" These
+  are known as *conventional sex roles.* Students then identify *sex-role-reversed
+  species,* such as jacanas (a bird) and guardian frogs, which have \"caring males\"
+  and \"competitive females\".\n\nPart 3 lets students use real data to test whether
+  the Smooth Guardian Frog (*Limnonectes palavenensis*) is truly the first known sex-role-reversed
+  frog species, with \"caring males\" and \"competitive females\". The lesson begins
+  with an atmospheric video that immerses students in the sights, sounds, and mysteries
+  of the island of Borneo. Students are then given a brief introduction to the geography
+  of the region and learn that Borneo is claimed by three Asian countries (Malaysia,
+  Indonesia and Brunei). The rest of the lesson focuses on Dr. Johana Goyes Vallejos'
+  research in the forests of Brunei. Students test hypotheses by synthesizing information
+  and analyzing a scatter plot to determine that this fascinating species is indeed
+  the first frog known to have \"caring males\" and \"competitive females.\" \n\nThe
+  lesson offers a wide variety of opportunities for student movement, collaboration,
+  creativity, and active engagement.\n"
+QuickPrep: |-
+  1. Check out lesson multimedia below
+  2. Look over [Teaching Materials](#teaching_materials)
+  3. Teach it and [let us know what you think!](#feedback)
+Bonus: NA
+Extensions: NA
+Background: "Watch {vid3} to get a nice summary of Dr. Johana Goyes Vallejos’ scientific
+  journey.\n\nWhile pursuing a PhD in ecology and evolutionary biology at the University
+  of Connecticut, Johana heard about a poorly studied frog called the Smooth Guardian
+  Frog (*Limnonectes palavanensis*), found only on the island of Borneo in Southeast
+  Asia. In a couple of scientific papers in the 1980s, a researcher had described
+  a highly unusual behavior--the males guard eggs hidden under the leaf litter (thus,
+  the common name of the species). When the eggs hatch, the male then carries the
+  tadpoles (on his back!) to small pools of water where they can develop into adult
+  frogs.\nJohana, who was deeply interested in parental care behavior decided to fly
+  to the tiny sultanate of Brunei (ruled by a sultan, rather than a king) and learn
+  about this frog herself. She established a study population, tracking individuals
+  and recording audio of frog calls, often on her own at night, wading through thick
+  mud and fording streams. During her observations, she noticed a tiny peep. It sounded
+  very different from the male calls she had been used to hearing. After careful observation,
+  she confirmed that indeed, these were female calls, which had never been described
+  before by anyone. (See {vid4})\n\nOut of 8,000+ known frog species, Johana had found
+  one of only a couple that are known to have calling females. Previously, scientists
+  had thought females might be physiologically incapable of producing calls. In contrast,
+  when she started focusing on female calling behavior, she found that they were actually
+  calling *more* than males! Students will recapitulate this finding by analyzing
+  a figure showing male and female calling rates.\n\nAs [Borneo is now being heavily
+  deforested](https://en.wikipedia.org/wiki/Deforestation_in_Borneo), populations
+  of Guardian Frogs are declining. In the final assignment, students are asked to
+  synthesize everything they’ve learned to write a persuasive paragraph about why
+  these exceptional frogs matter and what we stand to lose if they are lost. \n\n####
+  Researcher Bio\nDr. Johana Goyes Vallejos is a Preparing Future Faculty for Faculty
+  Diversity Postdoctoral Fellow in the Division of Biological Sciences at the University
+  of Missouri, Columbia. She graduated with a B.Sc. in Biology with a minor in Genetics
+  from the Universidad del Valle in Cali, Colombia. She received her Ph.D. in Ecology
+  and Evolutionary Biology from the\nUniversity of Connecticut, studying mating systems,
+  parental care behavior, and acoustic\ncommunication in frogs. Her research has taken
+  her to many tropical forests across the\nworld, including Panama, Costa Rica, Guyana,
+  the Philippines, Malaysia and Brunei\nDarussalam. \n\nAt the University of Missouri,
+  Dr. Goyes Vallejos continues her research on\nmating behavior and parental care
+  strategies using frogs with elaborate parental behaviors\nas study systems. In addition,
+  since 2018, she serves as a research mentor for an NSF-\nfunded Research Experience
+  for Undergraduates program in Costa Rica, providing\nhands-on training in animal
+  behavior and field research to undergraduate students\nbelonging to minoritized
+  groups in STEM. She is passionate about sharing her research findings with scientific
+  and non-scientific audiences through various media outlets. When not chasing frogs
+  in remote forests around the world Dr. Goyes Vallejos enjoys salsa dancing, storytelling
+  and crocheting amigurumis. \n\n[Learn more about Johana at her website](https://jogoyesvallejos.weebly.com/)\n\n####
+  Further Reading and Listening\n- [The Shape of The World Podcast: When the girl
+  frog sings](https://shapeoftheworldshow.com/2019/05/04/episode-10-when-the-girl-frog-sings/)
+  (May 2019)\n- [FrogLife.org| Female communication in anurans: duets, ultrasonic
+  calls and sex-role reversal](http://www.froglife.org/2019/08/29/croaking-science-female-communication-in-anurans-duets-ultrasonic-calls-and-sex-role-reversal/)
+  (August 2019)\n- [National Geographic España| Los padrazos del mundo de los anfibios](https://www.nationalgeographic.com.es/ciencia/grandes-reportajes/padrazos-mundo-anfibios_13763)
+  (March 2019)\n- [The New York Times| ​Devoted Dads of the Amphibian World](https://www.nytimes.com/2018/12/04/science/frogs-parenting-reproduction.html)
+  (December 2018)\n- [KU Today| Extraordinary 'faithful father' revealed by study
+  of smooth guardian frog of Borneo](https://today.ku.edu/2018/12/13/research-smooth-guardian-frog-borneo-details-extraordinary-faithful-father)
+  (December 2018)\n- [Science Magazine: These female frogs are the first of their
+  kind to croon to their guys](http://www.sciencemag.org/news/2017/06/these-female-frogs-are-first-their-kind-croon-their-guys)​
+  (June 2017)\n- [Science & Vie| Chez la grenouille de Bornéo, c'est madame qui chante](https://www.science-et-vie.com/nature-et-enviro/chez-la-grenouille-de-borneo-c-est-madame-qui-chante-8925)
+  (June 2017)\n\n#### Related Scientific Paper\n![Screenshot of scientific journal
+  article](goyespaper.png)\n[Link to study](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C43&q=Calling+behavior+of+males+and+females+of+a+Bornean+frog+with+male+parental+care+and+possible+sex-role+reversal&btnG=)\n"
+ConnectionToResearch: "Instead of telling students that a pattern exists, we have
+  them discover it for themselves. That is, rather than telling them, \"In animal
+  species with *conventional sex roles,* males invest more in attracting and competing
+  for mates, while females invest more in parental care,\" we have students collect
+  data in a fun, interactive format and draw this conclusion from the data. They are
+  then more invested in understanding cases of *sex role reversed species* that are
+  the exceptions to this rule, and have \"caring males\" and \"competitive females.\"
+  \n\nIn part 2, students follow in the footsteps of an early career Latina scientist,
+  Dr. Johana Goyes Vallejos, testing the same hypotheses she did during her PhD research.
+  Students analyze a real graph and table she collected on the island of Borneo to
+  determine if the Smooth Guardian Frog (*Limnonectes palavanensis*) is the first
+  sex-role-reversed frog species known to science. (It is!)"
+Feedback: "### Please let us know how it went with your class! \nShare your feedback
+  in < 5 min with these forms:\n- [For teachers](https://forms.gle/bZeaTqPEedQMjMV59)\n-
+  [For students](https://forms.gle/YnBorosBjWQHobgX7)\n"
+Credits: "#### Lead Author and Creative Director:\nMatt Wilkins, PhD  \nIf you liked
+  this lesson, please help spread the word! Feel free to tag me ([@mattwilkinsbio](https://twitter.com/mattwilkinsbio))
+  and GP ([@galacticPM](https://twitter.com/galacticPM)) on Twitter with your experiences
+  and student questions! \n\nAnd please [sign up for our mailing list](https://galacticpolymath.us8.list-manage.com/subscribe?u=42413c3d307f9b69fd5d5319e&id=33924ebd91)
+  to hear what’s coming up next!\n\n#### Sponsor and Producer\n[Johana Goyes Vallejos,
+  PhD](https://jogoyesvallejos.weebly.com/)\n\n#### \"Role with It\" Animal Diversity
+  Cards Illustrator\n[Anna Wilkins](https://www.annamationvisdev.com)"
+Acknowledgments:
+  Role:
+  - Education Consultant
+  - Education Consultant
+  Role_def:
+  - Initial lesson development
+  - Initial lesson development
+  Name:
+  - Tracy Burkhard, PhD
+  - Rachel Neurath, PhD
+  Title:
+  - Postdoctoral Fellow
+  - Soil Microbial Ecologist | STEM Educator | Writer
+  Affiliation:
+  - Centre d’Ecologie Fonctionnelle et Evolutive
+  - .na.character
+  Location:
+  - Montpellier, France
+  - New England, USA
+  Link:
+  - https://twitter.com/ttburk
+  - https://www.linkedin.com/in/rachel-neurath/
+Versions:
+  ver_num:
+  - 0.1.0
+  - 1.0.0
+  - 1.0.1
+  - 1.0.2
+  - 1.0.3
+  - 1.1.0
+  date:
+  - 4/2/2022
+  - 4/22/2022
+  - 4/22/2022
+  - 4/26/2022
+  - 5/26/2022
+  - 5/4/2022
+  ver_summary:
+  - Initial lesson build. 
+  - Worldwide release!
+  - |-
+    Tweaks to acknowledgments &
+      procedure
+  - |-
+    Reorganized P2: Table 2 to match
+      Table 1 order.
+  - Tweaks to worksheets and expanded to G5-9
+  - Lesson rebuilt for galacticpolymath.com relaunch
+  ver_notes:
+  - .na
+  - .na
+  - .na
+  - .na
+  - .na
+  - .na
+  ver_acknowledgments:
+  - .na.character
+  - .na.character
+  - .na.character
+  - |-
+    Wilkins found this error when
+      teaching 7th grade class.
+  - |-
+    Erica Valerie suggested changes,
+      all of which were incorporated. 
+  - .na.character
+ScriptsToRun: ''
+ReadyToCompile:
+- Front Matter
+- Standards Alignment
+- Teaching Materials
+- Procedure
+- Acknowledgments
+- Versions

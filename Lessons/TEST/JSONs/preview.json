@@ -1,0 +1,44 @@
+{
+  "__component": "lesson-plan.lesson-preview",
+  "SectionTitle": "Lesson Preview",
+  "QuickPrep": "1. Check out lesson multimedia below\n2. Look over <AnchorLink href=\"#teaching_materials\"> Teaching Materials <\/AnchorLink>\n3. Read our easy <AnchorLink href=\"#procedure\"> Procedure <\/AnchorLink>\n4. Teach it and <AnchorLink href=\"#feedback\"> let us know what you think! <\/AnchorLink>\n",
+  "Multimedia": [
+    {
+      "order": "2",
+      "type": "video",
+      "forPart": "1",
+      "title": "Cool beans",
+      "description": null,
+      "lessonRelevance": "Intro to the issues.",
+      "by": "Galactic Polymath",
+      "byLink": "https://www.youtube.com/channel/UCfyBNvN3CH4uWmwOCQVhmhg/featured",
+      "mainLink": "https://www.youtube.com/embed/PGmPIHPX9eQ",
+      "otherLink": null
+    },
+    {
+      "order": "4",
+      "type": "pdf",
+      "forPart": "2",
+      "title": "What's next?",
+      "description": null,
+      "lessonRelevance": "Go deeper.",
+      "by": "Galactic Polymath",
+      "byLink": "https://www.youtube.com/channel/UCfyBNvN3CH4uWmwOCQVhmhg/featured",
+      "mainLink": "https://docs.google.com/presentation/d/1im-4JZzjp-Om_oUxNgvuEqDr9quc1Ry7K3PlROMy2gs/preview?rm=minimal",
+      "otherLink": null
+    },
+    {
+      "order": "3",
+      "type": "shiny-app",
+      "forPart": "3",
+      "title": "Hear ya go!",
+      "description": null,
+      "lessonRelevance": "Wow, I never knew that!",
+      "by": "Galactic Polymath",
+      "byLink": "https://www.youtube.com/channel/UCfyBNvN3CH4uWmwOCQVhmhg/featured",
+      "mainLink": "https://www.youtube.com/embed/AiXyHxv4Sx4",
+      "otherLink": null
+    }
+  ],
+  "InitiallyExpanded": true
+}

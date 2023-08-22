@@ -1,0 +1,35 @@
+{
+  "__component": "lesson-plan.overview",
+  "LearningSummary": "Students will draw their own social networks, ponder the meaning of complexity, and begin to notice unexpected patterns that emerge around us all the time. Through hands-on activities and digital experiments students will discover how complexity research informs our daily lives.",
+  "EstLessonTime": "5 x 45 min",
+  "GradesOrYears": "Grades",
+  "ForGrades": "11-university",
+  "TargetSubject": "Science",
+  "Text": null,
+  "Tags": [
+    {
+      "Value": "animal behavior"
+    },
+    {
+      "Value": "complexity"
+    },
+    {
+      "Value": "emergence"
+    },
+    {
+      "Value": "group living"
+    },
+    {
+      "Value": "simulation"
+    },
+    {
+      "Value": "experiment"
+    }
+  ],
+  "SteamEpaulette": {
+    "url": null
+  },
+  "SteamEpaulette_vert": {
+    "url": null
+  }
+}

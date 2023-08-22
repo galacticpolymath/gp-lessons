@@ -1,0 +1,267 @@
+id: 5
+UniqueID: lesson_4_locale_1
+ShortTitle: ILikeThat
+PublicationStatus: Live
+Language: English
+Country: United States
+DefaultLanguage: English
+DefaultCountry: United States
+LastUpdated: 2023-05-06 17:13:08
+FirstPublicationDate: 2022-07-11 21:10:05
+MediumTitle: '''I Like That!'' |Science| G5-9 (en-US)'
+lang: en
+lng: eng
+locale: en-US
+DefaultLocale: en-US
+TemplateVer: 0.5.0
+galacticPubsVer: 0.9.6
+URL: https://galacticpolymath.com/lessons/5
+GPCatalogURL: https://gp-catalog.vercel.app/lessons/ILikeThat_en-US/LESSON.json
+GPCatalogPath: https://catalog.galacticpolymath.com/lessons/ILikeThat_en-US/LESSON.json
+GitHubPath: git@github.com:galacticpolymath/ILikeThat_en-US.git
+GdriveHome: GP-LIVE
+GdriveDirName: ILikeThat_en-US
+GdriveTeachMatPath: GalacticPolymath/'I Like That!' |Science| G5-9 (en-US)
+GdriveTeachMatID: .na
+GdrivePublicID: 1UXpy8XV17eKX5qZ4ALEeGc9IEt1IEuIf
+GdriveDirID: 1Nxy1V4pf21NhElAUdqVZpdinqCPi1oh3
+GdriveMetaID: 1eC6wRn9rqFLLmsV_SKf3TSxSRnKDJf17
+GdriveTeachItID: 1jOcsVcKAaJXS5A4eBgQNlZSgZjgVTT-8EXhxFOLWV0Q
+GdriveStandardsID: 1AxbtC1diwlp-NZVrkFmtZzDYNq63pRyy0pwx9v35I1o
+GdrivePublishedID: 1qORPugrPSBLwCew3wSEwzmmbVjTnkKOJ
+GdriveDirURL: https://drive.google.com/drive/folders/1Nxy1V4pf21NhElAUdqVZpdinqCPi1oh3
+RebuildAllMaterials: no
+ReleaseDate: '2022-10-31'
+Title: I Like That!
+Subtitle: How perception, emotion, and cognition shape our preferences
+SponsorName:
+- NSF
+- Tamra Mendelson Lab
+- University of Maryland–Baltimore County
+SponsoredBy: |-
+  - The National Science Foundation
+  - [Dr. Tamra Mendelson's Lab](https://www.mendelsonlab.net/) in the Department of Biological Sciences at the University of Maryland, Baltimore County
+SponsorLogo:
+- assets/_banners_logos_etc/NSF_4-Color_bitmap_Logo@0.25x.png
+- assets/_banners_logos_etc/UMBC-vertical-logo-RGB-195x300.png
+LessonBanner: assets/_banners_logos_etc/banner-100.jpg
+TargetSubject: Science
+LessonEnvir: Classroom
+ForGrades: 5-9
+GradesOrYears: Grades
+EstLessonTime: 3 parts x 60-80 min
+PullStandardsInfoFrom: standardX
+LearningPlotCorrection: yes
+LearningChartFriendly: yes
+LearningEpaulette: assets/_learning-plots/GP-Learning-Epaulette.png
+LearningEpaulette_vert: assets/_learning-plots/GP-Learning-Epaulette_vert.png
+LearningEpaulette_params_heightScalar: 0.5
+LearningEpaulette_params_randomSeed: 101
+LearningChart: assets/_learning-plots/GP-Learning-Chart.png
+LearningChart_params_centralText: .na
+LearningChart_params_caption: .na
+LearningChart_params_captionN: no
+SupportingMedia:
+- assets/_other-media-to-publish/P3_CreatureStats_Character Sheets_handout.pdf
+- assets/_other-media-to-publish/darter_vis_sensitivity_curve.png
+- assets/_other-media-to-publish/paper.png
+DrivingQ: |
+  1. What makes humans and other animals perceive something as beautiful?
+  2. How does the way our brain processes visual input from our eyes affect how we perceive and interact with the world?
+EssentialQ: How can science help deepen our understanding of the Arts, Humanities,
+  and ourselves?
+Hooks: Warm-up puzzles, fun student-driven experiments, and original artwork are woven
+  into this data-centered lesson.
+LearningSummary: Students will conduct experiments and analyze real scientific data
+  as they *learn about themselves*. They'll learn how our eyes and brains interact
+  to determine what we like and dislike, and apply this knowledge to fish research
+  and the art of character design.
+MiscMD: .na
+LearningObj: |-
+  1. Interpret a concept map of how our perception of beauty results from interactions between our brain, sensory systems, and the environment.
+  2. Follow the scientific method to conduct a study and test how much our own inherent emotional response and memories affect preferences for visual stimuli.
+  3. Interpret histograms, boxplots, and other data visuals to draw conclusions about a data set.
+  4. Apply a framework for how our brains process visual signals to artworks.
+Tags:
+- animal behavior
+- the senses
+- vision
+- fish
+- art
+- histogram
+- boxplot
+- data literacy
+Description: "This lesson equips students with a simple framework for understanding
+  how inputs from our senses are processed in the brain to determine what we like
+  vs. dislike and how we behave. Though the lesson focuses on vision, the framework
+  applies to all the senses. \n\nIn Part 1, students begin by ranking 10 images based
+  on their arbitrary preferences. They then conduct an experiment (taking turns as
+  a \"scientist\" and \"subject\") to try and understand *why* they ranked things
+  the way they did. This is lesson both involves authentic, novel, science, but should
+  also grow students' curiosity and understanding of their own decision-making.\n\nPart
+  2 builds on the framework introduced in Part 1 in the context of a real study on
+  fish [see Background](#background). Students will analyze box plots (a type of graph
+  similar to bar plots) to test whether female darters prefer a model fish painted
+  a color that is most stimulating to the sensory cells in their eyes (i.e cones in
+  their retinas). Students will reflect on how basic research on fish applies to humans.\n\nPart
+  3 perfectly blends art, math, and science by testing whether creatures that have
+  proportions outside the range of humans makes them inherently creepy or cute. For
+  this lesson, we created an original set of creature designs that have scaled dimensions
+  which students will use to collect data and calculate proportions. They will then
+  conclude whether having certain proportions (e.g. a large ratio of leg-to-torso-length)
+  far above or below the range of humans makes a creature inherently creepy or cute.\n\nCollectively,
+  this lesson should leave students with a nuanced understanding of how human (and
+  other animal) brains process different sensory stimuli to affect preferences and
+  behavior. It's a great starting-off point for deepening interest and engagement
+  for independent projects."
+QuickPrep: |-
+  1. Check out lesson multimedia below
+  2. Look over [Teaching Materials](#teaching_materials)
+  3. Teach it and [let us know what you think!](#feedback)
+Bonus: .na
+Extensions: |-
+  - Have students do independent research on how our sensory sensitivities can bias our decision making. Here are some readings for inspiration:
+      - [*Yale News* | With hot coffee, we see a warm heart, Yale researchers find](https://news.yale.edu/2008/10/23/hot-coffee-we-see-warm-heart-yale-researchers-find)
+      - [*Neuroscience News* | Pitch of Candidate’s Voice Can Influence Election Outcomes](https://neurosciencenews.com/political-psychology-vocal-tone-2398/)
+  - Have your students read the scientific paper that Part 2 is based around ([see Background](#background)), and have them grapple with how the version they experienced in class compares to the complexity of the paper. The goal could be to have them try to extract as much meaning from the paper as possible, while not becoming too frustrated.
+Background: "Parts 1 and 3, students will run their own experiments, testing novel
+  hypotheses related to their own preferences. For these activities, we developed
+  a conceptual framework that is woven into all lesson parts. This framework is explained
+  in our video {vid1}. We want students to understand in general terms how our brains
+  perceive things detected by our senses, and then incorporate prior experience and
+  emotional responses to form preferences that affect their behavior. This is based
+  on research in humans and other animals. Though human \"emotions\" can be very complex,
+  many animals from primates to bees show a range of positive <-> negative responses
+  to stimuli that can be interpreted as emotions. If students are interested in learning
+  more about emotions in animals, here are some excellent scientific articles targeted
+  at young readers:\n- [*Frontiers for Young Minds* | Animal Emotions–Do Animals Feel
+  as We Do?](https://kids.frontiersin.org/articles/10.3389/frym.2021.622811)\n- [*Frontiers
+  for Young Minds* | Your Smile Caught My Eye: Why Do Emotional Things Catch and Hold
+  Our Attention?](https://kids.frontiersin.org/articles/10.3389/frym.2022.781748)\n\nIn
+  Part 2, students will learn about how our eyes detect and process different colors
+  (i.e. different wavelengths of light). They learn key background from {vid3} and
+  {vid4}. \n\nIn our original video: {vid5}, Drs. Tamra Mendelson and Tory Williams
+  talk about their work on darters, a fascinating and beautiful group of fish native
+  to North America (see supplementary vid: {vid7}). \n\nIn the scientific study students
+  will learn about, the researchers tested whether female darters were most attracted
+  to colors that were most stimulating to the sensory cells in their eyes (i.e. cones
+  found in the retina). Students will follow in the scientist's footsteps, first making
+  predictions and then analyzing their authentic data. The video and presentation
+  will guide students through interpreting graphs of sensitivity curves to make their
+  predictions. \n\nBasically, there were two models of male fish used to test female
+  preferences. They were colored \"red\" and \"orange\" to mimic extremes of natural
+  variation. Looking at the graph below, the place where the 2 sensitivity curves
+  overlap is the light wavelength that should be most stimulating to females' eyes.
+  That is, light that has a wavelength of about 550nm should maximize activation of
+  both the medium and long wavelength cone cells in the retina. The question is: do
+  females prefer a model with an average reflectance closest to this wavelength? \n\n![Sensitivity
+  curves for darters. A dashed line shows medium wavelength cone sensitivity, peaking
+  around 580nm, while a solid line shows long wavelength cone sensitivity peaking
+  around 580nm. The curves overlap at 550nm. Arrows point to orange model fish, showing
+  the peak reflectances of the orange model fish at 570nm and the red model at 584
+  nm](darter_vis_sensitivity_curve.png)\n\nThe video and presentation guide students
+  through interpreting this graph—to predict that females should prefer the orange
+  model. Our video explains the experimental setup, but here it is briefly: Individual
+  wild-caught females were put in the middle of a tank which had two tanks on either
+  side of it. Model fish simulating extremes of natural variation in male colors were
+  placed on either side of the female tank. An observer recorded what proportion of
+  time females spent associating with the \"red\" versus the \"orange\" male model.
+  Students will observe the patterns in the data and determine that females had a
+  strong preference for the orange model. They will then draw conclusions about why
+  this research matters more broadly and hopefully begin to wonder--how are our daily
+  decisions affected by our sensitivity to different stimuli? This could be a great
+  jumping-off point for independent research/PBLs. [See Extensions](#extensions)\n\n![Cover
+  of journal article](paper.png)\n[Link to Journal Article](https://academic.oup.com/beheco/article/24/6/1407/190166)\n"
+ConnectionToResearch: 'In this three-part lesson, students will follow in the footsteps
+  of scientists (analyzing real, published data), but also conduct their own novel
+  experiments. Overall, our hope is that students will recognize that science and
+  data are everywhere and give us insight into ourselves. '
+Feedback: "### Please let us know how it went with your class! \n#### We want to know
+  what you (and/or your students) think!\nShare your feedback in < 5 min with these
+  forms:\n- [For teachers](https://forms.gle/HY1sFxZUH7uG6JqP8)\n- [For students](https://forms.gle/gwkRYvvZY6Sp2dQb9)\n"
+Credits: |-
+  #### Lesson Authors:
+  - [Matt Wilkins, PhD](https://www.mattwilkinsbio.com)
+  - [Madelyn Leembruggen](https://scholar.harvard.edu/madelynleembruggen)
+  - [Letimicia Fears, PhD](https://instagram.com/Letimistry101)
+
+  #### Animation and Storyboarding
+  [Aarati Asundi, PhD](https://www.sykommer.com/about-us)
+
+  #### Education Consultant:
+  [Sarah Grasty, MS](https://www.linkedin.com/in/sarah-grasty-988676b0/)
+
+  #### Sponsor and Producer
+  [Tamra Mendelson, PhD](https://www.mendelsonlab.net/)
+
+  Please [sign up for our mailing list](https://galacticpolymath.us8.list-manage.com/subscribe?u=42413c3d307f9b69fd5d5319e&id=33924ebd91) to hear what’s coming up next!
+Acknowledgments:
+  Role:
+  - Scientific Advisory
+  - Featured Scientist
+  - Data Provider
+  - Beta Tester
+  Role_def:
+  - Helped devise conceptual framework & lesson structure
+  - in {vid5}
+  - 'For Part 2: The Perception of Beauty'
+  - Ran the lesson in class and recommended changes
+  Name:
+  - Julien Renoult, PhD
+  - Tory Williams, PhD
+  - Jenny Gumm, PhD
+  - Kenton Wesby, EdD
+  Title:
+  - Tenure CNRS Research Scientist
+  - Research Associate
+  - Fish Biologist & Facility Manager,
+  - STEAM Teacher (grades 6-8)
+  Affiliation:
+  - Center for Evolutionary & Functional Ecology
+  - Department of Education
+  - Ash Meadows Fish Conservation Facility
+  - Isaac Litton Middle School
+  Location:
+  - Montpellier, France
+  - University of Maryland, Baltimore County
+  - .na.character
+  - Nashville, TN
+  Link:
+  - https://www.eevcom-montpellier.com/julien-renoult.html
+  - https://education.umbc.edu/tory-h-williams/
+  - https://www.gummlab.org/
+  - https://twitter.com/kwesby73
+Versions:
+  ver_num:
+  - 0.1.0
+  - 1.0.0
+  - 1.1.0
+  - 1.2.0
+  date:
+  - 9/29/2022
+  - 11/7/2022
+  - 11/17/2022
+  - 4/27/2023
+  ver_summary:
+  - Initial lesson build!
+  - First public release
+  - Various fixes to procedure and minor text elements
+  - Rebuilt for 2023 site relaunch
+  ver_notes:
+  - .na.character
+  - Streamlined presentations and worksheets based on classroom feedback
+  - .na.character
+  - Improved teaching-materials structure and naming conventions
+  ver_acknowledgments:
+  - .na.character
+  - Thanks to Dr. Wesby for beta testing the lesson!
+  - .na.character
+  - .na.character
+ScriptsToRun: .na
+ReadyToCompile:
+- Front Matter
+- Standards Alignment
+- Teaching Materials
+- Procedure
+- Acknowledgments
+- Versions
