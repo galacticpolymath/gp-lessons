@@ -1,20 +1,20 @@
-id: 999
-UniqueID: lesson_6_locale_1
+numID: 999
+_id: lesson_999_en-US
 ShortTitle: TEST
 PublicationStatus: Draft
 Language: English
 Country: United States
 DefaultLanguage: English
 DefaultCountry: United States
-LastUpdated: 2023-06-13 17:05:23.570928
+LastUpdated: 2023-09-26 17:21:56.643006
 FirstPublicationDate: 2023-04-10 12:14:57
 MediumTitle: '''TEST'' |Science| G7-12 (en-US)'
 lang: en
 lng: eng
 locale: en-US
 DefaultLocale: en-US
-TemplateVer: 0.5.4
-galacticPubsVer: 0.9.6
+TemplateVer: 0.6.0
+galacticPubsVer: 0.9.7
 isTestRepo: yes
 URL: https://galacticpolymath.com/lessons/999
 GPCatalogURL: https://gp-catalog.vercel.app/lessons/TEST/LESSON.json
@@ -26,14 +26,14 @@ GdriveTeachMatID: 1xkeDnmP-ymqrfPL9q_X22hitwIkgtzvM
 GdrivePublicID: .na
 GdriveDirID: 1m8SVQpK_XZishGFUiia7RGxdrFUrbTY2
 GdriveMetaID: 1mApvrZPNcTPOFGQW8p8tmzjOPjXO77Ya
-GdriveTeachItID: 1UMg2Cu5dMQW5GPTpChIMkMIZIXESB6V7gAW8SFCqjv4
-GdriveStandardsID: 1V-c6lwWeEbAaAWJh5Eh-bLZp-6d4rxKJo7NDkXE9Juo
+GdriveTeachItID: 1xV2ZHfQMztTj9WfpdMB2k7WwzJPY6gUskD2-QMxHDbI
+GdriveStandardsID: 10fWr9YI3an2PHE4e60dx2qBQRf1Gc2pRDbDWNugi0Gs
 GdrivePublishedID: 1nAz4WEnsvhixGmT0COv3r9qtegbYqEeE
 GdriveDirURL: https://drive.google.com/drive/folders/1m8SVQpK_XZishGFUiia7RGxdrFUrbTY2
 RebuildAllMaterials: no
 ReleaseDate: '2050-01-01'
 Title: TEST
-Subtitle: howdy
+Subtitle: New subtitle
 SponsorName:
 - NSF
 - FunsizePhysics
@@ -42,27 +42,29 @@ SponsoredBy: |-
   - University of Nebraska-Lincoln's [Funsize Physics](https://funsizephysics.com/). Whether you’re 7 or 107, a full-blown science fanatic or simply curious, this is the place for you.
   - National Science Foundation grant DMR 2048959
 SponsorLogo:
-- assets/_banners_logos_etc/FunSizePhysics_logo.png
-- assets/_banners_logos_etc/NSF_4-Color_bitmap_Logo@0.25x.png
-- assets/_banners_logos_etc/R-UNL_RGB_logo.jpg
-LessonBanner: assets/_banners_logos_etc/banner.png
+- https://storage.googleapis.com/gp-cloud/lessons/TEST/FunSizePhysics_logo.png
+- https://storage.googleapis.com/gp-cloud/lessons/TEST/NSF_4-Color_bitmap_Logo@0.25x.png
+- https://storage.googleapis.com/gp-cloud/lessons/TEST/R-UNL_RGB_logo.jpg
+LessonBanner: https://storage.googleapis.com/gp-cloud/lessons/TEST/banner.png
+LessonCard: https://storage.googleapis.com/gp-cloud/lessons/TEST/ElectricCrystal_card.png
 TargetSubject: Science
 LessonEnvir: Classroom
 ForGrades: 7-12
 GradesOrYears: Grades
+LessonTiles: .na
 EstLessonTime: 4 x 45 min classes
 PullStandardsInfoFrom: myFile
 LearningPlotCorrection: yes
 LearningChartFriendly: yes
-LearningEpaulette: assets/_learning-plots/GP-Learning-Epaulette.png
-LearningEpaulette_vert: assets/_learning-plots/GP-Learning-Epaulette_vert.png
+LearningEpaulette: https://storage.googleapis.com/gp-cloud/lessons/TEST/GP-Learning-Epaulette.png
+LearningEpaulette_vert: https://storage.googleapis.com/gp-cloud/lessons/TEST/GP-Learning-Epaulette_vert.png
 LearningEpaulette_params_heightScalar: 0.5
 LearningEpaulette_params_randomSeed: 101
-LearningChart: assets/_learning-plots/GP-Learning-Chart.png
+LearningChart: https://storage.googleapis.com/gp-cloud/lessons/TEST/GP-Learning-Chart.png
 LearningChart_params_centralText: .na
 LearningChart_params_caption: .na
 LearningChart_params_captionN: yes
-SupportingMedia: assets/_other-media-to-publish/vocab.csv
+SupportingMedia: https://storage.googleapis.com/gp-cloud/lessons/TEST/vocab.csv
 LearningSummary: Crystals aren't magic, but they are amazing! In this student-driven,
   lecture-free lesson, students will do card sorts, build hands-on models, solve engineering
   design puzzles, and more! The whole experience is connected through a beautifully
@@ -75,7 +77,7 @@ EssentialQ: 'What are crystals and in addition to being pretty to look at, how a
 Hooks: An engaging, original comic weaves together background information, hands-on
   activities, puzzles, and problem sets. Quick videos stoke curiosity and provide
   support for activities.
-MiscMD: NA
+MiscMD: .na
 LearningObj: .na
 Tags:
 - crystals
@@ -89,17 +91,18 @@ QuickPrep: |
   2. Look over [Teaching Materials](#teaching_materials)
   3. Read our easy [Procedure](#procedure)
   4. Teach it and [let us know what you think!](#feedback)
-Bonus: NA
-Extensions: NA
-Background: NA
-ConnectionToResearch: NA
+Bonus: .na
+Extensions: .na
+Background: .na
+ConnectionToResearch: .na
 Feedback: |
   ### Please let us know how it went with your class!
   #### We want to know what you (and/or your students) think!
   Share your feedback in < 5 min with these forms:
   - [For teachers](https://forms.gle/HY1sFxZUH7uG6JqP8)
   - [For students](https://forms.gle/gwkRYvvZY6Sp2dQb9)
-Credits: NA
+Credits:
+  value: .na
 Acknowledgments:
   Role: .na
   Role_def: .na
@@ -119,11 +122,11 @@ Versions:
   - Lesson initialized
   - Added some stuff
   ver_notes:
-  - .na.character
-  - .na.character
+  - .na
+  - .na
   ver_acknowledgments:
-  - .na.character
-  - .na.character
+  - .na
+  - .na
 ScriptsToRun: .na
 GoogleCloudStorage:
   filename:

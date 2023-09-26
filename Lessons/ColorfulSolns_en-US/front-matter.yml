@@ -1,24 +1,23 @@
-id: 4
-UniqueID: lesson_4_locale_2
+numID: 4
+_id: lesson_4_en-US
 ShortTitle: ColorfulSolns
 PublicationStatus: Live
 Language: English
 Country: United States
 DefaultLanguage: English
 DefaultCountry: New Zealand
-LastUpdated: 2023-05-06 17:44:06
+LastUpdated: 2023-09-17 21:42:53.236196
 FirstPublicationDate: 2022-06-26 20:30:21
 MediumTitle: '''Colorful Solutions'' |Science| G8-12 (en-US)'
 lang: en
 lng: eng
 locale: en-US
 DefaultLocale: en-NZ
-TemplateVer: 0.5.0
-galacticPubsVer: 0.9.6
+TemplateVer: 0.6.0
+galacticPubsVer: 0.9.7
+isTestRepo: no
 URL: https://galacticpolymath.com/lessons/4
 GPCatalogURL: https://gp-catalog.vercel.app/lessons/ColorfulSolns_en-US/LESSON.json
-GPCatalogPath: https://catalog.galacticpolymath.com/lessons/ColorfulSolns_en-US/LESSON.json
-GitHubPath: git@github.com:galacticpolymath/ColorfulSolns_en-US.git
 GdriveHome: GP-LIVE
 GdriveDirName: ColorfulSolns_en-US
 GdriveTeachMatPath: GalacticPolymath/'Colorful Solutions' |Science| G8-12 (en-US)
@@ -26,8 +25,8 @@ GdriveTeachMatID: .na
 GdrivePublicID: 15KK-qNwPUbw2d1VBDvsjHfreCSBpwMiw
 GdriveDirID: 1iZor6-fjHKoWPZZeDM-3BlTywEebVgHB
 GdriveMetaID: 1hFvlkgzybMvud8VhaSYX_bz63bSMhPtl
-GdriveTeachItID: 1LOwD_Qn7bOw9gH0D21oWndj9NzaunxS_a3sissigMmg
-GdriveStandardsID: 1sF1XmiH9-yktIfz8NyJOXbkP5CR3CnW2EZmyT9KzaSU
+GdriveTeachItID: 1F2fqMxL4fJXyaOhAP13vuFHN7TMODya6MYiOmCivpBE
+GdriveStandardsID: 1BZ_0DEjYME1SX2Ozo4au92vEo-Ge32_M14TTFgrvorQ
 GdrivePublishedID: 1CtpWq3wr30Rw38mrH__WKJGdXbyyGkvi
 GdriveDirURL: https://drive.google.com/drive/folders/1iZor6-fjHKoWPZZeDM-3BlTywEebVgHB
 RebuildAllMaterials: no
@@ -38,28 +37,36 @@ SponsorName: University of Canterbury
 SponsoredBy: '[The Department of Chemical and Process Engineering at the University
   of Canterbury](https://www.canterbury.ac.nz/engineering/) in Christchurch, New Zealand'
 SponsorLogo:
-- assets/_banners_logos_etc/canterbury_logo.jpg
-- assets/_banners_logos_etc/featuredSponsor_logo.jpg
-LessonBanner: assets/_banners_logos_etc/banner.jpg
+- https://storage.googleapis.com/gp-cloud/lessons/ColorfulSolns_en-US/canterbury_logo.jpg
+- https://storage.googleapis.com/gp-cloud/lessons/ColorfulSolns_en-US/featuredSponsor_logo.jpg
+LessonBanner: https://storage.googleapis.com/gp-cloud/lessons/ColorfulSolns_en-US/banner.jpg
+LessonCard:
+- https://storage.googleapis.com/gp-cloud/lessons/ColorfulSolns_en-US/featuredLesson_card.jpg
+- https://storage.googleapis.com/gp-cloud/lessons/ColorfulSolns_en-US/title_card-80.jpg
 TargetSubject: Science
 LessonEnvir: Classroom
 ForGrades: 8-12
 GradesOrYears: Grades
+LessonTiles: .na
 EstLessonTime: 3 x 45min classes
 PullStandardsInfoFrom: myFile
 LearningPlotCorrection: no
 LearningChartFriendly: yes
-LearningEpaulette: assets/_learning-plots/GP-Learning-Epaulette.png
-LearningEpaulette_vert: assets/_learning-plots/GP-Learning-Epaulette_vert.png
+LearningEpaulette: https://storage.googleapis.com/gp-cloud/lessons/ColorfulSolns_en-US/GP-Learning-Epaulette.png
+LearningEpaulette_vert: https://storage.googleapis.com/gp-cloud/lessons/ColorfulSolns_en-US/GP-Learning-Epaulette_vert.png
 LearningEpaulette_params_heightScalar: 0.5
 LearningEpaulette_params_randomSeed: 101
-LearningChart: assets/_learning-plots/GP-Learning-Chart.png
+LearningChart: https://storage.googleapis.com/gp-cloud/lessons/ColorfulSolns_en-US/GP-Learning-Chart.png
 LearningChart_params_centralText: .na
 LearningChart_params_caption: .na
 LearningChart_params_captionN: no
 SupportingMedia:
-- assets/_other-media-to-publish/paper.png
-- assets/_other-media-to-publish/vocab.csv
+- https://storage.googleapis.com/gp-cloud/lessons/ColorfulSolns_en-US/paper.png
+- https://storage.googleapis.com/gp-cloud/lessons/ColorfulSolns_en-US/vocab.csv
+LearningSummary: Students will learn to think like chemical engineers as they delve
+  into the dye technologies that allow us to express ourselves through colorful clothing.
+  They will read and discuss complex texts, analyze concept maps and graphs, and develop
+  an appreciation for indigenous (Māori) dye technology.
 DrivingQ: How have different dye technologies been used to produce colorful clothing
   across cultures and over time?
 EssentialQ: How can a career in chemical, genetic, or process engineering create opportunities
@@ -70,10 +77,6 @@ Hooks: "- Part 1 begins with a warm-up “Dye-versity Audit,” In which student
   designed to appeal to students’ curiosity.\n- Part 2 involves a card-based puzzle
   activity. \n- Part 3 puts students directly in the decision-maker position, giving
   them an opportunity to choose a course of action based on their own values and reasoning."
-LearningSummary: Students will learn to think like chemical engineers as they delve
-  into the dye technologies that allow us to express ourselves through colorful clothing.
-  They will read and discuss complex texts, analyze concept maps and graphs, and develop
-  an appreciation for indigenous (Māori) dye technology.
 MiscMD: .na
 LearningObj: |-
   1. Understand that chemical engineers develop economical commercial processes to convert raw material into useful products.
@@ -145,12 +148,13 @@ Feedback: "### Please let us know how it went with your class! \n#### We want to
   what you (and/or your students) think!\nShare your feedback in < 5 min with these
   forms:\n- [For teachers](https://docs.google.com/forms/d/e/1FAIpQLSd5KEkRFBHRk38k28Pnv4qUTixW-zomGVrVi6WEm8KUwA2I2w/viewform?usp=sf_link)\n-
   [For students](https://forms.gle/6DChgVkyKK1fCNof9)\n"
-Credits: "#### Lesson Author and Creative Director:\n[Matt Wilkins, PhD](https://www.mattwilkinsbio.com)\n
-  \n#### Lesson Author and Graphic Design Consultant:\n[Stephanie Castillo, PhD](https://www.phuturedoctors.com/)\n
-  \n#### Education Consultant:\n[Madelyn Leembruggen](http://scholar.harvard.edu/madelynleembruggen)\n\n####
-  Sponsor and Producer\n[Matthew Cowan, PhD](https://www.canterbury.ac.nz/engineering/contact-us/people/matthew-cowan.html)\n\nPlease
-  [sign up for our mailing list](https://galacticpolymath.us8.list-manage.com/subscribe?u=42413c3d307f9b69fd5d5319e&id=33924ebd91)
-  to hear what’s coming up next!"
+Credits:
+  value: "#### Lesson Author and Creative Director:\n[Matt Wilkins, PhD](https://www.mattwilkinsbio.com)\n
+    \n#### Lesson Author and Graphic Design Consultant:\n[Stephanie Castillo, PhD](https://www.phuturedoctors.com/)\n
+    \n#### Education Consultant:\n[Madelyn Leembruggen](http://scholar.harvard.edu/madelynleembruggen)\n\n####
+    Sponsor and Producer\n[Matthew Cowan, PhD](https://www.canterbury.ac.nz/engineering/contact-us/people/matthew-cowan.html)\n\nPlease
+    [sign up for our mailing list](https://galacticpolymath.us8.list-manage.com/subscribe?u=42413c3d307f9b69fd5d5319e&id=33924ebd91)
+    to hear what’s coming up next!"
 Acknowledgments:
   Role:
   - Māori Cultural and Scientific Consultant
@@ -216,6 +220,12 @@ Versions:
   - .na
   - .na
 ScriptsToRun: .na
+GoogleCloudStorage:
+  filename: .na
+  WD_rel_path: .na
+  cloud_path: .na
+  mod_time: .na
+  last_uploaded: .na
 ReadyToCompile:
 - Front Matter
 - Standards Alignment

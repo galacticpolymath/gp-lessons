@@ -6,14 +6,14 @@ Language: English
 Country: United States
 DefaultLanguage: English
 DefaultCountry: United States
-LastUpdated: 2023-08-22 13:21:52.158888
+LastUpdated: 2023-09-26 17:21:53.489642
 FirstPublicationDate: .na
 MediumTitle: '''Animal Collective'' |Science| G11-university (en-US)'
 lang: en
 lng: eng
 locale: en-US
 DefaultLocale: en-US
-TemplateVer: 0.5.6
+TemplateVer: 0.6.0
 galacticPubsVer: 0.9.7
 isTestRepo: no
 URL: .na
@@ -24,8 +24,8 @@ GdriveTeachMatID: 1HQ1qx6sdHu27DdHLbnzjrYcF5eY8PZCl
 GdrivePublicID: .na
 GdriveDirID: 1GzJyCtrEgDIZel_cB0G2zR8V_0goKdHP
 GdriveMetaID: 1HDqFCqTD_PcoPdu1IsSrsb-cRrbBwhX0
-GdriveTeachItID: 1DDNixxSsindHvq3OAX0p3iwwFHL03wikbeRzoyJZfwU
-GdriveStandardsID: 1UFZWfsAFGxB7Za5HaqmjVlmVK221lbV9cb-FkCIcks8
+GdriveTeachItID: 122K2LO0Sr2rF2b3_Iap4dj-JjHszE6_cCN0hPZW4hpA
+GdriveStandardsID: 11USoIKp4HI6Pql24laezPLi-VYWsbfETx78SKzq9uao
 GdrivePublishedID: 1WtapJk-8R7En9d_Vxp6gmv22-TpaTyQ9
 GdriveDirURL: https://drive.google.com/drive/folders/1GzJyCtrEgDIZel_cB0G2zR8V_0goKdHP
 RebuildAllMaterials: no
@@ -39,33 +39,47 @@ SponsoredBy: |-
   - [Albert Kao's Lab](https://blogs.umb.edu/collectivelab/) at the University of Massachusetts Boston
   - National Science Foundation
 SponsorLogo:
-- assets/_banners_logos_etc/NSF_logo_sm.png
-- assets/_banners_logos_etc/UMass_Boston_logo.png
-LessonBanner: assets/_banners_logos_etc/banner.png
+- https://storage.googleapis.com/gp-cloud/lessons/AnimalCollective_en-US/NSF_logo_sm.png
+- https://storage.googleapis.com/gp-cloud/lessons/AnimalCollective_en-US/UMass_Boston_logo.png
+LessonBanner: https://storage.googleapis.com/gp-cloud/lessons/AnimalCollective_en-US/banner.png
+LessonCard: https://storage.googleapis.com/gp-cloud/lessons/AnimalCollective_en-US/card.png
 TargetSubject: Science
 LessonEnvir: Classroom
 ForGrades: 11-university
 GradesOrYears: Grades
-EstLessonTime: 5 x 45 min
+LessonTiles:
+- https://storage.googleapis.com/gp-cloud/lessons/AnimalCollective_en-US/L1_tile.png
+- https://storage.googleapis.com/gp-cloud/lessons/AnimalCollective_en-US/L2_tile.png
+- https://storage.googleapis.com/gp-cloud/lessons/AnimalCollective_en-US/L3_tile_v3.png
+- https://storage.googleapis.com/gp-cloud/lessons/AnimalCollective_en-US/L4_tile.png
+- https://storage.googleapis.com/gp-cloud/lessons/AnimalCollective_en-US/L5_tile.png
+- https://storage.googleapis.com/gp-cloud/lessons/AnimalCollective_en-US/L6_tile.png
+EstLessonTime: 6 x 45 min
 PullStandardsInfoFrom: myFile
 LearningPlotCorrection: yes
-LearningChartFriendly: .na
-LearningEpaulette: .na
-LearningEpaulette_vert: .na
+LearningChartFriendly: yes
+LearningEpaulette: https://storage.googleapis.com/gp-cloud/lessons/AnimalCollective_en-US/GP-Learning-Epaulette.png
+LearningEpaulette_vert: https://storage.googleapis.com/gp-cloud/lessons/AnimalCollective_en-US/GP-Learning-Epaulette_vert.png
 LearningEpaulette_params_heightScalar: 0.5
-LearningEpaulette_params_randomSeed: 101.0
-LearningChart: .na
-LearningChart_params_centralText: []
-LearningChart_params_caption: []
+LearningEpaulette_params_randomSeed: 101
+LearningChart: https://storage.googleapis.com/gp-cloud/lessons/AnimalCollective_en-US/GP-Learning-Chart.png
+LearningChart_params_centralText: .na
+LearningChart_params_caption: .na
 LearningChart_params_captionN: yes
 SupportingMedia: []
 LearningSummary: Students will draw their own social networks, ponder the meaning
-  of complexity, and begin to notice unexpected patterns that emerge around us all
-  the time. Through hands-on activities and digital experiments students will discover
-  how complexity research informs our daily lives.
-DrivingQ: .na
+  of complexity and begin to notice unexpected patterns that emerge around them, unnoticed.
+  Through hands-on activities and digital experiments, students will discover how
+  complexity research enriches our daily lives.
+DrivingQ: |-
+  - Why do humans and other animals live in groups?
+  - How do simple behavioral rules lead to *emergence* of novel properties at the group level? (i.e. How do animal flocks, market trends, and viral videos emerge from animal collective behaviors?)
+  - How do scientists use computer simulations and other tools to study emergence?
 EssentialQ: .na
-Hooks: .na
+Hooks: |-
+  - Creative, art-infused "draw your own social network activity"
+  - Active movement flocking simulation
+  - Mind-blowing interactive simulations of fish schooling and social network dynamics
 MiscMD: .na
 LearningObj: .na
 Tags:
@@ -75,6 +89,7 @@ Tags:
 - group living
 - simulation
 - experiment
+- ethology
 Description: .na
 QuickPrep: |
   1. Check out lesson multimedia below
@@ -83,8 +98,28 @@ QuickPrep: |
   4. Teach it and [let us know what you think!](#feedback)
 Bonus: .na
 Extensions: .na
-Background: .na
-ConnectionToResearch: .na
+Background: |-
+  Dr. Albert Kao studies the fascinating and interdisciplinary field of *[collective behavior](https://www.britannica.com/science/collective-behaviour).* Collective behavior was coined to describe activities of large, loosely organized groups of people (like fads, cults, flash mobs, riots, and the like.) In recent decades, scientists such as Albert and his colleagues have expanded this definition to include other animal species such as ants, bees, great apes, and fish that live in large groups. In both humans and many group-living animal species, scientists are keen to understand how simple behavioral rules of individuals scale up to produce *emergent properties* that are present at the group-level, but that individuals don't have. Emergent properties like stampedes can obviously happen in human and animal populations, but recent advances in motion tracking of individual behavior and movements has allowed scientists to recognize other unexpected parallels between human and animal collective behavior--such as [wisdom of the crowd and traffic](https://bigthink.com/videos/the-wisdom-of-animal-crowds/).
+
+  As with this unit itself, Albert's work combines a lot of different approaches (such as computational simulations, lab experiments, and field work) to study how groups of humans and other animals make decisions collectively. Albert's work (and that of his former PhD advisor, Dr. Iain Couzin, and other collaborators) have been covered by many excellent popular press articles. Here is a selection for you and your students to dive in:
+ConnectionToResearch: "This unit was created with support and in close collaboration
+  with [Dr. Albert Kao](https://blogs.umb.edu/collectivelab/members/), an Assistant
+  Professor at UMass Boston. The lessons do not directly tie into his work, but Lesson
+  4 centers on closely related work by his collaborators into the underlying behavioral
+  rules that lead fish to form schools. Specifically, for this lesson we created the
+  [\"Swimming in the Dark\"](https://into-the-dark.vercel.app/) simulation that allows
+  students to run digital experiments to understand fish schooling behavior. The worksheet
+  connects these activities to actual results from a paper in the journal Science
+  (see below), which the lesson parallels. \n\nLesson 5 ties into a different body
+  of research on how and why echo chambers form in human social media networks. Using
+  another app we developed \"[EchoSim](https://echo-jade.vercel.app/),\" students
+  run another set of experiments, tinkering with different parameters (like tolerance
+  to differing ideas or unfriending tendency) to see how they affect the structure
+  of friendships and the flow of information. The simulation is based on code from
+  [Hao Peng](http://haoopeng.github.io/), which he developed to support a paper coauthored:
+  [Social influence and unfollowing accelerate the emergence of echo chambers](https://link.springer.com/article/10.1007/s42001-020-00084-7).\n\nAll
+  the other lessons support understanding and engagement in these complex bodies of
+  research through creative activities."
 Feedback: |
   ### Please let us know how it went with your class!
   #### We want to know what you (and/or your students) think!
@@ -114,5 +149,8 @@ GoogleCloudStorage:
   cloud_path: .na
   mod_time: .na
   last_uploaded: .na
-ReadyToCompile: Front Matter
+ReadyToCompile:
+- Front Matter
+- Standards Alignment
+- Teaching Materials
 GitHubURL: "origin\thttps://github.com/galacticpolymath/AnimalCollective.git (fetch)"

@@ -1,0 +1,31 @@
+{
+  "__component": "lesson-plan.overview",
+  "LearningSummary": "Out of 8,000+ frog species, Guardian Frogs are one of the first to show females that call & males that care for offspring. Students will gain wonder and appreciation for how diverse animal mating systems are while doing fun activities and analyzing real data.",
+  "EstLessonTime": "150 min. (~3 classes)",
+  "GradesOrYears": "Grades",
+  "ForGrades": "5-9",
+  "TargetSubject": "Science",
+  "Text": "#### Driving Question(s):\n- Across animal species, is there truth to the stereotype that males are “competitive,” while females are “caring”, or is this an oversimplification?\n- Are the smooth guardian frogs of Borneo the first known species of frog with “competitive females” and “caring males”?\n#### Essential Question(s):\n- How can we use scientific methods to identify a general pattern?\n- Why do exceptions matter in science and in life?\n#### Hooks\n- Part 1: Highly interactive card-based activity that simulates data collection + amazing animal videos\n- Part 2: Atmospheric videos of Borneo, first person narrative of an early career Latina scientist + use of authentic data \n",
+  "Tags": [
+    {
+      "Value": "sex differences"
+    },
+    {
+      "Value": "frogs"
+    },
+    {
+      "Value": "mating systems"
+    },
+    {
+      "Value": "animal behavior"
+    },
+    {
+      "Value": "parental care"
+    },
+    {
+      "Value": "sexual selection"
+    }
+  ],
+  "SteamEpaulette": "https://storage.googleapis.com/gp-cloud/lessons/GuardianFrogs_en-US/GP-Learning-Epaulette.png",
+  "SteamEpaulette_vert": "https://storage.googleapis.com/gp-cloud/lessons/GuardianFrogs_en-US/GP-Learning-Epaulette_vert.png"
+}

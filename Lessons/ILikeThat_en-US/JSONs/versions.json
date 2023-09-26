@@ -1,0 +1,44 @@
+{
+  "__component": "lesson-plan.versions",
+  "SectionTitle": "Version Notes",
+  "Data": [
+    {
+      "major_release": "Beta",
+      "sub_releases": [
+        {
+          "version": "0.1.0",
+          "date": "9/29/2022",
+          "summary": "Initial lesson build!",
+          "notes": null,
+          "acknowledgments": null
+        }
+      ]
+    },
+    {
+      "major_release": "1",
+      "sub_releases": [
+        {
+          "version": "1.0.0",
+          "date": "11/7/2022",
+          "summary": "First public release",
+          "notes": "Streamlined presentations and worksheets based on classroom feedback",
+          "acknowledgments": "Thanks to Dr. Wesby for beta testing the lesson!"
+        },
+        {
+          "version": "1.1.0",
+          "date": "11/17/2022",
+          "summary": "Various fixes to procedure and minor text elements",
+          "notes": null,
+          "acknowledgments": null
+        },
+        {
+          "version": "1.2.0",
+          "date": "4/27/2023",
+          "summary": "Rebuilt for 2023 site relaunch",
+          "notes": "Improved teaching-materials structure and naming conventions",
+          "acknowledgments": null
+        }
+      ]
+    }
+  ]
+}

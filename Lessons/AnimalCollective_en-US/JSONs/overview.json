@@ -1,11 +1,11 @@
 {
   "__component": "lesson-plan.overview",
-  "LearningSummary": "Students will draw their own social networks, ponder the meaning of complexity, and begin to notice unexpected patterns that emerge around us all the time. Through hands-on activities and digital experiments students will discover how complexity research informs our daily lives.",
-  "EstLessonTime": "5 x 45 min",
+  "LearningSummary": "Students will draw their own social networks, ponder the meaning of complexity and begin to notice unexpected patterns that emerge around them, unnoticed. Through hands-on activities and digital experiments, students will discover how complexity research enriches our daily lives.",
+  "EstLessonTime": "6 x 45 min",
   "GradesOrYears": "Grades",
   "ForGrades": "11-university",
   "TargetSubject": "Science",
-  "Text": null,
+  "Text": "#### Driving Question(s):\n- Why do humans and other animals live in groups?\n- How do simple behavioral rules lead to *emergence* of novel properties at the group level? (i.e. How do animal flocks, market trends, and viral videos emerge from animal collective behaviors?)\n- How do scientists use computer simulations and other tools to study emergence?\n#### Hook(s):\n- Creative, art-infused \"draw your own social network activity\"\n- Active movement flocking simulation\n- Mind-blowing interactive simulations of fish schooling and social network dynamics",
   "Tags": [
     {
       "Value": "animal behavior"
@@ -24,12 +24,11 @@
     },
     {
       "Value": "experiment"
+    },
+    {
+      "Value": "ethology"
     }
   ],
-  "SteamEpaulette": {
-    "url": null
-  },
-  "SteamEpaulette_vert": {
-    "url": null
-  }
+  "SteamEpaulette": "https://storage.googleapis.com/gp-cloud/lessons/AnimalCollective_en-US/GP-Learning-Epaulette.png",
+  "SteamEpaulette_vert": "https://storage.googleapis.com/gp-cloud/lessons/AnimalCollective_en-US/GP-Learning-Epaulette_vert.png"
 }

@@ -1,20 +1,20 @@
-id: 3
-UniqueID: lesson3_locale_1
+numID: 3
+_id: lesson_3_en-US
 ShortTitle: geneticRescue
 PublicationStatus: Live
 Language: English
 Country: United States
 DefaultLanguage: English
 DefaultCountry: United States
-LastUpdated: 2023-06-02 14:23:06.891768
+LastUpdated: 2023-09-17 21:42:55.803128
 FirstPublicationDate: 2021-12-15 17:06:16
 MediumTitle: '''Genetic Rescue to the Rescue'' |Science| G9-12 (en-US)'
 lang: en
 lng: eng
 locale: en-US
 DefaultLocale: en-US
-TemplateVer: 0.5.2
-galacticPubsVer: 0.9.6
+TemplateVer: 0.6.0
+galacticPubsVer: 0.9.7
 isTestRepo: no
 URL: https://galacticpolymath.com/lessons/3
 GPCatalogURL: https://gp-catalog.vercel.app/lessons/geneticRescue_sci/LESSON.json
@@ -27,8 +27,8 @@ GdriveTeachMatID: .na
 GdrivePublicID: 1JwsZMLh8s7nd9rI6uJcvCmHkGRuGNj_S
 GdriveDirID: 1NWH6z13CgpVn0bFe1fWloeWw87ycGDti
 GdriveMetaID: 1XAqIyNWH9pdOmJNPV9WLKMMpebQBoXoM
-GdriveTeachItID: 1r2zH1P-fWUOwOtv2vMyL8XTLXxrs-_Xh90lM-meOQgU
-GdriveStandardsID: 176j3wF_Jt_SsTJoP4o8w_FWa2vNWybLIW3Crz0BRq88
+GdriveTeachItID: 1eFTJRPDlk1haTC1wUtfk7xJfZS6lxtJ1Pb5dfN0_qB4
+GdriveStandardsID: 1p2XC6MUV4G2FCRH9sdgda4L_sbsARyWHCeNnywWpv1g
 GdrivePublishedID: 1_8YhQHo4LftImt8U_WGVUm0sL3ypzKnD
 GdriveDirURL: https://drive.google.com/drive/folders/1NWH6z13CgpVn0bFe1fWloeWw87ycGDti
 RebuildAllMaterials: no
@@ -43,41 +43,43 @@ SponsoredBy: |-
   - [Sarah Fitzpatrick, PhD](http://swfitz.com/index.php), Department of Integrative Biology at Michigan State University's W. K. Kellogg Biological Station
   - [National Science Foundation](https://www.nsf.gov/) Grant DEB 2016569
 SponsorLogo:
-- assets/_banners_logos_etc/Fitzpatrick_lab_logo-transparent.png
-- assets/_banners_logos_etc/NSF_4-Color_bitmap_Logo.png
-LessonBanner: assets/_banners_logos_etc/banner.png
+- https://storage.googleapis.com/gp-cloud/lessons/geneticRescue_sci/Fitzpatrick_lab_logo-transparent.png
+- https://storage.googleapis.com/gp-cloud/lessons/geneticRescue_sci/NSF_4-Color_bitmap_Logo.png
+LessonBanner: https://storage.googleapis.com/gp-cloud/lessons/geneticRescue_sci/banner.png
+LessonCard: https://storage.googleapis.com/gp-cloud/lessons/geneticRescue_sci/lesson_title_card.png
 TargetSubject: Science
 LessonEnvir: Classroom
 ForGrades: 9-12
 GradesOrYears: Grades
+LessonTiles: .na
 EstLessonTime: 5 x 45 min
 PullStandardsInfoFrom: standardX
 LearningPlotCorrection: yes
 LearningChartFriendly: yes
-LearningEpaulette: assets/_learning-plots/GP-Learning-Epaulette.png
-LearningEpaulette_vert: assets/_learning-plots/GP-Learning-Epaulette_vert.png
+LearningEpaulette: https://storage.googleapis.com/gp-cloud/lessons/geneticRescue_sci/GP-Learning-Epaulette.png
+LearningEpaulette_vert: https://storage.googleapis.com/gp-cloud/lessons/geneticRescue_sci/GP-Learning-Epaulette_vert.png
 LearningEpaulette_params_heightScalar: 0.5
 LearningEpaulette_params_randomSeed: 111
-LearningChart: assets/_learning-plots/GP-Learning-Chart.png
-LearningChart_params_centralText: ''
-LearningChart_params_caption: ''
+LearningChart: https://storage.googleapis.com/gp-cloud/lessons/geneticRescue_sci/GP-Learning-Chart.png
+LearningChart_params_centralText: .na
+LearningChart_params_caption: .na
 LearningChart_params_captionN: no
 SupportingMedia:
-- assets/_other-media-to-publish/VanDeKerk_paper_screenshot.png
-- assets/_other-media-to-publish/ex_P2classdata.jpg
-- assets/_other-media-to-publish/fitzpatrick_paper_screenshot.png
-- assets/_other-media-to-publish/vocab.csv
+- https://storage.googleapis.com/gp-cloud/lessons/geneticRescue_sci/VanDeKerk_paper_screenshot.png
+- https://storage.googleapis.com/gp-cloud/lessons/geneticRescue_sci/ex_P2classdata.jpg
+- https://storage.googleapis.com/gp-cloud/lessons/geneticRescue_sci/fitzpatrick_paper_screenshot.png
+- https://storage.googleapis.com/gp-cloud/lessons/geneticRescue_sci/vocab.csv
+LearningSummary: Students will deepen their understanding of basic genetics concepts
+  as they dive into real data sets from ongoing research. They will hone critical
+  thinking and communication skills and come away with clear examples of how science
+  can lead to positive impacts on wildlife populations.
 DrivingQ: Can genetic rescue (a conservation strategy involving movement of individuals
   across populations) prevent the extinction of endangered species?
 EssentialQ: How do we use scientific methods to measure and develop solutions for
   our negative impacts on the world?
 Hooks: Numerous puzzles, group activities, compelling videos, and active discussions
   draw students into real world problems.
-LearningSummary: Students will deepen their understanding of basic genetics concepts
-  as they dive into real data sets from ongoing research. They will hone critical
-  thinking and communication skills and come away with clear examples of how science
-  can lead to positive impacts on wildlife populations.
-MiscMD: NA
+MiscMD: .na
 LearningObj: |-
   1. Provide examples of variation in genes, traits, and individual survival, and why each is important for a species to persist and evolve.
   2. Summarize how human activities fragment animal populations and how habitat fragmentation limits gene flow, reducing genetic variation.
@@ -126,7 +128,7 @@ QuickPrep: |-
   1. Check out lesson multimedia below
   2. Look over [Teaching Materials](#teaching_materials)
   3. Teach it and [let us know what you think!](#feedback)
-Bonus: NA
+Bonus: .na
 Extensions: One exciting extension could be to have students investigate map data
   of panther car collision mortality events over time. [This incredible interactive
   web tool](https://geodata.myfwc.com/datasets/florida-panther-mortality/explore?filters=eyJEYXRlIjpbMTQ5Mzk2NDkyNzE4OS41NiwxNjA5NTQ1NjAwMDAwXX0%3D&location=26.491578%2C-81.497011%2C12.39)
@@ -179,15 +181,17 @@ Feedback: "### Please let us know how it went with your class! \n#### We want to
   what you (and/or your students) think!\nShare your feedback in < 5 min with these
   forms:\n- [For teachers](https://docs.google.com/forms/d/e/1FAIpQLSfxvDUbICqdLgCiEY3dRPTizPumEZ9J8PAZohn07zXav5DAhg/viewform?usp=sf_link)\n-
   [For students](https://forms.gle/AVTEdP6jV1U37FtW6)\n"
-Credits: "#### Lead Author and Creative Director:\nMatt Wilkins, PhD\nIf you liked
-  this lesson, please help spread the word! Feel free to tag me ([@mattwilkinsbio](https://twitter.com/mattwilkinsbio))
-  and GP ([@galacticPM](https://twitter.com/galacticPM)) on Twitter with your experiences
-  and student questions! \n\nAnd please [sign up for our mailing list](https://galacticpolymath.us8.list-manage.com/subscribe?u=42413c3d307f9b69fd5d5319e&id=33924ebd91)
-  to hear what’s coming up next!\n\n#### Sponsor and Producer\n[Sarah Fitzpatrick,
-  PhD](http://swfitz.com/)\n\n#### Animation and Video Editing:\n[Audrey Serene Barns](https://audreyserene.com/)
-  \n\n#### Narration and Scoring:\nStephanie Castillo (aka [Phuture Doctors](https://phuturedoctors.com/))\n\n####
-  Education Consultants:\n- [Karlisa Callwood, PhD](https://www.perryinstitute.org/staff/dr-karlisa-callwood)\n-
-  [Pedro Márquez-Zacarías](https://twitter.com/pedrom_z)\n- [Sarah Grasty, MS](https://www.linkedin.com/in/sarah-grasty-988676b0/)"
+Credits:
+  value: "#### Lead Author and Creative Director:\nMatt Wilkins, PhD\nIf you liked
+    this lesson, please help spread the word! Feel free to tag me ([@mattwilkinsbio](https://twitter.com/mattwilkinsbio))
+    and GP ([@galacticPM](https://twitter.com/galacticPM)) on Twitter with your experiences
+    and student questions! \n\nAnd please [sign up for our mailing list](https://galacticpolymath.us8.list-manage.com/subscribe?u=42413c3d307f9b69fd5d5319e&id=33924ebd91)
+    to hear what’s coming up next!\n\n#### Sponsor and Producer\n[Sarah Fitzpatrick,
+    PhD](http://swfitz.com/)\n\n#### Animation and Video Editing:\n[Audrey Serene
+    Barns](https://audreyserene.com/) \n\n#### Narration and Scoring:\nStephanie Castillo
+    (aka [Phuture Doctors](https://phuturedoctors.com/))\n\n#### Education Consultants:\n-
+    [Karlisa Callwood, PhD](https://www.perryinstitute.org/staff/dr-karlisa-callwood)\n-
+    [Pedro Márquez-Zacarías](https://twitter.com/pedrom_z)\n- [Sarah Grasty, MS](https://www.linkedin.com/in/sarah-grasty-988676b0/)"
 Acknowledgments:
   Role:
   - Data
@@ -274,7 +278,13 @@ Versions:
   - .na.character
   - .na.character
   - .na.character
-ScriptsToRun: ''
+ScriptsToRun: .na
+GoogleCloudStorage:
+  filename: .na
+  WD_rel_path: .na
+  cloud_path: .na
+  mod_time: .na
+  last_uploaded: .na
 ReadyToCompile:
 - Front Matter
 - Standards Alignment

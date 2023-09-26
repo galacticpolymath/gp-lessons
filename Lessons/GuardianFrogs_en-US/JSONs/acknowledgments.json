@@ -1,0 +1,26 @@
+{
+  "__component": "lesson-plan.acknowledgments",
+  "SectionTitle": "Acknowledgments",
+  "Data": [
+    {
+      "role": "Education Consultant",
+      "def": "(Initial lesson development)",
+      "records": [
+        {
+          "name": "Tracy Burkhard, PhD",
+          "url": "https://twitter.com/ttburk",
+          "title": "Postdoctoral Fellow",
+          "affiliation": "Centre d’Ecologie Fonctionnelle et Evolutive",
+          "location": "Montpellier, France"
+        },
+        {
+          "name": "Rachel Neurath, PhD",
+          "url": "https://www.linkedin.com/in/rachel-neurath/",
+          "title": "Soil Microbial Ecologist | STEM Educator | Writer",
+          "affiliation": null,
+          "location": "New England, USA"
+        }
+      ]
+    }
+  ]
+}

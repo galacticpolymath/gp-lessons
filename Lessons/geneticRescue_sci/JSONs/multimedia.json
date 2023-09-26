@@ -1,0 +1,62 @@
+[
+  {
+    "order": "1",
+    "type": "video",
+    "forLsn": "1",
+    "title": "The Return of The Florida Panther",
+    "description": "Did you know Florida had panthers? The Florida panther, Puma concolor coryi, is a critically endangered species in the southern regions of Florida. Once rare and almost never seen, the Florida panther has bounced back from a brush with extinction to the point where more frequent encounters have people asking questions about this apex predator. There are misconceptions, misinformation, and misunderstandings about the panther and its habitat, so ecologist and filmmaker Chris Morgan travelled to Florida to get to the bottom of it.",
+    "lessonRelevance": "Emotional engagement hook for the unit. Provides background on the plight of Florida panthers, and fodder for classroom discussion.",
+    "by": "Chris Morgan (Wildlife Media)",
+    "byLink": "https://www.youtube.com/channel/UC59OLxYOFLRqS_0HDhLs7iQ",
+    "mainLink": "https://www.youtube.com/embed/Xr1SstxYW8w",
+    "otherLink": null
+  },
+  {
+    "order": "2",
+    "type": "video",
+    "forLsn": "3",
+    "title": "Are endangered species worth saving?",
+    "description": "Species are going extinct at crazy high rates. Does it matter?",
+    "lessonRelevance": "Gets students thinking about the costs of losing a species to set the stakes for a role play scenario.",
+    "by": "Above the Noise",
+    "byLink": "https://www.youtube.com/channel/UC4K10PNjqgGLKA3lo5V8KdQ",
+    "mainLink": "https://www.youtube.com/embed/h5eTqjzQZDY",
+    "otherLink": null
+  },
+  {
+    "order": "3",
+    "type": "video",
+    "forLsn": "4",
+    "title": "What is genetic rescue, and can we use it to save endangered species?",
+    "description": "This video is part of \"Genetic Rescue to the Rescue,\" a Galactic Polymath lesson about endangered species, why they matter, what we lose if they go extinct, and what we can do to save them. \n\nFlorida panthers (Puma concolor coryi) nearly went extinct in the 1990s. Here, we learn what happened and how wildlife managers tried to bring them back. Through this story, we explore connected concepts of how habitat fragmentation affects the flow of genes, and how this can lead to increasing risk of extinction in endangered species (the \"Extinction Vortex\"). The video ends with an open-ended question about what common species we could use to study endangered species recovery so that we don't run the chance of inadvertently destroying what we're trying to save.\n\nCheck out the lesson at https://www.galacticpolymath.com/lessons",
+    "lessonRelevance": "Summarizes key learning objectives from Parts 1-3, and provides deeper context around genetic rescue, its potential risks, and benefits.",
+    "by": "Galactic Polymath",
+    "byLink": "https://www.youtube.com/channel/UCfyBNvN3CH4uWmwOCQVhmhg/featured",
+    "mainLink": "https://www.youtube.com/embed/oFQmNq8sJ2Y",
+    "otherLink": null
+  },
+  {
+    "order": "4",
+    "type": "video",
+    "forLsn": "5",
+    "title": "Saving a species through genetic rescue: Why we need model organisms",
+    "description": "This video is part of \"Genetic Rescue to the Rescue,\" a Galactic Polymath lesson about endangered species, why they matter, what we lose if they go extinct, and what we can do to save them. This video focuses on model organisms—species used to study a problem that is impossible to study in the target organism. In this case, we learn about how Dr. Sarah Fitzpatrick, PhD uses Trinidadian guppies to study genetic rescue—a strategy used to bring back species like endangered Florida panthers from the brink of extinction. \n\nCheck out the lesson at https://www.galacticpolymath.com/lessons",
+    "lessonRelevance": "Dr. Sarah Fitzpatrick explains how her research on guppies applies to conservation of endangered species like Florida panthers.",
+    "by": "Galactic Polymath",
+    "byLink": "https://www.youtube.com/channel/UCfyBNvN3CH4uWmwOCQVhmhg/featured",
+    "mainLink": "https://www.youtube.com/embed/AiXyHxv4Sx4",
+    "otherLink": null
+  },
+  {
+    "order": "5",
+    "type": "video",
+    "forLsn": null,
+    "title": "A virtual PD/walk-through of the lesson",
+    "description": null,
+    "lessonRelevance": "GP Founder Matt Wilkins breaks down how this lesson can be used in your classroom.",
+    "by": "Kellogg Biological Station",
+    "byLink": "https://www.youtube.com/@KBSLTER",
+    "mainLink": "https://www.youtube.com/embed/vbbJiaKXNt4",
+    "otherLink": null
+  }
+]

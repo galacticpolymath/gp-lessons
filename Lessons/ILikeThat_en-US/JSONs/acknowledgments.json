@@ -1,0 +1,58 @@
+{
+  "__component": "lesson-plan.acknowledgments",
+  "SectionTitle": "Acknowledgments",
+  "Data": [
+    {
+      "role": "Scientific Advisory",
+      "def": "(Helped devise conceptual framework & lesson structure)",
+      "records": [
+        {
+          "name": "Julien Renoult, PhD",
+          "url": "https://www.eevcom-montpellier.com/julien-renoult.html",
+          "title": "Tenure CNRS Research Scientist",
+          "affiliation": "Center for Evolutionary & Functional Ecology",
+          "location": "Montpellier, France"
+        }
+      ]
+    },
+    {
+      "role": "Featured Scientist",
+      "def": "(In [▶ How do we know what a fish likes? (And can we predict it?)](https://www.youtube.com/watch?v=PGmPIHPX9eQ))",
+      "records": [
+        {
+          "name": "Tory Williams, PhD",
+          "url": "https://education.umbc.edu/tory-h-williams/",
+          "title": "Research Associate",
+          "affiliation": "Department of Education",
+          "location": "University of Maryland, Baltimore County"
+        }
+      ]
+    },
+    {
+      "role": "Data Provider",
+      "def": "(For Part 2: The Perception of Beauty)",
+      "records": [
+        {
+          "name": "Jenny Gumm, PhD",
+          "url": "https://www.gummlab.org/",
+          "title": "Fish Biologist & Facility Manager,",
+          "affiliation": "Ash Meadows Fish Conservation Facility",
+          "location": null
+        }
+      ]
+    },
+    {
+      "role": "Beta Tester",
+      "def": "(Ran the lesson in class and recommended changes)",
+      "records": [
+        {
+          "name": "Kenton Wesby, EdD",
+          "url": "https://twitter.com/kwesby73",
+          "title": "STEAM Teacher (grades 6-8)",
+          "affiliation": "Isaac Litton Middle School",
+          "location": "Nashville, TN"
+        }
+      ]
+    }
+  ]
+}

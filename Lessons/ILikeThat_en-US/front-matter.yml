@@ -1,24 +1,23 @@
-id: 5
-UniqueID: lesson_4_locale_1
+numID: 5
+_id: lesson_5_en-US
 ShortTitle: ILikeThat
 PublicationStatus: Live
 Language: English
 Country: United States
 DefaultLanguage: English
 DefaultCountry: United States
-LastUpdated: 2023-05-06 17:13:08
+LastUpdated: 2023-09-17 21:42:59.768117
 FirstPublicationDate: 2022-07-11 21:10:05
 MediumTitle: '''I Like That!'' |Science| G5-9 (en-US)'
 lang: en
 lng: eng
 locale: en-US
 DefaultLocale: en-US
-TemplateVer: 0.5.0
-galacticPubsVer: 0.9.6
+TemplateVer: 0.6.0
+galacticPubsVer: 0.9.7
+isTestRepo: no
 URL: https://galacticpolymath.com/lessons/5
 GPCatalogURL: https://gp-catalog.vercel.app/lessons/ILikeThat_en-US/LESSON.json
-GPCatalogPath: https://catalog.galacticpolymath.com/lessons/ILikeThat_en-US/LESSON.json
-GitHubPath: git@github.com:galacticpolymath/ILikeThat_en-US.git
 GdriveHome: GP-LIVE
 GdriveDirName: ILikeThat_en-US
 GdriveTeachMatPath: GalacticPolymath/'I Like That!' |Science| G5-9 (en-US)
@@ -26,8 +25,8 @@ GdriveTeachMatID: .na
 GdrivePublicID: 1UXpy8XV17eKX5qZ4ALEeGc9IEt1IEuIf
 GdriveDirID: 1Nxy1V4pf21NhElAUdqVZpdinqCPi1oh3
 GdriveMetaID: 1eC6wRn9rqFLLmsV_SKf3TSxSRnKDJf17
-GdriveTeachItID: 1jOcsVcKAaJXS5A4eBgQNlZSgZjgVTT-8EXhxFOLWV0Q
-GdriveStandardsID: 1AxbtC1diwlp-NZVrkFmtZzDYNq63pRyy0pwx9v35I1o
+GdriveTeachItID: 1kAhLGAkI3bTcX73hNdpg_YUToZFfqIxEYD1pazbNz6s
+GdriveStandardsID: 1dSjqy3VjBn_qKEFWjp5ElJFQ98b7Mm4YnSApAZUKf9A
 GdrivePublishedID: 1qORPugrPSBLwCew3wSEwzmmbVjTnkKOJ
 GdriveDirURL: https://drive.google.com/drive/folders/1Nxy1V4pf21NhElAUdqVZpdinqCPi1oh3
 RebuildAllMaterials: no
@@ -42,29 +41,36 @@ SponsoredBy: |-
   - The National Science Foundation
   - [Dr. Tamra Mendelson's Lab](https://www.mendelsonlab.net/) in the Department of Biological Sciences at the University of Maryland, Baltimore County
 SponsorLogo:
-- assets/_banners_logos_etc/NSF_4-Color_bitmap_Logo@0.25x.png
-- assets/_banners_logos_etc/UMBC-vertical-logo-RGB-195x300.png
-LessonBanner: assets/_banners_logos_etc/banner-100.jpg
+- https://storage.googleapis.com/gp-cloud/lessons/ILikeThat_en-US/NSF_4-Color_bitmap_Logo@0.25x.png
+- https://storage.googleapis.com/gp-cloud/lessons/ILikeThat_en-US/UMBC-vertical-logo-RGB-195x300.png
+LessonBanner: https://storage.googleapis.com/gp-cloud/lessons/ILikeThat_en-US/banner-100.jpg
+LessonCard: https://storage.googleapis.com/gp-cloud/lessons/ILikeThat_en-US/title_card-100.jpg
 TargetSubject: Science
 LessonEnvir: Classroom
 ForGrades: 5-9
 GradesOrYears: Grades
+LessonTiles: .na
 EstLessonTime: 3 parts x 60-80 min
 PullStandardsInfoFrom: standardX
 LearningPlotCorrection: yes
 LearningChartFriendly: yes
-LearningEpaulette: assets/_learning-plots/GP-Learning-Epaulette.png
-LearningEpaulette_vert: assets/_learning-plots/GP-Learning-Epaulette_vert.png
+LearningEpaulette: https://storage.googleapis.com/gp-cloud/lessons/ILikeThat_en-US/GP-Learning-Epaulette.png
+LearningEpaulette_vert: https://storage.googleapis.com/gp-cloud/lessons/ILikeThat_en-US/GP-Learning-Epaulette_vert.png
 LearningEpaulette_params_heightScalar: 0.5
 LearningEpaulette_params_randomSeed: 101
-LearningChart: assets/_learning-plots/GP-Learning-Chart.png
+LearningChart: https://storage.googleapis.com/gp-cloud/lessons/ILikeThat_en-US/GP-Learning-Chart.png
 LearningChart_params_centralText: .na
 LearningChart_params_caption: .na
 LearningChart_params_captionN: no
 SupportingMedia:
-- assets/_other-media-to-publish/P3_CreatureStats_Character Sheets_handout.pdf
-- assets/_other-media-to-publish/darter_vis_sensitivity_curve.png
-- assets/_other-media-to-publish/paper.png
+- https://storage.googleapis.com/gp-cloud/lessons/ILikeThat_en-US/P3_CreatureStats_Character-Sheets_handout.pdf
+- https://storage.googleapis.com/gp-cloud/lessons/ILikeThat_en-US/darter_vis_sensitivity_curve.png
+- https://storage.googleapis.com/gp-cloud/lessons/ILikeThat_en-US/paper.png
+- https://storage.googleapis.com/gp-cloud/lessons/ILikeThat_en-US/vocab.csv
+LearningSummary: Students will conduct experiments and analyze real scientific data
+  as they *learn about themselves*. They'll learn how our eyes and brains interact
+  to determine what we like and dislike, and apply this knowledge to fish research
+  and the art of character design.
 DrivingQ: |
   1. What makes humans and other animals perceive something as beautiful?
   2. How does the way our brain processes visual input from our eyes affect how we perceive and interact with the world?
@@ -72,10 +78,6 @@ EssentialQ: How can science help deepen our understanding of the Arts, Humanitie
   and ourselves?
 Hooks: Warm-up puzzles, fun student-driven experiments, and original artwork are woven
   into this data-centered lesson.
-LearningSummary: Students will conduct experiments and analyze real scientific data
-  as they *learn about themselves*. They'll learn how our eyes and brains interact
-  to determine what we like and dislike, and apply this knowledge to fish research
-  and the art of character design.
 MiscMD: .na
 LearningObj: |-
   1. Interpret a concept map of how our perception of beauty results from interactions between our brain, sensory systems, and the environment.
@@ -179,22 +181,23 @@ ConnectionToResearch: 'In this three-part lesson, students will follow in the fo
 Feedback: "### Please let us know how it went with your class! \n#### We want to know
   what you (and/or your students) think!\nShare your feedback in < 5 min with these
   forms:\n- [For teachers](https://forms.gle/HY1sFxZUH7uG6JqP8)\n- [For students](https://forms.gle/gwkRYvvZY6Sp2dQb9)\n"
-Credits: |-
-  #### Lesson Authors:
-  - [Matt Wilkins, PhD](https://www.mattwilkinsbio.com)
-  - [Madelyn Leembruggen](https://scholar.harvard.edu/madelynleembruggen)
-  - [Letimicia Fears, PhD](https://instagram.com/Letimistry101)
+Credits:
+  value: |-
+    #### Lesson Authors:
+    - [Matt Wilkins, PhD](https://www.mattwilkinsbio.com)
+    - [Madelyn Leembruggen](https://scholar.harvard.edu/madelynleembruggen)
+    - [Letimicia Fears, PhD](https://instagram.com/Letimistry101)
 
-  #### Animation and Storyboarding
-  [Aarati Asundi, PhD](https://www.sykommer.com/about-us)
+    #### Animation and Storyboarding
+    [Aarati Asundi, PhD](https://www.sykommer.com/about-us)
 
-  #### Education Consultant:
-  [Sarah Grasty, MS](https://www.linkedin.com/in/sarah-grasty-988676b0/)
+    #### Education Consultant:
+    [Sarah Grasty, MS](https://www.linkedin.com/in/sarah-grasty-988676b0/)
 
-  #### Sponsor and Producer
-  [Tamra Mendelson, PhD](https://www.mendelsonlab.net/)
+    #### Sponsor and Producer
+    [Tamra Mendelson, PhD](https://www.mendelsonlab.net/)
 
-  Please [sign up for our mailing list](https://galacticpolymath.us8.list-manage.com/subscribe?u=42413c3d307f9b69fd5d5319e&id=33924ebd91) to hear what’s coming up next!
+    Please [sign up for our mailing list](https://galacticpolymath.us8.list-manage.com/subscribe?u=42413c3d307f9b69fd5d5319e&id=33924ebd91) to hear what’s coming up next!
 Acknowledgments:
   Role:
   - Scientific Advisory
@@ -258,6 +261,12 @@ Versions:
   - .na.character
   - .na.character
 ScriptsToRun: .na
+GoogleCloudStorage:
+  filename: .na
+  WD_rel_path: .na
+  cloud_path: .na
+  mod_time: .na
+  last_uploaded: .na
 ReadyToCompile:
 - Front Matter
 - Standards Alignment

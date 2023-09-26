@@ -1,0 +1,19 @@
+{
+  "__component": "lesson-plan.acknowledgments",
+  "SectionTitle": "Acknowledgments",
+  "Data": [
+    {
+      "role": "SciComm Consultant",
+      "def": "(Helped envision and plan an earlier version of the lesson)",
+      "records": [
+        {
+          "name": "Carleen Sabusap, PhD",
+          "url": "https://www.linkedin.com/in/carleen-sabusap-phd-1b769199/",
+          "title": null,
+          "affiliation": null,
+          "location": "Nashville, TN"
+        }
+      ]
+    }
+  ]
+}

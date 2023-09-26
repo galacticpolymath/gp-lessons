@@ -1,0 +1,45 @@
+{
+  "__component": "lesson-plan.acknowledgments",
+  "SectionTitle": "Acknowledgments",
+  "Data": [
+    {
+      "role": "Māori Cultural and Scientific Consultant",
+      "def": "(Provided background expertise in Māori dyeing and weaving māutaranga)",
+      "records": [
+        {
+          "name": "Rangi Te Kanawa, PhD",
+          "url": null,
+          "title": null,
+          "affiliation": null,
+          "location": "Te Kuiti, New Zealand"
+        }
+      ]
+    },
+    {
+      "role": "Tyrian Purple Dye Consultant",
+      "def": "(Provided lots of useful background and photos of this dyeing process using sea snails)",
+      "records": [
+        {
+          "name": "Ghassen Nouira",
+          "url": "https://www.facebook.com/groups/6084852021/about",
+          "title": "Operations Manager",
+          "affiliation": "Ipsos",
+          "location": "Tunis, Tunisia"
+        }
+      ]
+    },
+    {
+      "role": "Teaching Consultant",
+      "def": "(Classroom teacher expert advisory during lesson design process)",
+      "records": [
+        {
+          "name": "Jade Kennedy",
+          "url": null,
+          "title": null,
+          "affiliation": "Mairehau High School",
+          "location": "Christchurch, New Zealand"
+        }
+      ]
+    }
+  ]
+}

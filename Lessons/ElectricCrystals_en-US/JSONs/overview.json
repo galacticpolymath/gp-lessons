@@ -1,0 +1,25 @@
+{
+  "__component": "lesson-plan.overview",
+  "LearningSummary": "Crystals aren't magic, but they are amazing! In this student-driven, lecture-free lesson, students will do card sorts, build hands-on models, solve engineering design puzzles, and more! The whole experience is connected through a beautifully crafted comic and supporting videos.",
+  "EstLessonTime": "4 x 45 min classes",
+  "GradesOrYears": "Grades",
+  "ForGrades": "7-12",
+  "TargetSubject": "Science",
+  "Text": "#### Driving Question(s):\n- What are crystals and how do they form?\n- How is molecular microstructure connected to functionality and properties we can easily observe?\n#### Essential Question(s):\nWhy are abstract concepts like geometry important for “real life”?\n#### Hook(s):\nAn engaging, original comic weaves together background information, hands-on activities, puzzles, and problem sets. Quick videos stoke curiosity and provide support for activities.",
+  "Tags": [
+    {
+      "Value": "crystals"
+    },
+    {
+      "Value": "engineering applications"
+    },
+    {
+      "Value": "symmetry"
+    },
+    {
+      "Value": "physics"
+    }
+  ],
+  "SteamEpaulette": "https://storage.googleapis.com/gp-cloud/lessons/ElectricCrystals_en-US/GP-Learning-Epaulette.png",
+  "SteamEpaulette_vert": "https://storage.googleapis.com/gp-cloud/lessons/ElectricCrystals_en-US/GP-Learning-Epaulette_vert.png"
+}

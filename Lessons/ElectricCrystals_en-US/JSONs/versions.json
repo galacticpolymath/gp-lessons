@@ -1,0 +1,25 @@
+{
+  "__component": "lesson-plan.versions",
+  "SectionTitle": "Version Notes",
+  "Data": [
+    {
+      "major_release": "Beta",
+      "sub_releases": [
+        {
+          "version": "0.1.0",
+          "date": "April 22, 2023",
+          "summary": "Lesson initialized",
+          "notes": null,
+          "acknowledgments": null
+        },
+        {
+          "version": "0.2.0",
+          "date": "May 08, 2023",
+          "summary": "Public release!",
+          "notes": null,
+          "acknowledgments": null
+        }
+      ]
+    }
+  ]
+}

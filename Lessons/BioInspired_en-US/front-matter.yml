@@ -1,4 +1,4 @@
-numID: 8.0
+numID: 8
 _id: lesson_8_en-US
 ShortTitle: BioInspired
 PublicationStatus: Proto
@@ -6,14 +6,14 @@ Language: English
 Country: United States
 DefaultLanguage: English
 DefaultCountry: United States
-LastUpdated: 2023-08-22 13:18:26.397527
+LastUpdated: 2023-09-26 17:21:54.601835
 FirstPublicationDate: .na
-MediumTitle: '''BioInspired''(en-US)'
+MediumTitle: '''Bio-Inspired Design'' |Math| (en-US)'
 lang: en
 lng: eng
 locale: en-US
 DefaultLocale: en-US
-TemplateVer: 0.5.6
+TemplateVer: 0.6.0
 galacticPubsVer: 0.9.7
 isTestRepo: no
 URL: .na
@@ -24,22 +24,24 @@ GdriveTeachMatID: 1oWVviHRSpyXelq7rDLiM9NfwecGf7DOV
 GdrivePublicID: .na
 GdriveDirID: 1oG2tr0JvLZtTKRqPwlPIVRuc3FQONYq3
 GdriveMetaID: 1oLpRpu4ojmZ6lPzBv-8fxibguwLugsvp
-GdriveTeachItID: .na
-GdriveStandardsID: .na
+GdriveTeachItID: 16sCsT3mRr3XFKZTPP1s_V3GDalBmF-fNO3mv_NU_UQA
+GdriveStandardsID: 1mp9m_1iOEc-Hiv6oVBk4KG-4I4k5Z9GZ70rEATD88UY
 GdrivePublishedID: 1oU_74nxGctnRfvSRYrqI1v1rCw4na5Jo
 GdriveDirURL: https://drive.google.com/drive/folders/1oG2tr0JvLZtTKRqPwlPIVRuc3FQONYq3
 RebuildAllMaterials: no
 ReleaseDate: '2050-01-01'
-Title: .na
-Subtitle: .na
+Title: Bio-Inspired Design
+Subtitle: Looking to Nature for Better Solutions
 SponsorName: .na
 SponsoredBy: .na
-SponsorLogo: .na
+SponsorLogo: []
 LessonBanner: .na
-TargetSubject: .na
-LessonEnvir: classroom
+LessonCard: .na
+TargetSubject: Math
+LessonEnvir: .na
 ForGrades: .na
 GradesOrYears: Grades
+LessonTiles: .na
 EstLessonTime: .na
 PullStandardsInfoFrom: myFile
 LearningPlotCorrection: yes
@@ -52,7 +54,7 @@ LearningChart: .na
 LearningChart_params_centralText: []
 LearningChart_params_caption: []
 LearningChart_params_captionN: yes
-SupportingMedia: .na
+SupportingMedia: []
 LearningSummary: .na
 DrivingQ: .na
 EssentialQ: .na

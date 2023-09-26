@@ -1,20 +1,20 @@
-id: 6
-UniqueID: lesson_6_locale_1
+numID: 6
+_id: lesson_6_en-US
 ShortTitle: ElectricCrystals
 PublicationStatus: Live
 Language: English
 Country: United States
 DefaultLanguage: English
 DefaultCountry: United States
-LastUpdated: 2023-06-02 14:48:34.778863
+LastUpdated: 2023-09-17 21:43:01.643435
 FirstPublicationDate: 2023-04-10 12:14:57
 MediumTitle: '''Electric Crystals'' |Science| G7-12 (en-US)'
 lang: en
 lng: eng
 locale: en-US
 DefaultLocale: en-US
-TemplateVer: 0.5.2
-galacticPubsVer: 0.9.6
+TemplateVer: 0.6.0
+galacticPubsVer: 0.9.7
 isTestRepo: no
 URL: https://galacticpolymath.com/lessons/6
 GPCatalogURL: https://gp-catalog.vercel.app/lessons/ElectricCrystals_en-US/LESSON.json
@@ -26,8 +26,8 @@ GdriveTeachMatID: .na
 GdrivePublicID: 17GmAzcNYGrrTw7iBV-QQYHrPxw-C69WX
 GdriveDirID: 1J24HOKWaZM346IKL2Vs32YjAu9fvlEj5
 GdriveMetaID: 1dlkMAHfl7P-uFno3U_9lCheDFew3SjT5
-GdriveTeachItID: 1EeLGtFTENDXL3Qk6Bq8_h_cjsi6-yAhqyoFi8ot0zCw
-GdriveStandardsID: 12Uvoiwwz5ErDIAIByYCjqU0RKX4lQNoHCIEqpFs34gA
+GdriveTeachItID: 1MYi32nIbB2doL2gpvUz8HVoSi7XgGYFAzkeCGLSFtrA
+GdriveStandardsID: 1pmi9qRJXBUrzHP-j9-BkyO58DnuZVu4fsV7dohVOheo
 GdrivePublishedID: 1dlN6OdrQXZi4YzV0-9sjsaPL3ZDAQK-C
 GdriveDirURL: https://drive.google.com/drive/folders/1J24HOKWaZM346IKL2Vs32YjAu9fvlEj5
 RebuildAllMaterials: no
@@ -42,27 +42,33 @@ SponsoredBy: |-
   - [Funsize Physics](https://funsizephysics.com/), where working scientists invite *you* to share in the joy of scientific discovery.
   - National Science Foundation grant DMR 2048959
 SponsorLogo:
-- assets/_banners_logos_etc/FunSizePhysics_logo.png
-- assets/_banners_logos_etc/NSF_4-Color_bitmap_Logo@0.25x.png
-- assets/_banners_logos_etc/R-UNL_RGB_logo.jpg
-LessonBanner: assets/_banners_logos_etc/banner.png
+- https://storage.googleapis.com/gp-cloud/lessons/ElectricCrystals_en-US/FunSizePhysics_logo.png
+- https://storage.googleapis.com/gp-cloud/lessons/ElectricCrystals_en-US/NSF_4-Color_bitmap_Logo@0.25x.png
+- https://storage.googleapis.com/gp-cloud/lessons/ElectricCrystals_en-US/R-UNL_RGB_logo.jpg
+LessonBanner: https://storage.googleapis.com/gp-cloud/lessons/ElectricCrystals_en-US/banner.png
+LessonCard: https://storage.googleapis.com/gp-cloud/lessons/ElectricCrystals_en-US/card.png
 TargetSubject: Science
 LessonEnvir: Classroom
 ForGrades: 7-12
 GradesOrYears: Grades
+LessonTiles: .na
 EstLessonTime: 4 x 45 min classes
 PullStandardsInfoFrom: myFile
 LearningPlotCorrection: no
 LearningChartFriendly: yes
-LearningEpaulette: assets/_learning-plots/GP-Learning-Epaulette.png
-LearningEpaulette_vert: assets/_learning-plots/GP-Learning-Epaulette_vert.png
+LearningEpaulette: https://storage.googleapis.com/gp-cloud/lessons/ElectricCrystals_en-US/GP-Learning-Epaulette.png
+LearningEpaulette_vert: https://storage.googleapis.com/gp-cloud/lessons/ElectricCrystals_en-US/GP-Learning-Epaulette_vert.png
 LearningEpaulette_params_heightScalar: 0.5
 LearningEpaulette_params_randomSeed: 101
-LearningChart: assets/_learning-plots/GP-Learning-Chart.png
+LearningChart: https://storage.googleapis.com/gp-cloud/lessons/ElectricCrystals_en-US/GP-Learning-Chart.png
 LearningChart_params_centralText: .na
 LearningChart_params_caption: .na
 LearningChart_params_captionN: yes
-SupportingMedia: assets/_other-media-to-publish/vocab.csv
+SupportingMedia: https://storage.googleapis.com/gp-cloud/lessons/ElectricCrystals_en-US/vocab.csv
+LearningSummary: Crystals aren't magic, but they are amazing! In this student-driven,
+  lecture-free lesson, students will do card sorts, build hands-on models, solve engineering
+  design puzzles, and more! The whole experience is connected through a beautifully
+  crafted comic and supporting videos.
 DrivingQ: |-
   - What are crystals and how do they form?
   - How is molecular microstructure connected to functionality and properties we can easily observe?
@@ -70,10 +76,6 @@ EssentialQ: Why are abstract concepts like geometry important for â€œreal lifeâ€
 Hooks: An engaging, original comic weaves together background information, hands-on
   activities, puzzles, and problem sets. Quick videos stoke curiosity and provide
   support for activities.
-LearningSummary: Crystals aren't magic, but they are amazing! In this student-driven,
-  lecture-free lesson, students will do card sorts, build hands-on models, solve engineering
-  design puzzles, and more! The whole experience is connected through a beautifully
-  crafted comic and supporting videos.
 MiscMD: .na
 LearningObj: .na
 Tags:
@@ -105,20 +107,21 @@ Feedback: |
   Share your feedback in < 5 min with these forms:
   - [For teachers](https://forms.gle/S2B6pvXKjoC2Do5FA)
   - [For students](https://forms.gle/JhWFX8ZkaxGszdug6)
-Credits: |
-  **[Madelyn Leembruggen](https://www.linkedin.com/in/madelyn-leembruggen/)** *Led the project; developed and researched storylines; drafted all learning materials; developed, filmed and edited supporting videos.*
+Credits:
+  value: |
+    **[Madelyn Leembruggen](https://www.linkedin.com/in/madelyn-leembruggen/)** *Led the project; developed and researched storylines; drafted all learning materials; developed, filmed and edited supporting videos.*
 
-  **[Caroline Hu, PhD](https://www.hudrewthis.com/)** *Developed and illustrated comic narrative; did background research on devices; helped weave learning activities into the narrative.*
+    **[Caroline Hu, PhD](https://www.hudrewthis.com/)** *Developed and illustrated comic narrative; did background research on devices; helped weave learning activities into the narrative.*
 
-  **[Shireen Adenwalla, PhD](https://unlcms.unl.edu/cas/physics/adenwalla/)** *Defined outreach goals; provided feedback throughout development; provided scientific validation of lesson content.*
+    **[Shireen Adenwalla, PhD](https://unlcms.unl.edu/cas/physics/adenwalla/)** *Defined outreach goals; provided feedback throughout development; provided scientific validation of lesson content.*
 
-  **[Xiaoshan Xu, PhD](https://xiaoshanxu.unl.edu/welcome-xu-group)** *Defined outreach goals; provided feedback throughout development; provided scientific validation of lesson content.*
+    **[Xiaoshan Xu, PhD](https://xiaoshanxu.unl.edu/welcome-xu-group)** *Defined outreach goals; provided feedback throughout development; provided scientific validation of lesson content.*
 
-  **[Leigh M. Smith, PhD](https://researchdirectory.uc.edu/p/smithlm)** *Defined outreach goals; provided feedback throughout development; provided scientific validation of lesson content.*
+    **[Leigh M. Smith, PhD](https://researchdirectory.uc.edu/p/smithlm)** *Defined outreach goals; provided feedback throughout development; provided scientific validation of lesson content.*
 
-  **[Jocelyn Bosley](https://twitter.com/SciTalker)** *Defined outreach goals; provided feedback throughout development; provided scientific validation of lesson content.*
+    **[Jocelyn Bosley](https://twitter.com/SciTalker)** *Defined outreach goals; provided feedback throughout development; provided scientific validation of lesson content.*
 
-  **[Matt Wilkins, PhD](https://mattwilkinsbio.com)** *Directed the project; helped develop, edit, and revise all aspects of the lesson*
+    **[Matt Wilkins, PhD](https://mattwilkinsbio.com)** *Directed the project; helped develop, edit, and revise all aspects of the lesson*
 Acknowledgments:
   Role: SciComm Consultant
   Role_def: Helped envision and plan an earlier version of the lesson
@@ -144,6 +147,12 @@ Versions:
   - .na
   - .na
 ScriptsToRun: .na
+GoogleCloudStorage:
+  filename: .na
+  WD_rel_path: .na
+  cloud_path: .na
+  mod_time: .na
+  last_uploaded: .na
 ReadyToCompile:
 - Front Matter
 - Standards Alignment

@@ -1,0 +1,1124 @@
+{
+  "numID": 4,
+  "_id": "lesson_4_en-NZ",
+  "ShortTitle": "ColourfulSolns",
+  "PublicationStatus": "Live",
+  "Language": "English",
+  "Country": "New Zealand",
+  "DefaultLanguage": "English",
+  "DefaultCountry": "New Zealand",
+  "LastUpdated": "2023-09-17 21:42:57.135297",
+  "FirstPublicationDate": "2022-06-26 20:30:21",
+  "MediumTitle": "'Colourful Solutions' |Science| Y9-13 (en-NZ)",
+  "lang": "en",
+  "lng": "eng",
+  "locale": "en-NZ",
+  "DefaultLocale": "en-NZ",
+  "TemplateVer": "0.6.0",
+  "galacticPubsVer": "0.9.7",
+  "isTestRepo": false,
+  "URL": "https://galacticpolymath.com/lessons/4",
+  "GdriveHome": "GP-LIVE",
+  "GdriveDirName": "ColourfulSolns_en-NZ",
+  "GdriveTeachMatPath": "GalacticPolymath/'Colourful Solutions' |Science| Y9-13 (en-NZ)",
+  "GdriveTeachMatID": null,
+  "GdrivePublicID": "1kAnrrr3od18bIaeATw7d03ImScFUqkwA",
+  "GdriveDirID": "1VMKHGhLAJ6ssn32d7PFs5MC0zkFwCBSv",
+  "GdriveMetaID": "11QafuhqWT4Ao4BOqmZMw3OitZFrSRoFz",
+  "GdriveTeachItID": "1e8G1c_3Q93vMzDN-KEL9n85d3W5bLvogTTZdjCznF1A",
+  "GdriveStandardsID": "1SFtXsfqJ1hjzcUzgt6xOA9FGOc3w6jG6dooBV-5Mh3U",
+  "GdrivePublishedID": "1SXg5rfPo0i-nr-sRsDJxihBQHmZ6Xfeh",
+  "GdriveDirURL": "https://drive.google.com/drive/folders/1VMKHGhLAJ6ssn32d7PFs5MC0zkFwCBSv",
+  "RebuildAllMaterials": false,
+  "ReleaseDate": "2022-09-01",
+  "Title": "Colourful Solutions",
+  "Subtitle": "Chemical Engineering Dyes to Brighten Lives",
+  "SponsorName": "University of Canterbury",
+  "SponsoredBy": "[The Department of Chemical and Process Engineering at the University of Canterbury](https://www.canterbury.ac.nz/engineering/) in Christchurch, New Zealand",
+  "SponsorLogo": "https://storage.googleapis.com/gp-cloud/lessons/ColourfulSolns_en-NZ/canterbury_logo.jpg",
+  "LessonBanner": "https://storage.googleapis.com/gp-cloud/lessons/ColourfulSolns_en-NZ/banner.jpg",
+  "LessonCard": "https://storage.googleapis.com/gp-cloud/lessons/ColourfulSolns_en-NZ/title_card.jpg",
+  "TargetSubject": "Science",
+  "LessonEnvir": "Classroom",
+  "ForGrades": "9-13",
+  "GradesOrYears": "Years",
+  "Section": {
+    "overview": {
+      "__component": "lesson-plan.overview",
+      "LearningSummary": "Students will learn to think like chemical engineers as they delve into the dye technologies that allow us to express ourselves through colourful clothing. They will read and discuss complex texts, analyse concept maps and graphs, and develop an appreciation for indigenous (Māori) dye technology.",
+      "EstLessonTime": "3 x 45min classes",
+      "GradesOrYears": "Years",
+      "ForGrades": "9-13",
+      "TargetSubject": "Science",
+      "Text": "#### Driving Question(s):\nHow have different dye technologies been used to produce colorful clothing across cultures and over time?\n#### Essential Question(s):\nHow can a career in chemical, genetic, or process engineering create opportunities to solve complex societal problems?\n#### Hook(s):\n- Part 1 begins with a warm-up “Dye-versity Audit,” In which students will quantify the number of dyes they brought to class on their person and reflect on what they mean in terms of self-expression. The rest of Part 1 focuses on narratives designed to appeal to students’ curiosity.\n- Part 2 involves a card-based puzzle activity. \n- Part 3 puts students directly in the decision-maker position, giving them an opportunity to choose a course of action based on their own values and reasoning.",
+      "Tags": [
+        {
+          "Value": "chemical engineering"
+        },
+        {
+          "Value": "process engineering"
+        },
+        {
+          "Value": "dye"
+        },
+        {
+          "Value": "Māori"
+        },
+        {
+          "Value": "indigenous technology"
+        }
+      ],
+      "SteamEpaulette": "https://storage.googleapis.com/gp-cloud/lessons/ColourfulSolns_en-NZ/GP-Learning-Epaulette.png",
+      "SteamEpaulette_vert": "https://storage.googleapis.com/gp-cloud/lessons/ColourfulSolns_en-NZ/GP-Learning-Epaulette_vert.png"
+    },
+    "preview": {
+      "__component": "lesson-plan.lesson-preview",
+      "SectionTitle": "Lesson Preview",
+      "QuickPrep": "1. Check out lesson multimedia below\n2. Look over <AnchorLink href=\"#teaching_materials\"> Teaching Materials <\/AnchorLink>\n3. Teach it and <AnchorLink href=\"#feedback\"> let us know what you think! <\/AnchorLink>",
+      "Multimedia": [
+        {
+          "order": "0",
+          "type": "pdf",
+          "forLsn": "1",
+          "title": "Role of the Dye Readings",
+          "description": null,
+          "lessonRelevance": "These narrative texts introduce students to the 3 dye technologies (ancient, Māori, and synthetic) that they will investigate.",
+          "by": "Galactic Polymath",
+          "byLink": "https://www.youtube.com/channel/UCfyBNvN3CH4uWmwOCQVhmhg/featured",
+          "mainLink": "https://docs.google.com/document/d/1-Z6AQJLxAy8AVvhfHJ1we1kpa5Pr4zlgeTc4gWqE1QU/preview?rm=minimal",
+          "otherLink": null
+        },
+        {
+          "order": "1",
+          "type": "video",
+          "forLsn": "1",
+          "title": "The Nature of Colour at the American Museum of Natural History",
+          "description": "Colour is woven so tightly into our lives that we rarely stop to question what it is and how it works. Where do the colours in diamonds and rainbows come from? How have some animals benefited by evolving to stand out, while others survive by blending in? Why do some colours make us happy while others make us, well, blue? The Nature of Colour, a new exhibition now open at the American Museum of Natural History reveals how colour carries information both in nature and across cultures.",
+          "lessonRelevance": "Provides a broad appreciation of colour that sets the ground for our unit investigating dye technologies and why they are important.",
+          "by": "Galactic Polymath",
+          "byLink": "https://www.youtube.com/channel/UCfyBNvN3CH4uWmwOCQVhmhg/featured",
+          "mainLink": "https://www.youtube.com/embed/U2BMqRVOdCk",
+          "otherLink": null
+        },
+        {
+          "order": "2",
+          "type": "pdf",
+          "forLsn": "2",
+          "title": "Dye Technology \"Cost Card\" Puzzle Activity",
+          "description": "After reading about and discussing 3 dye technologies: Tyrian purple (extracted from snails); Tānekaha red (from tree bark); and mauveine (from coal tar), students will sort these cards into 3 correctly ordered processes. This will scaffold discussion of how costs (and price) scale with production.",
+          "lessonRelevance": "Students will sort these cards into 3 correctly ordered processes. This builds an chemical/process engineering mindset.",
+          "by": "Galactic Polymath",
+          "byLink": "https://www.youtube.com/channel/UCfyBNvN3CH4uWmwOCQVhmhg/featured",
+          "mainLink": "https://docs.google.com/presentation/d/12JrjYbvNHOcNcGZGZ-idt4KLE3j8nW8qdNXzc8px9pI/preview?rm=minimal#slide=id.p",
+          "otherLink": null
+        },
+        {
+          "order": "3",
+          "type": "video",
+          "forLsn": "3",
+          "title": "True Blues: Textiles Water Pollution Problem",
+          "description": "A life cycle of one T-shirt pollutes approximately 2700 litres of water. Shocked, right? So were we! The textile industry is one of the biggest causes of water pollution due to the amount of chemicals used in dyeing and other processes.",
+          "lessonRelevance": "Supports student reflection and analysis as they perform a cost-benefit analysis of dye technologies to make a recommendation.",
+          "by": "Colour Ashram",
+          "byLink": "https://www.youtube.com/channel/UCd1rQ-NAhfUoA0OSDJ9tN8w/featured",
+          "mainLink": "https://www.youtube.com/embed/Bk2APxqIhbk",
+          "otherLink": null
+        }
+      ],
+      "InitiallyExpanded": true
+    },
+    "teaching-materials": {
+      "__component": "teaching-resources.teaching-resources",
+      "SectionTitle": "Teaching Materials",
+      "Data": {
+        "lessonPreface": null,
+        "lessonDur": "3 x 45 min",
+        "classroom": {
+          "gradeVariantNotes": [
+            {
+              "lsn": "1",
+              "lsnGradeVarNotes": null
+            },
+            {
+              "lsn": "2",
+              "lsnGradeVarNotes": null
+            },
+            {
+              "lsn": "3",
+              "lsnGradeVarNotes": null
+            }
+          ],
+          "resources": [
+            {
+              "grades": "Years 9-13",
+              "gradePrefix": "Y9-13",
+              "links": {
+                "linkText": "Browse & Download All Y9-13 Materials",
+                "url": "https://drive.google.com/drive/folders/10wz9V9NMbwLZ-r6EsN3kkE-nY-G_rjDQ"
+              },
+              "lessons": {
+                "1": {
+                  "lsn": "1",
+                  "title": "Role of the Dye",
+                  "tags": [
+                    "history of science"
+                  ],
+                  "preface": "Students investigate 3 different dye technologies, extracting information from text to fill in concept maps of the inputs and outputs of each process.",
+                  "tile": null,
+                  "itemList": [
+                    {
+                      "itemTitle": "Presentation (Part 1)",
+                      "itemDescription": "Need: WiFi, Computer, Projector, Sound",
+                      "itemCat": "presentation",
+                      "links": [
+                        {
+                          "linkText": "Present Now",
+                          "url": "https://docs.google.com/presentation/d/1_6BC7WeMUNsfkUdAV9P6cTyrDhD_7F2unssCEh8o8yA/present"
+                        },
+                        {
+                          "linkText": "Copy/Edit in Google Docs",
+                          "url": "https://docs.google.com/presentation/d/1_6BC7WeMUNsfkUdAV9P6cTyrDhD_7F2unssCEh8o8yA/template/preview"
+                        }
+                      ]
+                    },
+                    {
+                      "itemTitle": "Handout (Part 1)",
+                      "itemDescription": null,
+                      "itemCat": "document",
+                      "links": [
+                        {
+                          "linkText": "PDF",
+                          "url": "https://docs.google.com/document/d/1xKPuXFlQDIK_mIbbTJ0prbA8z2wJnTqcXbyyzSSGiW4/export?format=pdf"
+                        },
+                        {
+                          "linkText": "Copy/Edit in Google Docs",
+                          "url": "https://docs.google.com/document/d/1xKPuXFlQDIK_mIbbTJ0prbA8z2wJnTqcXbyyzSSGiW4/template/preview"
+                        }
+                      ]
+                    },
+                    {
+                      "itemTitle": "Student Worksheet (Part 1)",
+                      "itemDescription": "Print 1 Per Student",
+                      "itemCat": "document",
+                      "links": [
+                        {
+                          "linkText": "PDF",
+                          "url": "https://docs.google.com/document/d/1KU3W3m8oNWy-onRFIFr8hEWq14CQNQbxujixmJ-VcaE/export?format=pdf"
+                        },
+                        {
+                          "linkText": "Copy/Edit in Google Docs",
+                          "url": "https://docs.google.com/document/d/1KU3W3m8oNWy-onRFIFr8hEWq14CQNQbxujixmJ-VcaE/template/preview"
+                        }
+                      ]
+                    },
+                    {
+                      "itemTitle": "Teacher Worksheet (Part 1)",
+                      "itemDescription": "Print 1",
+                      "itemCat": "document",
+                      "links": [
+                        {
+                          "linkText": "PDF",
+                          "url": "https://docs.google.com/document/d/15AhBWQQZCaYM6ORbixDSRleep5tF_tP0V3Lc5N-438I/export?format=pdf"
+                        },
+                        {
+                          "linkText": "Copy/Edit in Google Docs",
+                          "url": "https://docs.google.com/document/d/15AhBWQQZCaYM6ORbixDSRleep5tF_tP0V3Lc5N-438I/template/preview"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "2": {
+                  "lsn": "2",
+                  "title": "The Price of Colour",
+                  "tags": [
+                    "engineering mindset"
+                  ],
+                  "preface": "Using the concept maps they developed in Part 1, students sort a set of cards into 3 ordered processes. This is used to understand the starting costs of each technology.",
+                  "tile": null,
+                  "itemList": [
+                    {
+                      "itemTitle": "Cost Cards for Activity (Part 2)",
+                      "itemDescription": null,
+                      "itemCat": "presentation",
+                      "links": [
+                        {
+                          "linkText": "PDF",
+                          "url": "https://docs.google.com/presentation/d/15L5Ieyr4xiSMdm9yxMbSYTjGklZjolrj-xOWv_5Dg0A/export/pdf"
+                        },
+                        {
+                          "linkText": "Copy/Edit in Google Docs",
+                          "url": "https://docs.google.com/presentation/d/15L5Ieyr4xiSMdm9yxMbSYTjGklZjolrj-xOWv_5Dg0A/template/preview"
+                        }
+                      ]
+                    },
+                    {
+                      "itemTitle": "Presentation (Part 2)",
+                      "itemDescription": "Need: WiFi, Computer, Projector, Sound",
+                      "itemCat": "presentation",
+                      "links": [
+                        {
+                          "linkText": "Present Now",
+                          "url": "https://docs.google.com/presentation/d/1EV3aiwZS8NzQX285k6D5D3W4FyqzsPZ6nHal1D3EoV4/present"
+                        },
+                        {
+                          "linkText": "Copy/Edit in Google Docs",
+                          "url": "https://docs.google.com/presentation/d/1EV3aiwZS8NzQX285k6D5D3W4FyqzsPZ6nHal1D3EoV4/template/preview"
+                        }
+                      ]
+                    },
+                    {
+                      "itemTitle": "Student Worksheet (Part 2)",
+                      "itemDescription": "Print 1 Per Student",
+                      "itemCat": "document",
+                      "links": [
+                        {
+                          "linkText": "PDF",
+                          "url": "https://docs.google.com/document/d/1RUKC103P-aehIa6A3M3DqzaxNHh97uLjyLRPjbd28lQ/export?format=pdf"
+                        },
+                        {
+                          "linkText": "Copy/Edit in Google Docs",
+                          "url": "https://docs.google.com/document/d/1RUKC103P-aehIa6A3M3DqzaxNHh97uLjyLRPjbd28lQ/template/preview"
+                        }
+                      ]
+                    },
+                    {
+                      "itemTitle": "Teacher Worksheet (Part 2)",
+                      "itemDescription": "Print 1",
+                      "itemCat": "document",
+                      "links": [
+                        {
+                          "linkText": "PDF",
+                          "url": "https://docs.google.com/document/d/17_XqQ4MPxVNTAIE6k-F1J0FhEQWOL7paO7ScQTO2XEs/export?format=pdf"
+                        },
+                        {
+                          "linkText": "Copy/Edit in Google Docs",
+                          "url": "https://docs.google.com/document/d/17_XqQ4MPxVNTAIE6k-F1J0FhEQWOL7paO7ScQTO2XEs/template/preview"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "3": {
+                  "lsn": "3",
+                  "title": "Thinking Like a Chemical Engineer",
+                  "tags": [
+                    [
+                      "data literacy",
+                      "sustainability",
+                      "engineering mindset"
+                    ]
+                  ],
+                  "preface": "Students interpreting graphs of how textile prices change with production scale for each dye technology used. They then weigh price, sustainability, and cultural significance to propose the best technological solution.",
+                  "tile": null,
+                  "itemList": [
+                    {
+                      "itemTitle": "Presentation (Part 3)",
+                      "itemDescription": "Need: WiFi, Computer, Projector, Sound",
+                      "itemCat": "presentation",
+                      "links": [
+                        {
+                          "linkText": "Present Now",
+                          "url": "https://docs.google.com/presentation/d/17zEu-pUxYjGXGDjbQjCxc_v7W2VHv75wpsjFeTAhWEk/present"
+                        },
+                        {
+                          "linkText": "Copy/Edit in Google Docs",
+                          "url": "https://docs.google.com/presentation/d/17zEu-pUxYjGXGDjbQjCxc_v7W2VHv75wpsjFeTAhWEk/template/preview"
+                        }
+                      ]
+                    },
+                    {
+                      "itemTitle": "Student Worksheet (Part 3)",
+                      "itemDescription": "Print 1 Per Student",
+                      "itemCat": "document",
+                      "links": [
+                        {
+                          "linkText": "PDF",
+                          "url": "https://docs.google.com/document/d/1K_tkkMY8gXKMD0ZX38W977OHBgxwB3xDBv4rIqn_eeE/export?format=pdf"
+                        },
+                        {
+                          "linkText": "Copy/Edit in Google Docs",
+                          "url": "https://docs.google.com/document/d/1K_tkkMY8gXKMD0ZX38W977OHBgxwB3xDBv4rIqn_eeE/template/preview"
+                        }
+                      ]
+                    },
+                    {
+                      "itemTitle": "Teacher Worksheet (Part 3)",
+                      "itemDescription": "Print 1",
+                      "itemCat": "document",
+                      "links": [
+                        {
+                          "linkText": "PDF",
+                          "url": "https://docs.google.com/document/d/1fOVN5pYxARU7bTpNESSw5nqWHAStaT56L-vy9BNtr_0/export?format=pdf"
+                        },
+                        {
+                          "linkText": "Copy/Edit in Google Docs",
+                          "url": "https://docs.google.com/document/d/1fOVN5pYxARU7bTpNESSw5nqWHAStaT56L-vy9BNtr_0/template/preview"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "lsn": "last",
+                "title": "Assessments",
+                "preface": "",
+                "itemList": [
+                  {
+                    "itemTitle": "Assessment (TEACHER)",
+                    "itemDescription": null,
+                    "itemCat": "document",
+                    "links": [
+                      {
+                        "linkText": "PDF",
+                        "url": "https://docs.google.com/document/d/1Y-oKO7_tWRJ0wPAE02p-GNbVR8h65eXiX44-W3YVfFc/export?format=pdf"
+                      },
+                      {
+                        "linkText": "Copy/Edit in Google Docs",
+                        "url": "https://docs.google.com/document/d/1Y-oKO7_tWRJ0wPAE02p-GNbVR8h65eXiX44-W3YVfFc/template/preview"
+                      }
+                    ]
+                  },
+                  {
+                    "itemTitle": "Assessment (STUDENT)",
+                    "itemDescription": null,
+                    "itemCat": "document",
+                    "links": [
+                      {
+                        "linkText": "PDF",
+                        "url": "https://docs.google.com/document/d/1uteaP2Ip49SXWtTXqnUQOsupBLVCVL-GJL3h--V3uY8/export?format=pdf"
+                      },
+                      {
+                        "linkText": "Copy/Edit in Google Docs",
+                        "url": "https://docs.google.com/document/d/1uteaP2Ip49SXWtTXqnUQOsupBLVCVL-GJL3h--V3uY8/template/preview"
+                      }
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        "lesson": [
+          {
+            "lsnNum": 1,
+            "lsnTitle": "Role of the Dye",
+            "lsnDur": 45,
+            "lsnPreface": "Students investigate 3 different dye technologies, extracting information from text to fill in concept maps of the inputs and outputs of each process.",
+            "learningObj": [
+              "Understand that chemical engineers develop economical commercial processes to convert raw material into useful products.",
+              "Understand the scientific and engineering methods.",
+              "Analyze complex texts describing historical and contemporary figures and synthesize information about dye processes."
+            ],
+            "lsnPrep": {
+              "prepTitle": "Prep",
+              "prepDur": 5,
+              "prepQuickDescription": "Print handouts.",
+              "prepDetails": null,
+              "prepVariantNotes": null,
+              "prepTeachingTips": null
+            },
+            "chunks": [
+              {
+                "chunkTitle": "Warm-Up",
+                "chunkStart": 0,
+                "chunkDur": 10,
+                "steps": [
+                  {
+                    "Step": 1,
+                    "StepTitle": "Clothing Colour Audit",
+                    "StepQuickDescription": "Use the presentation to walk students through an engagement hook activity, before moving into the main reading activity. Using worksheet 1, students calculate their \"dye-versity index\".",
+                    "StepDetails": "The \"dye-versity index\" represents the total number of colours a student has on them, and therefore the number of dye processes that had to be invented.",
+                    "Vocab": null,
+                    "VariantNotes": null,
+                    "TeachingTips": null
+                  },
+                  {
+                    "Step": 2,
+                    "StepTitle": "Share Out",
+                    "StepQuickDescription": "Let students share their \"dye-versity index\" and reflect on whether colour helps express their personality or mood.",
+                    "StepDetails": null,
+                    "Vocab": null,
+                    "VariantNotes": null,
+                    "TeachingTips": null
+                  }
+                ]
+              },
+              {
+                "chunkTitle": "Engage",
+                "chunkStart": 10,
+                "chunkDur": 5,
+                "steps": [
+                  {
+                    "Step": 3,
+                    "StepTitle": "Watch Video",
+                    "StepQuickDescription": "Show [▶ The Nature of Colour at the American Museum of Natural History](https://www.youtube.com/watch?v=U2BMqRVOdCk)",
+                    "StepDetails": "This video introduces the importance of colour in the natural world of plants, animals, and evolution, as well as in the human world of self-expression, social interaction, and culture. The importance of colour to life sets the stage to learn about dye technologies in the next step.",
+                    "Vocab": null,
+                    "VariantNotes": null,
+                    "TeachingTips": null
+                  }
+                ]
+              },
+              {
+                "chunkTitle": "Explore",
+                "chunkStart": 15,
+                "chunkDur": 25,
+                "steps": [
+                  {
+                    "Step": 4,
+                    "StepTitle": "Introducing 3 Dye Technologies",
+                    "StepQuickDescription": "The lessons will focus on Tyrian Purple, Mauveine, and Tānekaha Dye.",
+                    "StepDetails": "The invention of each of technology enabled a group of people at a time and place the power of expression through colour!",
+                    "Vocab": null,
+                    "VariantNotes": null,
+                    "TeachingTips": null
+                  },
+                  {
+                    "Step": 5,
+                    "StepTitle": "Student \"Experts\"",
+                    "StepQuickDescription": "Split students into groups of three (e.g. by counting off). Assign each number one of the three articles in Reading Handout 1.",
+                    "StepDetails": "After giving them time to read and fill out the concept map for their reading, instruct the groups of three to teach each other what they learned *and* help each other fill out the remaining blanks on Worksheet 1.",
+                    "Vocab": "- **synthesise:**  the process of running chemical reactions to obtain one or several products\n- **patent:**  a government license that keeps others from making, using, or selling an invention\n- **mass-market:**  cheap goods produced in large quantities to meet high demand\n- **niche market:**  goods designed to meet the specific needs of a smaller market (~10,000 units), such as clothes for children or sustainable cleaning supplies\n- **aniline:**  an organic compound with the formula C6H5NH2\n- **secretion:**  a process by which substances are produced and discharged from a cell, gland, or organ for a particular function in the organism or for excretion\n- **reducing agents:**  in chemistry, a reducing agent is a chemical molecule or atom that \"donates\" an electron to another chemical\n- **luxury market:**  expensive goods produced in small quantities because of cost and to maintain an exclusive status of the product",
+                    "VariantNotes": null,
+                    "TeachingTips": null
+                  }
+                ]
+              },
+              {
+                "chunkTitle": "Wrapping Up",
+                "chunkStart": 40,
+                "chunkDur": 5,
+                "steps": [
+                  {
+                    "Step": 6,
+                    "StepTitle": "Have students finish remaining questions on their own or assign homework",
+                    "StepQuickDescription": "Part 2 will begin with a review of each dye technology, so students should complete their Part 1 worksheet before then.",
+                    "StepDetails": null,
+                    "Vocab": null,
+                    "VariantNotes": null,
+                    "TeachingTips": null
+                  }
+                ]
+              }
+            ],
+            "lsnExt": null
+          },
+          {
+            "lsnNum": 2,
+            "lsnTitle": "The Price of Colour",
+            "lsnDur": 45,
+            "lsnPreface": "Using the concept maps they developed in Part 1, students sort a set of cards into 3 ordered processes. This is used to understand the starting costs of each technology.",
+            "learningObj": [
+              "Understand that chemical engineers develop economical commercial processes to convert raw material into useful products.",
+              "Compare and contrast the costs and benefits of synthetic vs natural dye production.",
+              "Understand the scientific and engineering methods.",
+              "Solve a STEM puzzle by logically piecing together the order of 3 different dye processes."
+            ],
+            "lsnPrep": {
+              "prepTitle": "Prep",
+              "prepDur": 5,
+              "prepQuickDescription": "Print handouts.",
+              "prepDetails": null,
+              "prepVariantNotes": null,
+              "prepTeachingTips": null
+            },
+            "chunks": [
+              {
+                "chunkTitle": "Review",
+                "chunkStart": 0,
+                "chunkDur": 15,
+                "steps": [
+                  {
+                    "Step": 1,
+                    "StepTitle": "Share Out",
+                    "StepQuickDescription": "Recap the three dye technologies from yesterday's lesson.",
+                    "StepDetails": "Let students share out what they remember from yesterday's lesson and how each dye technology is made. Then use Presentation 2 to pivot the discussion to the sustainability, cultural significance, status signalling, and efficiency of the various technologies.",
+                    "Vocab": null,
+                    "VariantNotes": null,
+                    "TeachingTips": null
+                  },
+                  {
+                    "Step": 2,
+                    "StepTitle": "What is the difference between a *chemist* and a *chemical engineer*?",
+                    "StepQuickDescription": "Encourage students to do their best to distinguish the differences between a chemist and a chemical engineer.",
+                    "StepDetails": "Use Presentation to transition from the discovery and invention of dye technologies to the activity and discussion about how inventions become viable products.",
+                    "Vocab": null,
+                    "VariantNotes": null,
+                    "TeachingTips": null
+                  }
+                ]
+              },
+              {
+                "chunkTitle": "Pivot",
+                "chunkStart": 15,
+                "chunkDur": 5,
+                "steps": [
+                  {
+                    "Step": 3,
+                    "StepTitle": "Become a chemical engineer for a day",
+                    "StepQuickDescription": "Paint the picture: *Galactic Tees* is a new company that wants to make a new line of t-shirts but can't decide on what dye technology to use.",
+                    "StepDetails": "Students will study the pros and cons of each dyeing technology at different *scales*. For the \"Cost Cards\" activity the Driving Question will be: \"How much does it cost to produce the first dyed item using each technology?\"",
+                    "Vocab": null,
+                    "VariantNotes": null,
+                    "TeachingTips": null
+                  }
+                ]
+              },
+              {
+                "chunkTitle": "Activity: Process Engineering Puzzle",
+                "chunkStart": 20,
+                "chunkDur": 15,
+                "steps": [
+                  {
+                    "Step": 4,
+                    "StepTitle": "Activity instructions",
+                    "StepQuickDescription": "Divide students into groups of 2-3 and give each group a set of: [➚ Dye Technology \"Cost Card\" Puzzle Activity](https://docs.google.com/presentation/d/12JrjYbvNHOcNcGZGZ-idt4KLE3j8nW8qdNXzc8px9pI/edit#slide=id.p)",
+                    "StepDetails": "Each set has 18 Cost Cards representing 6 steps in each of the three dyeing technologies. The presentation will break the activity into substages and guide the students through an analysis of the processes.",
+                    "Vocab": null,
+                    "VariantNotes": null,
+                    "TeachingTips": null
+                  },
+                  {
+                    "Step": 5,
+                    "StepTitle": "Find the Starting Price",
+                    "StepQuickDescription": "Once the cards students have sorted the cards, have them add up the prices of each step listed on the Cost Cards to find the Total Cost of the process.",
+                    "StepDetails": "Starting Price = Total Cost X 1.2 (to include a 20% profit)",
+                    "Vocab": null,
+                    "VariantNotes": null,
+                    "TeachingTips": null
+                  }
+                ]
+              },
+              {
+                "chunkTitle": "Reflecting on Process Costs",
+                "chunkStart": 35,
+                "chunkDur": 10,
+                "steps": [
+                  {
+                    "Step": 6,
+                    "StepTitle": "Independent Work",
+                    "StepQuickDescription": "Have students use the remaining time to finish the worksheet.",
+                    "StepDetails": "Students will reflect on the major expenses of the process and predict how the price per item might change as the *scale* of production increases. Part 3 will explore how production costs change at different scales, so these questions prime the students to think beyond the Starting Price.",
+                    "Vocab": null,
+                    "VariantNotes": null,
+                    "TeachingTips": null
+                  }
+                ]
+              }
+            ],
+            "lsnExt": null
+          },
+          {
+            "lsnNum": 3,
+            "lsnTitle": "Thinking Like a Chemical Engineer",
+            "lsnDur": null,
+            "lsnPreface": "Students interpreting graphs of how textile prices change with production scale for each dye technology used. They then weigh price, sustainability, and cultural significance to propose the best technological solution.",
+            "learningObj": [
+              "Understand that chemical engineers develop economical commercial processes to convert raw material into useful products.",
+              "Interpret graphs to design a product solution at an appropriate scale.",
+              "Understand the scientific and engineering methods.",
+              "Assess the tradeoffs in scalability, cost, sustainability, and cultural significance between Māori dye technology compared to modern petroleum-based synthetic dyes."
+            ],
+            "lsnPrep": {
+              "prepTitle": "Prep",
+              "prepDur": 5,
+              "prepQuickDescription": "Print handouts.",
+              "prepDetails": null,
+              "prepVariantNotes": null,
+              "prepTeachingTips": null
+            },
+            "chunks": [
+              {
+                "chunkTitle": "Review",
+                "chunkStart": 0,
+                "chunkDur": 10,
+                "steps": [
+                  {
+                    "Step": 1,
+                    "StepTitle": "Share Out",
+                    "StepQuickDescription": "Quickly review the 3 dye technologies, the Starting Price students calculated for each, and the reason the different technologies have varying Starting Prices.",
+                    "StepDetails": null,
+                    "Vocab": null,
+                    "VariantNotes": null,
+                    "TeachingTips": "Since the prices and production scales have such a wide range of values, the price per item versus number of items produced points are plotted on log-log plots (logarithmic scales). The presentation includes a side note about the purpose of log-log plots."
+                  }
+                ]
+              },
+              {
+                "chunkTitle": "Explain",
+                "chunkStart": 10,
+                "chunkDur": 20,
+                "steps": [
+                  {
+                    "Step": 2,
+                    "StepTitle": "Introducing Price Curves",
+                    "StepQuickDescription": "The presentation introduces the idea of producing items at various scales and discusses how the price per unit changes accordingly.",
+                    "StepDetails": "Make sure students complete corresponding worksheet sections to follow the discussion of Price Curves.",
+                    "Vocab": null,
+                    "VariantNotes": null,
+                    "TeachingTips": null
+                  },
+                  {
+                    "Step": 3,
+                    "StepTitle": "Limited Resources",
+                    "StepQuickDescription": "Use presentation to guide students through the example of fishing for *Murex* snails illustrates how the availability of resources affects (and limits) the scale of production.",
+                    "StepDetails": null,
+                    "Vocab": null,
+                    "VariantNotes": null,
+                    "TeachingTips": null
+                  },
+                  {
+                    "Step": 4,
+                    "StepTitle": "Watch Video",
+                    "StepQuickDescription": "Show [▶ True Blues: Textiles Water Pollution Problem](https://www.youtube.com/watch?v=Bk2APxqIhbk&t=1s) to introduce environmental impacts of synthetic dyes made from fossil fuels.",
+                    "StepDetails": "Throughout the presentation, synthetic dyes produced from fossil fuels are shown to be a competitive and attractive dye technology. Despite their range of colours and low costs, dyes produced from fossil fuels also cause a lot of problems. \n\nIn this video students learn about the many sustainability issues tied to the dye and fashion industries (particularly with fossil-fuel-derived synthetic dyes). This prepares students to reflect on and analyze the consequences of dye technologies as they perform a cost-benefit analysis of the available dye technologies to make a recommendation for *Galactic Tees*.",
+                    "Vocab": null,
+                    "VariantNotes": null,
+                    "TeachingTips": null
+                  }
+                ]
+              },
+              {
+                "chunkTitle": "Synthesise and Reflect",
+                "chunkStart": 30,
+                "chunkDur": 15,
+                "steps": [
+                  {
+                    "Step": 5,
+                    "StepTitle": "Have students finish worksheet independently",
+                    "StepQuickDescription": "By interpreting the price curves, compiling information from all three lessons, and reflecting on their values and goals, students recommend a dye technology for *Galactic Tees* to use in their new line of t-shirts.",
+                    "StepDetails": "A table in the worksheet allows students to compare the range of colours, price point, target audience, sustainability, status signalling, and cultural significance of each dye technology. Based on the compiled information they will identify the most competitive dye technology. Their final recommendation for *Galactic Tees*'s dye technology is supported by the production bottom line, but also by the student's personal priorities (e.g. sustainability or cultural significance). \n\nEach of these technologies has pros and cons, so students are encouraged to reflect on how they could improve their chosen dye technology's disadvantages. Specifically they are tasked with imagining themselves as chemical engineers trying to make *Galactic Tees* more sustainable.",
+                    "Vocab": "- **mass market:**  goods produced in large quantities (1,000,000+ units) to meet high demand and sold at a low cost to a broad group.\n- **niche market:**  goods designed to meet the specific needs of a smaller market (~10,000 units), such as clothes for children or sustainable cleaning products.\n- **luxury market:**  expensive goods produced in small quantities (<1,000 units) because of cost and to maintain exclusive status of the product.",
+                    "VariantNotes": null,
+                    "TeachingTips": null
+                  }
+                ]
+              }
+            ],
+            "lsnExt": null
+          }
+        ],
+        "gatheredVocab": [
+          {
+            "term": "synthesise",
+            "definition": "the process of running chemical reactions to obtain one or several products"
+          },
+          {
+            "term": "patent",
+            "definition": "a government license that keeps others from making, using, or selling an invention"
+          },
+          {
+            "term": "mass-market",
+            "definition": "cheap goods produced in large quantities to meet high demand"
+          },
+          {
+            "term": "niche market",
+            "definition": "goods designed to meet the specific needs of a smaller market (~10,000 units), such as clothes for children or sustainable cleaning supplies"
+          },
+          {
+            "term": "aniline",
+            "definition": "an organic compound with the formula C6H5NH2"
+          },
+          {
+            "term": "secretion",
+            "definition": "a process by which substances are produced and discharged from a cell, gland, or organ for a particular function in the organism or for excretion"
+          },
+          {
+            "term": "reducing agents",
+            "definition": "in chemistry, a reducing agent is a chemical molecule or atom that \"donates\" an electron to another chemical"
+          },
+          {
+            "term": "luxury market",
+            "definition": "expensive goods produced in small quantities because of cost and to maintain an exclusive status of the product"
+          },
+          {
+            "term": "mass market",
+            "definition": "goods produced in large quantities (1,000,000+ units) to meet high demand and sold at a low cost to a broad group."
+          }
+        ]
+      }
+    },
+    "extensions": {
+      "__component": "lesson-plan.collapsible-text-section",
+      "SectionTitle": "Extensions",
+      "Content": "- Have students read and discuss the scientific paper about dye technologies <AnchorLink href=\"#background\"> in the Background Section <\/AnchorLink>. This paper is co-authored by Māori weaving expert and conservator Rangi Te Kanawa, PhD.\n- Teach the [Black is Back](https://instructionalseries.tki.org.nz/Instructional-Series/Connected/Connected-2014-level-4-What-s-the-Evidence/Black-is-Back) lesson centred on Rangi’s conservatory work restoring Māori garments that were dyed using a different technology.\n- Have students research the significance of the pepeha in Māori culture. They can create their own using this [great online tool](https://pepeha.nz/create-pepeha).\n- Ask students to research chemical engineering, process engineering, chemistry, and related careers to find out median salary, school requirements, etc. A great resource is the [NZ Careers Website](https://www.careers.govt.nz/jobs-database/engineering/engineering/chemical-engineer/).\n- Have students watch this video about [bioengineering dyes](https://www.youtube.com/watch?v=GIv25InZYig) and conduct independent research. For example, they could find a company developing sustainable dyes and make a presentation about why this company deserves investment, compared to others.\n- Have students research [Rangi Te Kanawa](https://en.wikipedia.org/wiki/Rangi_Te_Kanawa), her mother [Diggeress](https://en.wikipedia.org/wiki/Diggeress_Te_Kanawa), and grandmother [Rangimārie](https://en.wikipedia.org/wiki/Rangim%C4%81rie_Hetet), and to reflect on the significance of preserving indigenous technologies.",
+      "InitiallyExpanded": true
+    },
+    "background": {
+      "__component": "lesson-plan.collapsible-text-section",
+      "SectionTitle": "Background",
+      "Content": "#### Māori Culture\nFor those unfamiliar with Māori culture and language, here are some helpful links.\n- [Written Māori pronunciation guide](https://www.wgtn.ac.nz/maori-hub/ako/te-reo-at-university/te-reo-maori-pronunciation-guide) and [Video of Māori vowel pronunciation](https://www.youtube.com/watch?v=O_DtsHdMAtk)\n- [Māori dictionary](https://maoridictionary.co.nz/)\n- [Māori history Wikipedia entry](https://en.wikipedia.org/wiki/M%C4%81ori_history)\n \n#### Scientific Background\nThis lesson helps build a high-level understanding of the different processes behind 3 dye technologies: 2 derived from natural resources (tānekaha red and Tyrian purple) and 1 derived from fossil fuels (mauveine). You and your students can gain more detailed knowledge by reading this scientific paper, coauthored by Rangi Te Kanawa.\n![Screenshot of the journal article](https://gp-catalog.vercel.app/lessons/ColourfulSolns_en-NZ/paper.png)\n- [Link to Journal Article](https://www.dominikmatus.cz/files/Some%20Traditional%20Colourants%20of%20Maori%20and%20other%20Cultures.pdf)\n#### Further Reading:\n- [Middle East Eye | “Smelly Snails and deep purple: This ancient dye costs $2,700 per gram”](https://www.middleeasteye.net/discover/colour-purple-dyeing-techniques-phoenician-sea-snails)\n- [Pangaia | “Dyes and the Dyeing Process](https://pangaia.com/pages/dyes-and-the-dyeing-process): a marketing blog about clothing company Pangaia’s search for sustainable dyes. Have students read and discuss this blog with a critical eye.\n- [Science History | “Fit to Be Dyed: The enduring appeal of tie-dye”](https://www.sciencehistory.org/distillations/fit-to-be-dyed) ",
+      "InitiallyExpanded": true
+    },
+    "standards-header": {
+      "__component": "lesson-plan.section-heading",
+      "SectionTitle": "Learning Standards"
+    },
+    "standards": {
+      "__component": "lesson-plan.standards",
+      "Data": [
+        {
+          "subject": "Math",
+          "target": true,
+          "sets": [
+            {
+              "slug": "NZC",
+              "name": "NZ Curriculum",
+              "dimensions": [
+                {
+                  "slug": "dummy18",
+                  "name": "Geometry and Measurement",
+                  "standardsGroup": [
+                    {
+                      "lessons": [
+                        "3"
+                      ],
+                      "codes": "Level 4. Measurement",
+                      "grades": [],
+                      "statements": "Students will interpret and use scales, timetables, and charts.",
+                      "alignmentNotes": "- Students will synthesize multiple sources of information stemming from: a complex graph of how the unit price of 3 dye technologies scales with production; group discussions; and consideration of different pros and cons for each technology.",
+                      "subcat": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "subject": "ELA",
+          "target": true,
+          "sets": [
+            {
+              "slug": "NZC",
+              "name": "NZ Curriculum",
+              "dimensions": [
+                {
+                  "slug": "dummy15",
+                  "name": "Listening, Reading, and Viewing",
+                  "standardsGroup": [
+                    {
+                      "lessons": [
+                        "1",
+                        "2",
+                        "3"
+                      ],
+                      "codes": "Level 4. Ideas",
+                      "grades": [],
+                      "statements": "Students will show an increasing understanding of ideas within, across, and beyond texts.",
+                      "alignmentNotes": "- Students will become experts in one of the 3 dye technologies covered by reading a complex text. They will then use their understanding to fill out a concept map of inputs and outputs for the technology involved.",
+                      "subcat": null
+                    },
+                    {
+                      "lessons": [
+                        "1",
+                        "2",
+                        "3"
+                      ],
+                      "codes": "Level 4. Processes and Strategies",
+                      "grades": [],
+                      "statements": "Students will integrate sources of information, processes, and strategies confidently to identify, form, and express ideas.",
+                      "alignmentNotes": "- Students will work together with group members to fill out all 3 concept maps, each based on a different complex text based on a dye technology (Tyrian Purple, Tānekaha Red, and Mauveine)",
+                      "subcat": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "subject": "Science",
+          "target": true,
+          "sets": [
+            {
+              "slug": "NZC",
+              "name": "NZ Curriculum",
+              "dimensions": [
+                {
+                  "slug": "dummy4",
+                  "name": "Material World",
+                  "standardsGroup": [
+                    {
+                      "lessons": [
+                        "3"
+                      ],
+                      "codes": "Level 4. Chemistry and Society",
+                      "grades": [],
+                      "statements": "Students will relate the observed, characteristic chemical and physical properties of a range of different materials to technological uses and natural processes.",
+                      "alignmentNotes": "- In Part 3, students will perform a detailed cost/benefit analysis of 3 dye technologies, based on the cost, scalability, sustainability, and cultural significance. Two dyes are naturally-derived; one is synthesized from fossil fuels.",
+                      "subcat": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "subject": "Math",
+          "target": false,
+          "sets": [
+            {
+              "slug": "NZC",
+              "name": "NZ Curriculum",
+              "dimensions": [
+                {
+                  "slug": "dummy19",
+                  "name": "Geometry and Measurement",
+                  "standardsGroup": [
+                    {
+                      "lessons": [
+                        "3"
+                      ],
+                      "codes": "Level 5. Position and Orientation",
+                      "grades": [],
+                      "statements": "Students will interpret points and lines on co-ordinate planes, including scales and bearings on maps.",
+                      "alignmentNotes": "- Students will interpret curves on a complex graph of how the unit price of 3 dye technologies scales with production to inform a detailed cost/benefit analysis.",
+                      "subcat": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "subject": "ELA",
+          "target": false,
+          "sets": [
+            {
+              "slug": "NZC",
+              "name": "NZ Curriculum",
+              "dimensions": [
+                {
+                  "slug": "dummy17",
+                  "name": "Listening, Reading, and Viewing",
+                  "standardsGroup": [
+                    {
+                      "lessons": [
+                        "1",
+                        "2",
+                        "3"
+                      ],
+                      "codes": "Level 5. Ideas",
+                      "grades": [],
+                      "statements": "Students will show an increasing understanding of ideas within, across, and beyond texts.",
+                      "alignmentNotes": "- Students will become experts in one of the 3 dye technologies covered by reading a complex text. They will then use their understanding to fill out a concept map of inputs and outputs for the technology involved.",
+                      "subcat": null
+                    },
+                    {
+                      "lessons": [
+                        "1",
+                        "2",
+                        "3"
+                      ],
+                      "codes": "Level 5. Processes and Strategies",
+                      "grades": [],
+                      "statements": "Students will integrate sources of information, processes, and strategies purposefully and confidently to identify, form, and express increasingly sophisticated ideas.",
+                      "alignmentNotes": "- Students will work together with group members to fill out all 3 concept maps, each based on a different complex text based on a dye technology (Tyrian Purple, Tānekaha Red, and Mauveine)",
+                      "subcat": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "subject": "Science",
+          "target": false,
+          "sets": [
+            {
+              "slug": "NZC",
+              "name": "NZ Curriculum",
+              "dimensions": [
+                {
+                  "slug": "dummy2",
+                  "name": "Nature of Science",
+                  "standardsGroup": [
+                    {
+                      "lessons": [
+                        "1",
+                        "2",
+                        "3"
+                      ],
+                      "codes": "Level 4. Investigating in Science",
+                      "grades": [],
+                      "statements": "Students will:\n- Build on prior experiences, working together to share and examine their own and others’ knowledge. \n- Ask questions, find evidence, explore simple models, and carry out appropriate investigations to develop simple explanations.",
+                      "alignmentNotes": "- Students will work together with group members to fill out 3 concept maps showing the inputs and outputs of each dye technology: Tyrian Purple, Tānekaha Red, and Mauveine. They will also participate in class discussions and individual reflection based on this group work.",
+                      "subcat": null
+                    },
+                    {
+                      "lessons": [
+                        "3"
+                      ],
+                      "codes": "Level 4. Participating and Contributing",
+                      "grades": [],
+                      "statements": "Students will:\n- Use their growing science knowledge when considering issues of concern to them.\n- Explore various aspects of an issue and make decisions about possible actions.",
+                      "alignmentNotes": "- In Part 3, students will perform a detailed cost/benefit analysis of 3 dye technologies, based on the cost, scalability, sustainability, and cultural significance. They will make a recommendation for which dye to use, based on this analysis.",
+                      "subcat": null
+                    },
+                    {
+                      "lessons": [
+                        "1",
+                        "2",
+                        "3"
+                      ],
+                      "codes": "Level 4. Understanding about Science",
+                      "grades": [],
+                      "statements": "Students will:\n- Appreciate that science is a way of explaining the world and that science knowledge changes over time\n- Identify ways in which scientists work together and provide evidence to support their ideas",
+                      "alignmentNotes": "- Throughout the lesson, students will learn about different technologies (developed beginning 4,000 years ago) have impacted different societies, and how our growing understanding of chemical processes has increased access to dyes (and colourful fabrics), while causing other environmental and cultural challenges.",
+                      "subcat": null
+                    },
+                    {
+                      "lessons": [
+                        "1",
+                        "2",
+                        "3"
+                      ],
+                      "codes": "Level 5. Communicating in Science",
+                      "grades": [],
+                      "statements": "Students will:\n- Use a wider range of science vocabulary, symbols, and conventions. \n- Apply their understandings of science to evaluate both popular and scientific texts (including visual and numerical literacy).",
+                      "alignmentNotes": "- Students will incorporate new vocabulary associated with dye technologies and analyze complex graphs.",
+                      "subcat": null
+                    },
+                    {
+                      "lessons": [
+                        "3"
+                      ],
+                      "codes": "Level 5. Participating and Contributing",
+                      "grades": [],
+                      "statements": "Students will develop an understanding of socio-scientific issues by gathering relevant scientific information in order to draw evidence-based conclusions and to take action where appropriate.",
+                      "alignmentNotes": "- In Part 3, students will perform a detailed cost/benefit analysis of 3 dye technologies, based on the cost, scalability, sustainability, and cultural significance. They will make a recommendation for which dye to use, based on this analysis.",
+                      "subcat": null
+                    }
+                  ]
+                },
+                {
+                  "slug": "dummy7",
+                  "name": "Material World",
+                  "standardsGroup": [
+                    {
+                      "lessons": [
+                        "3"
+                      ],
+                      "codes": "Level 5. Chemistry and Society",
+                      "grades": [],
+                      "statements": "Students will link the properties of different groups of substances to the way they are used in society or occur in nature.",
+                      "alignmentNotes": "- In Part 3, students will perform a detailed cost/benefit analysis of 3 dye technologies, based on the cost, scalability, sustainability, and cultural significance. Two dyes are naturally-derived; one is synthesized from fossil fuels.",
+                      "subcat": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "subject": "Social Studies",
+          "target": false,
+          "sets": [
+            {
+              "slug": "NZC",
+              "name": "NZ Curriculum",
+              "dimensions": [
+                {
+                  "slug": "dummy8",
+                  "name": "Social Studies",
+                  "standardsGroup": [
+                    {
+                      "lessons": [
+                        "1"
+                      ],
+                      "codes": "Level 4",
+                      "grades": [],
+                      "statements": "Students will understand how people pass on and sustain culture and heritage for different reasons and that this has consequences for people.",
+                      "alignmentNotes": "- Students will learn about mātaraunga Māori (traditional knowledge) related to the making of a red dye from tree bark, as well as the ancient practice of making Tyrian purple from marine snails. They will reflect on and discuss the cultural significance of these dyes and contrast with modern synthetic dyes.",
+                      "subcat": null
+                    },
+                    {
+                      "lessons": [
+                        "1"
+                      ],
+                      "codes": "Level 4",
+                      "grades": [],
+                      "statements": "Students will understand how exploration and innovation create opportunities and challenges for people, places, and environments.",
+                      "alignmentNotes": "- Students will learn how dye technologies were discovered, passed down, or rediscovered, and reflect on their cultural significance and sustainability.",
+                      "subcat": null
+                    },
+                    {
+                      "lessons": [
+                        "3"
+                      ],
+                      "codes": "Level 5",
+                      "grades": [],
+                      "statements": "Students will understand how people’s management of resources impacts on environmental and social sustainability.",
+                      "alignmentNotes": "- Students will consider the sustainability of each dye technology in the cost/benefit analysis.",
+                      "subcat": null
+                    },
+                    {
+                      "lessons": [
+                        "1"
+                      ],
+                      "codes": "Level 5",
+                      "grades": [],
+                      "statements": "Students will understand how the ideas and actions of people in the past have had a significant impact on people’s lives.",
+                      "alignmentNotes": "- Students will learn how dye technologies were discovered, passed down, or rediscovered, and reflect on their cultural significance and sustainability.",
+                      "subcat": null
+                    },
+                    {
+                      "lessons": [
+                        "2"
+                      ],
+                      "codes": "Level 5",
+                      "grades": [],
+                      "statements": "Students will understand how people seek and have sought economic growth through business, enterprise, and innovation.",
+                      "alignmentNotes": "- In P2, students will do a card sort activity that has them think about the steps and costs involved with producing the first garment using each dye technology. They will then synthesize and expand this knowledge to understand how an entrepreneur balances various concerns to choose a technology that meets the diverse needs of a particular target consumer.",
+                      "subcat": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "feedback": {
+      "__component": "lesson-plan.collapsible-text-section",
+      "SectionTitle": "Feedback",
+      "Content": "### Please let us know how it went with your class! \n#### We want to know what you (and/or your students) think!\nShare your feedback in < 5 min with these forms:\n- [For teachers](https://docs.google.com/forms/d/e/1FAIpQLSd5KEkRFBHRk38k28Pnv4qUTixW-zomGVrVi6WEm8KUwA2I2w/viewform?usp=sf_link)\n- [For students](https://forms.gle/6DChgVkyKK1fCNof9)\n",
+      "InitiallyExpanded": true
+    },
+    "credits": {
+      "__component": "lesson-plan.collapsible-text-section",
+      "SectionTitle": "Credits",
+      "Content": "#### Lesson Author and Creative Director:\n[Matt Wilkins, PhD](https://www.mattwilkinsbio.com)\n \n#### Lesson Author and Graphic Design Consultant:\n[Stephanie Castillo, PhD](https://www.phuturedoctors.com/)\n \n#### Education Consultant:\n[Madelyn Leembruggen](http://scholar.harvard.edu/madelynleembruggen)\n\n#### Sponsor and Producer\n[Matthew Cowan, PhD](https://www.canterbury.ac.nz/engineering/contact-us/people/matthew-cowan.html)\n\nPlease [sign up for our mailing list](https://galacticpolymath.us8.list-manage.com/subscribe?u=42413c3d307f9b69fd5d5319e&id=33924ebd91) to hear what’s coming up next!",
+      "InitiallyExpanded": true
+    },
+    "acknowledgments": {
+      "__component": "lesson-plan.acknowledgments",
+      "SectionTitle": "Acknowledgments",
+      "Data": null
+    },
+    "versions": {
+      "__component": "lesson-plan.versions",
+      "SectionTitle": "Version Notes",
+      "Data": [
+        {
+          "major_release": "Beta",
+          "sub_releases": [
+            {
+              "version": "0.1.0",
+              "date": "April 27, 2023",
+              "summary": "Lesson initialized",
+              "notes": null,
+              "acknowledgments": null
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

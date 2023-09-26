@@ -1,0 +1,50 @@
+[
+  {
+    "order": "1",
+    "type": "pdf",
+    "forLsn": "1",
+    "title": "Role With It Cards",
+    "description": null,
+    "lessonRelevance": "Part of a fun simulated data collection activity. Students \"introduce\" their card (by vocalizing and dancing) and build a data table.",
+    "by": "Galactic Polymath",
+    "byLink": "https://www.youtube.com/channel/UCfyBNvN3CH4uWmwOCQVhmhg/featured",
+    "mainLink": "https://drive.google.com/file/d/18YviuSZR_uxPaOwFUGLyERjwl1P_fNz2/preview?rm=minimal",
+    "otherLink": null
+  },
+  {
+    "order": "2",
+    "type": "video",
+    "forLsn": "3",
+    "title": "Borneo Atmospheric Video",
+    "description": "This video sets the ambience for the beginning of Part 3 of our \"Guardian Frogs\" lesson. It situates students in the geographic location, sights, and sounds, and a sense of mystery regarding the island of Borneo.",
+    "lessonRelevance": "An atmospheric video plays as students enter the classroom, immediately immersing them in the lesson's sights and sounds of Borneo.",
+    "by": "Galactic Polymath",
+    "byLink": "https://www.youtube.com/channel/UCfyBNvN3CH4uWmwOCQVhmhg/featured",
+    "mainLink": "https://www.youtube.com/embed/hR28Rd53S6g",
+    "otherLink": null
+  },
+  {
+    "order": "3",
+    "type": "video",
+    "forLsn": "3",
+    "title": "Do Female Frogs Call?",
+    "description": "Dr. Johana Goyes-Vallejos discovers that in the smooth guardian frog of Borneo, female frogs call. In frog species, typically male frogs call, while females stay silent. Dr. Johana Goyes-Vallejos shows that in the smooth guardian frog of Borneo (Limnonectes palavanensis) this is not the case and that female frogs call, too, producing spontaneous vocalizations to attract males. Dr. Goyes-Vallejos’ discovery that female frogs call suggests that L. palavanensis exhibits a reversal in calling behavior and possibly a sex-role-reversed mating system, which would be the first ever observed in a frog species.",
+    "lessonRelevance": "We show parts of this video to introduce students to Dr. Goyes-Vallejos and her research. They will then analyze some of her data.",
+    "by": "Galactic Polymath",
+    "byLink": "https://www.youtube.com/channel/UCfyBNvN3CH4uWmwOCQVhmhg/featured",
+    "mainLink": "https://www.youtube.com/embed/eX5abcrmE7g",
+    "otherLink": null
+  },
+  {
+    "order": "4",
+    "type": "video",
+    "forLsn": "3",
+    "title": "Calling behavior of male and female Guardian Frogs",
+    "description": "Electronic Supplementary Material: Calling behavior of males and females of a Bornean frog with male parental care and possible sex-role reversal (Goyes Vallejos, J., Ulmar Grafe, T., Ahmad Sah, H.H. et al. Behav Ecol Sociobiol. 2017. 71: 95).",
+    "lessonRelevance": "Background video showing that male and female Guardian Frogs look similar, but have a distinct call.",
+    "by": "Johana Goyes Vallejos",
+    "byLink": "https://www.youtube.com/channel/UCwXrzGpv_1ogTfz7lwKCf7A",
+    "mainLink": "https://www.youtube.com/embed/LAqSHDdTKMw",
+    "otherLink": null
+  }
+]

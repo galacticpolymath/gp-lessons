@@ -1,0 +1,37 @@
+{
+  "__component": "lesson-plan.overview",
+  "LearningSummary": "Students will conduct experiments and analyze real scientific data as they *learn about themselves*. They'll learn how our eyes and brains interact to determine what we like and dislike, and apply this knowledge to fish research and the art of character design.",
+  "EstLessonTime": "3 parts x 60-80 min",
+  "GradesOrYears": "Grades",
+  "ForGrades": "5-9",
+  "TargetSubject": "Science",
+  "Text": "#### Driving Question(s):\n1. What makes humans and other animals perceive something as beautiful?\n2. How does the way our brain processes visual input from our eyes affect how we perceive and interact with the world?\n\n#### Essential Question(s):\nHow can science help deepen our understanding of the Arts, Humanities, and ourselves?\n#### Hook(s):\nWarm-up puzzles, fun student-driven experiments, and original artwork are woven into this data-centered lesson.",
+  "Tags": [
+    {
+      "Value": "animal behavior"
+    },
+    {
+      "Value": "the senses"
+    },
+    {
+      "Value": "vision"
+    },
+    {
+      "Value": "fish"
+    },
+    {
+      "Value": "art"
+    },
+    {
+      "Value": "histogram"
+    },
+    {
+      "Value": "boxplot"
+    },
+    {
+      "Value": "data literacy"
+    }
+  ],
+  "SteamEpaulette": "https://storage.googleapis.com/gp-cloud/lessons/ILikeThat_en-US/GP-Learning-Epaulette.png",
+  "SteamEpaulette_vert": "https://storage.googleapis.com/gp-cloud/lessons/ILikeThat_en-US/GP-Learning-Epaulette_vert.png"
+}

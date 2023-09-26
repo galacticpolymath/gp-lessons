@@ -1,0 +1,40 @@
+{
+  "__component": "lesson-plan.overview",
+  "LearningSummary": "Students will deepen their understanding of basic genetics concepts as they dive into real data sets from ongoing research. They will hone critical thinking and communication skills and come away with clear examples of how science can lead to positive impacts on wildlife populations.",
+  "EstLessonTime": "5 x 45 min",
+  "GradesOrYears": "Grades",
+  "ForGrades": "9-12",
+  "TargetSubject": "Science",
+  "Text": "#### Driving Question(s):\nCan genetic rescue (a conservation strategy involving movement of individuals across populations) prevent the extinction of endangered species?\n#### Essential Question(s):\nHow do we use scientific methods to measure and develop solutions for our negative impacts on the world?\n#### Hook(s):\nNumerous puzzles, group activities, compelling videos, and active discussions draw students into real world problems.",
+  "Tags": [
+    {
+      "Value": "genetic rescue"
+    },
+    {
+      "Value": "genetics"
+    },
+    {
+      "Value": "conservation"
+    },
+    {
+      "Value": "fish"
+    },
+    {
+      "Value": "cat"
+    },
+    {
+      "Value": "natural selection"
+    },
+    {
+      "Value": "variation"
+    },
+    {
+      "Value": "evolution"
+    },
+    {
+      "Value": "extinction"
+    }
+  ],
+  "SteamEpaulette": "https://storage.googleapis.com/gp-cloud/lessons/geneticRescue_sci/GP-Learning-Epaulette.png",
+  "SteamEpaulette_vert": "https://storage.googleapis.com/gp-cloud/lessons/geneticRescue_sci/GP-Learning-Epaulette_vert.png"
+}

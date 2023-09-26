@@ -1,0 +1,1248 @@
+{
+  "numID": 6,
+  "_id": "lesson_6_en-US",
+  "ShortTitle": "ElectricCrystals",
+  "PublicationStatus": "Live",
+  "Language": "English",
+  "Country": "United States",
+  "DefaultLanguage": "English",
+  "DefaultCountry": "United States",
+  "LastUpdated": "2023-09-17 21:43:01.643435",
+  "FirstPublicationDate": "2023-04-10 12:14:57",
+  "MediumTitle": "'Electric Crystals' |Science| G7-12 (en-US)",
+  "lang": "en",
+  "lng": "eng",
+  "locale": "en-US",
+  "DefaultLocale": "en-US",
+  "TemplateVer": "0.6.0",
+  "galacticPubsVer": "0.9.7",
+  "isTestRepo": false,
+  "URL": "https://galacticpolymath.com/lessons/6",
+  "GdriveHome": "GP-LIVE",
+  "GdriveDirName": "ElectricCrystals_en-US",
+  "GdriveTeachMatPath": "GalacticPolymath/'Electric Crystals' |Science| G7-12 (en-US)",
+  "GdriveTeachMatID": null,
+  "GdrivePublicID": "17GmAzcNYGrrTw7iBV-QQYHrPxw-C69WX",
+  "GdriveDirID": "1J24HOKWaZM346IKL2Vs32YjAu9fvlEj5",
+  "GdriveMetaID": "1dlkMAHfl7P-uFno3U_9lCheDFew3SjT5",
+  "GdriveTeachItID": "1MYi32nIbB2doL2gpvUz8HVoSi7XgGYFAzkeCGLSFtrA",
+  "GdriveStandardsID": "1pmi9qRJXBUrzHP-j9-BkyO58DnuZVu4fsV7dohVOheo",
+  "GdrivePublishedID": "1dlN6OdrQXZi4YzV0-9sjsaPL3ZDAQK-C",
+  "GdriveDirURL": "https://drive.google.com/drive/folders/1J24HOKWaZM346IKL2Vs32YjAu9fvlEj5",
+  "RebuildAllMaterials": false,
+  "ReleaseDate": "2023-05-07",
+  "Title": "Electric Crystals",
+  "Subtitle": "Exploring how crystal symmetry can power everyday life",
+  "SponsorName": [
+    "NSF",
+    "FunsizePhysics",
+    "University of Nebraska-Lincoln"
+  ],
+  "SponsoredBy": "- [Funsize Physics](https://funsizephysics.com/), where working scientists invite *you* to share in the joy of scientific discovery.\n- National Science Foundation grant DMR 2048959",
+  "SponsorLogo": [
+    "https://storage.googleapis.com/gp-cloud/lessons/ElectricCrystals_en-US/FunSizePhysics_logo.png",
+    "https://storage.googleapis.com/gp-cloud/lessons/ElectricCrystals_en-US/NSF_4-Color_bitmap_Logo@0.25x.png",
+    "https://storage.googleapis.com/gp-cloud/lessons/ElectricCrystals_en-US/R-UNL_RGB_logo.jpg"
+  ],
+  "LessonBanner": "https://storage.googleapis.com/gp-cloud/lessons/ElectricCrystals_en-US/banner.png",
+  "LessonCard": "https://storage.googleapis.com/gp-cloud/lessons/ElectricCrystals_en-US/card.png",
+  "TargetSubject": "Science",
+  "LessonEnvir": "Classroom",
+  "ForGrades": "7-12",
+  "GradesOrYears": "Grades",
+  "Section": {
+    "overview": {
+      "__component": "lesson-plan.overview",
+      "LearningSummary": "Crystals aren't magic, but they are amazing! In this student-driven, lecture-free lesson, students will do card sorts, build hands-on models, solve engineering design puzzles, and more! The whole experience is connected through a beautifully crafted comic and supporting videos.",
+      "EstLessonTime": "4 x 45 min classes",
+      "GradesOrYears": "Grades",
+      "ForGrades": "7-12",
+      "TargetSubject": "Science",
+      "Text": "#### Driving Question(s):\n- What are crystals and how do they form?\n- How is molecular microstructure connected to functionality and properties we can easily observe?\n#### Essential Question(s):\nWhy are abstract concepts like geometry important for “real life”?\n#### Hook(s):\nAn engaging, original comic weaves together background information, hands-on activities, puzzles, and problem sets. Quick videos stoke curiosity and provide support for activities.",
+      "Tags": [
+        {
+          "Value": "crystals"
+        },
+        {
+          "Value": "engineering applications"
+        },
+        {
+          "Value": "symmetry"
+        },
+        {
+          "Value": "physics"
+        }
+      ],
+      "SteamEpaulette": "https://storage.googleapis.com/gp-cloud/lessons/ElectricCrystals_en-US/GP-Learning-Epaulette.png",
+      "SteamEpaulette_vert": "https://storage.googleapis.com/gp-cloud/lessons/ElectricCrystals_en-US/GP-Learning-Epaulette_vert.png"
+    },
+    "preview": {
+      "__component": "lesson-plan.lesson-preview",
+      "SectionTitle": "Lesson Preview",
+      "QuickPrep": "1. Check out lesson multimedia below\n2. Look over <AnchorLink href=\"#teaching_materials\"> Teaching Materials <\/AnchorLink>\n3. Teach it and <AnchorLink href=\"#feedback\"> let us know what you think! <\/AnchorLink>\n",
+      "Multimedia": [
+        {
+          "order": "1",
+          "type": "pdf",
+          "forLsn": "1",
+          "title": "Comic-infused worksheets",
+          "description": null,
+          "lessonRelevance": "Caroline Hu's comics teach important science concepts and captivate students!",
+          "by": "Galactic Polymath",
+          "byLink": "https://www.youtube.com/channel/UCfyBNvN3CH4uWmwOCQVhmhg/featured",
+          "mainLink": "https://docs.google.com/document/d/1QIS_lvkq3jPFQptNWXVwxxRXG1M9sPkOwPmj0917bxQ/preview?rm=minimal",
+          "otherLink": null
+        },
+        {
+          "order": "2",
+          "type": "pdf",
+          "forLsn": "1",
+          "title": "SPEX 3000 Cards",
+          "description": null,
+          "lessonRelevance": "Students connect with the comic narrative using these cards to investigate properties of crystals versus amorphous solids.",
+          "by": "Galactic Polymath",
+          "byLink": "https://www.youtube.com/channel/UCfyBNvN3CH4uWmwOCQVhmhg/featured",
+          "mainLink": "https://docs.google.com/presentation/d/1OzRFuj1akldvdg9HZbcrYxYsFLfrs2V4pWhcCgppnmQ/preview?rm=minimal#slide=id.p",
+          "otherLink": null
+        },
+        {
+          "order": "3",
+          "type": "pdf",
+          "forLsn": "3",
+          "title": "Unit Cell Handout",
+          "description": null,
+          "lessonRelevance": "Cutouts to construct the 3D paper models of crystal unit cells. Students can construct several, or combine with classmates' models.",
+          "by": "Galactic Polymath",
+          "byLink": "https://www.youtube.com/channel/UCfyBNvN3CH4uWmwOCQVhmhg/featured",
+          "mainLink": "https://docs.google.com/presentation/d/1im-4JZzjp-Om_oUxNgvuEqDr9quc1Ry7K3PlROMy2gs/preview?rm=minimal#slide=id.p",
+          "otherLink": null
+        },
+        {
+          "order": "4",
+          "type": "video",
+          "forLsn": "3",
+          "title": "Exploring Crystal Structure and Symmetry (Part 1)",
+          "description": "Learn about the basic repeating unit of crystals with Madelyn in this fun and educational activity. Follow along as she assembles rhombohedron and cube unit cells, exploring rotational and mirror symmetry. This is the perfect video for middle school science teachers or parents looking to engage their children in a hands-on STEM activity.",
+          "lessonRelevance": "Watch Madelyn guide students in constructing unit cells from paper cutouts.",
+          "by": "Galactic Polymath",
+          "byLink": "https://www.youtube.com/channel/UCfyBNvN3CH4uWmwOCQVhmhg/featured",
+          "mainLink": "https://www.youtube.com/embed/M5avLEoWvUI",
+          "otherLink": null
+        },
+        {
+          "order": "5",
+          "type": "video",
+          "forLsn": "3",
+          "title": "Exploring Crystal Structure and Symmetry (Part 2)",
+          "description": "Join Madelyn in Part 2 of this educational STEM activity as she explains how unit cells are used to describe crystal growth and how symmetries must be preserved when connecting them. Watch as she demonstrates the proper stacking of cubes and rhombohedrons to build a crystal, and learn why using multiple types of unit cells can result in growth defects. This video is perfect for middle school science teachers and parents looking to engage their children in hands-on STEM learning.",
+          "lessonRelevance": "Madelyn shows how to use unit cell models to understand 3D symmetry in different structures.",
+          "by": "Galactic Polymath",
+          "byLink": "https://www.youtube.com/channel/UCfyBNvN3CH4uWmwOCQVhmhg/featured",
+          "mainLink": "https://www.youtube.com/embed/O3Dz3ekEYQQ",
+          "otherLink": null
+        },
+        {
+          "order": "6",
+          "type": "video",
+          "forLsn": "4",
+          "title": "The Magic of Piezoelectricity: How Crystals Create Lightning",
+          "description": "Join Madelyn as she demonstrates the incredible piezoelectric effect - how squeezing certain crystals can generate electric sparks that look like lightning! Learn about the science behind this phenomenon and why only certain crystals have this power based on their atomic arrangement and symmetry.",
+          "lessonRelevance": "Madelyn explains piezoelectricity and how it relates to unit cell symmetry.",
+          "by": "Galactic Polymath",
+          "byLink": "https://www.youtube.com/channel/UCfyBNvN3CH4uWmwOCQVhmhg/featured",
+          "mainLink": "https://www.youtube.com/embed/LMiV-9EYrmE",
+          "otherLink": null
+        }
+      ],
+      "InitiallyExpanded": true
+    },
+    "teaching-materials": {
+      "__component": "teaching-resources.teaching-resources",
+      "SectionTitle": "Teaching Materials",
+      "Data": {
+        "lessonPreface": "This lesson is largely student driven. There is no lecture or presentation. Videos provide check-ins and supports. The primary teacher role is to facilitate classroom discussions and engagement.",
+        "lessonDur": "4 x 45 min",
+        "classroom": {
+          "gradeVariantNotes": [
+            {
+              "lsn": "1",
+              "lsnGradeVarNotes": null
+            },
+            {
+              "lsn": "2",
+              "lsnGradeVarNotes": null
+            },
+            {
+              "lsn": "3",
+              "lsnGradeVarNotes": null
+            },
+            {
+              "lsn": "4",
+              "lsnGradeVarNotes": null
+            }
+          ],
+          "resources": [
+            {
+              "grades": "Grades 7-12",
+              "gradePrefix": "G7-12",
+              "links": {
+                "linkText": "Browse & Download All G7-12 Materials",
+                "url": "https://drive.google.com/drive/folders/1deOFzzAvZBO3S022aHBGqq3u6wGYSzCB"
+              },
+              "lessons": [
+                {
+                  "lsn": "1",
+                  "title": "What is a crystal, anyway?",
+                  "tags": [
+                    [
+                      "comic",
+                      "card-based activity"
+                    ]
+                  ],
+                  "preface": "In this engaging, comic-driven lesson, students do individual and group-based activities to understand the characteristics of crystals (like quartz) versus amorphous solids (like glass).",
+                  "tile": null,
+                  "itemList": [
+                    {
+                      "itemTitle": "SPEX 3000 Crystals vs. Amorphous Solids Card Set (Part 1)",
+                      "itemDescription": "Print 1 per Student",
+                      "itemCat": "presentation",
+                      "links": [
+                        {
+                          "linkText": "PDF",
+                          "url": "https://docs.google.com/presentation/d/1OzRFuj1akldvdg9HZbcrYxYsFLfrs2V4pWhcCgppnmQ/export/pdf"
+                        },
+                        {
+                          "linkText": "Copy/Edit in Google Docs",
+                          "url": "https://docs.google.com/presentation/d/1OzRFuj1akldvdg9HZbcrYxYsFLfrs2V4pWhcCgppnmQ/template/preview"
+                        }
+                      ]
+                    },
+                    {
+                      "itemTitle": "Student Worksheet (Part 1)",
+                      "itemDescription": "Print 1 per Student",
+                      "itemCat": "document",
+                      "links": [
+                        {
+                          "linkText": "PDF",
+                          "url": "https://docs.google.com/document/d/1QIS_lvkq3jPFQptNWXVwxxRXG1M9sPkOwPmj0917bxQ/export?format=pdf"
+                        },
+                        {
+                          "linkText": "Copy/Edit in Google Docs",
+                          "url": "https://docs.google.com/document/d/1QIS_lvkq3jPFQptNWXVwxxRXG1M9sPkOwPmj0917bxQ/template/preview"
+                        }
+                      ]
+                    },
+                    {
+                      "itemTitle": "Teacher Worksheet (Part 1)",
+                      "itemDescription": "Print 1 Copy",
+                      "itemCat": "document",
+                      "links": [
+                        {
+                          "linkText": "PDF",
+                          "url": "https://docs.google.com/document/d/1PZvzZ9ytgr7uzo6QZBbqyUHvSe4fwDQ5eoAxdNiSL0Y/export?format=pdf"
+                        },
+                        {
+                          "linkText": "Copy/Edit in Google Docs",
+                          "url": "https://docs.google.com/document/d/1PZvzZ9ytgr7uzo6QZBbqyUHvSe4fwDQ5eoAxdNiSL0Y/template/preview"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "lsn": "2",
+                  "title": "Unit cells and their molecular building blocks",
+                  "tags": [
+                    [
+                      "comic",
+                      "hands-on",
+                      "3D models"
+                    ]
+                  ],
+                  "preface": "Through hands-on activities using gumdrops and toothpicks, students will learn about unit cells that make up the repeating structures of crystals like table salt.",
+                  "tile": null,
+                  "itemList": [
+                    {
+                      "itemTitle": "Teacher Worksheet (Part 2)",
+                      "itemDescription": "Print 1 Copy",
+                      "itemCat": "document",
+                      "links": [
+                        {
+                          "linkText": "PDF",
+                          "url": "https://docs.google.com/document/d/1AhRceruzn8ytn1FSJg-tdxcw0Qmiz6U3OWS8eHG--jc/export?format=pdf"
+                        },
+                        {
+                          "linkText": "Copy/Edit in Google Docs",
+                          "url": "https://docs.google.com/document/d/1AhRceruzn8ytn1FSJg-tdxcw0Qmiz6U3OWS8eHG--jc/template/preview"
+                        }
+                      ]
+                    },
+                    {
+                      "itemTitle": "Student Worksheet (Part 2)",
+                      "itemDescription": "Print 1 per Student",
+                      "itemCat": "document",
+                      "links": [
+                        {
+                          "linkText": "PDF",
+                          "url": "https://docs.google.com/document/d/1731ng2yUv_8RNGV5OB5Bew1WY_Rsky-O7qP5f9C7RNE/export?format=pdf"
+                        },
+                        {
+                          "linkText": "Copy/Edit in Google Docs",
+                          "url": "https://docs.google.com/document/d/1731ng2yUv_8RNGV5OB5Bew1WY_Rsky-O7qP5f9C7RNE/template/preview"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "lsn": "3",
+                  "title": "How do crystals get their shapes?",
+                  "tags": [
+                    [
+                      "comic",
+                      "hands-on",
+                      "3D models"
+                    ]
+                  ],
+                  "preface": "Students make paper models of crystal unit cells and build a large crystal structure together while reflecting on the role of symmetry in crystal formation.",
+                  "tile": null,
+                  "itemList": [
+                    {
+                      "itemTitle": "Crystal 3D Unit Cell Activity Handout (Part 3)",
+                      "itemDescription": "Print at least 1 per student. Need scissors and tape.",
+                      "itemCat": "presentation",
+                      "links": [
+                        {
+                          "linkText": "PDF",
+                          "url": "https://docs.google.com/presentation/d/1im-4JZzjp-Om_oUxNgvuEqDr9quc1Ry7K3PlROMy2gs/export/pdf"
+                        },
+                        {
+                          "linkText": "Copy/Edit in Google Docs",
+                          "url": "https://docs.google.com/presentation/d/1im-4JZzjp-Om_oUxNgvuEqDr9quc1Ry7K3PlROMy2gs/template/preview"
+                        }
+                      ]
+                    },
+                    {
+                      "itemTitle": "Teacher Worksheet (Part 3)",
+                      "itemDescription": "Print 1 Copy",
+                      "itemCat": "document",
+                      "links": [
+                        {
+                          "linkText": "PDF",
+                          "url": "https://docs.google.com/document/d/1w85Gg0xW3xewvVrXx87RI1wGdcDaftwY6iGESm79wOc/export?format=pdf"
+                        },
+                        {
+                          "linkText": "Copy/Edit in Google Docs",
+                          "url": "https://docs.google.com/document/d/1w85Gg0xW3xewvVrXx87RI1wGdcDaftwY6iGESm79wOc/template/preview"
+                        }
+                      ]
+                    },
+                    {
+                      "itemTitle": "Student Worksheet (Part 3)",
+                      "itemDescription": "Print 1 per Student",
+                      "itemCat": "document",
+                      "links": [
+                        {
+                          "linkText": "PDF",
+                          "url": "https://docs.google.com/document/d/1qdfi14wmE6i77z7kh7U2t08YzjFcNyAXMyK35vGQn94/export?format=pdf"
+                        },
+                        {
+                          "linkText": "Copy/Edit in Google Docs",
+                          "url": "https://docs.google.com/document/d/1qdfi14wmE6i77z7kh7U2t08YzjFcNyAXMyK35vGQn94/template/preview"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "lsn": "4",
+                  "title": "Electric crystals and their broken symmetries",
+                  "tags": [
+                    [
+                      "comic",
+                      "puzzles",
+                      "real world applications"
+                    ]
+                  ],
+                  "preface": "Students learn how some crystals produce electricity when squeezed (by the piezoelectric effect). Students perform calculations and explore engineering applications of piezo-devices to deepen understanding and engagement.",
+                  "tile": null,
+                  "itemList": [
+                    {
+                      "itemTitle": "Teacher Worksheet (Part 4)",
+                      "itemDescription": "Print 1 Copy",
+                      "itemCat": "document",
+                      "links": [
+                        {
+                          "linkText": "PDF",
+                          "url": "https://docs.google.com/document/d/1cgrhNQy_nwO8Ej7haVShtuO19RGreX4j_QB1VyoyQ8Q/export?format=pdf"
+                        },
+                        {
+                          "linkText": "Copy/Edit in Google Docs",
+                          "url": "https://docs.google.com/document/d/1cgrhNQy_nwO8Ej7haVShtuO19RGreX4j_QB1VyoyQ8Q/template/preview"
+                        }
+                      ]
+                    },
+                    {
+                      "itemTitle": "Student Worksheet (Part 4)",
+                      "itemDescription": "Print 1 per Student",
+                      "itemCat": "document",
+                      "links": [
+                        {
+                          "linkText": "PDF",
+                          "url": "https://docs.google.com/document/d/1I77jzX1BZZOaNsM9w6JcocpkPw-QJWxfrLJpBzSPxfo/export?format=pdf"
+                        },
+                        {
+                          "linkText": "Copy/Edit in Google Docs",
+                          "url": "https://docs.google.com/document/d/1I77jzX1BZZOaNsM9w6JcocpkPw-QJWxfrLJpBzSPxfo/template/preview"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        "lesson": [
+          {
+            "lsnNum": 1,
+            "lsnTitle": "What is a crystal, anyway?",
+            "lsnDur": 45,
+            "lsnPreface": "In this engaging, comic-driven lesson, students do individual and group-based activities to understand the characteristics of crystals (like quartz) versus amorphous solids (like glass).",
+            "learningObj": [
+              "Understand how molecules form the building blocks of solids, and how crystals have repeating units called \"unit cells.\"",
+              "Synthesize information about different materials to classify them as \"crystals\" versus \"amorphous solids.\""
+            ],
+            "lsnPrep": {
+              "prepTitle": "Prep",
+              "prepDur": 5,
+              "prepQuickDescription": "Print out handouts.",
+              "prepDetails": "- P1 worksheet \n- SPEX 3000 output cards",
+              "prepVariantNotes": null,
+              "prepTeachingTips": null
+            },
+            "chunks": [
+              {
+                "chunkTitle": "Warm-Up",
+                "chunkStart": 0,
+                "chunkDur": 5,
+                "steps": [
+                  {
+                    "Step": 1,
+                    "StepTitle": "Welcome to The Crystal Factory",
+                    "StepQuickDescription": "Start the tour of the factory!",
+                    "StepDetails": "Read the first two comic pages to meet the tour guide, Krista, and enter the crystal factory. Students in the comic have brought items they think might be a crystal. Students are prompted to imagine what item they might bring to a tour of the crystal factory.",
+                    "Vocab": null,
+                    "VariantNotes": null,
+                    "TeachingTips": null
+                  }
+                ]
+              },
+              {
+                "chunkTitle": "The Microstructure of Crystals",
+                "chunkStart": 5,
+                "chunkDur": 30,
+                "steps": [
+                  {
+                    "Step": 2,
+                    "StepTitle": "SPEX 3000 Mystery Solid Analysis",
+                    "StepQuickDescription": "Examine the analysis summaries for each of the items fed into the SPEX 3000.",
+                    "StepDetails": "Students will read and sort the analysis summary cards generated by the SPEX 3000 machine: [♧ SPEX 3000 Cards](https://docs.google.com/presentation/d/1OzRFuj1akldvdg9HZbcrYxYsFLfrs2V4pWhcCgppnmQ/edit#slide=id.p). Each card lists the name of the sample and examples of its visual, microscopic, and chemical structure. The worksheet prompts students to sort these cards in order of personal interest and usefulness.",
+                    "Vocab": null,
+                    "VariantNotes": null,
+                    "TeachingTips": null
+                  },
+                  {
+                    "Step": 3,
+                    "StepTitle": "Is It a Crystal?",
+                    "StepQuickDescription": "The definition of a \"crystal\" is introduced and students determine which of the mystery solids are crystals.",
+                    "StepDetails": "In the comic, Krista explains the definition of a crystal, and students will use the \"computed chemical structure\" section of each SPEX 3000 summary to determine if the mystery solids are crystals or not. Krista also introduces the concept of an amorphous solid, which is not microscopically ordered in the same way as a crystal, and therefore has different kinds of uses. Students will use the worksheet to summarize their understanding of crystals and amorphous solids, and the differences between them.",
+                    "Vocab": "- **crystal:**  a material which is highly organized on a microscopic scale AND has well-defined planes of symmetry (example: quartz)\n- **amorphous solid:**  a solid with some repeating structure like a crystal, but arranged in a disordered way (example: glass)",
+                    "VariantNotes": null,
+                    "TeachingTips": null
+                  }
+                ]
+              },
+              {
+                "chunkTitle": "Wind-Down",
+                "chunkStart": 35,
+                "chunkDur": 10,
+                "steps": [
+                  {
+                    "Step": 4,
+                    "StepTitle": "Debrief",
+                    "StepQuickDescription": "Reflect on the first activity of the factory tour.",
+                    "StepDetails": "The worksheet asks students to reflect on what they learned, what they found surprising, and what they're still curious about.",
+                    "Vocab": null,
+                    "VariantNotes": null,
+                    "TeachingTips": null
+                  }
+                ]
+              }
+            ],
+            "lsnExt": null
+          },
+          {
+            "lsnNum": 2,
+            "lsnTitle": "Unit cells and their molecular building blocks",
+            "lsnDur": 45,
+            "lsnPreface": "Through hands-on activities using gumdrops and toothpicks, students will learn about unit cells that make up the repeating structures of crystals like table salt.",
+            "learningObj": [
+              "Understand how molecules form the building blocks of solids, and how crystals have repeating units called \"unit cells.\"",
+              "Construct a model of table salt crystal microstructure and use the model to infer properties of the crystal \"unit cell.\"",
+              "Interpret models to predict how macrostructure will follow microstructure"
+            ],
+            "lsnPrep": {
+              "prepTitle": "Prep",
+              "prepDur": 5,
+              "prepQuickDescription": "Print out handouts. Assemble supplies.",
+              "prepDetails": "- P2 worksheet\n- Two colors of gumdrops or grapes (14 of each color per student)\n- Toothpicks (42 per student)",
+              "prepVariantNotes": null,
+              "prepTeachingTips": null
+            },
+            "chunks": [
+              {
+                "chunkTitle": "Warm-Up",
+                "chunkStart": 0,
+                "chunkDur": 5,
+                "steps": [
+                  {
+                    "Step": 1,
+                    "StepTitle": "The Unit Cell",
+                    "StepQuickDescription": "Meet the most basic building block of a crystal.",
+                    "StepDetails": "Read the first page of the worksheet to learn that unit cells are the building blocks of a crystal. They can't be divided any farther, or they won't grow into a full crystal. However, unit cells contain lots of molecules and atoms inside them.",
+                    "Vocab": "- **unit cell:**  the smallest possible piece of a crystal",
+                    "VariantNotes": null,
+                    "TeachingTips": null
+                  },
+                  {
+                    "Step": 2,
+                    "StepTitle": "Activity Prep",
+                    "StepQuickDescription": "Assemble your supplies for the molecule-building activity.",
+                    "StepDetails": "Each student should obtain 14 gumdrops or grapes of each color, as well as 42 toothpicks.",
+                    "Vocab": null,
+                    "VariantNotes": null,
+                    "TeachingTips": null
+                  }
+                ]
+              },
+              {
+                "chunkTitle": "The Molecular Structure of NaCl (Table Salt)",
+                "chunkStart": 5,
+                "chunkDur": 30,
+                "steps": [
+                  {
+                    "Step": 3,
+                    "StepTitle": "The Parts of an Atom and Ionic Bonding",
+                    "StepQuickDescription": "Background about some super cool chemistry stuff.",
+                    "StepDetails": "Panels on the worksheet define the parts of an atom-- protons, electrons, and neutrons-- and the concept of electron shells. The process of ionic bonding is also introduced, and students are guided through some comprehension questions to solidify their understanding of these definitions.",
+                    "Vocab": "- **proton:**  positively charged particle\n- **neutron:**  neutrally charged particle\n- **electron:**  negatively charged particle\n- **nucleus:**  center of an atom where protons and neutrons are found\n- **shell:**  different energy levels of the electron cloud surrounding a nucleus",
+                    "VariantNotes": null,
+                    "TeachingTips": null
+                  },
+                  {
+                    "Step": 4,
+                    "StepTitle": "The NaCl Unit Cell",
+                    "StepQuickDescription": "Using toothpicks and gumdrops or grapes to build molecular models and a unit cell.",
+                    "StepDetails": "The worksheet guides students through building four NaCl molecules to start, then the process of connecting the molecules together to begin forming a crystal structure. The symmetry rules of the chemical bonds are summarized, and students are prompted with several comprehension questions on these rules. Students finish building an entire NaCl unit cube, and reflect on its shape and usefulness.",
+                    "Vocab": null,
+                    "VariantNotes": null,
+                    "TeachingTips": null
+                  }
+                ]
+              },
+              {
+                "chunkTitle": "The Molecular Structure of SiO2 (Quartz)",
+                "chunkStart": 35,
+                "chunkDur": 10,
+                "steps": [
+                  {
+                    "Step": 5,
+                    "StepTitle": "Covalent Bonding",
+                    "StepQuickDescription": "Introduction to the more complicated bonds in SiO2 molecules.",
+                    "StepDetails": "Panels on the worksheet introduce the concept of covalent bonding, then explain that the chemical bonds inside SiO2 molecules are more complex than those in NaCl.",
+                    "Vocab": null,
+                    "VariantNotes": null,
+                    "TeachingTips": null
+                  },
+                  {
+                    "Step": 6,
+                    "StepTitle": "(Bonus Challenge: Building SiO2 Molecules)",
+                    "StepQuickDescription": "Using toothpicks and gumdrops or grapes to build molecular models.",
+                    "StepDetails": "More advanced students might enjoy the challenge of building several SiO2 molecular models then attempting to fit them together as a unit cell.",
+                    "Vocab": null,
+                    "VariantNotes": null,
+                    "TeachingTips": null
+                  },
+                  {
+                    "Step": 7,
+                    "StepTitle": "The SiO2 Unit Cell",
+                    "StepQuickDescription": "Diagrams of the SiO2 unit cell.",
+                    "StepDetails": "Projections of the SiO2 unit cell are discussed to lay the foundation for concepts covered in P4. Students can also explore a [3D model of the quartz unit cell](https://bit.ly/3Z0AMDi), and notice that viewing the cell from different angles produces different projections.",
+                    "Vocab": null,
+                    "VariantNotes": null,
+                    "TeachingTips": null
+                  }
+                ]
+              }
+            ],
+            "lsnExt": null
+          },
+          {
+            "lsnNum": 3,
+            "lsnTitle": "How do crystals get their shapes?",
+            "lsnDur": 45,
+            "lsnPreface": "Students make paper models of crystal unit cells and build a large crystal structure together while reflecting on the role of symmetry in crystal formation.",
+            "learningObj": [
+              "Understand how molecules form the building blocks of solids, and how crystals have repeating units called \"unit cells.\"",
+              "Analyze paper models of different crystal unit cells to assess rotational symmetry and other properties.",
+              "Interpret models to predict how macrostructure will follow microstructure"
+            ],
+            "lsnPrep": {
+              "prepTitle": "Prep",
+              "prepDur": 5,
+              "prepQuickDescription": "Print handouts. Assemble materials.",
+              "prepDetails": "- P3 worksheet\n- Unit Cell handout\n- Scissors\n- Toothpicks (2-3 per student)\n- Tape or glue",
+              "prepVariantNotes": null,
+              "prepTeachingTips": null
+            },
+            "chunks": [
+              {
+                "chunkTitle": "Warm-Up",
+                "chunkStart": 0,
+                "chunkDur": 10,
+                "steps": [
+                  {
+                    "Step": 1,
+                    "StepTitle": "Unit Cell Models",
+                    "StepQuickDescription": "Cut out and assemble unit cell models from paper.",
+                    "StepDetails": "Following the instructions on the worksheet, cut out the unit cell meshes: [➚ Unit Cell Handout](https://docs.google.com/presentation/d/1im-4JZzjp-Om_oUxNgvuEqDr9quc1Ry7K3PlROMy2gs/edit#slide=id.p). These models will be used throughout the rest of the lesson.",
+                    "Vocab": null,
+                    "VariantNotes": null,
+                    "TeachingTips": null
+                  }
+                ]
+              },
+              {
+                "chunkTitle": "Symmetry of the Unit Cell",
+                "chunkStart": 10,
+                "chunkDur": 25,
+                "steps": [
+                  {
+                    "Step": 2,
+                    "StepTitle": "What's a Symmetry?",
+                    "StepQuickDescription": "Definitions of rotational and mirror symmetries.",
+                    "StepDetails": "The worksheet shows some examples of rotational and mirror symmetries. Also, check in with a video where Madelyn explains how to observe the symmetries of our unit cell models: [▶ Exploring Crystal Structure and Symmetry (Part 1)](https://youtu.be/M5avLEoWvUI)",
+                    "Vocab": null,
+                    "VariantNotes": null,
+                    "TeachingTips": null
+                  },
+                  {
+                    "Step": 3,
+                    "StepTitle": "Replace the Unit Cell File Labels",
+                    "StepQuickDescription": "Use observations of the unit cell models to identify lost file labels.",
+                    "StepDetails": "The newest employee at The Crystal Factory lost the labels for two of the unit cell files. Students will identify the symmetries of each unit cell model and fill out tables with the relevant information. They'll use the information they gather to determine the missing labels for the file cards.",
+                    "Vocab": null,
+                    "VariantNotes": null,
+                    "TeachingTips": null
+                  },
+                  {
+                    "Step": 4,
+                    "StepTitle": "Build a Crystal",
+                    "StepQuickDescription": "Build a crystal structure from unit cells.",
+                    "StepDetails": "Students will work together (or build more unit cell models, if they're working individually) to create a large crystal structure from their paper unit cells. They'll then reflect on the process of building a crystal from unit cells as opposed to individual molecules. Students can check in again with a video where Madelyn explains how symmetry restricts the ways crystals can form: [▶ Exploring Crystal Structure and Symmetry (Part 2)](https://youtu.be/O3Dz3ekEYQQ)",
+                    "Vocab": null,
+                    "VariantNotes": null,
+                    "TeachingTips": null
+                  }
+                ]
+              },
+              {
+                "chunkTitle": "Wind-Down",
+                "chunkStart": 35,
+                "chunkDur": 10,
+                "steps": [
+                  {
+                    "Step": 5,
+                    "StepTitle": "Design Challenge",
+                    "StepQuickDescription": "Try to create a unit cell without rotational or mirror symmetries.",
+                    "StepDetails": "Things can go wrong if a crystal doesn't have the proper symmetries. Students are prompted to create a unit cell without the symmetries we discuss in this lesson. The comic gives a hint as to how crystals grow from their unit cells, and the special properties their symmetry imparts!",
+                    "Vocab": null,
+                    "VariantNotes": null,
+                    "TeachingTips": null
+                  }
+                ]
+              }
+            ],
+            "lsnExt": null
+          },
+          {
+            "lsnNum": 4,
+            "lsnTitle": "Electric crystals and their broken symmetries",
+            "lsnDur": null,
+            "lsnPreface": "Students learn how some crystals produce electricity when squeezed (by the piezoelectric effect). Students perform calculations and explore engineering applications of piezo-devices to deepen understanding and engagement.",
+            "learningObj": [
+              "Understand how molecules form the building blocks of solids, and how crystals have repeating units called \"unit cells.\"",
+              "Interpret models to predict how macrostructure will follow microstructure",
+              "Perform (scaffolded) calculations based on molecular net charge to determine if different materials are piezoelectric (i.e. produce electricity when squeezed).",
+              "Envision electronic applications based on the properties of crystals"
+            ],
+            "lsnPrep": {
+              "prepTitle": "Prep",
+              "prepDur": 5,
+              "prepQuickDescription": "Print handouts.",
+              "prepDetails": null,
+              "prepVariantNotes": null,
+              "prepTeachingTips": null
+            },
+            "chunks": [
+              {
+                "chunkTitle": "Warm-Up",
+                "chunkStart": 0,
+                "chunkDur": 5,
+                "steps": [
+                  {
+                    "Step": 1,
+                    "StepTitle": "Crystals' Shocking Properties",
+                    "StepQuickDescription": "One of crystals' seemingly magical properties: the piezoelectric effect!",
+                    "StepDetails": "The comic introduces the concept of piezoelectricity: the phenomenon where a mechanical deformation results in a small charge on the surface of a crystal.",
+                    "Vocab": "- **piezoelectric:**  mechanical deformations result in a small electric charge",
+                    "VariantNotes": null,
+                    "TeachingTips": null
+                  }
+                ]
+              },
+              {
+                "chunkTitle": "The PIezoelectric Effect",
+                "chunkStart": 5,
+                "chunkDur": 25,
+                "steps": [
+                  {
+                    "Step": 2,
+                    "StepTitle": "Dipole Moment",
+                    "StepQuickDescription": "Learn about dipole moment of a configuration of charges.",
+                    "StepDetails": "Read the worksheet's explanation of dipole moment, and how geometry affects electric charge just as much as charge magnitude does. Students are guided through an example dipole moment calculation for an undeformed NaCl configuration. They're then prompted to calculate the dipole moment for the SiO2 configurations.",
+                    "Vocab": "- **dipole moment:**  quantifies the strength a charge separation, can be detected as an electrical signal",
+                    "VariantNotes": null,
+                    "TeachingTips": null
+                  },
+                  {
+                    "Step": 3,
+                    "StepTitle": "Symmetry is Key",
+                    "StepQuickDescription": "Check in with a video about the effects of symmetry on crystal properties.",
+                    "StepDetails": "In this video Madelyn explains the source of piezoelectricity and how the symmetry of atoms inside a unit cell determines whether the material is piezoelectric. Students will then reflect on their NaCl and SiO2 calculations with this new explanation in mind.",
+                    "Vocab": null,
+                    "VariantNotes": null,
+                    "TeachingTips": null
+                  }
+                ]
+              },
+              {
+                "chunkTitle": "Piezos in Action",
+                "chunkStart": 30,
+                "chunkDur": 10,
+                "steps": [
+                  {
+                    "Step": 4,
+                    "StepTitle": "Identify the Device",
+                    "StepQuickDescription": "Based on schematic diagrams, determine the identity of devices with piezos.",
+                    "StepDetails": "The properties of piezoelectric crystals mean they can be used as a a sensor or an actuator. Listed in a wordbank are six devices which use actual piezos. Students will use the wordbank to determine which devices are represented by the schematic diagrams.",
+                    "Vocab": null,
+                    "VariantNotes": null,
+                    "TeachingTips": null
+                  }
+                ]
+              },
+              {
+                "chunkTitle": "Wind-Down",
+                "chunkStart": 40,
+                "chunkDur": 5,
+                "steps": [
+                  {
+                    "Step": 5,
+                    "StepTitle": "The Crystal Factory Feedback Form",
+                    "StepQuickDescription": "Please fill out the survey to leave feedback for The Crystal Factory employees.",
+                    "StepDetails": "On this feedback form students can reflect on their favorite part of the tour, any remaining questions, and topics they're excited to learn more about. The comic ends with Krista geeking out about the amazing applications of symmetry and crystals, and the students on the tour seem to really get the message!",
+                    "Vocab": null,
+                    "VariantNotes": null,
+                    "TeachingTips": null
+                  }
+                ]
+              }
+            ],
+            "lsnExt": null
+          }
+        ],
+        "gatheredVocab": [
+          {
+            "term": "crystal",
+            "definition": "a material which is highly organized on a microscopic scale AND has well-defined planes of symmetry (example: quartz)"
+          },
+          {
+            "term": "amorphous solid",
+            "definition": "a solid with some repeating structure like a crystal, but arranged in a disordered way (example: glass)"
+          },
+          {
+            "term": "unit cell",
+            "definition": "the smallest possible piece of a crystal"
+          },
+          {
+            "term": "proton",
+            "definition": "positively charged particle"
+          },
+          {
+            "term": "neutron",
+            "definition": "neutrally charged particle"
+          },
+          {
+            "term": "electron",
+            "definition": "negatively charged particle"
+          },
+          {
+            "term": "nucleus",
+            "definition": "center of an atom where protons and neutrons are found"
+          },
+          {
+            "term": "shell",
+            "definition": "different energy levels of the electron cloud surrounding a nucleus"
+          },
+          {
+            "term": "piezoelectric",
+            "definition": "mechanical deformations result in a small electric charge"
+          },
+          {
+            "term": "dipole moment",
+            "definition": "quantifies the strength a charge separation, can be detected as an electrical signal"
+          }
+        ]
+      }
+    },
+    "background": {
+      "__component": "lesson-plan.collapsible-text-section",
+      "SectionTitle": "Background",
+      "Content": "#### Connection to Research\n Students explore the various ways that scientists study crystals across scales: molecular models, modular unit cells, and bulk solid materials. They learn not only about crystals, but also the value of representing the same information in several ways to learn different things.\nThis lesson is also an exploration of symmetry and its importance in nature. Symmetry is what allows crystals to grow, and also what gives them some of their special powers, like the piezoelectric effect! Through video demonstrations and clear worksheet instructions, students are guided through activities in 3D modeling as well as electric dipole calculations to experience how symmetry determines all the properties of a crystal. \n#### Research Background\n Crystals occupy a very specific niche in public discourse—especially with the controversy about their supposed powers for magic and healing. Yet these fantastic, naturally occurring materials are truly essential for our lives in many concrete ways. We need many types of crystals to maintain our health, such as salt or iodine. And most of our technology, such as semiconductor chips, depends on the regular structures that atoms form in crystals.\nThe discovery of piezoelectric materials in the 1800s further revolutionized our technological devices. Piezos are useful for sensing and actuation, and can sense and deform very precisely. These materials are all around us, but typically their properties are only studied by advanced graduate students in material science, electrical engineering, or physics. At the end of the day, the special features of these amazing materials depend entirely on the (a)symmetry of the crystal structure.\n#### Further Reading:\n- [It’s a Material World Podcast: Piezoelectric Materials: In Your Body, Underwater, and In Space](https://www.itsamaterialworldpodcast.com/podcast/episode/546c1514/41-piezoelectric-materials-in-your-body-underwater-and-in-space-ft-dr-susan-trolier-mckinstry)\n- [Graz University of Technology: Advanced Solid State Physics | Piezoelectricity](http://lampx.tugraz.at/~hadley/ss2/crystalphysics/piezo.php)\n- [Journal of Physics: Conference Series | The Piezoelectric Effect – an Indispensable Solid State Effect for Contemporary Actuator and Sensor\nTechnologies](https://iopscience.iop.org/article/10.1088/1742-6596/1775/1/012012/pdf)\n",
+      "InitiallyExpanded": true
+    },
+    "standards-header": {
+      "__component": "lesson-plan.section-heading",
+      "SectionTitle": "Learning Standards"
+    },
+    "standards": {
+      "__component": "lesson-plan.standards",
+      "Data": [
+        {
+          "subject": "Math",
+          "target": false,
+          "sets": [
+            {
+              "slug": "CCM",
+              "name": "Common Core Math",
+              "dimensions": [
+                {
+                  "slug": "AGTC&HLT",
+                  "name": "Algebra, Geometry, Trig, Calculus & Higher Level Thinking",
+                  "standardsGroup": [
+                    {
+                      "lessons": [
+                        "4"
+                      ],
+                      "codes": "7.EE.B.4",
+                      "grades": "7",
+                      "statements": "Use variables to represent quantities in a real-world or mathematical problem, and construct simple equations and inequalities to solve problems by reasoning about the quantities.",
+                      "alignmentNotes": "- Through a (heavily scaffolded) calculation to compute the dipole moment of a crystal subunit, students interpret variables for distance and electric charge.",
+                      "subcat": null
+                    },
+                    {
+                      "lessons": [
+                        "3"
+                      ],
+                      "codes": "8.G.A.1",
+                      "grades": "8",
+                      "statements": "Verify experimentally the properties of rotations, reflections, and translations:",
+                      "alignmentNotes": "- Students build from paper and manipulate two kinds of geometric unit cells: the cube and a rhombohedron. They quantify its rotational and reflective symmetries.",
+                      "subcat": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "subject": "ELA",
+          "target": false,
+          "sets": [
+            {
+              "slug": "CCELA",
+              "name": "Common Core ELA",
+              "dimensions": [
+                {
+                  "slug": "W",
+                  "name": "Writing",
+                  "standardsGroup": [
+                    {
+                      "lessons": [
+                        "1",
+                        "2",
+                        "3",
+                        "4"
+                      ],
+                      "codes": "W.7.1b",
+                      "grades": "7",
+                      "statements": "Support claim(s) with logical reasoning and relevant evidence, using accurate, credible sources and demonstrating an understanding of the topic or text.",
+                      "alignmentNotes": "- Students interpret the texts about crystals, molecular bonding, symmetry, and piezoelectricity to make claims about their definition and uses, supported by evidence in the readings.",
+                      "subcat": null
+                    },
+                    {
+                      "lessons": [
+                        "1",
+                        "2",
+                        "3",
+                        "4"
+                      ],
+                      "codes": "W.8.1b",
+                      "grades": "8",
+                      "statements": "Support claim(s) with logical reasoning and relevant evidence, using accurate, credible sources and demonstrating an understanding of the topic or text.",
+                      "alignmentNotes": "- Students interpret the texts about crystals, molecular bonding, symmetry, and piezoelectricity to make claims about their definition and uses, supported by evidence in the readings.",
+                      "subcat": null
+                    },
+                    {
+                      "lessons": [
+                        "1",
+                        "2",
+                        "3",
+                        "4"
+                      ],
+                      "codes": "W.9-10.1",
+                      "grades": [
+                        "9",
+                        "10"
+                      ],
+                      "statements": "Write arguments to support claims in an analysis of substantive topics or texts, using valid reasoning and relevant and sufficient evidence.",
+                      "alignmentNotes": "- Students interpret the texts about crystals, molecular bonding, symmetry, and piezoelectricity to make claims about their definition and uses, supported by evidence in the readings.",
+                      "subcat": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "subject": "Science",
+          "target": false,
+          "sets": [
+            {
+              "slug": "NGSS",
+              "name": "NGSS",
+              "dimensions": [
+                {
+                  "slug": "SEP",
+                  "name": "Science & Engineering Practices",
+                  "standardsGroup": [
+                    {
+                      "lessons": [
+                        "2",
+                        "3"
+                      ],
+                      "codes": "CEDS-M2",
+                      "grades": [
+                        "6",
+                        "7",
+                        "8"
+                      ],
+                      "statements": "Construct an explanation using models or representations.",
+                      "alignmentNotes": "- Students create molecular models of crystal unit cells, as well as geometric models of unit cells. They interpret how the two types of representations have different benefits and uses.",
+                      "subcat": "Constructing Explanations & Designing Solutions"
+                    }
+                  ]
+                },
+                {
+                  "slug": "CCC",
+                  "name": "Cross-Cutting Concepts",
+                  "standardsGroup": [
+                    {
+                      "lessons": [
+                        "4"
+                      ],
+                      "codes": "SF-M2",
+                      "grades": [
+                        "6",
+                        "7",
+                        "8"
+                      ],
+                      "statements": "Structures can be designed to serve particular functions by taking into account properties of different materials, and how materials can be shaped and used.",
+                      "alignmentNotes": "- Through discussions of amorphous solids and crystals with and without the piezoelectric effect, students envision uses for each type of material based on their properties.",
+                      "subcat": "Structure & Function"
+                    },
+                    {
+                      "lessons": [
+                        "1",
+                        "2",
+                        "3",
+                        "4"
+                      ],
+                      "codes": "PAT-M1",
+                      "grades": [
+                        "6",
+                        "7",
+                        "8"
+                      ],
+                      "statements": "Macroscopic patterns are related to the nature of microscopic and atomic-level structure.",
+                      "alignmentNotes": "- Using unit cell models, students predict what the final crystal structure might look like. Students also learn how the asymmetric atmoic structure of a crystal unit cell can give rise to properties such as the piezoelectric effect.",
+                      "subcat": "Patterns"
+                    },
+                    {
+                      "lessons": [
+                        "4"
+                      ],
+                      "codes": "SF-H1",
+                      "grades": [
+                        "9",
+                        "10",
+                        "11",
+                        "12"
+                      ],
+                      "statements": "Investigating or designing new systems or structures requires a detailed examination of the properties of different materials, the structures of different components, and connections of components to reveal its function and/or solve a problem.",
+                      "alignmentNotes": "- Through discussions of amorphous solids and crystals with and without the piezoelectric effect, students envision uses for each type of material based on their properties.",
+                      "subcat": "Structure & Function"
+                    },
+                    {
+                      "lessons": [
+                        "1",
+                        "2",
+                        "3",
+                        "4"
+                      ],
+                      "codes": "PAT-H1",
+                      "grades": [
+                        "9",
+                        "10",
+                        "11",
+                        "12"
+                      ],
+                      "statements": "Different patterns may be observed at each of the scales at which a system is studied and can provide evidence for causality in explanations of phenomena.",
+                      "alignmentNotes": "- Students create molecular models of crystal unit cells, as well as geometric models of unit cells. They interpret how the two types of representations have different benefits and uses, and when each representation might be useful. They also draw connections between the two models and explore how the symmetries of the more detailed model constrain the allowed configurations of the coarser model.",
+                      "subcat": "Patterns"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "subject": "Science",
+          "target": true,
+          "sets": [
+            {
+              "slug": "NGSS",
+              "name": "NGSS",
+              "dimensions": [
+                {
+                  "slug": "SEP",
+                  "name": "Science & Engineering Practices",
+                  "standardsGroup": [
+                    {
+                      "lessons": [
+                        "2",
+                        "3",
+                        "4"
+                      ],
+                      "codes": "MOD-M5",
+                      "grades": [
+                        "6",
+                        "7",
+                        "8"
+                      ],
+                      "statements": "Develop and/or use a model to predict and/or describe phenomena.",
+                      "alignmentNotes": "- Using unit cell models, students predict what the final crystal structure might look like.",
+                      "subcat": "Developing & Using Models"
+                    },
+                    {
+                      "lessons": [
+                        "2",
+                        "3"
+                      ],
+                      "codes": "MOD-H4",
+                      "grades": [
+                        "9",
+                        "10",
+                        "11",
+                        "12"
+                      ],
+                      "statements": "Develop and/or use multiple types of models to provide mechanistic accounts and/or predict phenomena, and move flexibly between model types based on merits and limitations.",
+                      "alignmentNotes": "- Students create molecular models of crystal unit cells, as well as geometric models of unit cells. They interpret how the two types of representations have different benefits and uses, and when each representation might be useful.",
+                      "subcat": "Developing & Using Models"
+                    },
+                    {
+                      "lessons": [
+                        "2",
+                        "3"
+                      ],
+                      "codes": "MOD-H5",
+                      "grades": [
+                        "9",
+                        "10",
+                        "11",
+                        "12"
+                      ],
+                      "statements": "Use a model to provide mechanistic accounts of phenomena.",
+                      "alignmentNotes": "- Molecular and geometric models of the unit cells are used to demonstrate the function and structure of the macroscopic crystal. Specifically, molecular models of quartz and table salt demonstrate the effects of (a)symmetry on the electrical properties of the bulk crystal, namely piezoelectricity.",
+                      "subcat": "Developing & Using Models"
+                    }
+                  ]
+                },
+                {
+                  "slug": "CCC",
+                  "name": "Cross-Cutting Concepts",
+                  "standardsGroup": [
+                    {
+                      "lessons": [
+                        "2",
+                        "3",
+                        "4"
+                      ],
+                      "codes": "SF-M1",
+                      "grades": [
+                        "6",
+                        "7",
+                        "8"
+                      ],
+                      "statements": "Complex and microscopic structures and systems can be visualized, modeled, and used to describe how their function depends on the shapes, composition, and relationships among its parts, therefore complex natural structures/systems can be analyzed to determine how they function.",
+                      "alignmentNotes": "- Molecular and geometric models of the unit cells are used to demonstrate the function and structure of the macroscopic crystal. Specifically, molecular models of quartz and table salt demonstrate the effects of (a)symmetry on the electrical properties of the bulk crystal, namely piezoelectricity.",
+                      "subcat": "Structure & Function"
+                    },
+                    {
+                      "lessons": [
+                        "4"
+                      ],
+                      "codes": "SF-H2",
+                      "grades": [
+                        "9",
+                        "10",
+                        "11",
+                        "12"
+                      ],
+                      "statements": "The functions and properties of natural and designed objects and systems can be inferred from their overall structure, the way their components are shaped and used, and the molecular substructures of its various materials.",
+                      "alignmentNotes": "- Molecular models of quartz and table salt demonstrate the effects of (a)symmetry on the electrical properties of the bulk crystal, namely piezoelectricity.",
+                      "subcat": "Structure & Function"
+                    }
+                  ]
+                },
+                {
+                  "slug": "DCI",
+                  "name": "Disciplinary Core ideas",
+                  "standardsGroup": [
+                    {
+                      "lessons": [
+                        "1",
+                        "2",
+                        "3"
+                      ],
+                      "codes": "PS1.A-M5",
+                      "grades": [
+                        "6",
+                        "7",
+                        "8"
+                      ],
+                      "statements": "Solids may be formed from molecules, or they may be extended structures with repeating subunits (e.g., crystals).",
+                      "alignmentNotes": "- Students create molecular models of crystal unit cells, as well as geometric models of unit cells. They explore how the repeating subunits fit together to form a crystal.",
+                      "subcat": "Structure & Properties of Matter"
+                    },
+                    {
+                      "lessons": [
+                        "4"
+                      ],
+                      "codes": "PS1.A-H1",
+                      "grades": [
+                        "9",
+                        "10",
+                        "11",
+                        "12"
+                      ],
+                      "statements": "Each atom has a charged substructure consisting of a nucleus, which is made of protons and neutrons, surrounded by electrons.",
+                      "alignmentNotes": "- Protons, neutrons, and electrons are introduced as the components of an atom. The electron cloud and concept of electron shells are also introduced in a discussion of ionic and covalent bonding.",
+                      "subcat": "Structure & Properties of Matter"
+                    },
+                    {
+                      "lessons": [
+                        "4"
+                      ],
+                      "codes": "PS1.A-H3",
+                      "grades": [
+                        "9",
+                        "10",
+                        "11",
+                        "12"
+                      ],
+                      "statements": "The structure and interactions of matter at the bulk scale are determined by electrical forces within and between atoms.",
+                      "alignmentNotes": "- Through a (heavily scaffolded) calculation to compute the dipole moment of a crystal subunit, students interpret variables for distance and electric charge.",
+                      "subcat": "Structure & Properties of Matter"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "feedback": {
+      "__component": "lesson-plan.collapsible-text-section",
+      "SectionTitle": "Feedback",
+      "Content": "### Please let us know how it went with your class!\n#### We want to know what you (and/or your students) think!\nShare your feedback in < 5 min with these forms:\n- [For teachers](https://forms.gle/S2B6pvXKjoC2Do5FA)\n- [For students](https://forms.gle/JhWFX8ZkaxGszdug6)\n",
+      "InitiallyExpanded": true
+    },
+    "credits": {
+      "__component": "lesson-plan.collapsible-text-section",
+      "SectionTitle": "Credits",
+      "Content": "**[Madelyn Leembruggen](https://www.linkedin.com/in/madelyn-leembruggen/)** *Led the project; developed and researched storylines; drafted all learning materials; developed, filmed and edited supporting videos.*\n\n**[Caroline Hu, PhD](https://www.hudrewthis.com/)** *Developed and illustrated comic narrative; did background research on devices; helped weave learning activities into the narrative.*\n\n**[Shireen Adenwalla, PhD](https://unlcms.unl.edu/cas/physics/adenwalla/)** *Defined outreach goals; provided feedback throughout development; provided scientific validation of lesson content.*\n\n**[Xiaoshan Xu, PhD](https://xiaoshanxu.unl.edu/welcome-xu-group)** *Defined outreach goals; provided feedback throughout development; provided scientific validation of lesson content.*\n\n**[Leigh M. Smith, PhD](https://researchdirectory.uc.edu/p/smithlm)** *Defined outreach goals; provided feedback throughout development; provided scientific validation of lesson content.*\n\n**[Jocelyn Bosley](https://twitter.com/SciTalker)** *Defined outreach goals; provided feedback throughout development; provided scientific validation of lesson content.*\n\n**[Matt Wilkins, PhD](https://mattwilkinsbio.com)** *Directed the project; helped develop, edit, and revise all aspects of the lesson*\n",
+      "InitiallyExpanded": true
+    },
+    "acknowledgments": {
+      "__component": "lesson-plan.acknowledgments",
+      "SectionTitle": "Acknowledgments",
+      "Data": [
+        {
+          "role": "SciComm Consultant",
+          "def": "(Helped envision and plan an earlier version of the lesson)",
+          "records": [
+            {
+              "name": "Carleen Sabusap, PhD",
+              "url": "https://www.linkedin.com/in/carleen-sabusap-phd-1b769199/",
+              "title": null,
+              "affiliation": null,
+              "location": "Nashville, TN"
+            }
+          ]
+        }
+      ]
+    },
+    "versions": {
+      "__component": "lesson-plan.versions",
+      "SectionTitle": "Version Notes",
+      "Data": [
+        {
+          "major_release": "Beta",
+          "sub_releases": [
+            {
+              "version": "0.1.0",
+              "date": "April 22, 2023",
+              "summary": "Lesson initialized",
+              "notes": null,
+              "acknowledgments": null
+            },
+            {
+              "version": "0.2.0",
+              "date": "May 08, 2023",
+              "summary": "Public release!",
+              "notes": null,
+              "acknowledgments": null
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

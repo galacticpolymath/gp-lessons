@@ -1,0 +1,285 @@
+{
+  "__component": "lesson-plan.standards",
+  "Data": [
+    {
+      "subject": "Math",
+      "target": true,
+      "sets": [
+        {
+          "slug": "CCM",
+          "name": "Common Core Math",
+          "dimensions": [
+            {
+              "slug": "MDP&S",
+              "name": "Measurement, Data, Probability & Statistics",
+              "standardsGroup": [
+                {
+                  "lessons": [],
+                  "codes": "8.SP.A.1",
+                  "grades": "8",
+                  "statements": "Construct and interpret scatter plots for bivariate measurement data to investigate patterns of association between two quantities. Describe patterns such as clustering, outliers, positive or negative association, linear association, and nonlinear association.",
+                  "alignmentNotes": "- Students are given data represented in a scatter plot and are asked to identify and interpret the graph",
+                  "subcat": null
+                },
+                {
+                  "lessons": [],
+                  "codes": "HSS-CP.A.4",
+                  "grades": ["9", "10", "11", "12"],
+                  "statements": "Construct and interpret two-way frequency tables of data when two categories are associated with each object being classified. Use the two-way table as a sample space to decide if events are independent and to approximate conditional probabilities. *For example, collect data from a random sample of students in your school on their favorite subject among math, science, and English. Estimate the probability that a randomly selected student from your school will favor science given that the student is in tenth grade. Do the same for other subjects and compare the results.*",
+                  "alignmentNotes": "- Students use real data to construct a frequency table, then use the data to create and compare the results in a scatter plot and histogram. \n  \n- Students evaluate the results of the two graphs, discuss how the two graphs provide similar and different information, and determine possible conditional probabilities with regard to female and male bird songs.",
+                  "subcat": null
+                },
+                {
+                  "lessons": [],
+                  "codes": "HSS-ID.A.1",
+                  "grades": ["9", "10", "11", "12"],
+                  "statements": "Represent data with plots on the real number line (dot plots, histograms, and box plots).",
+                  "alignmentNotes": "- Students create a histogram using raw data from a published research study",
+                  "subcat": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "subject": "Math",
+      "target": false,
+      "sets": [
+        {
+          "slug": "CCM",
+          "name": "Common Core Math",
+          "dimensions": [
+            {
+              "slug": "MDP&S",
+              "name": "Measurement, Data, Probability & Statistics",
+              "standardsGroup": [
+                {
+                  "lessons": [],
+                  "codes": "6.SP.A.2",
+                  "grades": "6",
+                  "statements": "Understand that a set of data collected to answer a statistical question has a distribution which can be described by its center, spread, and overall shape.",
+                  "alignmentNotes": "- Students are given data represented in a scatter plot and are asked to identify and interpret the graph",
+                  "subcat": null
+                },
+                {
+                  "lessons": [],
+                  "codes": "6.SP.B.4",
+                  "grades": "6",
+                  "statements": "Display numerical data in plots on a number line, including dot plots, histograms, and box plots.",
+                  "alignmentNotes": "- Students create a histogram from raw data",
+                  "subcat": null
+                },
+                {
+                  "lessons": [],
+                  "codes": ["6.SP.B.5", "6.SP.B.5a", "6.SP.B.5c"],
+                  "grades": "6",
+                  "statements": ["Summarize numerical data sets in relation to their context, such as by:", "Reporting the number of observations.", "Giving quantitative measures of center (median and/or mean) and variability (interquartile range and/or mean absolute deviation), as well as describing any overall pattern and any striking deviations from the overall pattern with reference to the context in which the data were gathered."],
+                  "alignmentNotes": "- Students compare the data in a scatter plot and a histogram, then determine the differences between the two graphs\n- NA",
+                  "subcat": null
+                },
+                {
+                  "lessons": [],
+                  "codes": "HSS-ID.B.6",
+                  "grades": ["9", "10", "11", "12"],
+                  "statements": "Represent data on two quantitative variables on a scatter plot, and describe how the variables are related.",
+                  "alignmentNotes": "- Students are given data represented in a scatter plot and are asked to identify and interpret the graph",
+                  "subcat": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "subject": "ELA",
+      "target": false,
+      "sets": [
+        {
+          "slug": "CCELA",
+          "name": "Common Core ELA",
+          "dimensions": [
+            {
+              "slug": "LS&L",
+              "name": "Language, Speaking & Listening",
+              "standardsGroup": [
+                {
+                  "lessons": [],
+                  "codes": "L.6.6",
+                  "grades": "6",
+                  "statements": "Acquire and use accurately grade-appropriate general academic and domain-specific words and phrases; gather vocabulary knowledge when considering a word or phrase important to comprehension or expression.",
+                  "alignmentNotes": "- Students are taught the definitions of new words including: cipher, encipher, decipher, discern, algorithm, data visualization, dot plot, scatter plot, and histogram  \n- Students use and reference the new words throughout the lesson",
+                  "subcat": null
+                },
+                {
+                  "lessons": [],
+                  "codes": "SL.6.2",
+                  "grades": "6",
+                  "statements": "Interpret information presented in diverse media and formats (e.g., visually, quantitatively, orally) and explain how it contributes to a topic, text, or issue under study.",
+                  "alignmentNotes": "- Students are asked to interpret, discuss, and draw conclusions from a scatter plot that was created from raw data in a real research study",
+                  "subcat": null
+                },
+                {
+                  "lessons": [],
+                  "codes": "CCRA.L.4",
+                  "grades": ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12"],
+                  "statements": "Determine or clarify the meaning of unknown and multiple-meaning words and phrases by using context clues, analyzing meaningful word parts, and consulting general and specialized reference materials, as appropriate.",
+                  "alignmentNotes": "- Students define, use, and reference new words including: cipher, encipher, decipher, discern, algorithm, data visualization, dot plot, scatter plot, and histogram  \n- Students use a real research article to read, interpret, and identify new/unknown words.",
+                  "subcat": null
+                },
+                {
+                  "lessons": [],
+                  "codes": "CCRA.SL.2",
+                  "grades": ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12"],
+                  "statements": "Integrate and evaluate information presented in diverse media and formats, including visually, quantitatively, and orally.",
+                  "alignmentNotes": "- Students evaluate quantitative information by comparing the same data in the form of a scatter plot and a histogram",
+                  "subcat": null
+                }
+              ]
+            },
+            {
+              "slug": "R",
+              "name": "Reading",
+              "standardsGroup": [
+                {
+                  "lessons": [],
+                  "codes": "RST.6-8.4",
+                  "grades": ["6", "7", "8"],
+                  "statements": "Determine the meaning of symbols, key terms, and other domain-specific words and phrases as they are used in a specific scientific or technical context relevant to *grades 6-8 texts and topics*.",
+                  "alignmentNotes": "- Students are taught the definitions of new words including: cipher, encipher, decipher, discern, algorithm, data visualization, dot plot, scatter plot, and histogram  \n- Students use and reference the new words throughout the lesson",
+                  "subcat": null
+                },
+                {
+                  "lessons": [],
+                  "codes": "RST.6-8.7",
+                  "grades": ["6", "7", "8"],
+                  "statements": "Integrate quantitative or technical information expressed in words in a text with a version of that information expressed visually (e.g., in a flowchart, diagram, model, graph, or table).",
+                  "alignmentNotes": "- Students practice making and reading a histogram from data provided in the lesson                                             - Students make a histogram from data they collect on their own",
+                  "subcat": null
+                },
+                {
+                  "lessons": [],
+                  "codes": "CCRA.R.7",
+                  "grades": ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12"],
+                  "statements": "Integrate and evaluate content presented in diverse media and formats, including visually and quantitatively, as well as in words.",
+                  "alignmentNotes": "- Students are asked to interpret, discuss, and draw conclusions from a scatter plot that was created from raw data in a real research study",
+                  "subcat": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "subject": "Science",
+      "target": false,
+      "sets": [
+        {
+          "slug": "NGSS",
+          "name": "NGSS",
+          "dimensions": [
+            {
+              "slug": "SEP",
+              "name": "Science & Engineering Practices",
+              "standardsGroup": [
+                {
+                  "lessons": [],
+                  "codes": "ARG-M3",
+                  "grades": ["6", "7", "8"],
+                  "statements": "Construct, use, and/or present an oral and written argument supported by empirical evidence and scientific reasoning to support or refute an explanation or a model for a phenomenon or a solution to a problem.",
+                  "alignmentNotes": "- Students create and compare results of a scatter plot and histogram using real scientific data",
+                  "subcat": "Engaging in Argument from Evidence"
+                },
+                {
+                  "lessons": [],
+                  "codes": "DATA-M1",
+                  "grades": ["6", "7", "8"],
+                  "statements": "Construct, analyze, and/or interpret graphical displays of data and/or large data sets to identify linear and nonlinear relationships.",
+                  "alignmentNotes": "- Students are asked to interpret, discuss, and draw conclusions from a scatter plot               \n- Students create a histogram using real data\n- Students analyze and compare the results of scatter plots and histograms",
+                  "subcat": "Analyzing Data"
+                },
+                {
+                  "lessons": [],
+                  "codes": "MATH-M2",
+                  "grades": ["6", "7", "8"],
+                  "statements": "Use mathematical representations to describe and/or support scientific conclusions and design solutions.",
+                  "alignmentNotes": "- Students interpret a scatter plot based on real scientific data    \n- Students create a histogram using raw data         - Students draw conclusions based on the scatter plots and histograms",
+                  "subcat": "Using Mathematics & Computational Thinking"
+                },
+                {
+                  "lessons": [],
+                  "codes": "MATH-M3",
+                  "grades": ["6", "7", "8"],
+                  "statements": "Create algorithms (a series of ordered steps) to solve a problem.",
+                  "alignmentNotes": "- Students solve a series of ciphers using algorithms   \n- Students create their own algorithms and ciphers",
+                  "subcat": "Using Mathematics & Computational Thinking"
+                },
+                {
+                  "lessons": [],
+                  "codes": "DATA-H4",
+                  "grades": ["9", "10", "11", "12"],
+                  "statements": "Compare and contrast various types of data sets (e.g., self-generated, archival) to examine consistency of measurements and observations.",
+                  "alignmentNotes": "- Students compare and contrast scatter plots and histograms created from empirical and self-generated data sets\n- Students examine the results and interpret their findings",
+                  "subcat": "Analyzing Data"
+                },
+                {
+                  "lessons": [],
+                  "codes": "MATH-H2",
+                  "grades": ["9", "10", "11", "12"],
+                  "statements": "Use mathematical, computational, and/or algorithmic representations of phenomena or design solutions to describe and/or support claims and/or explanations.",
+                  "alignmentNotes": "- Students use algorithms to solve a series of ciphers\n- Students construct a histogram using raw data from a real research study, interpret the results, and describe the findings",
+                  "subcat": "Using Mathematics & Computational Thinking"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "subject": "Social Studies",
+      "target": false,
+      "sets": [
+        {
+          "slug": "C3",
+          "name": "C3",
+          "dimensions": [
+            {
+              "slug": "ESCCTA",
+              "name": "Evaluating Sources, Communicating Conclusions & Taking Action",
+              "standardsGroup": [
+                {
+                  "lessons": [],
+                  "codes": "D4.1.6-8",
+                  "grades": ["6", "7", "8"],
+                  "statements": "Construct arguments using claims and evidence from multiple sources, while acknowledging the strengths and limitations of the arguments.",
+                  "alignmentNotes": "- Students are asked to compare the information provided in a scatter plot and a histogram   \n- Students discuss how the two graphs provide both similar and different information and how the differences may influence one's interpretation of the results",
+                  "subcat": null
+                },
+                {
+                  "lessons": [],
+                  "codes": "D4.2.6-8",
+                  "grades": ["6", "7", "8"],
+                  "statements": "Construct explanations using reasoning, correct sequence, examples, and details with relevant information and data, while acknowledging the strengths and weaknesses of the explanations.",
+                  "alignmentNotes": "- Students are introduced to Barn Swallow bird songs and historical scientific findings of female versus male bird calls; students interpret the data presented through scatter plots and histograms to construct explanations for the findings in a new research study",
+                  "subcat": null
+                },
+                {
+                  "lessons": [],
+                  "codes": "D4.2.9-12",
+                  "grades": ["9", "10", "11", "12"],
+                  "statements": "Construct explanations using sound reasoning, correct sequence (linear or non-linear), examples, and details with significant and pertinent information and data, while acknowledging the strengths and weaknesses of the explanation given its purpose (e.g., cause and effect, chronological, procedural, technical).",
+                  "alignmentNotes": "- Students are introduced to a research study on female Barn Swallows and are asked to develop explanations for differences in male and female bird songs based on information in a scatter plot\n- Students compare the information provided in a scatter plot and a histogram\n- Students discuss the similarities and differences of the two graphs and construct explanations for the perceived differences in findings about female and male Barn Swallows",
+                  "subcat": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

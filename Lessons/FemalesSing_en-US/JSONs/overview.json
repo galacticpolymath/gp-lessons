@@ -1,0 +1,43 @@
+{
+  "__component": "lesson-plan.overview",
+  "LearningSummary": "Students will learn how data visuals tell a story. They will analyze real bird song data to try to understand why female singing behavior has been overlooked in one of the most common birds in the world. They will also gain a deeper insight into the scientific peer review process.",
+  "EstLessonTime": "3 x 45 min",
+  "GradesOrYears": "Grades",
+  "ForGrades": "5–8 & 9–12",
+  "TargetSubject": "Math",
+  "Text": "#### Driving Question(s):\nWhat is the best way to visualize data?\n#### Essential Question(s):\n1. How do our assumptions (biases) affect our conclusions?\n2. What are the pros and cons of scatterplots vs. histograms?\n#### Hook(s):\nThis lesson focuses a lot on puzzles called ciphers and uses a goofy video showing connections between histograms and dot plots to engage students.",
+  "Tags": [
+    {
+      "Value": "animal communication"
+    },
+    {
+      "Value": "barn swallows"
+    },
+    {
+      "Value": "birds"
+    },
+    {
+      "Value": "data literacy"
+    },
+    {
+      "Value": "dot plots"
+    },
+    {
+      "Value": "histograms"
+    },
+    {
+      "Value": "peer review"
+    },
+    {
+      "Value": "scatter plots"
+    },
+    {
+      "Value": "song"
+    },
+    {
+      "Value": "grit"
+    }
+  ],
+  "SteamEpaulette": "https://storage.googleapis.com/gp-cloud/lessons/FemalesSing_en-US/GP-Learning-Epaulette.png",
+  "SteamEpaulette_vert": "https://storage.googleapis.com/gp-cloud/lessons/FemalesSing_en-US/GP-Learning-Epaulette_vert.png"
+}

@@ -1,0 +1,590 @@
+{
+  "__component": "teaching-resources.teaching-resources",
+  "SectionTitle": "Teaching Materials",
+  "Data": {
+    "lessonPreface": null,
+    "lessonDur": "3 x 45 min",
+    "classroom": {
+      "gradeVariantNotes": [
+        {
+          "lsn": "1",
+          "lsnGradeVarNotes": null
+        },
+        {
+          "lsn": "2",
+          "lsnGradeVarNotes": null
+        },
+        {
+          "lsn": "3",
+          "lsnGradeVarNotes": null
+        }
+      ],
+      "resources": [
+        {
+          "grades": "Grades 8-12",
+          "gradePrefix": "G8-12",
+          "links": {
+            "linkText": "Browse & Download All G8-12 Materials",
+            "url": "https://drive.google.com/drive/folders/100eAJzq3kCNgiL78DCG2731tjKGmHjZw"
+          },
+          "lessons": {
+            "1": {
+              "lsn": "1",
+              "title": "Role of the Dye",
+              "tags": [
+                "history of science"
+              ],
+              "preface": "Students investigate 3 different dye technologies, extracting information from text to fill in concept maps of the inputs and outputs of each process.",
+              "itemList": [
+                {
+                  "itemTitle": "Presentation (Part 1)",
+                  "itemDescription": "Need: WiFi, Computer, Projector, Sound",
+                  "itemCat": "presentation",
+                  "links": [
+                    {
+                      "linkText": "Present Now",
+                      "url": "https://docs.google.com/presentation/d/1C-Fw9bC0EjCv-JDr9cklYwoHBkDLYOBlpiHdrO5b668/present"
+                    },
+                    {
+                      "linkText": "Copy/Edit in Google Docs",
+                      "url": "https://docs.google.com/presentation/d/1C-Fw9bC0EjCv-JDr9cklYwoHBkDLYOBlpiHdrO5b668/template/preview"
+                    }
+                  ]
+                },
+                {
+                  "itemTitle": "\"Role of the Dye\" Readings (Part 1)",
+                  "itemDescription": null,
+                  "itemCat": "document",
+                  "links": [
+                    {
+                      "linkText": "PDF",
+                      "url": "https://docs.google.com/document/d/1-Z6AQJLxAy8AVvhfHJ1we1kpa5Pr4zlgeTc4gWqE1QU/export?format=pdf"
+                    },
+                    {
+                      "linkText": "Copy/Edit in Google Docs",
+                      "url": "https://docs.google.com/document/d/1-Z6AQJLxAy8AVvhfHJ1we1kpa5Pr4zlgeTc4gWqE1QU/template/preview"
+                    }
+                  ]
+                },
+                {
+                  "itemTitle": "Student Worksheet (Part 1)",
+                  "itemDescription": "Print 1 Per Student",
+                  "itemCat": "document",
+                  "links": [
+                    {
+                      "linkText": "PDF",
+                      "url": "https://docs.google.com/document/d/1BmOfJasOa7R_yebmy86phKb0FJNgnHmgGdy-e7VPD2k/export?format=pdf"
+                    },
+                    {
+                      "linkText": "Copy/Edit in Google Docs",
+                      "url": "https://docs.google.com/document/d/1BmOfJasOa7R_yebmy86phKb0FJNgnHmgGdy-e7VPD2k/template/preview"
+                    }
+                  ]
+                },
+                {
+                  "itemTitle": "Teacher Worksheet (Part 1)",
+                  "itemDescription": "Print 1",
+                  "itemCat": "document",
+                  "links": [
+                    {
+                      "linkText": "PDF",
+                      "url": "https://docs.google.com/document/d/1fi56lemsPK7LUk_KqqCbxzeJYGeKdVGBX8f61o4c0fk/export?format=pdf"
+                    },
+                    {
+                      "linkText": "Copy/Edit in Google Docs",
+                      "url": "https://docs.google.com/document/d/1fi56lemsPK7LUk_KqqCbxzeJYGeKdVGBX8f61o4c0fk/template/preview"
+                    }
+                  ]
+                }
+              ]
+            },
+            "2": {
+              "lsn": "2",
+              "title": "The Price of Colour",
+              "tags": [
+                "engineering mindset"
+              ],
+              "preface": "Using the concept maps they developed in Part 1, students sort a set of cards into 3 ordered processes. This is used to understand the starting costs of each technology.",
+              "itemList": [
+                {
+                  "itemTitle": "Presentation (Part 2)",
+                  "itemDescription": "Need: WiFi, Computer, Projector, Sound",
+                  "itemCat": "presentation",
+                  "links": [
+                    {
+                      "linkText": "Present Now",
+                      "url": "https://docs.google.com/presentation/d/1DD8nTGmtMWZyB1TTFqj1O1YVXyfZYln1B0A9v5ayJ3c/present"
+                    },
+                    {
+                      "linkText": "Copy/Edit in Google Docs",
+                      "url": "https://docs.google.com/presentation/d/1DD8nTGmtMWZyB1TTFqj1O1YVXyfZYln1B0A9v5ayJ3c/template/preview"
+                    }
+                  ]
+                },
+                {
+                  "itemTitle": "Cost Cards for Activity (Part 2)",
+                  "itemDescription": "Print a set for each group",
+                  "itemCat": "presentation",
+                  "links": [
+                    {
+                      "linkText": "PDF",
+                      "url": "https://docs.google.com/presentation/d/1rz6IfIbApSKUpx32RDnE5_abCVvv5RisIsDqqVnqsQU/export/pdf"
+                    },
+                    {
+                      "linkText": "Copy/Edit in Google Docs",
+                      "url": "https://docs.google.com/presentation/d/1rz6IfIbApSKUpx32RDnE5_abCVvv5RisIsDqqVnqsQU/template/preview"
+                    }
+                  ]
+                },
+                {
+                  "itemTitle": "Student Worksheet (Part 2)",
+                  "itemDescription": "Print 1 Per Student",
+                  "itemCat": "document",
+                  "links": [
+                    {
+                      "linkText": "PDF",
+                      "url": "https://docs.google.com/document/d/1993yqIrSIL4VDr3i0lLme3stVoTfDZ6DzRtvrz2DzoI/export?format=pdf"
+                    },
+                    {
+                      "linkText": "Copy/Edit in Google Docs",
+                      "url": "https://docs.google.com/document/d/1993yqIrSIL4VDr3i0lLme3stVoTfDZ6DzRtvrz2DzoI/template/preview"
+                    }
+                  ]
+                },
+                {
+                  "itemTitle": "Teacher Worksheet (Part 2)",
+                  "itemDescription": "Print 1",
+                  "itemCat": "document",
+                  "links": [
+                    {
+                      "linkText": "PDF",
+                      "url": "https://docs.google.com/document/d/1ik66cWM0A_aQq7phctie0MqsA6ZKwFlZd7TIXYH4lrE/export?format=pdf"
+                    },
+                    {
+                      "linkText": "Copy/Edit in Google Docs",
+                      "url": "https://docs.google.com/document/d/1ik66cWM0A_aQq7phctie0MqsA6ZKwFlZd7TIXYH4lrE/template/preview"
+                    }
+                  ]
+                }
+              ]
+            },
+            "3": {
+              "lsn": "3",
+              "title": "Thinking Like a Chemical Engineer",
+              "tags": [
+                ["data literacy", "sustainability", "engineering mindset"]
+              ],
+              "preface": "Students interpreting graphs of how textile prices change with production scale for each dye technology used. They then weigh price, sustainability, and cultural significance to propose the best technological solution.",
+              "itemList": [
+                {
+                  "itemTitle": "Presentation (Part 3)",
+                  "itemDescription": "Need: WiFi, Computer, Projector, Sound",
+                  "itemCat": "presentation",
+                  "links": [
+                    {
+                      "linkText": "Present Now",
+                      "url": "https://docs.google.com/presentation/d/19fmYTEeKalfm3u5D_6ErJJZukAkLG9-U2P1ZX78fDXE/present"
+                    },
+                    {
+                      "linkText": "Copy/Edit in Google Docs",
+                      "url": "https://docs.google.com/presentation/d/19fmYTEeKalfm3u5D_6ErJJZukAkLG9-U2P1ZX78fDXE/template/preview"
+                    }
+                  ]
+                },
+                {
+                  "itemTitle": "Teacher Worksheet (Part 3)",
+                  "itemDescription": "Print 1",
+                  "itemCat": "document",
+                  "links": [
+                    {
+                      "linkText": "PDF",
+                      "url": "https://docs.google.com/document/d/1yAYh7TdRAzEdOmO_IysCJeBFdC0jxdlv0IiosZnI8NA/export?format=pdf"
+                    },
+                    {
+                      "linkText": "Copy/Edit in Google Docs",
+                      "url": "https://docs.google.com/document/d/1yAYh7TdRAzEdOmO_IysCJeBFdC0jxdlv0IiosZnI8NA/template/preview"
+                    }
+                  ]
+                },
+                {
+                  "itemTitle": "Student Worksheet (Part 3)",
+                  "itemDescription": "Print 1 Per Student",
+                  "itemCat": "document",
+                  "links": [
+                    {
+                      "linkText": "PDF",
+                      "url": "https://docs.google.com/document/d/1IuA6asdUFeQuc2uOy5Fx-v8eymIbF7JNftV3HG5V5bs/export?format=pdf"
+                    },
+                    {
+                      "linkText": "Copy/Edit in Google Docs",
+                      "url": "https://docs.google.com/document/d/1IuA6asdUFeQuc2uOy5Fx-v8eymIbF7JNftV3HG5V5bs/template/preview"
+                    }
+                  ]
+                }
+              ]
+            },
+            "lsn": "last",
+            "title": "Assessments",
+            "preface": "",
+            "itemList": [
+              {
+                "itemTitle": "Assessment (TEACHER)",
+                "itemDescription": "This is a streamlined assessment designed to be used in pre/post testing to measure how this lesson affects STEM alignment and key learning objectives.",
+                "itemCat": "document",
+                "links": [
+                  {
+                    "linkText": "PDF",
+                    "url": "https://docs.google.com/document/d/1o-o_enCw6u6_SRjg8tkxPMUSoYEg2b5yOp80HqNa008/export?format=pdf"
+                  },
+                  {
+                    "linkText": "Copy/Edit in Google Docs",
+                    "url": "https://docs.google.com/document/d/1o-o_enCw6u6_SRjg8tkxPMUSoYEg2b5yOp80HqNa008/template/preview"
+                  }
+                ]
+              },
+              {
+                "itemTitle": "Assessment (STUDENT)",
+                "itemDescription": null,
+                "itemCat": "document",
+                "links": [
+                  {
+                    "linkText": "PDF",
+                    "url": "https://docs.google.com/document/d/15g3EXyg-Imz0CRFNaKcrSqj2OLOrK_5J7EN0TwaTGp0/export?format=pdf"
+                  },
+                  {
+                    "linkText": "Copy/Edit in Google Docs",
+                    "url": "https://docs.google.com/document/d/15g3EXyg-Imz0CRFNaKcrSqj2OLOrK_5J7EN0TwaTGp0/template/preview"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "lesson": [
+      {
+        "lsnNum": 1,
+        "lsnTitle": "Role of the Dye",
+        "lsnDur": 45,
+        "lsnPreface": "Students investigate 3 different dye technologies, extracting information from text to fill in concept maps of the inputs and outputs of each process.",
+        "learningObj": ["Understand that chemical engineers develop economical commercial processes to convert raw material into useful products.", "Understand the scientific and engineering methods.", "Analyze complex texts describing historical and contemporary figures and synthesize information about dye processes."],
+        "lsnPrep": {
+          "prepTitle": "Prep",
+          "prepDur": 5,
+          "prepQuickDescription": "Print handouts.",
+          "prepDetails": null,
+          "prepVariantNotes": null,
+          "prepTeachingTips": null
+        },
+        "chunks": [
+          {
+            "chunkTitle": "Warm-Up",
+            "chunkStart": 0,
+            "chunkDur": 10,
+            "steps": [
+              {
+                "Step": 1,
+                "StepTitle": "Clothing Color Audit",
+                "StepQuickDescription": "Use the presentation to walk students through an engagement hook activity, before moving into the main reading activity. Using worksheet 1, students calculate their \"dye-versity index\".",
+                "StepDetails": "The \"dye-versity index\" represents the total number of colors a student has on them, and therefore the number of dye processes that had to be invented.",
+                "Vocab": null,
+                "VariantNotes": null,
+                "TeachingTips": null
+              },
+              {
+                "Step": 2,
+                "StepTitle": "Share Out",
+                "StepQuickDescription": "Let students share their \"dye-versity index\" and reflect on whether color helps express their personality or mood.",
+                "StepDetails": null,
+                "Vocab": null,
+                "VariantNotes": null,
+                "TeachingTips": null
+              }
+            ]
+          },
+          {
+            "chunkTitle": "Engage",
+            "chunkStart": 10,
+            "chunkDur": 5,
+            "steps": [
+              {
+                "Step": 3,
+                "StepTitle": "Watch Video",
+                "StepQuickDescription": "Show [▶ The Nature of Color at the American Museum of Natural History](https://www.youtube.com/watch?v=U2BMqRVOdCk)",
+                "StepDetails": "This video introduces the importance of color in the natural world of plants, animals, and evolution, as well as in the human world of self-expression, social interaction, and culture. The importance of color to life sets the stage to learn about dye technologies in the next step.",
+                "Vocab": null,
+                "VariantNotes": null,
+                "TeachingTips": null
+              }
+            ]
+          },
+          {
+            "chunkTitle": "Explore",
+            "chunkStart": 15,
+            "chunkDur": 25,
+            "steps": [
+              {
+                "Step": 4,
+                "StepTitle": "Introducing 3 Dye Technologies",
+                "StepQuickDescription": "The lessons will focus on Tyrian Purple, Mauveine, and Tānekaha Dye.",
+                "StepDetails": "The invention of each of technology enabled a group of people at a time and place the power of expression through color!",
+                "Vocab": null,
+                "VariantNotes": null,
+                "TeachingTips": null
+              },
+              {
+                "Step": 5,
+                "StepTitle": "Student \"Experts\"",
+                "StepQuickDescription": "Split students into groups of three (e.g. by counting off). Assign each number one of the three articles in Reading Handout 1.",
+                "StepDetails": "After giving them time to read and fill out the concept map for their reading, instruct the groups of three to teach each other what they learned *and* help each other fill out the remaining blanks on Worksheet 1.",
+                "Vocab": "- **synthesize:**  the process of running chemical reactions to obtain one or several products\n- **patent:**  a government license that keeps others from making, using, or selling an invention\n- **mass-market:**  cheap goods produced in large quantities to meet high demand\n- **niche market:**  goods designed to meet the specific needs of a smaller market (~10,000 units), such as clothes for children or sustainable cleaning supplies\n- **aniline:**  an organic compound with the formula C6H5NH2\n- **secretion:**  a process by which substances are produced and discharged from a cell, gland, or organ for a particular function in the organism or for excretion\n- **reducing agents:**  in chemistry, a reducing agent is a chemical molecule or atom that \"donates\" an electron to another chemical\n- **luxury market:**  expensive goods produced in small quantities because of cost and to maintain an exclusive status of the product",
+                "VariantNotes": null,
+                "TeachingTips": null
+              }
+            ]
+          },
+          {
+            "chunkTitle": "Wrapping Up",
+            "chunkStart": 40,
+            "chunkDur": 5,
+            "steps": [
+              {
+                "Step": 6,
+                "StepTitle": "Have students finish remaining questions on their own or assign homework",
+                "StepQuickDescription": "Part 2 will begin with a review of each dye technology, so students should complete their Part 1 worksheet before then.",
+                "StepDetails": null,
+                "Vocab": null,
+                "VariantNotes": null,
+                "TeachingTips": null
+              }
+            ]
+          }
+        ],
+        "lsnExt": null
+      },
+      {
+        "lsnNum": 2,
+        "lsnTitle": "The Price of Colour",
+        "lsnDur": 45,
+        "lsnPreface": "Using the concept maps they developed in Part 1, students sort a set of cards into 3 ordered processes. This is used to understand the starting costs of each technology.",
+        "learningObj": ["Understand that chemical engineers develop economical commercial processes to convert raw material into useful products.", "Compare and contrast the costs and benefits of synthetic vs natural dye production.", "Understand the scientific and engineering methods.", "Solve a puzzle by logically piecing together the order of 3 different dye processes."],
+        "lsnPrep": {
+          "prepTitle": "Prep",
+          "prepDur": 5,
+          "prepQuickDescription": "Print handouts.",
+          "prepDetails": null,
+          "prepVariantNotes": null,
+          "prepTeachingTips": null
+        },
+        "chunks": [
+          {
+            "chunkTitle": "Review",
+            "chunkStart": 0,
+            "chunkDur": 15,
+            "steps": [
+              {
+                "Step": 1,
+                "StepTitle": "Share Out",
+                "StepQuickDescription": "Recap the three dye technologies from yesterday's lesson.",
+                "StepDetails": "Let students share out what they remember from yesterday's lesson and how each dye technology is made. Then use Presentation 2 to pivot the discussion to the sustainability, cultural significance, status signalling, and efficiency of the various technologies.",
+                "Vocab": null,
+                "VariantNotes": null,
+                "TeachingTips": null
+              },
+              {
+                "Step": 2,
+                "StepTitle": "What is the difference between a *chemist* and a *chemical engineer*?",
+                "StepQuickDescription": "Encourage students to do their best to distinguish the differences between a chemist and a chemical engineer. Use Presentation to transition from the discovery and invention of dye technologies to the activity and discussion about how inventions become viable products.",
+                "StepDetails": null,
+                "Vocab": null,
+                "VariantNotes": null,
+                "TeachingTips": null
+              }
+            ]
+          },
+          {
+            "chunkTitle": "Pivot",
+            "chunkStart": 15,
+            "chunkDur": 5,
+            "steps": [
+              {
+                "Step": 3,
+                "StepTitle": "Become a chemical engineer for a day",
+                "StepQuickDescription": "Paint the picture: *Galactic Tees* is a new company that wants to make a new line of t-shirts but can't decide on what dyeing technology to use.",
+                "StepDetails": "Students will study the pros and cons of each dyeing technology at different *scales*. For the \"Cost Cards\" activity the Driving Question will be: \"How much does it cost to produce the first dyed item using each technology?\"",
+                "Vocab": null,
+                "VariantNotes": null,
+                "TeachingTips": null
+              }
+            ]
+          },
+          {
+            "chunkTitle": "Activity: Process Engineering Puzzle",
+            "chunkStart": 20,
+            "chunkDur": 15,
+            "steps": [
+              {
+                "Step": 4,
+                "StepTitle": "Activity instructions",
+                "StepQuickDescription": "Divide students into groups of 2-3 and give each group a set of: [➚ Dye Technology \"Cost Card\" Puzzle Activity](https://docs.google.com/presentation/d/12JrjYbvNHOcNcGZGZ-idt4KLE3j8nW8qdNXzc8px9pI/edit#slide=id.p)",
+                "StepDetails": "Each set has 18 Cost Cards representing 6 steps in each of the three dyeing technologies. The presentation will break the activity into substages and guide the students through an analysis of the processes.",
+                "Vocab": null,
+                "VariantNotes": null,
+                "TeachingTips": null
+              },
+              {
+                "Step": 5,
+                "StepTitle": "Find the Starting Price",
+                "StepQuickDescription": "Once the cards students have sorted the cards, have them add up the prices of each step listed on the Cost Cards to find the Total Cost of the process.",
+                "StepDetails": "Starting Price = Total Cost X 1.2 (to include a 20% profit)",
+                "Vocab": null,
+                "VariantNotes": null,
+                "TeachingTips": null
+              }
+            ]
+          },
+          {
+            "chunkTitle": "Reflecting on Process Costs",
+            "chunkStart": 35,
+            "chunkDur": 10,
+            "steps": [
+              {
+                "Step": 6,
+                "StepTitle": "Independent Work",
+                "StepQuickDescription": "Have students use the remaining time to finish the worksheet.",
+                "StepDetails": "Students will reflect on the major expenses of the process and predict how the price per item might change as the *scale* of production increases. Part 3 will explore how production costs change at different scales, so these questions prime the students to think beyond the Starting Price.",
+                "Vocab": null,
+                "VariantNotes": null,
+                "TeachingTips": null
+              }
+            ]
+          }
+        ],
+        "lsnExt": null
+      },
+      {
+        "lsnNum": 3,
+        "lsnTitle": "Thinking Like a Chemical Engineer",
+        "lsnDur": null,
+        "lsnPreface": "Students interpreting graphs of how textile prices change with production scale for each dye technology used. They then weigh price, sustainability, and cultural significance to propose the best technological solution.",
+        "learningObj": ["Understand that chemical engineers develop economical commercial processes to convert raw material into useful products.", "Interpret graphs to design a product solution at an appropriate scale.", "Understand the scientific and engineering methods.", "Assess the tradeoffs in scalability, cost, sustainability, and cultural significance between Māori dye technology compared to modern petroleum-based synthetic dyes."],
+        "lsnPrep": {
+          "prepTitle": "Prep",
+          "prepDur": 5,
+          "prepQuickDescription": "Print handouts.",
+          "prepDetails": null,
+          "prepVariantNotes": null,
+          "prepTeachingTips": null
+        },
+        "chunks": [
+          {
+            "chunkTitle": "Review",
+            "chunkStart": 0,
+            "chunkDur": 10,
+            "steps": [
+              {
+                "Step": 1,
+                "StepTitle": "Share Out",
+                "StepQuickDescription": "Quickly review the 3 dye technologies, the Starting Price students calculated for each, and the reason the different technologies have varying Starting Prices.",
+                "StepDetails": null,
+                "Vocab": null,
+                "VariantNotes": null,
+                "TeachingTips": "Since the prices and production scales have such a wide range of values, the price per item versus number of items produced points are plotted on log-log plots. The presentation includes a side note about the purpose of log-log plots."
+              }
+            ]
+          },
+          {
+            "chunkTitle": "Explain",
+            "chunkStart": 10,
+            "chunkDur": 20,
+            "steps": [
+              {
+                "Step": 2,
+                "StepTitle": "Introducing Price Curves",
+                "StepQuickDescription": "The presentation introduces the idea of producing items at various scales and discusses how the price per unit changes accordingly.",
+                "StepDetails": "Make sure students complete corresponding worksheet sections to follow the discussion of Price Curves.",
+                "Vocab": null,
+                "VariantNotes": null,
+                "TeachingTips": null
+              },
+              {
+                "Step": 3,
+                "StepTitle": "Limited Resources",
+                "StepQuickDescription": "Use presentation to guide students through the example of fishing for Murex snails illustrates how the availability of resources affects (and limits) the scale of production.",
+                "StepDetails": null,
+                "Vocab": null,
+                "VariantNotes": null,
+                "TeachingTips": null
+              },
+              {
+                "Step": 4,
+                "StepTitle": "Watch Video",
+                "StepQuickDescription": "Show [▶ True Blues: Textiles Water Pollution Problem](https://www.youtube.com/watch?v=Bk2APxqIhbk&t=1s) to introduce environmental impacts of synthetic dyes made from fossil fuels.",
+                "StepDetails": "Throughout the presentation, synthetic dyes produced from fossil fuels are shown to be a competitive and attractive dye technology. Despite their range of colors and low costs, dyes produced from fossil fuels also cause a lot of problems. \n\nIn this video students learn about the many sustainability issues tied to the dye and fashion industries (particularly with fossil-fuel-derived synthetic dyes). This prepares students to reflect on and analyze the consequences of dye technologies as they perform a cost-benefit analysis of the available dye technologies to make a recommendation for *Galactic Tees*.",
+                "Vocab": null,
+                "VariantNotes": null,
+                "TeachingTips": null
+              }
+            ]
+          },
+          {
+            "chunkTitle": "Synthesize and Reflect",
+            "chunkStart": 30,
+            "chunkDur": 15,
+            "steps": [
+              {
+                "Step": 5,
+                "StepTitle": "Have students finish worksheet independently",
+                "StepQuickDescription": "By interpreting the price curves, compiling information from all three lessons, and reflecting on their values and goals, students recommend a dye technology for *Galactic Tees* to use in their new line of t-shirts.",
+                "StepDetails": "A table in the worksheet allows students to compare the range of colors, price point, target audience, sustainability, status signalling, and cultural significance of each dye technology. Based on the compiled information they will identify the most competitive dye technology. Their final recommendation for *Galactic Tees*'s dye technology is supported by the production bottom line, but also by the student's personal priorities (e.g. sustainability or cultural significance). \n\nEach of these technologies has pros and cons, so students are encouraged to reflect on how they could improve their chosen dye technology's disadvantages. Specifically they are tasked with imagining themselves as chemical engineers trying to make *Galactic Tees* more sustainable.",
+                "Vocab": "- **mass market:**  goods produced in large quantities (1,000,000+ units) to meet high demand and sold at a low cost to a broad group.\n- **niche market:**  goods designed to meet the specific needs of a smaller market (~10,000 units), such as clothes for children or sustainable cleaning products.\n- **luxury market:**  expensive goods produced in small quantities (<1,000 units) because of cost and to maintain exclusive status of the product.",
+                "VariantNotes": null,
+                "TeachingTips": null
+              }
+            ]
+          }
+        ],
+        "lsnExt": null
+      }
+    ],
+    "gatheredVocab": [
+      {
+        "term": "synthesize",
+        "definition": "the process of running chemical reactions to obtain one or several products"
+      },
+      {
+        "term": "patent",
+        "definition": "a government license that keeps others from making, using, or selling an invention"
+      },
+      {
+        "term": "mass-market",
+        "definition": "cheap goods produced in large quantities to meet high demand"
+      },
+      {
+        "term": "niche market",
+        "definition": "goods designed to meet the specific needs of a smaller market (~10,000 units), such as clothes for children or sustainable cleaning supplies"
+      },
+      {
+        "term": "aniline",
+        "definition": "an organic compound with the formula C6H5NH2"
+      },
+      {
+        "term": "secretion",
+        "definition": "a process by which substances are produced and discharged from a cell, gland, or organ for a particular function in the organism or for excretion"
+      },
+      {
+        "term": "reducing agents",
+        "definition": "in chemistry, a reducing agent is a chemical molecule or atom that \"donates\" an electron to another chemical"
+      },
+      {
+        "term": "luxury market",
+        "definition": "expensive goods produced in small quantities because of cost and to maintain an exclusive status of the product"
+      },
+      {
+        "term": "mass market",
+        "definition": "goods produced in large quantities (1,000,000+ units) to meet high demand and sold at a low cost to a broad group."
+      }
+    ]
+  }
+}

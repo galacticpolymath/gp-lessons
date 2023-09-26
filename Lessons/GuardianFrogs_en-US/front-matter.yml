@@ -1,20 +1,21 @@
-id: 2
-UniqueID: lesson2_locale_1
+numID: 2
+_id: lesson_2_en-US
 ShortTitle: GuardianFrogs
 PublicationStatus: Live
 Language: English
 Country: United States
 DefaultLanguage: English
 DefaultCountry: United States
-LastUpdated: 2023-05-06 21:21:03
+LastUpdated: 2023-09-17 21:42:54.520125
 FirstPublicationDate: 2022-04-01 15:16:29
 MediumTitle: '''The Guardian Frogs of Borneo'' |Science| G5-9 (en-US)'
 lang: en
 lng: eng
 locale: en-US
 DefaultLocale: en-US
-TemplateVer: 0.5.1
-galacticPubsVer: 0.9.6
+TemplateVer: 0.6.0
+galacticPubsVer: 0.9.7
+isTestRepo: no
 URL: https://galacticpolymath.com/lessons/2
 GPCatalogURL: https://gp-catalog.vercel.app/lessons/GuardianFrogs_en-US/LESSON.json
 GitHubURL: git@github.com:galacticpolymath/GuardianFrogs_en-US.git
@@ -26,8 +27,8 @@ GdriveTeachMatID: .na
 GdrivePublicID: 1Ky0DSDrrtDl0nc0Ct9rKxrLUkzEvLKBQ
 GdriveDirID: 1TzFgd8KL7QeqSXUcg15WN5wYGlsSIZta
 GdriveMetaID: 185DoxTb81dVgRiUQaGEBDuD3JZjNJ-H8
-GdriveTeachItID: 1gF-OtbbWEbmu8-AVOQOBbriHCNJxlvwNQB1Ah38Wtk0
-GdriveStandardsID: 1R_60FTe7H6ix5cNSIM6NPX2l8QGm18J6UKIVPpeZNnk
+GdriveTeachItID: 1pmiZcQR5FyyLC_CX_w6jsnkH_XSp1OEiLQK9hWYN92I
+GdriveStandardsID: 1AUSr4v4mmJZADIdyJmNu1Psj4eBszeTuL3hGlGdAgPc
 GdrivePublishedID: 1YHNOtsgW5Am5o7AmVoCPyzzF4ATZGt4N
 GdriveDirURL: https://drive.google.com/drive/folders/1TzFgd8KL7QeqSXUcg15WN5wYGlsSIZta
 RebuildAllMaterials: no
@@ -37,38 +38,40 @@ Subtitle: Why Exceptions Matter in Biology and Everyday Life
 SponsorName: Johana Goyes Vallejos
 SponsoredBy: '- [Johana Goyes Vallejos, PhD](https://jogoyesvallejos.weebly.com/)
   — Postdoc in the Division of Biological Sciences, University of Missouri – Columbia'
-SponsorLogo: assets/_banners_logos_etc/MU_bio_logo.png
-LessonBanner: assets/_banners_logos_etc/banner.png
+SponsorLogo: https://storage.googleapis.com/gp-cloud/lessons/GuardianFrogs_en-US/MU_bio_logo.png
+LessonBanner: https://storage.googleapis.com/gp-cloud/lessons/GuardianFrogs_en-US/banner.png
+LessonCard: https://storage.googleapis.com/gp-cloud/lessons/GuardianFrogs_en-US/Lesson_Card.png
 TargetSubject: Science
 LessonEnvir: Classroom
 ForGrades: 5-9
 GradesOrYears: Grades
+LessonTiles: .na
 EstLessonTime: 150 min. (~3 classes)
 PullStandardsInfoFrom: standardX
 LearningPlotCorrection: yes
-LearningChartFriendly: ''
-LearningEpaulette: assets/_learning-plots/GP-Learning-Epaulette.png
-LearningEpaulette_vert: assets/_learning-plots/GP-Learning-Epaulette_vert.png
+LearningChartFriendly: yes
+LearningEpaulette: https://storage.googleapis.com/gp-cloud/lessons/GuardianFrogs_en-US/GP-Learning-Epaulette.png
+LearningEpaulette_vert: https://storage.googleapis.com/gp-cloud/lessons/GuardianFrogs_en-US/GP-Learning-Epaulette_vert.png
 LearningEpaulette_params_heightScalar: 0.5
 LearningEpaulette_params_randomSeed: 107
-LearningChart: assets/_learning-plots/GP-Learning-Chart.png
+LearningChart: https://storage.googleapis.com/gp-cloud/lessons/GuardianFrogs_en-US/GP-Learning-Chart.png
 LearningChart_params_centralText: grades\n5-9
-LearningChart_params_caption: ''
+LearningChart_params_caption: .na
 LearningChart_params_captionN: no
 SupportingMedia:
-- assets/_other-media-to-publish/goyespaper.png
-- assets/_other-media-to-publish/vocab.csv
+- https://storage.googleapis.com/gp-cloud/lessons/GuardianFrogs_en-US/goyespaper.png
+- https://storage.googleapis.com/gp-cloud/lessons/GuardianFrogs_en-US/vocab.csv
+LearningSummary: Out of 8,000+ frog species, Guardian Frogs are one of the first to
+  show females that call & males that care for offspring. Students will gain wonder
+  and appreciation for how diverse animal mating systems are while doing fun activities
+  and analyzing real data.
 DrivingQ: |-
   - Across animal species, is there truth to the stereotype that males are “competitive,” while females are “caring”, or is this an oversimplification?
   - Are the smooth guardian frogs of Borneo the first known species of frog with “competitive females” and “caring males”?
 EssentialQ: |-
   - How can we use scientific methods to identify a general pattern?
   - Why do exceptions matter in science and in life?
-Hooks: NA
-LearningSummary: Out of 8,000+ frog species, Guardian Frogs are one of the first to
-  show females that call & males that care for offspring. Students will gain wonder
-  and appreciation for how diverse animal mating systems are while doing fun activities
-  and analyzing real data.
+Hooks: .na
 MiscMD: "#### Hooks\n- Part 1: Highly interactive card-based activity that simulates
   data collection + amazing animal videos\n- Part 2: Atmospheric videos of Borneo,
   first person narrative of an early career Latina scientist + use of authentic data
@@ -115,8 +118,8 @@ QuickPrep: |-
   1. Check out lesson multimedia below
   2. Look over [Teaching Materials](#teaching_materials)
   3. Teach it and [let us know what you think!](#feedback)
-Bonus: NA
-Extensions: NA
+Bonus: .na
+Extensions: .na
 Background: "Watch {vid3} to get a nice summary of Dr. Johana Goyes Vallejos’ scientific
   journey.\n\nWhile pursuing a PhD in ecology and evolutionary biology at the University
   of Connecticut, Johana heard about a poorly studied frog called the Smooth Guardian
@@ -187,13 +190,14 @@ ConnectionToResearch: "Instead of telling students that a pattern exists, we hav
 Feedback: "### Please let us know how it went with your class! \nShare your feedback
   in < 5 min with these forms:\n- [For teachers](https://forms.gle/bZeaTqPEedQMjMV59)\n-
   [For students](https://forms.gle/YnBorosBjWQHobgX7)\n"
-Credits: "#### Lead Author and Creative Director:\nMatt Wilkins, PhD  \nIf you liked
-  this lesson, please help spread the word! Feel free to tag me ([@mattwilkinsbio](https://twitter.com/mattwilkinsbio))
-  and GP ([@galacticPM](https://twitter.com/galacticPM)) on Twitter with your experiences
-  and student questions! \n\nAnd please [sign up for our mailing list](https://galacticpolymath.us8.list-manage.com/subscribe?u=42413c3d307f9b69fd5d5319e&id=33924ebd91)
-  to hear what’s coming up next!\n\n#### Sponsor and Producer\n[Johana Goyes Vallejos,
-  PhD](https://jogoyesvallejos.weebly.com/)\n\n#### \"Role with It\" Animal Diversity
-  Cards Illustrator\n[Anna Wilkins](https://www.annamationvisdev.com)"
+Credits:
+  value: "#### Lead Author and Creative Director:\nMatt Wilkins, PhD  \nIf you liked
+    this lesson, please help spread the word! Feel free to tag me ([@mattwilkinsbio](https://twitter.com/mattwilkinsbio))
+    and GP ([@galacticPM](https://twitter.com/galacticPM)) on Twitter with your experiences
+    and student questions! \n\nAnd please [sign up for our mailing list](https://galacticpolymath.us8.list-manage.com/subscribe?u=42413c3d307f9b69fd5d5319e&id=33924ebd91)
+    to hear what’s coming up next!\n\n#### Sponsor and Producer\n[Johana Goyes Vallejos,
+    PhD](https://jogoyesvallejos.weebly.com/)\n\n#### \"Role with It\" Animal Diversity
+    Cards Illustrator\n[Anna Wilkins](https://www.annamationvisdev.com)"
 Acknowledgments:
   Role:
   - Education Consultant
@@ -260,7 +264,13 @@ Versions:
     Erica Valerie suggested changes,
       all of which were incorporated. 
   - .na.character
-ScriptsToRun: ''
+ScriptsToRun: .na
+GoogleCloudStorage:
+  filename: .na
+  WD_rel_path: .na
+  cloud_path: .na
+  mod_time: .na
+  last_uploaded: .na
 ReadyToCompile:
 - Front Matter
 - Standards Alignment

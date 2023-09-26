@@ -1,0 +1,299 @@
+{
+  "__component": "lesson-plan.standards",
+  "Data": [
+    {
+      "subject": "Math",
+      "target": false,
+      "sets": [
+        {
+          "slug": "CCM",
+          "name": "Common Core Math",
+          "dimensions": [
+            {
+              "slug": "AGTC&HLT",
+              "name": "Algebra, Geometry, Trig, Calculus & Higher Level Thinking",
+              "standardsGroup": [
+                {
+                  "lessons": [
+                    "4"
+                  ],
+                  "codes": "7.EE.B.4",
+                  "grades": "7",
+                  "statements": "Use variables to represent quantities in a real-world or mathematical problem, and construct simple equations and inequalities to solve problems by reasoning about the quantities.",
+                  "alignmentNotes": "- Through a (heavily scaffolded) calculation to compute the dipole moment of a crystal subunit, students interpret variables for distance and electric charge.",
+                  "subcat": null
+                },
+                {
+                  "lessons": [
+                    "3"
+                  ],
+                  "codes": "8.G.A.1",
+                  "grades": "8",
+                  "statements": "Verify experimentally the properties of rotations, reflections, and translations:",
+                  "alignmentNotes": "- Students build from paper and manipulate two kinds of geometric unit cells: the cube and a rhombohedron. They quantify its rotational and reflective symmetries.",
+                  "subcat": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "subject": "ELA",
+      "target": false,
+      "sets": [
+        {
+          "slug": "CCELA",
+          "name": "Common Core ELA",
+          "dimensions": [
+            {
+              "slug": "W",
+              "name": "Writing",
+              "standardsGroup": [
+                {
+                  "lessons": [
+                    "1",
+                    "2",
+                    "3",
+                    "4"
+                  ],
+                  "codes": "W.7.1b",
+                  "grades": "7",
+                  "statements": "Support claim(s) with logical reasoning and relevant evidence, using accurate, credible sources and demonstrating an understanding of the topic or text.",
+                  "alignmentNotes": "- Students interpret the texts about crystals, molecular bonding, symmetry, and piezoelectricity to make claims about their definition and uses, supported by evidence in the readings.",
+                  "subcat": null
+                },
+                {
+                  "lessons": [
+                    "1",
+                    "2",
+                    "3",
+                    "4"
+                  ],
+                  "codes": "W.8.1b",
+                  "grades": "8",
+                  "statements": "Support claim(s) with logical reasoning and relevant evidence, using accurate, credible sources and demonstrating an understanding of the topic or text.",
+                  "alignmentNotes": "- Students interpret the texts about crystals, molecular bonding, symmetry, and piezoelectricity to make claims about their definition and uses, supported by evidence in the readings.",
+                  "subcat": null
+                },
+                {
+                  "lessons": [
+                    "1",
+                    "2",
+                    "3",
+                    "4"
+                  ],
+                  "codes": "W.9-10.1",
+                  "grades": ["9", "10"],
+                  "statements": "Write arguments to support claims in an analysis of substantive topics or texts, using valid reasoning and relevant and sufficient evidence.",
+                  "alignmentNotes": "- Students interpret the texts about crystals, molecular bonding, symmetry, and piezoelectricity to make claims about their definition and uses, supported by evidence in the readings.",
+                  "subcat": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "subject": "Science",
+      "target": false,
+      "sets": [
+        {
+          "slug": "NGSS",
+          "name": "NGSS",
+          "dimensions": [
+            {
+              "slug": "SEP",
+              "name": "Science & Engineering Practices",
+              "standardsGroup": [
+                {
+                  "lessons": [
+                    "2",
+                    "3"
+                  ],
+                  "codes": "CEDS-M2",
+                  "grades": ["6", "7", "8"],
+                  "statements": "Construct an explanation using models or representations.",
+                  "alignmentNotes": "- Students create molecular models of crystal unit cells, as well as geometric models of unit cells. They interpret how the two types of representations have different benefits and uses.",
+                  "subcat": "Constructing Explanations & Designing Solutions"
+                }
+              ]
+            },
+            {
+              "slug": "CCC",
+              "name": "Cross-Cutting Concepts",
+              "standardsGroup": [
+                {
+                  "lessons": [
+                    "4"
+                  ],
+                  "codes": "SF-M2",
+                  "grades": ["6", "7", "8"],
+                  "statements": "Structures can be designed to serve particular functions by taking into account properties of different materials, and how materials can be shaped and used.",
+                  "alignmentNotes": "- Through discussions of amorphous solids and crystals with and without the piezoelectric effect, students envision uses for each type of material based on their properties.",
+                  "subcat": "Structure & Function"
+                },
+                {
+                  "lessons": [
+                    "1",
+                    "2",
+                    "3",
+                    "4"
+                  ],
+                  "codes": "PAT-M1",
+                  "grades": ["6", "7", "8"],
+                  "statements": "Macroscopic patterns are related to the nature of microscopic and atomic-level structure.",
+                  "alignmentNotes": "- Using unit cell models, students predict what the final crystal structure might look like. Students also learn how the asymmetric atmoic structure of a crystal unit cell can give rise to properties such as the piezoelectric effect.",
+                  "subcat": "Patterns"
+                },
+                {
+                  "lessons": [
+                    "4"
+                  ],
+                  "codes": "SF-H1",
+                  "grades": ["9", "10", "11", "12"],
+                  "statements": "Investigating or designing new systems or structures requires a detailed examination of the properties of different materials, the structures of different components, and connections of components to reveal its function and/or solve a problem.",
+                  "alignmentNotes": "- Through discussions of amorphous solids and crystals with and without the piezoelectric effect, students envision uses for each type of material based on their properties.",
+                  "subcat": "Structure & Function"
+                },
+                {
+                  "lessons": [
+                    "1",
+                    "2",
+                    "3",
+                    "4"
+                  ],
+                  "codes": "PAT-H1",
+                  "grades": ["9", "10", "11", "12"],
+                  "statements": "Different patterns may be observed at each of the scales at which a system is studied and can provide evidence for causality in explanations of phenomena.",
+                  "alignmentNotes": "- Students create molecular models of crystal unit cells, as well as geometric models of unit cells. They interpret how the two types of representations have different benefits and uses, and when each representation might be useful. They also draw connections between the two models and explore how the symmetries of the more detailed model constrain the allowed configurations of the coarser model.",
+                  "subcat": "Patterns"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "subject": "Science",
+      "target": true,
+      "sets": [
+        {
+          "slug": "NGSS",
+          "name": "NGSS",
+          "dimensions": [
+            {
+              "slug": "SEP",
+              "name": "Science & Engineering Practices",
+              "standardsGroup": [
+                {
+                  "lessons": [
+                    "2",
+                    "3",
+                    "4"
+                  ],
+                  "codes": "MOD-M5",
+                  "grades": ["6", "7", "8"],
+                  "statements": "Develop and/or use a model to predict and/or describe phenomena.",
+                  "alignmentNotes": "- Using unit cell models, students predict what the final crystal structure might look like.",
+                  "subcat": "Developing & Using Models"
+                },
+                {
+                  "lessons": [
+                    "2",
+                    "3"
+                  ],
+                  "codes": "MOD-H4",
+                  "grades": ["9", "10", "11", "12"],
+                  "statements": "Develop and/or use multiple types of models to provide mechanistic accounts and/or predict phenomena, and move flexibly between model types based on merits and limitations.",
+                  "alignmentNotes": "- Students create molecular models of crystal unit cells, as well as geometric models of unit cells. They interpret how the two types of representations have different benefits and uses, and when each representation might be useful.",
+                  "subcat": "Developing & Using Models"
+                },
+                {
+                  "lessons": [
+                    "2",
+                    "3"
+                  ],
+                  "codes": "MOD-H5",
+                  "grades": ["9", "10", "11", "12"],
+                  "statements": "Use a model to provide mechanistic accounts of phenomena.",
+                  "alignmentNotes": "- Molecular and geometric models of the unit cells are used to demonstrate the function and structure of the macroscopic crystal. Specifically, molecular models of quartz and table salt demonstrate the effects of (a)symmetry on the electrical properties of the bulk crystal, namely piezoelectricity.",
+                  "subcat": "Developing & Using Models"
+                }
+              ]
+            },
+            {
+              "slug": "CCC",
+              "name": "Cross-Cutting Concepts",
+              "standardsGroup": [
+                {
+                  "lessons": [
+                    "2",
+                    "3",
+                    "4"
+                  ],
+                  "codes": "SF-M1",
+                  "grades": ["6", "7", "8"],
+                  "statements": "Complex and microscopic structures and systems can be visualized, modeled, and used to describe how their function depends on the shapes, composition, and relationships among its parts, therefore complex natural structures/systems can be analyzed to determine how they function.",
+                  "alignmentNotes": "- Molecular and geometric models of the unit cells are used to demonstrate the function and structure of the macroscopic crystal. Specifically, molecular models of quartz and table salt demonstrate the effects of (a)symmetry on the electrical properties of the bulk crystal, namely piezoelectricity.",
+                  "subcat": "Structure & Function"
+                },
+                {
+                  "lessons": [
+                    "4"
+                  ],
+                  "codes": "SF-H2",
+                  "grades": ["9", "10", "11", "12"],
+                  "statements": "The functions and properties of natural and designed objects and systems can be inferred from their overall structure, the way their components are shaped and used, and the molecular substructures of its various materials.",
+                  "alignmentNotes": "- Molecular models of quartz and table salt demonstrate the effects of (a)symmetry on the electrical properties of the bulk crystal, namely piezoelectricity.",
+                  "subcat": "Structure & Function"
+                }
+              ]
+            },
+            {
+              "slug": "DCI",
+              "name": "Disciplinary Core ideas",
+              "standardsGroup": [
+                {
+                  "lessons": [
+                    "1",
+                    "2",
+                    "3"
+                  ],
+                  "codes": "PS1.A-M5",
+                  "grades": ["6", "7", "8"],
+                  "statements": "Solids may be formed from molecules, or they may be extended structures with repeating subunits (e.g., crystals).",
+                  "alignmentNotes": "- Students create molecular models of crystal unit cells, as well as geometric models of unit cells. They explore how the repeating subunits fit together to form a crystal.",
+                  "subcat": "Structure & Properties of Matter"
+                },
+                {
+                  "lessons": [
+                    "4"
+                  ],
+                  "codes": "PS1.A-H1",
+                  "grades": ["9", "10", "11", "12"],
+                  "statements": "Each atom has a charged substructure consisting of a nucleus, which is made of protons and neutrons, surrounded by electrons.",
+                  "alignmentNotes": "- Protons, neutrons, and electrons are introduced as the components of an atom. The electron cloud and concept of electron shells are also introduced in a discussion of ionic and covalent bonding.",
+                  "subcat": "Structure & Properties of Matter"
+                },
+                {
+                  "lessons": [
+                    "4"
+                  ],
+                  "codes": "PS1.A-H3",
+                  "grades": ["9", "10", "11", "12"],
+                  "statements": "The structure and interactions of matter at the bulk scale are determined by electrical forces within and between atoms.",
+                  "alignmentNotes": "- Through a (heavily scaffolded) calculation to compute the dipole moment of a crystal subunit, students interpret variables for distance and electric charge.",
+                  "subcat": "Structure & Properties of Matter"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

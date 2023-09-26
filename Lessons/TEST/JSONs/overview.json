@@ -23,10 +23,6 @@
       "Value": "engineering mindset"
     }
   ],
-  "SteamEpaulette": {
-    "url": "https://gp-catalog.vercel.app/lessons/TEST/GP-Learning-Epaulette.png"
-  },
-  "SteamEpaulette_vert": {
-    "url": "https://gp-catalog.vercel.app/lessons/TEST/GP-Learning-Epaulette_vert.png"
-  }
+  "SteamEpaulette": "https://storage.googleapis.com/gp-cloud/lessons/TEST/GP-Learning-Epaulette.png",
+  "SteamEpaulette_vert": "https://storage.googleapis.com/gp-cloud/lessons/TEST/GP-Learning-Epaulette_vert.png"
 }

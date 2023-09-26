@@ -1,0 +1,524 @@
+{
+  "__component": "teaching-resources.teaching-resources",
+  "SectionTitle": "Teaching Materials",
+  "Data": {
+    "lessonPreface": "There is a single worksheet packet for Parts 1 & 2. Part 1 (Data collection) will likely take a full class period. Part 2 (Analysis) can be done in another class period or independently. Students should be able to complete Part 3 in 1 class period.",
+    "lessonDur": "3 x 45 min",
+    "classroom": {
+      "gradeVariantNotes": [
+        {
+          "lsn": "1",
+          "lsnGradeVarNotes": null
+        },
+        {
+          "lsn": "2",
+          "lsnGradeVarNotes": null
+        },
+        {
+          "lsn": "3",
+          "lsnGradeVarNotes": null
+        }
+      ],
+      "resources": [
+        {
+          "grades": "Grades 5-9",
+          "gradePrefix": "G5-9",
+          "links": {
+            "linkText": "Browse & Download All G5-9 Materials",
+            "url": "https://drive.google.com/drive/folders/1P5d0lA6XQILhgEkadWzFhFDnAe4c-EvL"
+          },
+          "lessons": [
+            {
+              "lsn": "1",
+              "title": "Defining a Pattern in Nature",
+              "tags": [
+                ["cards", "movement", "creativity"]
+              ],
+              "preface": "Students \"collect\" data in a fun activity blending creative movement, cards, animal videos, and data literacy.",
+              "tile": null,
+              "itemList": [
+                {
+                  "itemTitle": "Presentation (Lesson 1)",
+                  "itemDescription": "Need: WiFi, Computer, Projector, Sound",
+                  "itemCat": "presentation",
+                  "links": [
+                    {
+                      "linkText": "Present Now",
+                      "url": "https://docs.google.com/presentation/d/1QV9ZMPG7eFnPVlYrSj3t75W8YBD825feGGRntmll9uc/present"
+                    },
+                    {
+                      "linkText": "Copy/Edit in Google Docs",
+                      "url": "https://docs.google.com/presentation/d/1QV9ZMPG7eFnPVlYrSj3t75W8YBD825feGGRntmll9uc/template/preview"
+                    }
+                  ]
+                },
+                {
+                  "itemTitle": "Student Worksheet (Lesson 1&2)",
+                  "itemDescription": "Print 1 Per Student",
+                  "itemCat": "document",
+                  "links": [
+                    {
+                      "linkText": "PDF",
+                      "url": "https://docs.google.com/document/d/1jIgQ8m4OvsSYOnWlnBgUXsjeK97w0mFlW2PmNcy91fo/export?format=pdf"
+                    },
+                    {
+                      "linkText": "Copy/Edit in Google Docs",
+                      "url": "https://docs.google.com/document/d/1jIgQ8m4OvsSYOnWlnBgUXsjeK97w0mFlW2PmNcy91fo/template/preview"
+                    }
+                  ]
+                },
+                {
+                  "itemTitle": "Teacher Worksheet (Lesson 1&2)",
+                  "itemDescription": "Print 1",
+                  "itemCat": "document",
+                  "links": [
+                    {
+                      "linkText": "PDF",
+                      "url": "https://docs.google.com/document/d/1jkBbS6L0sFdkwY304ZZqOGxtJEYQWhcjHcIG55l_lCI/export?format=pdf"
+                    },
+                    {
+                      "linkText": "Copy/Edit in Google Docs",
+                      "url": "https://docs.google.com/document/d/1jkBbS6L0sFdkwY304ZZqOGxtJEYQWhcjHcIG55l_lCI/template/preview"
+                    }
+                  ]
+                },
+                {
+                  "itemTitle": "Card (Lesson 1)",
+                  "itemDescription": null,
+                  "itemCat": "pdf",
+                  "links": [
+                    {
+                      "linkText": "PDF",
+                      "url": "https://drive.google.com/file/d/1Jn8uIM_tPdLMi8ZabtDETt0ioAfB8FKc"
+                    },
+                    {
+                      "linkText": "Copy/Edit in Google Docs",
+                      "url": "https://drive.google.com/file/d/1Jn8uIM_tPdLMi8ZabtDETt0ioAfB8FKc"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "lsn": "2",
+              "title": "Analyzing Data from Part 1",
+              "tags": [
+                "data analysis"
+              ],
+              "preface": "Students organize, analyze, and interpret the data they collected in Part 1. Through data analysis, they will learn why *sex-role-reversed* species are so interesting.",
+              "tile": null,
+              "itemList": [
+                {
+                  "itemTitle": "Student Worksheet (Lesson 1&2)",
+                  "itemDescription": "Print 1 Per Student",
+                  "itemCat": "document",
+                  "links": [
+                    {
+                      "linkText": "PDF",
+                      "url": "https://docs.google.com/document/d/1jIgQ8m4OvsSYOnWlnBgUXsjeK97w0mFlW2PmNcy91fo/export?format=pdf"
+                    },
+                    {
+                      "linkText": "Copy/Edit in Google Docs",
+                      "url": "https://docs.google.com/document/d/1jIgQ8m4OvsSYOnWlnBgUXsjeK97w0mFlW2PmNcy91fo/template/preview"
+                    }
+                  ]
+                },
+                {
+                  "itemTitle": "Teacher Worksheet (Lesson 1&2)",
+                  "itemDescription": "Print 1",
+                  "itemCat": "document",
+                  "links": [
+                    {
+                      "linkText": "PDF",
+                      "url": "https://docs.google.com/document/d/1jkBbS6L0sFdkwY304ZZqOGxtJEYQWhcjHcIG55l_lCI/export?format=pdf"
+                    },
+                    {
+                      "linkText": "Copy/Edit in Google Docs",
+                      "url": "https://docs.google.com/document/d/1jkBbS6L0sFdkwY304ZZqOGxtJEYQWhcjHcIG55l_lCI/template/preview"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "lsn": "3",
+              "title": "Let's Go to Borneo!",
+              "tags": [
+                ["authentic science", "data analysis"]
+              ],
+              "preface": "Students analyze Dr. Johana Goyes Vallejos' data, collected from the field in Borneo. They will test whether Guardian Frogs are the first known frog with sex role reversal.",
+              "tile": null,
+              "itemList": [
+                {
+                  "itemTitle": "Presentation (Lesson 3)",
+                  "itemDescription": "Need: WiFi, Computer, Projector, Sound",
+                  "itemCat": "presentation",
+                  "links": [
+                    {
+                      "linkText": "Present Now",
+                      "url": "https://docs.google.com/presentation/d/1tp9kJR040qMQUflS9xCddbbThqGo_7Gu0dzn46l7kAc/present"
+                    },
+                    {
+                      "linkText": "Copy/Edit in Google Docs",
+                      "url": "https://docs.google.com/presentation/d/1tp9kJR040qMQUflS9xCddbbThqGo_7Gu0dzn46l7kAc/template/preview"
+                    }
+                  ]
+                },
+                {
+                  "itemTitle": "Student Worksheet (Lesson 3)",
+                  "itemDescription": "Print 1 Per Student",
+                  "itemCat": "document",
+                  "links": [
+                    {
+                      "linkText": "PDF",
+                      "url": "https://docs.google.com/document/d/1HftnYxSfyZ304pIs4hqaYBhvUf958jmUff_1NmRlwas/export?format=pdf"
+                    },
+                    {
+                      "linkText": "Copy/Edit in Google Docs",
+                      "url": "https://docs.google.com/document/d/1HftnYxSfyZ304pIs4hqaYBhvUf958jmUff_1NmRlwas/template/preview"
+                    }
+                  ]
+                },
+                {
+                  "itemTitle": "Teacher Worksheet (Lesson 3)",
+                  "itemDescription": "Print 1",
+                  "itemCat": "document",
+                  "links": [
+                    {
+                      "linkText": "PDF",
+                      "url": "https://docs.google.com/document/d/1aFVmAC55uuimnlxbRxUPwwFzZeVexsEV8ZNbtHz0iiE/export?format=pdf"
+                    },
+                    {
+                      "linkText": "Copy/Edit in Google Docs",
+                      "url": "https://docs.google.com/document/d/1aFVmAC55uuimnlxbRxUPwwFzZeVexsEV8ZNbtHz0iiE/template/preview"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "lesson": [
+      {
+        "lsnNum": 1,
+        "lsnTitle": "Defining a Pattern in Nature",
+        "lsnDur": 45,
+        "lsnPreface": "Students \"collect\" data in a fun activity blending creative movement, cards, animal videos, and data literacy.",
+        "learningObj": ["Explain how animal behavior facilitates survival and reproduction.", "Collect, reorganize, and analyze data to identify a pattern (that males tend to have adaptations to compete for mates, while females provide more parental care), and interpret exceptions to that pattern."],
+        "lsnPrep": {
+          "prepTitle": "Prep",
+          "prepDur": 10,
+          "prepQuickDescription": "Print out handouts.",
+          "prepDetails": "You might ask a student to cut out the cards. (Set aside extra time if you want to laminate them).",
+          "prepVariantNotes": null,
+          "prepTeachingTips": null
+        },
+        "chunks": [
+          {
+            "chunkTitle": "Warm-Up",
+            "chunkStart": 0,
+            "chunkDur": 10,
+            "steps": [
+              {
+                "Step": 1,
+                "StepTitle": "In animals, which sex is strong, caring, competitive, or protective?",
+                "StepQuickDescription": "A quick activity to get students thinking about the behavioral roles that males and females play across the animal kingdom.",
+                "StepDetails": "Students will pick one of the supplied adjectives and categorize it to one of the sexes, and provide an example of a nonhuman animal that demonstrates this adjective. The idea is to have students think about their preconceptions about *sex roles*. We define it here for you, but won't introduce this term until part 2. A reason for this is that the utility of the term *sex roles* itself is [being argued about in the scientific literature](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C43&q=On+anisogamy+and+the+evolution+of+%E2%80%98sex+roles%E2%80%99&btnG=&oq=on+anisogamy). \n\nWe want students to understand that there is a general pattern of how male and female animals tend to behave, but these are not actually prescriptive *roles* and there is a great deal of variation within and across species.",
+                "Vocab": "- **sex roles:**  in nonhuman animals, behaviors and attributes that typically apply to one sex or the other\n- **conventional sex roles:**  \"caring females\" and \"competitive males\"; the pattern in most animal species wherein females contribute more to ensure the survival of offspring, while males spend more effort toward attracting and competing for mates\n- **sex-role-reversal:**  \"caring males\" and \"competitive females\"; this is a less common pattern among animals, in which males contribute more to parental care and females compete for access to mates",
+                "VariantNotes": null,
+                "TeachingTips": "Make sure to emphasize that we're *not talking about humans*. Later, we will also draw the distinctions between gender and sex."
+              },
+              {
+                "Step": 2,
+                "StepTitle": "Share out",
+                "StepQuickDescription": "Let students share a bit of their knowledge and perhaps begin to disagree about classifications. We want them to start thinking about how complex and variable animal mating systems are.",
+                "StepDetails": null,
+                "Vocab": null,
+                "VariantNotes": null,
+                "TeachingTips": null
+              }
+            ]
+          },
+          {
+            "chunkTitle": "Intro",
+            "chunkStart": 10,
+            "chunkDur": 10,
+            "steps": [
+              {
+                "Step": 3,
+                "StepTitle": "Across animals, is one sex more involved in *caring* for young, while the other is focused on *competing* for mates?",
+                "StepQuickDescription": "Set up our driving question and define the language we'll be using.",
+                "StepDetails": null,
+                "Vocab": "- **sex:**  a category (male or female) determined by which gametes an individual produces (i.e. eggs for females and sperm for males)\n- **gender:**  a complex social category based on how an individual identifies (e.g. male, female, nonbinary)",
+                "VariantNotes": null,
+                "TeachingTips": "We always use *sex*, rather than *gender* to refer to nonhuman animals, since we can't ask animals how they identify. However, there is some [very interesting ongoing research looking into animal genders](https://www.discovermagazine.com/planet-earth/is-gender-identity-unique-to-humans)."
+              },
+              {
+                "Step": 4,
+                "StepTitle": "Role With It Rules",
+                "StepQuickDescription": "A card-based simulated data collection activity involving \"song\" and dance",
+                "StepDetails": "Students each get *at least* 1 card from the [♧ Role With It Cards](https://drive.google.com/file/d/18YviuSZR_uxPaOwFUGLyERjwl1P_fNz2/view?usp=sharing). This card is their \"specimen\" (male or female of a  species), which they will introduce to the class as they collect its data. Each card has provided sexual signal values (from 0 to 3) for visual and acoustic (sound) traits. Zero means a specimen doesn't have that type of signal; 3 means that sex of that species has a very exaggerated trait. Students will build a dataset of relative sexual signal elaboration (e.g. how fancy the feathers and songs are) and parental investment for each sex across 12 different species.\n\nThe presentation guides the game. When a specimen's common name is called, the student with that card must stand up and introduce it. They will repeat their name 3-5 times at a volume corresponding to the Acoustic Signal Score on their card. Simultaneously, they will do a dance that is at the level of the Visual Display Score on their card. \n\nAfter the introduction, the student will read for their classmates the Parental Investment information on the card. Everyone then records display scores and parental contributions, which they will use for futher analysis. Then the next card is introduced.",
+                "Vocab": "- **signals:**  traits evolved to communicate something to a receiver (e.g. \"danger,\" \"I'm here,\" or \"mine\")\n- **sexual signals:**  traits evolved specifically to communicate in the context of mate attraction, competition, or both\n- **visual signals:**  traits evolved to communicate by sight (e.g. feather shapes and colors; antlers; or bright patches of skin)\n- **acoustic signals:**  traits evolved to communicate through sound (e.g. bird and whale song; cricket chirps; or frog calls)",
+                "VariantNotes": null,
+                "TeachingTips": "We've included 30sec timers in the presentation to keep things moving along, as students will find much of the goings on *quite* entertaining.\n\nIt's a good idea to demonstrate the \"song\" and dances, and set rules for what a \"3\" means in terms of movement and volume. One of us demoed a floss and while one student \"died of cringe,\" another confided that it made her day. Have fun! :)"
+              },
+              {
+                "Step": 5,
+                "StepTitle": "Pass out cards and let students trade",
+                "StepQuickDescription": "Each student should have at least 1 card.",
+                "StepDetails": "Each student should have at least 1 card. In small classes, students may have several. In a large class (>24), you will need to have more than 1 deck to allow each student to have a card. If you have multiple students introducing a specimen, you should call on one to read the *Parental Contributions* section.",
+                "Vocab": null,
+                "VariantNotes": null,
+                "TeachingTips": "Once they have the data, Part 2 can be done independently for homework or during another class period."
+              }
+            ]
+          },
+          {
+            "chunkTitle": "Role with It Data Collection",
+            "chunkStart": 20,
+            "chunkDur": 35,
+            "steps": [
+              {
+                "Step": 6,
+                "StepTitle": "Students will make 24 small performances as they introduce their species, followed by data collection.",
+                "StepQuickDescription": "This will be somewhat of a chaotic lesson, but students should definitely find it engaging. They will enjoy performing and seeing their classmates perform.",
+                "StepDetails": "Everything downstream requires that all students collect the data they are introducing. Students will likely need periodic reminders to focus and take down the data to move on. We've added the timers as a reminder.",
+                "Vocab": "- **dewlap:** the extendable flap under some lizards' necks (e.g. in green anoles), which is used for competition and mate attraction\n- **wattle:** a fleshy flap of skin on some birds (such as turkeys and jacanas) that likely plays a role in mate choice",
+                "VariantNotes": null,
+                "TeachingTips": "We include short videos after some of the species have been introduced to show students their actual display behaviors. Make sure you have the sound on! :loud_sound:"
+              }
+            ]
+          },
+          {
+            "chunkTitle": "Wrapping Up Data Collection",
+            "chunkStart": 55,
+            "chunkDur": 5,
+            "steps": [
+              {
+                "Step": 7,
+                "StepTitle": "Collect work to finish later in class or assign homework",
+                "StepQuickDescription": "If you finished, have students make sure they've totaled all their scores in Table 1.",
+                "StepDetails": "If you don't quite get through the P1 Presentation, simply collect student papers (you can have them place cards on top of their worksheet packet and stack them). They should have recorded which cards they had on Q1-5, as well, so it's straightforward to pick up where you left off on data collection at the last species in Table 1 on the worksheet.",
+                "Vocab": null,
+                "VariantNotes": null,
+                "TeachingTips": "Once they have the data, the rest can be done independently for homework or during another class period, depending how you'd like to support your students."
+              }
+            ]
+          }
+        ],
+        "lsnExt": null
+      },
+      {
+        "lsnNum": 2,
+        "lsnTitle": "Analyzing Data from Part 1",
+        "lsnDur": 45,
+        "lsnPreface": "Students organize, analyze, and interpret the data they collected in Part 1. Through data analysis, they will learn why *sex-role-reversed* species are so interesting.",
+        "learningObj": ["Explain how animal behavior facilitates survival and reproduction.", "Collect, reorganize, and analyze data to identify a pattern (that males tend to have adaptations to compete for mates, while females provide more parental care), and interpret exceptions to that pattern.", "Understand that there is always variability in scientific data."],
+        "lsnPrep": {
+          "prepTitle": "Prep",
+          "prepDur": 0,
+          "prepQuickDescription": "Make sure students have their worksheet packets from Part 1.",
+          "prepDetails": null,
+          "prepVariantNotes": null,
+          "prepTeachingTips": null
+        },
+        "chunks": [
+          {
+            "chunkTitle": "(Re)organizing the Data",
+            "chunkStart": 0,
+            "chunkDur": 15,
+            "steps": [
+              {
+                "Step": 1,
+                "StepTitle": "Transferring raw data to a summary table",
+                "StepQuickDescription": "What do the data say about our question: **Across animals, is one sex more involved in *caring* for young, while the other is focused on *competing* for mates?**",
+                "StepDetails": "Students will copy their Total Sexual Signaling Scores and Total Parental Investment Scores from Table 1 to Table 2. They will then right the correct symbol (<, >, or =), according to how male and female scores compare to each other.",
+                "Vocab": null,
+                "VariantNotes": "There is no presentation for Part 2. The worksheet should guide students in analysis of their data.",
+                "TeachingTips": "You may want to have students work in pairs on this part in order to help them troubleshoot and spot each other's mistakes."
+              },
+              {
+                "Step": 2,
+                "StepTitle": "Validate the data",
+                "StepQuickDescription": "In order to make your life easier, and introduce students to an important computer science concept, we've implemented a checksum for Table 2.",
+                "StepDetails": "After reorganizing their raw data in Table 2, students should add up each category of scores to get totals. Students will know if their data is valid (correct) if the column totals equal the expected *checksums.* If not, they should work with a classmate to find the error before coming to you to troubleshoot.",
+                "Vocab": "- **checksum:**  in computer science, this is a value used to determine if data are valid. If a calculation does not result in the expected checksum, it is a sign that something went wrong. (e.g. checksums are used to determine if you've put in a [valid credit card number](https://www.sapling.com/7966257/checksum-credit-card))",
+                "VariantNotes": null,
+                "TeachingTips": null
+              }
+            ]
+          },
+          {
+            "chunkTitle": "Analysis and Reflection",
+            "chunkStart": 15,
+            "chunkDur": 30,
+            "steps": [
+              {
+                "Step": 3,
+                "StepTitle": "Independent work",
+                "StepQuickDescription": "The worksheet guides students through a basic summary analysis and reflection on the data.",
+                "StepDetails": "What students should independently learn from this analysis:\n- there is a lot of variation in nature\n- when one sex contributes significantly more parental investment, it frees the other sex to evolve adaptations to compete for mates\n- while the majority of species have \"caring females\" and \"competitive males\" (*conventional sex roles*), there are many cases where both parents contribute equivalently, and some species show *sex role reversal*",
+                "Vocab": null,
+                "VariantNotes": null,
+                "TeachingTips": null
+              }
+            ]
+          }
+        ],
+        "lsnExt": null
+      },
+      {
+        "lsnNum": 3,
+        "lsnTitle": "Let's Go to Borneo!",
+        "lsnDur": null,
+        "lsnPreface": "Students analyze Dr. Johana Goyes Vallejos' data, collected from the field in Borneo. They will test whether Guardian Frogs are the first known frog with sex role reversal.",
+        "learningObj": ["Explain how animal behavior facilitates survival and reproduction.", "Learn to test hypotheses by interpreting authentic scientific graphs and data.", "Understand that there is always variability in scientific data.", "Cite evidence to support explanatory claims.", "Integrate multiple lines of evidence to explain why biological exceptions matter to science and society."],
+        "lsnPrep": {
+          "prepTitle": "Prep",
+          "prepDur": 5,
+          "prepQuickDescription": "Print out handouts.",
+          "prepDetails": null,
+          "prepVariantNotes": null,
+          "prepTeachingTips": null
+        },
+        "chunks": [
+          {
+            "chunkTitle": "Where in the world is Borneo?",
+            "chunkStart": 0,
+            "chunkDur": 10,
+            "steps": [
+              {
+                "Step": 1,
+                "StepTitle": "Immersion in a tropical forest",
+                "StepQuickDescription": "As students are streaming into the class, have Slide 2 playing the [▶ Borneo Atmospheric Video](https://youtu.be/hR28Rd53S6g) with sound on :loud_sound:",
+                "StepDetails": "This looping video alternates between showing a planetary view of where we're going in this trip to sights and sounds from the field.",
+                "Vocab": null,
+                "VariantNotes": null,
+                "TeachingTips": "The graphic scrolling along the bottom of the video is a sound [*spectrogram*](https://en.wikipedia.org/wiki/Spectrogram). It shows frequency along the vertical Y axis and time scrolling along the X axis."
+              },
+              {
+                "Step": 2,
+                "StepTitle": "Geopolitical boundaries",
+                "StepQuickDescription": "A few slides check in with your students' geographical knowledge",
+                "StepDetails": "We show the 3 countries that claim the island of [Borneo](https://en.wikipedia.org/wiki/Borneo): Malaysia, Indonesia, and the tiny sultanate of Brunei. The rest of the lesson will focus on the research Dr. Johana Goyes Vallejos conducted in Brunei.",
+                "Vocab": null,
+                "VariantNotes": null,
+                "TeachingTips": null
+              }
+            ]
+          },
+          {
+            "chunkTitle": "Quick Review",
+            "chunkStart": 10,
+            "chunkDur": 5,
+            "steps": [
+              {
+                "Step": 3,
+                "StepTitle": "What did we learn yesterday?",
+                "StepQuickDescription": "Slides prompt a quick review of the general pattern that students found in their data in Part 2.",
+                "StepDetails": "Here we introduce the term *sex roles* and *conventional sex roles* in particular to describe the finding that in 75% of the species we looked at in Parts 1-2, males were \"competitive\" and females were \"caring.\" We then highlight the exceptional species (pipefish, jacanas, and guardian frogs).",
+                "Vocab": "- **sex roles:**  in nonhuman animals, behaviors and attributes that typically apply to one sex or the other\n- **conventional sex roles:**  \"caring females\" and \"competitive males\"; the pattern in most animal species wherein females contribute more to ensure the survival of offspring, while males spend more effort toward attracting and competing for mates\n- **sex-role-reversal:**  \"caring males\" and \"competitive females\"; this is a less common pattern among animals, in which males contribute more to parental care and females compete for access to mates",
+                "VariantNotes": null,
+                "TeachingTips": null
+              }
+            ]
+          },
+          {
+            "chunkTitle": "Setting Up for Student Analysis",
+            "chunkStart": 15,
+            "chunkDur": 10,
+            "steps": [
+              {
+                "Step": 4,
+                "StepTitle": "Watch Video",
+                "StepQuickDescription": "Students learn about Johana and the motivations for her research with [▶ Calling behavior of male and female Guardian Frogs](https://www.youtube.com/watch?v=LAqSHDdTKMw)",
+                "StepDetails": "This video sets up the background information and sets up the driving question for Part 3: \"Is the Smooth Guardian Frog fo Borneo the first sex-role-reversed frog species known to science?\"",
+                "Vocab": null,
+                "VariantNotes": null,
+                "TeachingTips": null
+              },
+              {
+                "Step": 5,
+                "StepTitle": "Introduce the criteria for sex role reversal",
+                "StepQuickDescription": "Students will determine if the Guardian Frogs meet a set of 3 criteria to be considered the first sex role reversed frog species.",
+                "StepDetails": "Students will determine if the Guardian Frogs meet a set of 3 criteria to be considered the first sex role reversed frog species. Two are provided in the background information (Males are known to provide parental care by guarding eggs and transporting tadpoles to water; females are also known to call, which is normally a trait only found in males). Students will spend the rest of the class time testing out the third criteria: *Do females signal more often than males?*",
+                "Vocab": null,
+                "VariantNotes": null,
+                "TeachingTips": null
+              }
+            ]
+          },
+          {
+            "chunkTitle": "Independent Work",
+            "chunkStart": 25,
+            "chunkDur": 20,
+            "steps": [
+              {
+                "Step": 6,
+                "StepTitle": "Students complete the worksheet packet on their own",
+                "StepQuickDescription": "Students add missing labels to a graph of male and female call rates.",
+                "StepDetails": "In order to complete the primary task, students will have to compare the units of the X and Y axis on a scatter plot to the values in the table in order to figure out how to label the figure. They will also have to compare the relative values of males and females in order to label the legend key. Once they have figured out the main task, students are asked to interpret whether the data meet criterion 3: that females call more than males (they do). Finally, students are asked to write a persuasive paragraph synthesizing what they have learned to  explain why guardian frogs deserve more research funding and what will be lost if they are allowed to go extinct.",
+                "Vocab": null,
+                "VariantNotes": "If you'd like to have students refer to outside resources for their final essay, you can assign one of the articles listed in [the Background Section](#background).",
+                "TeachingTips": "When you finish teaching this lesson, we would really love to hear what you thought! Please fill out a simple survey in the Feedback section below."
+              }
+            ]
+          }
+        ],
+        "lsnExt": null
+      }
+    ],
+    "gatheredVocab": [
+      {
+        "term": "sex roles",
+        "definition": "in nonhuman animals, behaviors and attributes that typically apply to one sex or the other"
+      },
+      {
+        "term": "conventional sex roles",
+        "definition": "\"caring females\" and \"competitive males\"; the pattern in most animal species wherein females contribute more to ensure the survival of offspring, while males spend more effort toward attracting and competing for mates"
+      },
+      {
+        "term": "sex-role-reversal",
+        "definition": "\"caring males\" and \"competitive females\"; this is a less common pattern among animals, in which males contribute more to parental care and females compete for access to mates"
+      },
+      {
+        "term": "sex",
+        "definition": "a category (male or female) determined by which gametes an individual produces (i.e. eggs for females and sperm for males)"
+      },
+      {
+        "term": "gender",
+        "definition": "a complex social category based on how an individual identifies (e.g. male, female, nonbinary)"
+      },
+      {
+        "term": "signals",
+        "definition": "traits evolved to communicate something to a receiver (e.g. \"danger,\" \"I'm here,\" or \"mine\")"
+      },
+      {
+        "term": "sexual signals",
+        "definition": "traits evolved specifically to communicate in the context of mate attraction, competition, or both"
+      },
+      {
+        "term": "visual signals",
+        "definition": "traits evolved to communicate by sight (e.g. feather shapes and colors; antlers; or bright patches of skin)"
+      },
+      {
+        "term": "acoustic signals",
+        "definition": "traits evolved to communicate through sound (e.g. bird and whale song; cricket chirps; or frog calls)"
+      },
+      {
+        "term": "dewlap",
+        "definition": "the extendable flap under some lizards' necks (e.g. in green anoles), which is used for competition and mate attraction"
+      },
+      {
+        "term": "wattle",
+        "definition": "a fleshy flap of skin on some birds (such as turkeys and jacanas) that likely plays a role in mate choice"
+      },
+      {
+        "term": "checksum",
+        "definition": "in computer science, this is a value used to determine if data are valid. If a calculation does not result in the expected checksum, it is a sign that something went wrong. (e.g. checksums are used to determine if you've put in a [valid credit card number](https://www.sapling.com/7966257/checksum-credit-card))"
+      }
+    ]
+  }
+}

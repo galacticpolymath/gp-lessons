@@ -1,0 +1,46 @@
+{
+  "__component": "lesson-plan.versions",
+  "SectionTitle": "Version Notes",
+  "Data": [
+    {
+      "major_release": "Beta",
+      "sub_releases": [
+        {
+          "version": "0.1.0",
+          "date": "6/29/2022",
+          "summary": "Initial lesson build.",
+          "notes": null,
+          "acknowledgments": null
+        },
+        {
+          "version": "0.2.0",
+          "date": "8/31/2022",
+          "summary": "Major updates for public release!",
+          "notes": "Aligned to New Zealand Curriculum. Added Learning Epaulette. Fixed grammatical errors, broken links.",
+          "acknowledgments": null
+        },
+        {
+          "version": "0.2.1",
+          "date": "9/8/2022",
+          "summary": "Minor updates",
+          "notes": "Procedure edited to be more active. Minor spelling and grammar corrections throughout. Couple of broken links fixed",
+          "acknowledgments": null
+        },
+        {
+          "version": "0.3.0",
+          "date": "9/9/2022",
+          "summary": "Major revisions",
+          "notes": "Corrected errors; added documentation to teacher versions of worksheets; added learning objectives to standards section.",
+          "acknowledgments": null
+        },
+        {
+          "version": "0.4.0",
+          "date": "5/4/2023",
+          "summary": "Rebuilt lesson for galacticpolymath.com relaunch",
+          "notes": null,
+          "acknowledgments": null
+        }
+      ]
+    }
+  ]
+}

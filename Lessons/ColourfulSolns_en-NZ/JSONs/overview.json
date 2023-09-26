@@ -1,0 +1,28 @@
+{
+  "__component": "lesson-plan.overview",
+  "LearningSummary": "Students will learn to think like chemical engineers as they delve into the dye technologies that allow us to express ourselves through colourful clothing. They will read and discuss complex texts, analyse concept maps and graphs, and develop an appreciation for indigenous (Māori) dye technology.",
+  "EstLessonTime": "3 x 45min classes",
+  "GradesOrYears": "Years",
+  "ForGrades": "9-13",
+  "TargetSubject": "Science",
+  "Text": "#### Driving Question(s):\nHow have different dye technologies been used to produce colorful clothing across cultures and over time?\n#### Essential Question(s):\nHow can a career in chemical, genetic, or process engineering create opportunities to solve complex societal problems?\n#### Hook(s):\n- Part 1 begins with a warm-up “Dye-versity Audit,” In which students will quantify the number of dyes they brought to class on their person and reflect on what they mean in terms of self-expression. The rest of Part 1 focuses on narratives designed to appeal to students’ curiosity.\n- Part 2 involves a card-based puzzle activity. \n- Part 3 puts students directly in the decision-maker position, giving them an opportunity to choose a course of action based on their own values and reasoning.",
+  "Tags": [
+    {
+      "Value": "chemical engineering"
+    },
+    {
+      "Value": "process engineering"
+    },
+    {
+      "Value": "dye"
+    },
+    {
+      "Value": "Māori"
+    },
+    {
+      "Value": "indigenous technology"
+    }
+  ],
+  "SteamEpaulette": "https://storage.googleapis.com/gp-cloud/lessons/ColourfulSolns_en-NZ/GP-Learning-Epaulette.png",
+  "SteamEpaulette_vert": "https://storage.googleapis.com/gp-cloud/lessons/ColourfulSolns_en-NZ/GP-Learning-Epaulette_vert.png"
+}

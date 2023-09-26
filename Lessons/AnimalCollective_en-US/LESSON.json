@@ -1,0 +1,1086 @@
+{
+  "numID": 7,
+  "_id": "lesson_7_en-US",
+  "ShortTitle": "AnimalCollective",
+  "PublicationStatus": "Proto",
+  "Language": "English",
+  "Country": "United States",
+  "DefaultLanguage": "English",
+  "DefaultCountry": "United States",
+  "LastUpdated": "2023-09-26 17:21:53.489642",
+  "FirstPublicationDate": null,
+  "MediumTitle": "'Animal Collective' |Science| G11-university (en-US)",
+  "lang": "en",
+  "lng": "eng",
+  "locale": "en-US",
+  "DefaultLocale": "en-US",
+  "TemplateVer": "0.6.0",
+  "galacticPubsVer": "0.9.7",
+  "isTestRepo": false,
+  "URL": null,
+  "GdriveHome": "GP-Studio",
+  "GdriveDirName": "AnimalCollective_en-US",
+  "GdriveTeachMatPath": "GP-Studio/Edu/Lessons/AnimalCollective_en-US/teaching-materials",
+  "GdriveTeachMatID": "1HQ1qx6sdHu27DdHLbnzjrYcF5eY8PZCl",
+  "GdrivePublicID": null,
+  "GdriveDirID": "1GzJyCtrEgDIZel_cB0G2zR8V_0goKdHP",
+  "GdriveMetaID": "1HDqFCqTD_PcoPdu1IsSrsb-cRrbBwhX0",
+  "GdriveTeachItID": "122K2LO0Sr2rF2b3_Iap4dj-JjHszE6_cCN0hPZW4hpA",
+  "GdriveStandardsID": "11USoIKp4HI6Pql24laezPLi-VYWsbfETx78SKzq9uao",
+  "GdrivePublishedID": "1WtapJk-8R7En9d_Vxp6gmv22-TpaTyQ9",
+  "GdriveDirURL": "https://drive.google.com/drive/folders/1GzJyCtrEgDIZel_cB0G2zR8V_0goKdHP",
+  "RebuildAllMaterials": false,
+  "ReleaseDate": "2050-01-01",
+  "Title": "Animal Collective",
+  "Subtitle": "How group behavior can produce surprising problems...and solutions!",
+  "SponsorName": [
+    "NSF",
+    "Albert Kao"
+  ],
+  "SponsoredBy": "- [Albert Kao's Lab](https://blogs.umb.edu/collectivelab/) at the University of Massachusetts Boston\n- National Science Foundation",
+  "SponsorLogo": [
+    "https://storage.googleapis.com/gp-cloud/lessons/AnimalCollective_en-US/NSF_logo_sm.png",
+    "https://storage.googleapis.com/gp-cloud/lessons/AnimalCollective_en-US/UMass_Boston_logo.png"
+  ],
+  "LessonBanner": "https://storage.googleapis.com/gp-cloud/lessons/AnimalCollective_en-US/banner.png",
+  "LessonCard": "https://storage.googleapis.com/gp-cloud/lessons/AnimalCollective_en-US/card.png",
+  "TargetSubject": "Science",
+  "LessonEnvir": "Classroom",
+  "ForGrades": "11-university",
+  "GradesOrYears": "Grades",
+  "Section": {
+    "overview": {
+      "__component": "lesson-plan.overview",
+      "LearningSummary": "Students will draw their own social networks, ponder the meaning of complexity and begin to notice unexpected patterns that emerge around them, unnoticed. Through hands-on activities and digital experiments, students will discover how complexity research enriches our daily lives.",
+      "EstLessonTime": "6 x 45 min",
+      "GradesOrYears": "Grades",
+      "ForGrades": "11-university",
+      "TargetSubject": "Science",
+      "Text": "#### Driving Question(s):\n- Why do humans and other animals live in groups?\n- How do simple behavioral rules lead to *emergence* of novel properties at the group level? (i.e. How do animal flocks, market trends, and viral videos emerge from animal collective behaviors?)\n- How do scientists use computer simulations and other tools to study emergence?\n#### Hook(s):\n- Creative, art-infused \"draw your own social network activity\"\n- Active movement flocking simulation\n- Mind-blowing interactive simulations of fish schooling and social network dynamics",
+      "Tags": [
+        {
+          "Value": "animal behavior"
+        },
+        {
+          "Value": "complexity"
+        },
+        {
+          "Value": "emergence"
+        },
+        {
+          "Value": "group living"
+        },
+        {
+          "Value": "simulation"
+        },
+        {
+          "Value": "experiment"
+        },
+        {
+          "Value": "ethology"
+        }
+      ],
+      "SteamEpaulette": "https://storage.googleapis.com/gp-cloud/lessons/AnimalCollective_en-US/GP-Learning-Epaulette.png",
+      "SteamEpaulette_vert": "https://storage.googleapis.com/gp-cloud/lessons/AnimalCollective_en-US/GP-Learning-Epaulette_vert.png"
+    },
+    "preview": {
+      "__component": "lesson-plan.lesson-preview",
+      "SectionTitle": "Lesson Preview",
+      "QuickPrep": "1. Check out lesson multimedia below\n2. Look over <AnchorLink href=\"#teaching_materials\"> Teaching Materials <\/AnchorLink>\n3. Read our easy <AnchorLink href=\"#procedure\"> Procedure <\/AnchorLink>\n4. Teach it and <AnchorLink href=\"#feedback\"> let us know what you think! <\/AnchorLink>\n",
+      "Multimedia": [
+        {
+          "order": "1",
+          "type": "video",
+          "forLsn": "2",
+          "title": "What makes a video go viral? Emergence!",
+          "description": null,
+          "lessonRelevance": "Summarizes key take-homes from lesson 2. Students will have explored The Game of Life to discover what *emergence* means.",
+          "by": "Galactic Polymath",
+          "byLink": "https://www.youtube.com/channel/UCfyBNvN3CH4uWmwOCQVhmhg/featured",
+          "mainLink": "https://www.youtube.com/embed/mD24yi7uLgU",
+          "otherLink": null
+        }
+      ],
+      "InitiallyExpanded": true
+    },
+    "teaching-materials": {
+      "__component": "teaching-resources.teaching-resources",
+      "SectionTitle": "Teaching Materials",
+      "Data": {
+        "lessonPreface": null,
+        "classroom": {
+          "gradeVariantNotes": [
+            {
+              "lsn": "1",
+              "lsnGradeVarNotes": null
+            },
+            {
+              "lsn": "2",
+              "lsnGradeVarNotes": null
+            },
+            {
+              "lsn": "3",
+              "lsnGradeVarNotes": null
+            },
+            {
+              "lsn": "4",
+              "lsnGradeVarNotes": null
+            },
+            {
+              "lsn": "5",
+              "lsnGradeVarNotes": null
+            },
+            {
+              "lsn": "6",
+              "lsnGradeVarNotes": null
+            }
+          ],
+          "resources": [
+            {
+              "grades": "Grades 11-university",
+              "gradePrefix": "G11-university",
+              "links": {
+                "linkText": "Browse & Download All G11-university Materials",
+                "url": "https://drive.google.com/drive/folders/1JHwYsNvHegCsCGizhS2is8FX70emR7Pn"
+              },
+              "lessons": [
+                {
+                  "lsn": "1",
+                  "title": "Group living is complex! Social network drawing activity",
+                  "tags": [
+                    [
+                      "art",
+                      "self-reflection",
+                      "SEL"
+                    ]
+                  ],
+                  "preface": "Students will grapple with the meaning of *complexity* by drawing & reflecting on their own social networks. They will then consider how scientists study complexity in nature.",
+                  "tile": "https://storage.googleapis.com/gp-cloud/lessons/AnimalCollective_en-US/L1_tile.png",
+                  "itemList": [
+                    {
+                      "itemTitle": "Presentation (Lesson 1)",
+                      "itemDescription": "Need: WiFi, Computer, Projector, Sound",
+                      "itemCat": "presentation",
+                      "links": [
+                        {
+                          "linkText": "Present Now",
+                          "url": "https://docs.google.com/presentation/d/1T3-7J7DR3q3ewoP3tl-X_XMiBCCaPrs2nbJ84bW9TbI/present"
+                        },
+                        {
+                          "linkText": "Copy/Edit in Google Docs",
+                          "url": "https://docs.google.com/presentation/d/1T3-7J7DR3q3ewoP3tl-X_XMiBCCaPrs2nbJ84bW9TbI/template/preview"
+                        }
+                      ]
+                    },
+                    {
+                      "itemTitle": "Teacher Worksheet (Lesson 1)",
+                      "itemDescription": "Print 1",
+                      "itemCat": "document",
+                      "links": [
+                        {
+                          "linkText": "PDF",
+                          "url": "https://docs.google.com/document/d/1K53wTt7hmFIz70B7z--6lRpimdmTLMBizncX904gYRQ/export?format=pdf"
+                        },
+                        {
+                          "linkText": "Copy/Edit in Google Docs",
+                          "url": "https://docs.google.com/document/d/1K53wTt7hmFIz70B7z--6lRpimdmTLMBizncX904gYRQ/template/preview"
+                        }
+                      ]
+                    },
+                    {
+                      "itemTitle": "Teacher (Lesson 1)",
+                      "itemDescription": null,
+                      "itemCat": "document",
+                      "links": [
+                        {
+                          "linkText": "Download",
+                          "url": "https://docs.google.com/document/d/1gJEgY75QAIOc9P4Z6O_I36P5cNV-c1UhGpl3Z4mprfY"
+                        },
+                        {
+                          "linkText": "Copy/Edit in Google Docs",
+                          "url": "https://docs.google.com/document/d/1gJEgY75QAIOc9P4Z6O_I36P5cNV-c1UhGpl3Z4mprfY/template/preview"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "lsn": "2",
+                  "title": "Emergence in the Game of Life",
+                  "tags": [
+                    "simulation"
+                  ],
+                  "preface": "How complexity can spring from simple rules",
+                  "tile": "https://storage.googleapis.com/gp-cloud/lessons/AnimalCollective_en-US/L2_tile.png",
+                  "itemList": [
+                    {
+                      "itemTitle": "Presentation (Lesson 2)",
+                      "itemDescription": "Need: WiFi, Computer, Projector, Sound",
+                      "itemCat": "presentation",
+                      "links": [
+                        {
+                          "linkText": "Present Now",
+                          "url": "https://docs.google.com/presentation/d/1n_0wBBnCH-Ih-MrfC9o6cbo0JYQ6eZoXSthdDcC9IYE/present"
+                        },
+                        {
+                          "linkText": "Copy/Edit in Google Docs",
+                          "url": "https://docs.google.com/presentation/d/1n_0wBBnCH-Ih-MrfC9o6cbo0JYQ6eZoXSthdDcC9IYE/template/preview"
+                        }
+                      ]
+                    },
+                    {
+                      "itemTitle": "Teacher Worksheet (Lesson 2)",
+                      "itemDescription": "Print 1",
+                      "itemCat": "document",
+                      "links": [
+                        {
+                          "linkText": "PDF",
+                          "url": "https://docs.google.com/document/d/1tjCVIY64tHNMBS4yiFvFjeZ3n5h7Sa_tUqp36dQ-268/export?format=pdf"
+                        },
+                        {
+                          "linkText": "Copy/Edit in Google Docs",
+                          "url": "https://docs.google.com/document/d/1tjCVIY64tHNMBS4yiFvFjeZ3n5h7Sa_tUqp36dQ-268/template/preview"
+                        }
+                      ]
+                    },
+                    {
+                      "itemTitle": "Teacher Worksheet (Lesson 2)",
+                      "itemDescription": "Print 1",
+                      "itemCat": "document",
+                      "links": [
+                        {
+                          "linkText": "PDF",
+                          "url": "https://docs.google.com/document/d/1AwJOCeQqB_J3wHh6Me0DhKWlpA_oJsHglfN967DsL-s/export?format=pdf"
+                        },
+                        {
+                          "linkText": "Copy/Edit in Google Docs",
+                          "url": "https://docs.google.com/document/d/1AwJOCeQqB_J3wHh6Me0DhKWlpA_oJsHglfN967DsL-s/template/preview"
+                        }
+                      ]
+                    },
+                    {
+                      "itemTitle": "Student Worksheet (Lesson 2)",
+                      "itemDescription": "Print 1 Per Student",
+                      "itemCat": "document",
+                      "links": [
+                        {
+                          "linkText": "PDF",
+                          "url": "https://docs.google.com/document/d/1LRLZ139-dx5OVWpnjkgjfhFqJje6IqFnSXsWYhy4Xg8/export?format=pdf"
+                        },
+                        {
+                          "linkText": "Copy/Edit in Google Docs",
+                          "url": "https://docs.google.com/document/d/1LRLZ139-dx5OVWpnjkgjfhFqJje6IqFnSXsWYhy4Xg8/template/preview"
+                        }
+                      ]
+                    },
+                    {
+                      "itemTitle": "Teacher Card",
+                      "itemDescription": null,
+                      "itemCat": "document",
+                      "links": [
+                        {
+                          "linkText": "PDF",
+                          "url": "https://docs.google.com/document/d/174Jq7AM1k57a0kSifXMSvtwyIMyIPeXBiBxeBOmgFIE/export?format=pdf"
+                        },
+                        {
+                          "linkText": "Copy/Edit in Google Docs",
+                          "url": "https://docs.google.com/document/d/174Jq7AM1k57a0kSifXMSvtwyIMyIPeXBiBxeBOmgFIE/template/preview"
+                        }
+                      ]
+                    },
+                    {
+                      "itemTitle": "Teacher (Lesson 2)",
+                      "itemDescription": null,
+                      "itemCat": "document",
+                      "links": [
+                        {
+                          "linkText": "Download",
+                          "url": "https://docs.google.com/document/d/1Kh5b1e66kDXTdYL4UOMFnnvNXZFESVEZ9hqWU1WOsjY"
+                        },
+                        {
+                          "linkText": "Copy/Edit in Google Docs",
+                          "url": "https://docs.google.com/document/d/1Kh5b1e66kDXTdYL4UOMFnnvNXZFESVEZ9hqWU1WOsjY/template/preview"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "lsn": "3",
+                  "title": "Flock this way",
+                  "tags": [
+                    "movement"
+                  ],
+                  "preface": "Students will get up and move (in a gym or field) to test how simple behavioral rules affect emergent patterns of \"flocking\" and \"schooling\" in animal groups.",
+                  "tile": "https://storage.googleapis.com/gp-cloud/lessons/AnimalCollective_en-US/L3_tile_v3.png",
+                  "itemList": [
+                    {
+                      "itemTitle": "Presentation (Lesson 3)",
+                      "itemDescription": "Need: WiFi, Computer, Projector, Sound",
+                      "itemCat": "presentation",
+                      "links": [
+                        {
+                          "linkText": "Present Now",
+                          "url": "https://docs.google.com/presentation/d/14CA_gpXwHQVB0pjLy28S7L8tYaRP5WGT8xi6-Oi0CR0/present"
+                        },
+                        {
+                          "linkText": "Copy/Edit in Google Docs",
+                          "url": "https://docs.google.com/presentation/d/14CA_gpXwHQVB0pjLy28S7L8tYaRP5WGT8xi6-Oi0CR0/template/preview"
+                        }
+                      ]
+                    },
+                    {
+                      "itemTitle": "Teacher (Lesson 3)",
+                      "itemDescription": null,
+                      "itemCat": "document",
+                      "links": [
+                        {
+                          "linkText": "Download",
+                          "url": "https://docs.google.com/document/d/1QJV_utYJCIe_DazWZd6fZaCusH2o-gev6JfBm25tnUM"
+                        },
+                        {
+                          "linkText": "Copy/Edit in Google Docs",
+                          "url": "https://docs.google.com/document/d/1QJV_utYJCIe_DazWZd6fZaCusH2o-gev6JfBm25tnUM/template/preview"
+                        }
+                      ]
+                    },
+                    {
+                      "itemTitle": "AnimalCollective_L3_FlockingActivityRules",
+                      "itemDescription": null,
+                      "itemCat": "document",
+                      "links": [
+                        {
+                          "linkText": "Download",
+                          "url": "https://docs.google.com/document/d/1GlubxDcG8ZlNw3jahQw7x9QEXDGyBXmPplVniPeUuys"
+                        },
+                        {
+                          "linkText": "Copy/Edit in Google Docs",
+                          "url": "https://docs.google.com/document/d/1GlubxDcG8ZlNw3jahQw7x9QEXDGyBXmPplVniPeUuys/template/preview"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "lsn": "4",
+                  "title": "Swimming in the Dark",
+                  "tags": [
+                    "simulation"
+                  ],
+                  "preface": "Students will use a custom simulation to run digital experiments about fish schooling behavior. They will compare their results to findings from a real study.",
+                  "tile": "https://storage.googleapis.com/gp-cloud/lessons/AnimalCollective_en-US/L4_tile.png",
+                  "itemList": [
+                    {
+                      "itemTitle": "Presentation (Lesson 4)",
+                      "itemDescription": "Need: WiFi, Computer, Projector, Sound",
+                      "itemCat": "presentation",
+                      "links": [
+                        {
+                          "linkText": "Present Now",
+                          "url": "https://docs.google.com/presentation/d/1ylSZIQuneaJQevMJv4-40fVv8lRHoA7cVOnrsawnSKc/present"
+                        },
+                        {
+                          "linkText": "Copy/Edit in Google Docs",
+                          "url": "https://docs.google.com/presentation/d/1ylSZIQuneaJQevMJv4-40fVv8lRHoA7cVOnrsawnSKc/template/preview"
+                        }
+                      ]
+                    },
+                    {
+                      "itemTitle": "Teacher Worksheet (Lesson 4)",
+                      "itemDescription": "Print 1",
+                      "itemCat": "document",
+                      "links": [
+                        {
+                          "linkText": "PDF",
+                          "url": "https://docs.google.com/document/d/1agFVIaKptDQjxFbq4ZIGYoY_tPO9XHs8syNq6IntF4Y/export?format=pdf"
+                        },
+                        {
+                          "linkText": "Copy/Edit in Google Docs",
+                          "url": "https://docs.google.com/document/d/1agFVIaKptDQjxFbq4ZIGYoY_tPO9XHs8syNq6IntF4Y/template/preview"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "lsn": "5",
+                  "title": "Emergence in Human Social Networks",
+                  "tags": [
+                    "simulation"
+                  ],
+                  "preface": "Students use a simulation of human social network behavior to understand how echo chambers form. They will reflect on how our individual choices affect the flow of information.",
+                  "tile": "https://storage.googleapis.com/gp-cloud/lessons/AnimalCollective_en-US/L5_tile.png",
+                  "itemList": [
+                    {
+                      "itemTitle": "Presentation (Lesson 5)",
+                      "itemDescription": "Need: WiFi, Computer, Projector, Sound",
+                      "itemCat": "presentation",
+                      "links": [
+                        {
+                          "linkText": "Present Now",
+                          "url": "https://docs.google.com/presentation/d/1FVmbfmYyA1QPo54gaoaaAfZ9msi2OcPoAsDYww1Vxog/present"
+                        },
+                        {
+                          "linkText": "Copy/Edit in Google Docs",
+                          "url": "https://docs.google.com/presentation/d/1FVmbfmYyA1QPo54gaoaaAfZ9msi2OcPoAsDYww1Vxog/template/preview"
+                        }
+                      ]
+                    },
+                    {
+                      "itemTitle": "Teacher Worksheet (Lesson 5)",
+                      "itemDescription": "Print 1",
+                      "itemCat": "document",
+                      "links": [
+                        {
+                          "linkText": "PDF",
+                          "url": "https://docs.google.com/document/d/1YhBIxV0TOlIevg9QgTThF-kwgyacGqla0R_pmORHeHg/export?format=pdf"
+                        },
+                        {
+                          "linkText": "Copy/Edit in Google Docs",
+                          "url": "https://docs.google.com/document/d/1YhBIxV0TOlIevg9QgTThF-kwgyacGqla0R_pmORHeHg/template/preview"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "lsn": "6",
+                  "title": "The End (Reflection)",
+                  "tags": [
+                    [
+                      "synthesis",
+                      "reflection"
+                    ]
+                  ],
+                  "preface": "Brief guidelines and ideas for student discussion, reflection & synthesis about the whole unit.",
+                  "tile": "https://storage.googleapis.com/gp-cloud/lessons/AnimalCollective_en-US/L6_tile.png",
+                  "itemList": [
+                    {
+                      "itemTitle": "Teacher Worksheet (Lesson 6)",
+                      "itemDescription": "Print 1",
+                      "itemCat": "document",
+                      "links": [
+                        {
+                          "linkText": "PDF",
+                          "url": "https://docs.google.com/document/d/17elGbmszonz-EpoD2PJRDjMTwtaqrKVLjIfaWMQPlw4/export?format=pdf"
+                        },
+                        {
+                          "linkText": "Copy/Edit in Google Docs",
+                          "url": "https://docs.google.com/document/d/17elGbmszonz-EpoD2PJRDjMTwtaqrKVLjIfaWMQPlw4/template/preview"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        "lesson": [
+          {
+            "lsnNum": 1,
+            "lsnTitle": "Procedure not documented yet",
+            "lsnDur": null,
+            "lsnPreface": null,
+            "Chunks": null,
+            "lsnExtension": null
+          },
+          {
+            "lsnNum": 2,
+            "lsnTitle": "Procedure not documented yet",
+            "lsnDur": null,
+            "lsnPreface": null,
+            "Chunks": null,
+            "lsnExtension": null
+          },
+          {
+            "lsnNum": 3,
+            "lsnTitle": "Procedure not documented yet",
+            "lsnDur": null,
+            "lsnPreface": null,
+            "Chunks": null,
+            "lsnExtension": null
+          },
+          {
+            "lsnNum": 4,
+            "lsnTitle": "Procedure not documented yet",
+            "lsnDur": null,
+            "lsnPreface": null,
+            "Chunks": null,
+            "lsnExtension": null
+          },
+          {
+            "lsnNum": 5,
+            "lsnTitle": "Procedure not documented yet",
+            "lsnDur": null,
+            "lsnPreface": null,
+            "Chunks": null,
+            "lsnExtension": null
+          },
+          {
+            "lsnNum": 6,
+            "lsnTitle": "Procedure not documented yet",
+            "lsnDur": null,
+            "lsnPreface": null,
+            "Chunks": null,
+            "lsnExtension": null
+          }
+        ],
+        "gatheredVocab": null
+      }
+    },
+    "background": {
+      "__component": "lesson-plan.collapsible-text-section",
+      "SectionTitle": "Background",
+      "Content": "#### Connection to Research\n This unit was created with support and in close collaboration with [Dr. Albert Kao](https://blogs.umb.edu/collectivelab/members/), an Assistant Professor at UMass Boston. The lessons do not directly tie into his work, but Lesson 4 centers on closely related work by his collaborators into the underlying behavioral rules that lead fish to form schools. Specifically, for this lesson we created the [\"Swimming in the Dark\"](https://into-the-dark.vercel.app/) simulation that allows students to run digital experiments to understand fish schooling behavior. The worksheet connects these activities to actual results from a paper in the journal Science (see below), which the lesson parallels. \n\nLesson 5 ties into a different body of research on how and why echo chambers form in human social media networks. Using another app we developed \"[EchoSim](https://echo-jade.vercel.app/),\" students run another set of experiments, tinkering with different parameters (like tolerance to differing ideas or unfriending tendency) to see how they affect the structure of friendships and the flow of information. The simulation is based on code from [Hao Peng](http://haoopeng.github.io/), which he developed to support a paper coauthored: [Social influence and unfollowing accelerate the emergence of echo chambers](https://link.springer.com/article/10.1007/s42001-020-00084-7).\n\nAll the other lessons support understanding and engagement in these complex bodies of research through creative activities. \n#### Research Background\n Dr. Albert Kao studies the fascinating and interdisciplinary field of *[collective behavior](https://www.britannica.com/science/collective-behaviour).* Collective behavior was coined to describe activities of large, loosely organized groups of people (like fads, cults, flash mobs, riots, and the like.) In recent decades, scientists such as Albert and his colleagues have expanded this definition to include other animal species such as ants, bees, great apes, and fish that live in large groups. In both humans and many group-living animal species, scientists are keen to understand how simple behavioral rules of individuals scale up to produce *emergent properties* that are present at the group-level, but that individuals don't have. Emergent properties like stampedes can obviously happen in human and animal populations, but recent advances in motion tracking of individual behavior and movements has allowed scientists to recognize other unexpected parallels between human and animal collective behavior--such as [wisdom of the crowd and traffic](https://bigthink.com/videos/the-wisdom-of-animal-crowds/).\n\nAs with this unit itself, Albert's work combines a lot of different approaches (such as computational simulations, lab experiments, and field work) to study how groups of humans and other animals make decisions collectively. Albert's work (and that of his former PhD advisor, Dr. Iain Couzin, and other collaborators) have been covered by many excellent popular press articles. Here is a selection for you and your students to dive in:",
+      "InitiallyExpanded": true
+    },
+    "standards-header": {
+      "__component": "lesson-plan.section-heading",
+      "SectionTitle": "Learning Standards"
+    },
+    "standards": {
+      "__component": "lesson-plan.standards",
+      "Data": [
+        {
+          "subject": "Math",
+          "target": false,
+          "sets": [
+            {
+              "slug": "CCM",
+              "name": "Common Core Math",
+              "dimensions": [
+                {
+                  "slug": "AGTC&HLT",
+                  "name": "Algebra, Geometry, Trig, Calculus & Higher Level Thinking",
+                  "standardsGroup": [
+                    {
+                      "lessons": [
+                        "4"
+                      ],
+                      "codes": "HSS-IC.B.3",
+                      "grades": [
+                        "9",
+                        "10",
+                        "11",
+                        "12"
+                      ],
+                      "statements": "*Recognize the purposes of and differences among sample surveys, experiments, and observational studies; explain how randomization relates to each.*",
+                      "alignmentNotes": "- In Lesson 4, students will witness random behavior of simulated fish as they run virtual experimental trials.",
+                      "subcat": null
+                    },
+                    {
+                      "lessons": [
+                        "4"
+                      ],
+                      "codes": "HSS-IC.B.5",
+                      "grades": [
+                        "9",
+                        "10",
+                        "11",
+                        "12"
+                      ],
+                      "statements": "Use data from a randomized experiment to compare two treatments; use simulations to decide if differences between parameters are significant.",
+                      "alignmentNotes": "- Using our \"Swimming in the Dark\" simulation, students will test the impact of different behavioral parameters on the schooling behavior of virtual fish.",
+                      "subcat": null
+                    },
+                    {
+                      "lessons": [
+                        "4"
+                      ],
+                      "codes": "HSS-IC.B.6",
+                      "grades": [
+                        "9",
+                        "10",
+                        "11",
+                        "12"
+                      ],
+                      "statements": "Evaluate reports based on data.",
+                      "alignmentNotes": "- Students will draw conclusions using data they collect about what factors explain the observation that fish are often found in shady spots.",
+                      "subcat": null
+                    }
+                  ]
+                },
+                {
+                  "slug": "MDP&S",
+                  "name": "Measurement, Data, Probability & Statistics",
+                  "standardsGroup": [
+                    {
+                      "lessons": [
+                        "4",
+                        "5"
+                      ],
+                      "codes": "HSS-ID.B.6",
+                      "grades": [
+                        "9",
+                        "10",
+                        "11",
+                        "12"
+                      ],
+                      "statements": "Represent data on two quantitative variables on a scatter plot, and describe how the variables are related.",
+                      "alignmentNotes": "- In both simulations \"Swimming in the Dark\" and \"EchoSim\", students will interpret scatterplot data to understand trial results.",
+                      "subcat": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "subject": "ELA",
+          "target": false,
+          "sets": [
+            {
+              "slug": "CCELA",
+              "name": "Common Core ELA",
+              "dimensions": [
+                {
+                  "slug": "LS&L",
+                  "name": "Language, Speaking & Listening",
+                  "standardsGroup": [
+                    {
+                      "lessons": [
+                        "1"
+                      ],
+                      "codes": "SL.11-12.5",
+                      "grades": [
+                        "11",
+                        "12"
+                      ],
+                      "statements": "Make strategic use of digital media (e.g., textual, graphical, audio, visual, and interactive elements) in presentations to enhance understanding of findings, reasoning, and evidence and to add interest.",
+                      "alignmentNotes": "- Students will draw abstract representations of their own social networks and use it as a way to grapple with the concept of complexity.",
+                      "subcat": null
+                    },
+                    {
+                      "lessons": [
+                        "1",
+                        "2",
+                        "3",
+                        "4",
+                        "5"
+                      ],
+                      "codes": "L.11-12.6",
+                      "grades": [
+                        "11",
+                        "12"
+                      ],
+                      "statements": "Acquire and use accurately general academic and domain-specific words and phrases, sufficient for reading, writing, speaking, and listening at the college and career readiness level; demonstrate independence in gathering vocabulary knowledge when considering a word or phrase important to comprehension or expression.",
+                      "alignmentNotes": "- Throughout the unit, students will acquire and use new scientific terms such as *emergence* and *complexity.* These are terms that many adults struggle to wrap their heads around, so it should be a fun challenge for students.",
+                      "subcat": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "subject": "Science",
+          "target": false,
+          "sets": [
+            {
+              "slug": "NGSS",
+              "name": "NGSS",
+              "dimensions": [
+                {
+                  "slug": "SEP",
+                  "name": "Science & Engineering Practices",
+                  "standardsGroup": [
+                    {
+                      "lessons": [
+                        "1"
+                      ],
+                      "codes": "INFO-H5",
+                      "grades": [
+                        "9",
+                        "10",
+                        "11",
+                        "12"
+                      ],
+                      "statements": "Communicate scientific and/or technical information or ideas (e.g. about phenomena and/or the process of development and the design and performance of a proposed process or system) in multiple formats (including orally, graphically, textually, and mathematically).",
+                      "alignmentNotes": "- Students will draw their own social network to convey the concept of complexity in a personalized way.",
+                      "subcat": "Obtaining, Evaluating, & Communicating Information"
+                    },
+                    {
+                      "lessons": [
+                        "2",
+                        "4",
+                        "5"
+                      ],
+                      "codes": "MATH-H1",
+                      "grades": [
+                        "9",
+                        "10",
+                        "11",
+                        "12"
+                      ],
+                      "statements": "Create and/or revise a computational model or simulation of a phenomenon, designed device, process, or system.",
+                      "alignmentNotes": "- Students will have multiple experiences to explore, tinker, and analyze simplified models of individual behavior. They will see multiple examples of how simple rules acting in complex groups lead to the emergence of unexpected patterns and phenomena.",
+                      "subcat": "Using Mathematics & Computational Thinking"
+                    },
+                    {
+                      "lessons": [
+                        "3",
+                        "4"
+                      ],
+                      "codes": "MOD-H5",
+                      "grades": [
+                        "9",
+                        "10",
+                        "11",
+                        "12"
+                      ],
+                      "statements": "Use a model to provide mechanistic accounts of phenomena.",
+                      "alignmentNotes": "- The live action \"flocking activity\" and the \"Swimming in the Dark\" simulation are designed to help students internalize the mechanisms underlying the emergent property of fish schooling.",
+                      "subcat": "Developing & Using Models"
+                    },
+                    {
+                      "lessons": [
+                        "4"
+                      ],
+                      "codes": "DATA-H1",
+                      "grades": [
+                        "9",
+                        "10",
+                        "11",
+                        "12"
+                      ],
+                      "statements": "Analyze data using tools, technologies, and/or models (e.g., computational, mathematical) in order to make valid and reliable scientific claims or determine an optimal design solution.",
+                      "alignmentNotes": "- In the \"Swimming in the Dark\" activity, students will draw conclusions from evidence about what mechanism causes fish to school into the shade and stay there.",
+                      "subcat": "Analyzing Data"
+                    },
+                    {
+                      "lessons": [
+                        "4"
+                      ],
+                      "codes": "DATA-H5",
+                      "grades": [
+                        "9",
+                        "10",
+                        "11",
+                        "12"
+                      ],
+                      "statements": "Evaluate the impact of new data on a working explanation and/or model of a proposed process or system.",
+                      "alignmentNotes": "- Students will run multiple trials using the \"Swimming in the Dark\" simulation. They will look at the impact of new data on the running average to understand relative impact of different variables.",
+                      "subcat": "Analyzing Data"
+                    },
+                    {
+                      "lessons": [
+                        "4"
+                      ],
+                      "codes": "INV-H6",
+                      "grades": [
+                        "9",
+                        "10",
+                        "11",
+                        "12"
+                      ],
+                      "statements": "Manipulate variables and collect data about a complex model of a proposed process or system to identify failure points or improve performance relative to criteria for success or other variables.",
+                      "alignmentNotes": "- Students will run multiple trials using the \"Swimming in the Dark\" simulation. They will look at the impact of new data on the running average to understand relative impact of different variables.",
+                      "subcat": "Planning & Carrying out Investigations"
+                    },
+                    {
+                      "lessons": [
+                        "5"
+                      ],
+                      "codes": "AQDP-H9",
+                      "grades": [
+                        "9",
+                        "10",
+                        "11",
+                        "12"
+                      ],
+                      "statements": "Analyze complex real-world problems by specifying criteria and constraints for successful solutions.",
+                      "alignmentNotes": "- Particularly in the \"EchoSim\" simulation, students will analyze digital simulations of complex human social media behavior to draw conclusions about good digital citizenship.",
+                      "subcat": "Ask Questions & Define Problems"
+                    },
+                    {
+                      "lessons": [
+                        "5"
+                      ],
+                      "codes": "MOD-H7",
+                      "grades": [
+                        "9",
+                        "10",
+                        "11",
+                        "12"
+                      ],
+                      "statements": "Develop and/or use a model (including mathematical and computational) to generate data to support explanations, predict phenomena, analyze systems, and/or solve problems.",
+                      "alignmentNotes": "- Students will integrate findings from tinkering with the \"EchoSim\" simulation to predict patterns and understand complex social media behavioral patterns.",
+                      "subcat": "Developing & Using Models"
+                    }
+                  ]
+                },
+                {
+                  "slug": "CCC",
+                  "name": "Cross-Cutting Concepts",
+                  "standardsGroup": [
+                    {
+                      "lessons": [
+                        "2",
+                        "3",
+                        "4",
+                        "5"
+                      ],
+                      "codes": "PAT-H2",
+                      "grades": [
+                        "9",
+                        "10",
+                        "11",
+                        "12"
+                      ],
+                      "statements": "Classifications or explanations used at one scale may fail or need revision when information from smaller or larger scales is introduced; thus requiring improved investigations and experiments.",
+                      "alignmentNotes": "- Throughout the unit, students will see that certain patterns \"emerge\" at one scale that are not present in the underlying individuals. Particularly in Lesson 2, as students experiment with The Game of Life, they will see patterns when zoomed out on a big grid that are not present when zoomed in.",
+                      "subcat": "Patterns"
+                    },
+                    {
+                      "lessons": [
+                        "4"
+                      ],
+                      "codes": "CE-H4",
+                      "grades": [
+                        "9",
+                        "10",
+                        "11",
+                        "12"
+                      ],
+                      "statements": "Changes in systems may have various causes that may not have equal effects.",
+                      "alignmentNotes": "- By running experimental trials in a virtual simulation, students will see which factors have big and small impacts on digital fish schooling behavior.",
+                      "subcat": "Cause & Effect: Mechanism & Explanation"
+                    },
+                    {
+                      "lessons": [
+                        "4",
+                        "5"
+                      ],
+                      "codes": "CE-H2",
+                      "grades": [
+                        "9",
+                        "10",
+                        "11",
+                        "12"
+                      ],
+                      "statements": "Cause and effect relationships can be suggested and predicted for complex natural and human designed systems by examining what is known about smaller scale mechanisms within the system.",
+                      "alignmentNotes": "- In both simulations \"Swimming in the Dark\" and \"EchoSim\", students will tinker with variables, run trials, and collect response data from graphs to understand causal relationships between individual behavior rules and group behavior.",
+                      "subcat": "Cause & Effect: Mechanism & Explanation"
+                    },
+                    {
+                      "lessons": [
+                        "1",
+                        "2",
+                        "3",
+                        "4",
+                        "5"
+                      ],
+                      "codes": "SYS-H3",
+                      "grades": [
+                        "9",
+                        "10",
+                        "11",
+                        "12"
+                      ],
+                      "statements": "Models (e.g., physical, mathematical, computer models) can be used to simulate systems and interactions–including energy, matter, and information flows– within and between systems at different scales.",
+                      "alignmentNotes": "- Every part of this unit involves the creation and interpretation of different physical, hand-drawn, and digital models for complex systems.",
+                      "subcat": "Systems & Systems Models"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "subject": "Social Studies",
+          "target": false,
+          "sets": [
+            {
+              "slug": "C3",
+              "name": "C3",
+              "dimensions": [
+                {
+                  "slug": "CEGH",
+                  "name": "Civics, Economics, Geography & History",
+                  "standardsGroup": [
+                    {
+                      "lessons": [
+                        "1",
+                        "2",
+                        "5"
+                      ],
+                      "codes": "D2.Geo.4.9-12",
+                      "grades": [
+                        "9",
+                        "10",
+                        "11",
+                        "12"
+                      ],
+                      "statements": "Analyze relationships and interactions within and between human and physical systems to explain reciprocal influences that occur among them.",
+                      "alignmentNotes": "- Throughout the unit, students will have multiple exposures to how humans interact in groups and how the digital and social environment interact to drive the formation of echo chambers.",
+                      "subcat": null
+                    },
+                    {
+                      "lessons": [
+                        "5"
+                      ],
+                      "codes": "D2.His.4.9-12",
+                      "grades": [
+                        "9",
+                        "10",
+                        "11",
+                        "12"
+                      ],
+                      "statements": "Analyze complex and interacting factors that influenced the perspectives of people during different historical eras.",
+                      "alignmentNotes": "- Particularly in the \"EchoSim\" simulation, students will see how different individual behaviors on social media influence the flow of information and formation of relationships in the modern day.",
+                      "subcat": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "subject": "Science",
+          "target": true,
+          "sets": [
+            {
+              "slug": "NGSS",
+              "name": "NGSS",
+              "dimensions": [
+                {
+                  "slug": "DCI",
+                  "name": "Disciplinary Core ideas",
+                  "standardsGroup": [
+                    {
+                      "lessons": [
+                        "1"
+                      ],
+                      "codes": "LS4.B-H2",
+                      "grades": [
+                        "9",
+                        "10",
+                        "11",
+                        "12"
+                      ],
+                      "statements": "The traits that positively affect survival are more likely to be reproduced, and thus are more common in the population.",
+                      "alignmentNotes": "- In Lesson 1, students will use their own social network to think about complexity. They'll then consider why we (and other animal groups) live in such complex groups. They will reflect on the pros and cons of group-living.",
+                      "subcat": "Natural Selection"
+                    },
+                    {
+                      "lessons": [
+                        "1",
+                        "2",
+                        "3",
+                        "4"
+                      ],
+                      "codes": "LS2.D-H1",
+                      "grades": [
+                        "9",
+                        "10",
+                        "11",
+                        "12"
+                      ],
+                      "statements": "Group behavior has evolved because membership can increase the chances of survival for individuals and their genetic relatives.",
+                      "alignmentNotes": "- Students will discuss costs and benefits of group membership from an evolutionary standpoint in Lesson 1. They will gain deeper insights into this throughought the unit.",
+                      "subcat": "Social Interactions & Group Behavior"
+                    }
+                  ]
+                },
+                {
+                  "slug": "SEP",
+                  "name": "Science & Engineering Practices",
+                  "standardsGroup": [
+                    {
+                      "lessons": [
+                        "2",
+                        "4",
+                        "5"
+                      ],
+                      "codes": "MATH-H6",
+                      "grades": [
+                        "9",
+                        "10",
+                        "11",
+                        "12"
+                      ],
+                      "statements": "Use mathematical models and/or computer simulations to predict the effects of a design solution on systems and/or the interactions between systems.",
+                      "alignmentNotes": "- In Lesson 2, students will try to predict the behavior of \"The Game of Life\" simulation to begin to understand emergence. In lesson 4, they will change parameters controlling a fish schooling simulation to run experiments. In Lesson 5, they'll apply all their understanding of complexity and emergence to test how social media parameters lead to the formation of Echo Chambers.",
+                      "subcat": "Using Mathematics & Computational Thinking"
+                    },
+                    {
+                      "lessons": [
+                        "3",
+                        "4"
+                      ],
+                      "codes": "MOD-H4",
+                      "grades": [
+                        "9",
+                        "10",
+                        "11",
+                        "12"
+                      ],
+                      "statements": "Develop and/or use multiple types of models to provide mechanistic accounts and/or predict phenomena, and move flexibly between model types based on merits and limitations.",
+                      "alignmentNotes": "- Students will use the movement of their own bodies as a way to represent and understand fish schooling. They will compare this experience to the digital simulation in Lesson 4, and reconcile these results with scientific findings.",
+                      "subcat": "Developing & Using Models"
+                    }
+                  ]
+                },
+                {
+                  "slug": "CCC",
+                  "name": "Cross-Cutting Concepts",
+                  "standardsGroup": [
+                    {
+                      "lessons": [
+                        "2"
+                      ],
+                      "codes": "SPQ-H3",
+                      "grades": [
+                        "9",
+                        "10",
+                        "11",
+                        "12"
+                      ],
+                      "statements": "Patterns observable at one scale may not be observable or exist at other scales.",
+                      "alignmentNotes": "- Particularly in Lesson 2, as students experiment with The Game of Life, they will see how patterns emerge unexpectedly at higher scales that are not present at smaller scales. (Like patterns they say when zoomed out on a big grid that are not present when zoomed in).",
+                      "subcat": "Scale, Proportion, & Quantity"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "feedback": {
+      "__component": "lesson-plan.collapsible-text-section",
+      "SectionTitle": "Feedback",
+      "Content": "### Please let us know how it went with your class!\n#### We want to know what you (and/or your students) think!\nShare your feedback in < 5 min with these forms:\n- [For teachers](https://forms.gle/HY1sFxZUH7uG6JqP8)\n- [For students](https://forms.gle/gwkRYvvZY6Sp2dQb9)\n",
+      "InitiallyExpanded": true
+    },
+    "acknowledgments": {
+      "__component": "lesson-plan.acknowledgments",
+      "SectionTitle": "Acknowledgments",
+      "Data": null
+    },
+    "versions": {
+      "__component": "lesson-plan.versions",
+      "SectionTitle": "Version Notes",
+      "Data": [
+        {
+          "major_release": "Beta",
+          "sub_releases": [
+            {
+              "version": "0.1.0",
+              "date": "August 07, 2023",
+              "summary": "Lesson initialized",
+              "notes": null,
+              "acknowledgments": null
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

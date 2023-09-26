@@ -1,0 +1,71 @@
+{
+  "__component": "lesson-plan.acknowledgments",
+  "SectionTitle": "Acknowledgments",
+  "Data": [
+    {
+      "role": "Data",
+      "def": "(Provided Florida panther data and expert feedback on Florida panther conservation)",
+      "records": [
+        {
+          "name": "Madelon van de Kerk, PhD",
+          "url": "http://www.westernwildlifelab.com/",
+          "title": "Assistant Professor",
+          "affiliation": "Western Colorado University",
+          "location": "Gunnison, Colorado, USA"
+        }
+      ]
+    },
+    {
+      "role": "\"Return of the Panther\" Video",
+      "def": "(For more, amazing videos like this, check out Chris's YouTube channel!)",
+      "records": [
+        {
+          "name": "Chris Morgan",
+          "url": "https://www.youtube.com/channel/UC59OLxYOFLRqS_0HDhLs7iQ",
+          "title": "Filmmaker, bear ecologist",
+          "affiliation": "Wildlife Media",
+          "location": null
+        }
+      ]
+    },
+    {
+      "role": "\"Are endangered species worth saving?\" Video",
+      "def": "(Check out other fun, thought-provoking videos at Above the Noise!)",
+      "records": [
+        {
+          "name": "Myles Bess and team",
+          "url": "https://www.youtube.com/channel/UC4K10PNjqgGLKA3lo5V8KdQ",
+          "title": null,
+          "affiliation": "Above the Noise",
+          "location": null
+        }
+      ]
+    },
+    {
+      "role": "Images of Florida Panthers",
+      "def": "(Florida Panthers & abnormalities in Part 1 Presentations)",
+      "records": [
+        {
+          "name": "Panther Team",
+          "url": "https://www.fws.gov/species/florida-panther-puma-concolor-coryi",
+          "title": null,
+          "affiliation": null,
+          "location": null
+        }
+      ]
+    },
+    {
+      "role": "Photo of Black Panthers",
+      "def": "(\"Keira & Neron Jaguars\" in Part 1 Presentation)",
+      "records": [
+        {
+          "name": "Alma Leaper",
+          "url": "http://www.almaleaper.co.uk/",
+          "title": "Lead Photographer",
+          "affiliation": "The Big Cat Sanctuary",
+          "location": "UK"
+        }
+      ]
+    }
+  ]
+}

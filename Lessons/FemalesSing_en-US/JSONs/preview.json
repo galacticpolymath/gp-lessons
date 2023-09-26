@@ -1,0 +1,104 @@
+{
+  "__component": "lesson-plan.lesson-preview",
+  "SectionTitle": "Lesson Preview",
+  "QuickPrep": "1. Check out lesson multimedia below\n2. Look over <AnchorLink href=\"#teaching_materials\"> Teaching Materials <\/AnchorLink>\n3. Teach it and <AnchorLink href=\"#feedback\"> let us know what you think! <\/AnchorLink>",
+  "Multimedia": [
+    {
+      "order": "1",
+      "type": "video",
+      "forLsn": null,
+      "title": "Lesson Trailer: \"Females Singing to be Heard\"",
+      "description": null,
+      "lessonRelevance": "A brief overview of the lesson, providing broader context from two authors of the study this lesson is based on.",
+      "by": "Galactic Polymath",
+      "byLink": "https://www.youtube.com/channel/UCfyBNvN3CH4uWmwOCQVhmhg/featured",
+      "mainLink": "https://www.youtube.com/embed/HSBO60ZNeCo",
+      "otherLink": null
+    },
+    {
+      "order": "2",
+      "type": "video",
+      "forLsn": "1",
+      "title": "How to solve the Polymath Puzzle from the \"Females Sing\" lesson",
+      "description": null,
+      "lessonRelevance": "Explains strategies for solving the Polymath Puzzle. This is an engagement hook that blends a simple alphabetic shift puzzle with a data literacy challenge.",
+      "by": "Galactic Polymath",
+      "byLink": "https://www.youtube.com/channel/UCfyBNvN3CH4uWmwOCQVhmhg/featured",
+      "mainLink": "https://www.youtube.com/embed/M1u041BvjtI",
+      "otherLink": null
+    },
+    {
+      "order": "3",
+      "type": "video",
+      "forLsn": "1",
+      "title": "How to read the deciphered scatter plot",
+      "description": null,
+      "lessonRelevance": "Provides scaffolding for understanding how to read this graph (which comes straight from a recent study) and notice patterns.",
+      "by": "Galactic Polymath",
+      "byLink": "https://www.youtube.com/channel/UCfyBNvN3CH4uWmwOCQVhmhg/featured",
+      "mainLink": "https://www.youtube.com/embed/of4tjz4fBl4",
+      "otherLink": null
+    },
+    {
+      "order": "4",
+      "type": "video",
+      "forLsn": "1",
+      "title": "Polymath Puzzle Reveal—Is the graph about birds, spiders, whales,...?",
+      "description": null,
+      "lessonRelevance": "Explains what this graph is actually about, providing background on female song in barn swallows and the field work employed to study it.",
+      "by": "Galactic Polymath",
+      "byLink": "https://www.youtube.com/channel/UCfyBNvN3CH4uWmwOCQVhmhg/featured",
+      "mainLink": "https://www.youtube.com/embed/91gnGO5DASI",
+      "otherLink": null
+    },
+    {
+      "order": "5",
+      "type": "video",
+      "forLsn": "1-2",
+      "title": "Scatter plots or histograms? Why data visualization is important",
+      "description": null,
+      "lessonRelevance": "Highlights the vital importance of data literacy. It asks students to think critically about the pros and cons of scatter plots and histograms.",
+      "by": "Galactic Polymath",
+      "byLink": "https://www.youtube.com/channel/UCfyBNvN3CH4uWmwOCQVhmhg/featured",
+      "mainLink": "https://www.youtube.com/embed/e0PZJr-kL2g",
+      "otherLink": null
+    },
+    {
+      "order": "6",
+      "type": "video",
+      "forLsn": "2",
+      "title": "Connections between dot plots and histograms (with sound)",
+      "description": null,
+      "lessonRelevance": "Show logical connections between a dot plot, a binned dot plot, and a histogram. The silly sounds are added for memorability.",
+      "by": "Galactic Polymath",
+      "byLink": "https://www.youtube.com/channel/UCfyBNvN3CH4uWmwOCQVhmhg/featured",
+      "mainLink": "https://www.youtube.com/embed/cA89FYd6biU",
+      "otherLink": null
+    },
+    {
+      "order": "7",
+      "type": "video",
+      "forLsn": "3",
+      "title": "Getting to know your data: Counting barn swallow songs",
+      "description": null,
+      "lessonRelevance": "This video demonstrates how to count barn swallow songs to generate the data examined.",
+      "by": "Galactic Polymath",
+      "byLink": "https://www.youtube.com/channel/UCfyBNvN3CH4uWmwOCQVhmhg/featured",
+      "mainLink": "https://www.youtube.com/embed/ZsZcwhhJLFQ",
+      "otherLink": null
+    },
+    {
+      "order": "8",
+      "type": "video",
+      "forLsn": null,
+      "title": "Scientific Background: Female barn swallows sing",
+      "description": null,
+      "lessonRelevance": "This video is not included in the lesson, but is provided for your background or if you want to use it in some way.",
+      "by": "Galactic Polymath",
+      "byLink": "https://www.youtube.com/channel/UCfyBNvN3CH4uWmwOCQVhmhg/featured",
+      "mainLink": "https://www.youtube.com/embed/eEpMtpyie74",
+      "otherLink": null
+    }
+  ],
+  "InitiallyExpanded": true
+}

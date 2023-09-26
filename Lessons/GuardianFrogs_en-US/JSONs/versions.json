@@ -1,0 +1,58 @@
+{
+  "__component": "lesson-plan.versions",
+  "SectionTitle": "Version Notes",
+  "Data": [
+    {
+      "major_release": "Beta",
+      "sub_releases": [
+        {
+          "version": "0.1.0",
+          "date": "4/2/2022",
+          "summary": "Initial lesson build. ",
+          "notes": null,
+          "acknowledgments": null
+        }
+      ]
+    },
+    {
+      "major_release": "1",
+      "sub_releases": [
+        {
+          "version": "1.0.0",
+          "date": "4/22/2022",
+          "summary": "Worldwide release!",
+          "notes": null,
+          "acknowledgments": null
+        },
+        {
+          "version": "1.0.1",
+          "date": "4/22/2022",
+          "summary": "Tweaks to acknowledgments &\n  procedure",
+          "notes": null,
+          "acknowledgments": null
+        },
+        {
+          "version": "1.0.2",
+          "date": "4/26/2022",
+          "summary": "Reorganized P2: Table 2 to match\n  Table 1 order.",
+          "notes": null,
+          "acknowledgments": "Wilkins found this error when\n  teaching 7th grade class."
+        },
+        {
+          "version": "1.0.3",
+          "date": "5/26/2022",
+          "summary": "Tweaks to worksheets and expanded to G5-9",
+          "notes": null,
+          "acknowledgments": "Erica Valerie suggested changes,\n  all of which were incorporated. "
+        },
+        {
+          "version": "1.1.0",
+          "date": "5/4/2022",
+          "summary": "Lesson rebuilt for galacticpolymath.com relaunch",
+          "notes": null,
+          "acknowledgments": null
+        }
+      ]
+    }
+  ]
+}

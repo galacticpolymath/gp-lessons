@@ -1,0 +1,60 @@
+{
+  "__component": "lesson-plan.versions",
+  "SectionTitle": "Version Notes",
+  "Data": [
+    {
+      "major_release": "Beta",
+      "sub_releases": [
+        {
+          "version": "0.1.0",
+          "date": "12/9/2021",
+          "summary": "Initial lesson build.",
+          "notes": null,
+          "acknowledgments": null
+        },
+        {
+          "version": "0.1.1",
+          "date": "12/12/2021",
+          "summary": "minor update",
+          "notes": "Fixed version number issue & added Video Links to Teach it in 15 Quick Prep",
+          "acknowledgments": null
+        },
+        {
+          "version": "0.2.0",
+          "date": "12/13/2021",
+          "summary": "Updated data & added lesson media browser",
+          "notes": null,
+          "acknowledgments": "Thanks to [Kenzie Bottoms](https://www.linkedin.com/in/kenzie-bottoms/) for making the media browser magic!"
+        },
+        {
+          "version": "0.3.0",
+          "date": "2/17/2022",
+          "summary": "Major revisions to Part 3",
+          "notes": "Added new Above the Noise video engagement at the beginning & numerous tweaks to presentation and worksheet to improve flow & aid student understanding.",
+          "acknowledgments": null
+        },
+        {
+          "version": "0.4.0",
+          "date": "3/3/2022",
+          "summary": "Major updates to documentation",
+          "notes": "Added more background information & the extensions section",
+          "acknowledgments": null
+        },
+        {
+          "version": "0.5.0",
+          "date": "8/25/2022",
+          "summary": "Added assessments to lesson",
+          "notes": "A pre-/post- test assessment tool",
+          "acknowledgments": null
+        },
+        {
+          "version": "0.6.0",
+          "date": "5/5/2023",
+          "summary": "Rebuilt for galacticpolymath.com relaunch",
+          "notes": null,
+          "acknowledgments": null
+        }
+      ]
+    }
+  ]
+}

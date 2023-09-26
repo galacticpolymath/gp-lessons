@@ -1,0 +1,67 @@
+{
+  "__component": "lesson-plan.acknowledgments",
+  "SectionTitle": "Acknowledgments",
+  "Data": [
+    {
+      "role": "Beta Testers",
+      "def": "(Teachers who trialed earlier versions of the lesson with their children or students)",
+      "records": [
+        {
+          "name": "Jennifer Gentry, PhD",
+          "url": "https://www.vanderbilt.edu/cseo/who-we-are/staff/",
+          "title": "Postdoc, Homeschool Teacher",
+          "affiliation": "Vanderbilt U, Collab for STEM Ed & Outreach",
+          "location": "Nashville, TN"
+        },
+        {
+          "name": "Sarah Huneycutt, PhD",
+          "url": "https://www.vanderbilt.edu/cseo/who-we-are/staff/",
+          "title": "Postdoc, Homeschool Teacher",
+          "affiliation": "Vanderbilt U, Collab for STEM Ed & Outreach",
+          "location": "Nashville, TN"
+        }
+      ]
+    },
+    {
+      "role": "Peer Reviewers",
+      "def": "(Instructional and subject experts who provided input or validation on content accuracy)",
+      "records": [
+        {
+          "name": "Greta Clinton-Selin",
+          "url": "https://www.vanderbilt.edu/cseo/who-we-are/staff/",
+          "title": "Education Program Coordinator",
+          "affiliation": "Vanderbilt U, Collab for STEM Ed & Outreach",
+          "location": "Nashville, TN"
+        },
+        {
+          "name": "David Gammon, PhD",
+          "url": "https://facstaff.elon.edu/dgammon/",
+          "title": "Professor",
+          "affiliation": "Elon University",
+          "location": "Elon, NC"
+        },
+        {
+          "name": "Lauryn Benedict, PhD",
+          "url": "https://www.unco.edu/nhs/biology/about-us/benedict-lauryn/lab-home.aspx",
+          "title": "Professor",
+          "affiliation": "University of Northern Colorado",
+          "location": "Greeley, CO"
+        },
+        {
+          "name": "Jeannie Long, PhD",
+          "url": "https://twitter.com/bjlongscience?lang=en",
+          "title": "Presidential PAEMST 2020 Award-Winning Science Teacher",
+          "affiliation": "Cleveland High School",
+          "location": "Cleveland, TN"
+        },
+        {
+          "name": "Greta Knudson MAT",
+          "url": "https://twitter.com/GretaKnudson",
+          "title": "STEAM Instructional Coach",
+          "affiliation": "Croft Middle School",
+          "location": "Nashville, TN"
+        }
+      ]
+    }
+  ]
+}

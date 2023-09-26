@@ -1,24 +1,23 @@
-id: 1
-UniqueID: lesson_1_locale_1
+numID: 1
+_id: lesson_1_en-US
 ShortTitle: FemalesSing
 PublicationStatus: Live
 Language: English
 Country: United States
 DefaultLanguage: English
 DefaultCountry: United States
-LastUpdated: 2023-05-04 14:41:34
+LastUpdated: 2023-09-17 21:42:58.421661
 FirstPublicationDate: 2021-12-16 16:03:12
 MediumTitle: '''Females singing to be heard'' |Math| G5–8 & 9–12 (en-US)'
 lang: en
 lng: eng
 locale: en-US
 DefaultLocale: en-US
-TemplateVer: 0.5.0
-galacticPubsVer: 0.9.6
+TemplateVer: 0.6.0
+galacticPubsVer: 0.9.7
+isTestRepo: no
 URL: https://galacticpolymath.com/lessons/1
 GPCatalogURL: https://gp-catalog.vercel.app/lessons/FemalesSing_en-US/LESSON.json
-GPCatalogPath: .na
-GitHubPath: git@github.com:galacticpolymath/FemalesSing_en-US.git
 GdriveHome: GP-LIVE
 GdriveDirName: FemalesSing_en-US
 GdriveTeachMatPath: GalacticPolymath/'Females singing to be heard' |Math| G5–8 & 9–12
@@ -27,8 +26,8 @@ GdriveTeachMatID: .na
 GdrivePublicID: 1XBmDhUv1dJUR1SL5WZV4P_tJUVOw37P2
 GdriveDirID: 1ZK_7lIrBBjq3mGoeVkpVS67Ly6h8TaUR
 GdriveMetaID: 1e9A_s4y0vddignJ6Pu1Lo0CuFVprR5N5
-GdriveTeachItID: 1CfSyunZH29kbIX6R_5OkJ1gI1pX7QR0qq8LnCrLjFWM
-GdriveStandardsID: 17LQk_E24nfMAdO3O54OvBXa28YW0kcpnhDModalTpes
+GdriveTeachItID: 1bfMmwXQMgzfxorgd1c-ZCxA-2-cjbMYiR56rmev_YZg
+GdriveStandardsID: 1XDYWWlFAPco2iEutmq_kzdcXn4tdKcndEFK2uf-MfUQ
 GdrivePublishedID: 1bJLtzE0TCZptVTd4HQ4eJMKf8K5A29De
 GdriveDirURL: https://drive.google.com/drive/folders/1ZK_7lIrBBjq3mGoeVkpVS67Ly6h8TaUR
 RebuildAllMaterials: no
@@ -39,42 +38,44 @@ SponsorName: Animal Behaviour Society
 SponsoredBy: The [Animal Behaviour Society](https://www.animalbehaviorsociety.org/web/index.php),
   an international non-profit scientific society that encourages and promotes the
   professional study of animal behavior.
-SponsorLogo: assets/_banners_logos_etc/sponsor_logo_41be63750b.png
-LessonBanner: assets/_banners_logos_etc/banner.png
+SponsorLogo: https://storage.googleapis.com/gp-cloud/lessons/FemalesSing_en-US/sponsor_logo_41be63750b.png
+LessonBanner: https://storage.googleapis.com/gp-cloud/lessons/FemalesSing_en-US/banner.png
+LessonCard: https://storage.googleapis.com/gp-cloud/lessons/FemalesSing_en-US/FemalesSing_card.png
 TargetSubject: Math
 LessonEnvir:
 - Classroom
 - Remote
 ForGrades: 5–8 & 9–12
 GradesOrYears: Grades
+LessonTiles: .na
 EstLessonTime: 3 x 45 min
 PullStandardsInfoFrom: standardX
 LearningPlotCorrection: yes
 LearningChartFriendly: yes
-LearningEpaulette: assets/_learning-plots/GP-Learning-Epaulette.png
-LearningEpaulette_vert: assets/_learning-plots/GP-Learning-Epaulette_vert.png
+LearningEpaulette: https://storage.googleapis.com/gp-cloud/lessons/FemalesSing_en-US/GP-Learning-Epaulette.png
+LearningEpaulette_vert: https://storage.googleapis.com/gp-cloud/lessons/FemalesSing_en-US/GP-Learning-Epaulette_vert.png
 LearningEpaulette_params_defaults: yes
 LearningEpaulette_params_heightScalar: 0.5
 LearningEpaulette_params_randomSeed: 101
-LearningChart: assets/_learning-plots/GP-Learning-Chart.png
+LearningChart: https://storage.googleapis.com/gp-cloud/lessons/FemalesSing_en-US/GP-Learning-Chart.png
 LearningChart_params_centralText: grades\n5-12
 LearningChart_params_caption: .na
 LearningChart_params_captionN: no
 SupportingMedia:
-- assets/_other-media-to-publish/FemalesSing_P3_Table 2_TEACHER.docx
-- assets/_other-media-to-publish/male barn swallow sings on wire_3705.jpg
-- assets/_other-media-to-publish/study-paper.png
-- assets/_other-media-to-publish/vocab.csv
+- https://storage.googleapis.com/gp-cloud/lessons/FemalesSing_en-US/FemalesSing_P3_Table-2_TEACHER.docx
+- https://storage.googleapis.com/gp-cloud/lessons/FemalesSing_en-US/male-barn-swallow-sings-on-wire_3705.jpg
+- https://storage.googleapis.com/gp-cloud/lessons/FemalesSing_en-US/study-paper.png
+- https://storage.googleapis.com/gp-cloud/lessons/FemalesSing_en-US/vocab.csv
+LearningSummary: Students will learn how data visuals tell a story. They will analyze
+  real bird song data to try to understand why female singing behavior has been overlooked
+  in one of the most common birds in the world. They will also gain a deeper insight
+  into the scientific peer review process.
 DrivingQ: What is the best way to visualize data?
 EssentialQ: |-
   1. How do our assumptions (biases) affect our conclusions?
   2. What are the pros and cons of scatterplots vs. histograms?
 Hooks: This lesson focuses a lot on puzzles called ciphers and uses a goofy video
   showing connections between histograms and dot plots to engage students.
-LearningSummary: Students will learn how data visuals tell a story. They will analyze
-  real bird song data to try to understand why female singing behavior has been overlooked
-  in one of the most common birds in the world. They will also gain a deeper insight
-  into the scientific peer review process.
 MiscMD: .na
 LearningObj: |-
   - Solve a cipher (a type of secret message)
@@ -180,20 +181,21 @@ Feedback: "### Got suggestions or feedback? \n#### We want to know what you thin
   choosing the right way to display data...I don’t have any negative feedback…I really
   liked the lesson and appreciated how it was interactive and not just a lecture,
   like many of my online classes have become.\n>  \n> –11th Grader in Nashville, TN"
-Credits: |-
-  #### Lead author and creative director:
-  Matt Wilkins, PhD
+Credits:
+  value: |-
+    #### Lead author and creative director:
+    Matt Wilkins, PhD
 
-  “I worked on this lesson for months, adapting my research into what will hopefully be a mind-expanding learning experience for pretty much all students, aged 11 and up! If you enjoy this lesson, please let us know–we want your feedback! This is the first of many, many Galactic Polymath lessons. Feel free to tag me ([@mattwilkinsbio](https://twitter.com/mattwilkinsbio)) and GP ([@galacticPM](https://twitter.com/galacticPM)) on Twitter with your experiences and student questions! And don’t forget to [sign up for our mailing list](https://bit.ly/getGPemails) to hear about what’s coming up next!”
+    “I worked on this lesson for months, adapting my research into what will hopefully be a mind-expanding learning experience for pretty much all students, aged 11 and up! If you enjoy this lesson, please let us know–we want your feedback! This is the first of many, many Galactic Polymath lessons. Feel free to tag me ([@mattwilkinsbio](https://twitter.com/mattwilkinsbio)) and GP ([@galacticPM](https://twitter.com/galacticPM)) on Twitter with your experiences and student questions! And don’t forget to [sign up for our mailing list](https://bit.ly/getGPemails) to hear about what’s coming up next!”
 
-  #### Graphic Design Work:
-  Carver Lee, MA ([csalt design co.](https://www.csaltdesign.co/))
+    #### Graphic Design Work:
+    Carver Lee, MA ([csalt design co.](https://www.csaltdesign.co/))
 
-  #### Development of Learning Assessments and Standards Alignment:
-  [Elaine Perignat, PhD](https://scholar.google.com/citations?user=G12SJQoAAAAJ&hl=en&oi=ao)
+    #### Development of Learning Assessments and Standards Alignment:
+    [Elaine Perignat, PhD](https://scholar.google.com/citations?user=G12SJQoAAAAJ&hl=en&oi=ao)
 
-  #### Video production courtesy of:
-  Stephanie Castillo (aka [Phuture Doctors](https://phuturedoctors.com/))
+    #### Video production courtesy of:
+    Stephanie Castillo (aka [Phuture Doctors](https://phuturedoctors.com/))
 Acknowledgments:
   Role:
   - Beta Testers
@@ -340,6 +342,12 @@ Versions:
   - .na.character
   - .na.character
 ScriptsToRun: .na
+GoogleCloudStorage:
+  filename: .na
+  WD_rel_path: .na
+  cloud_path: .na
+  mod_time: .na
+  last_uploaded: .na
 ReadyToCompile:
 - Front Matter
 - Standards Alignment

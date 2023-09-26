@@ -1,0 +1,122 @@
+numID: 1000
+_id: lesson_1000_en-US
+ShortTitle: TEST2
+PublicationStatus: Proto
+Language: English
+Country: United States
+DefaultLanguage: English
+DefaultCountry: United States
+LastUpdated: 2023-09-26 17:22:30.919945
+FirstPublicationDate: 2023-04-10 12:14:57
+MediumTitle: '''TEST2'' |Science| G7-12 (en-US)'
+lang: en
+lng: eng
+locale: en-US
+DefaultLocale: en-US
+TemplateVer: 0.6.0
+galacticPubsVer: 0.9.7
+isTestRepo: no
+URL: https://galacticpolymath.com/lessons/6
+GdriveHome: GP-Studio
+GdriveDirName: TEST2
+GdriveTeachMatPath: GP-Studio/Edu/Lessons/TEST2/teaching-materials
+GdriveTeachMatID: 1eZ_TgLCdnrXXMspPniv4VkYGypX67bzZ
+GdrivePublicID: .na
+GdriveDirID: 1dSqu9cKrbwmDCX6PSUZ7M5AdNPw0Tm-S
+GdriveMetaID: 1c_uMDZjg4pjK4-DUl3hlVnYvzt_jWEqL
+GdriveTeachItID: 1PF49f3jLkpYNaqtVuvz8EvmweiO6x8grHattJkE1wLQ
+GdriveStandardsID: 1gnK9mWQ3YtYjQqe5oLMiNtj2oQpQAvNx0QCCB7yqp7E
+GdrivePublishedID: 1q6NAKdYiGoPbBMepmWEIO2xMglBAtCTg
+GdriveDirURL: https://drive.google.com/drive/folders/1dSqu9cKrbwmDCX6PSUZ7M5AdNPw0Tm-S
+RebuildAllMaterials: no
+ReleaseDate: '2050-01-01'
+Title: TEST2
+Subtitle: More different test
+SponsorName:
+- NSF
+- FunsizePhysics
+- University of Nebraska-Lincoln
+SponsoredBy: |-
+  - University of Nebraska-Lincoln's [Funsize Physics](https://funsizephysics.com/). Whether you’re 7 or 107, a full-blown science fanatic or simply curious, this is the place for you.
+  - National Science Foundation grant DMR 2048959
+SponsorLogo:
+- https://storage.googleapis.com/gp-cloud/lessons/TEST2/FunSizePhysics_logo.png
+- https://storage.googleapis.com/gp-cloud/lessons/TEST2/NSF_4-Color_bitmap_Logo@0.25x.png
+- https://storage.googleapis.com/gp-cloud/lessons/TEST2/R-UNL_RGB_logo.jpg
+LessonBanner: https://storage.googleapis.com/gp-cloud/lessons/TEST2/banner.png
+LessonCard: https://storage.googleapis.com/gp-cloud/lessons/TEST2/card.png
+TargetSubject: Science
+LessonEnvir: Classroom
+ForGrades: 7-12
+GradesOrYears: Grades
+LessonTiles: .na
+EstLessonTime: 4 x 45 min classes
+PullStandardsInfoFrom: myFile
+LearningPlotCorrection: yes
+LearningChartFriendly: .na
+LearningEpaulette: .na
+LearningEpaulette_vert: .na
+LearningEpaulette_params_heightScalar: 0.5
+LearningEpaulette_params_randomSeed: 101.0
+LearningChart: .na
+LearningChart_params_centralText: .na
+LearningChart_params_caption: .na
+LearningChart_params_captionN: yes
+SupportingMedia: []
+LearningSummary: Crystals aren't magic, but they are amazing! In this student-driven,
+  lecture-free lesson, students will do card sorts, build hands-on models, solve engineering
+  design puzzles, and more! The whole experience is connected through a beautifully
+  crafted comic.
+DrivingQ: |-
+  - What are crystals and how do they form?
+  - How is molecular microstructure connected to functionality and properties we can easily observe?
+EssentialQ: What are crystals and in addition to being pretty to look at, how are
+  they relevant to our daily lives?
+Hooks: An engaging, original comic weaves together background information, hands-on
+  activities, puzzles, and problem sets. Quick videos stoke curiosity and provide
+  support for activities.
+MiscMD: .na
+LearningObj: .na
+Tags: .na
+Description: .na
+QuickPrep: |
+  1. Check out lesson multimedia below
+  2. Look over [Teaching Materials](#teaching_materials)
+  3. Read our easy [Procedure](#procedure)
+  4. Teach it and [let us know what you think!](#feedback)
+Bonus: .na
+Extensions: .na
+Background: .na
+ConnectionToResearch: .na
+Feedback: |
+  ### Please let us know how it went with your class!
+  #### We want to know what you (and/or your students) think!
+  Share your feedback in < 5 min with these forms:
+  - [For teachers](https://forms.gle/HY1sFxZUH7uG6JqP8)
+  - [For students](https://forms.gle/gwkRYvvZY6Sp2dQb9)
+Credits:
+  value: .na
+Acknowledgments:
+  Role: .na
+  Role_def: .na
+  Name: .na
+  Title: .na
+  Affiliation: .na
+  Location: .na
+  Link: .na
+Versions:
+  ver_num: .na
+  date: .na
+  ver_summary: .na
+  ver_notes: .na
+  ver_acknowledgments: .na
+ScriptsToRun: .na
+GoogleCloudStorage:
+  filename: .na
+  WD_rel_path: .na
+  cloud_path: .na
+  mod_time: .na
+  last_uploaded: .na
+ReadyToCompile:
+- Front Matter
+- Teaching Materials

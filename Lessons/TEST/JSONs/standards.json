@@ -1,6 +1,5 @@
 {
   "__component": "lesson-plan.standards",
-  "LearningObj": null,
   "Data": [
     {
       "subject": "Math",
@@ -15,7 +14,7 @@
               "name": "Algebra, Geometry, Trig, Calculus & Higher Level Thinking",
               "standardsGroup": [
                 {
-                  "parts": [
+                  "lessons": [
                     "4"
                   ],
                   "codes": "7.EE.B.4",
@@ -25,7 +24,7 @@
                   "subcat": null
                 },
                 {
-                  "parts": [
+                  "lessons": [
                     "3"
                   ],
                   "codes": "8.G.A.1",
@@ -53,7 +52,7 @@
               "name": "Writing",
               "standardsGroup": [
                 {
-                  "parts": [
+                  "lessons": [
                     "1",
                     "2",
                     "3",
@@ -66,7 +65,7 @@
                   "subcat": null
                 },
                 {
-                  "parts": [
+                  "lessons": [
                     "1",
                     "2",
                     "3",
@@ -79,7 +78,7 @@
                   "subcat": null
                 },
                 {
-                  "parts": [
+                  "lessons": [
                     "1",
                     "2",
                     "3",
@@ -110,9 +109,8 @@
               "name": "Science & Engineering Practices",
               "standardsGroup": [
                 {
-                  "parts": [
-                    "2",
-                    "3"
+                  "lessons": [
+                    "1"
                   ],
                   "codes": "CEDS-M2",
                   "grades": ["6", "7", "8"],
@@ -127,7 +125,7 @@
               "name": "Cross-Cutting Concepts",
               "standardsGroup": [
                 {
-                  "parts": [
+                  "lessons": [
                     "4"
                   ],
                   "codes": "SF-M2",
@@ -137,7 +135,7 @@
                   "subcat": "Structure & Function"
                 },
                 {
-                  "parts": [
+                  "lessons": [
                     "1",
                     "2",
                     "3",
@@ -150,7 +148,7 @@
                   "subcat": "Patterns"
                 },
                 {
-                  "parts": [
+                  "lessons": [
                     "4"
                   ],
                   "codes": "SF-H1",
@@ -160,7 +158,7 @@
                   "subcat": "Structure & Function"
                 },
                 {
-                  "parts": [
+                  "lessons": [
                     "1",
                     "2",
                     "3",
@@ -191,7 +189,7 @@
               "name": "Science & Engineering Practices",
               "standardsGroup": [
                 {
-                  "parts": [
+                  "lessons": [
                     "2",
                     "3",
                     "4"
@@ -203,7 +201,7 @@
                   "subcat": "Developing & Using Models"
                 },
                 {
-                  "parts": [
+                  "lessons": [
                     "2",
                     "3"
                   ],
@@ -214,7 +212,7 @@
                   "subcat": "Developing & Using Models"
                 },
                 {
-                  "parts": [
+                  "lessons": [
                     "2",
                     "3"
                   ],
@@ -231,7 +229,7 @@
               "name": "Cross-Cutting Concepts",
               "standardsGroup": [
                 {
-                  "parts": [
+                  "lessons": [
                     "2",
                     "3",
                     "4"
@@ -243,7 +241,7 @@
                   "subcat": "Structure & Function"
                 },
                 {
-                  "parts": [
+                  "lessons": [
                     "4"
                   ],
                   "codes": "SF-H2",
@@ -259,7 +257,7 @@
               "name": "Disciplinary Core ideas",
               "standardsGroup": [
                 {
-                  "parts": [
+                  "lessons": [
                     "1",
                     "2",
                     "3"
@@ -271,7 +269,7 @@
                   "subcat": "Structure & Properties of Matter"
                 },
                 {
-                  "parts": [
+                  "lessons": [
                     "4"
                   ],
                   "codes": "PS1.A-H1",
@@ -281,7 +279,7 @@
                   "subcat": "Structure & Properties of Matter"
                 },
                 {
-                  "parts": [
+                  "lessons": [
                     "4"
                   ],
                   "codes": "PS1.A-H3",

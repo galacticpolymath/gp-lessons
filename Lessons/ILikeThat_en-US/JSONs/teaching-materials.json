@@ -1,0 +1,715 @@
+{
+  "__component": "teaching-resources.teaching-resources",
+  "SectionTitle": "Teaching Materials",
+  "Data": {
+    "lessonPreface": "Part 1 will likely take ~80 min with a typical group of middle schoolers, while we expect Parts 2-3 could be done in an hour. With older or more advanced students, each part may go more quickly.",
+    "lessonDur": "3 x 45 min",
+    "classroom": {
+      "gradeVariantNotes": [
+        {
+          "lsn": "1",
+          "lsnGradeVarNotes": null
+        },
+        {
+          "lsn": "2",
+          "lsnGradeVarNotes": null
+        },
+        {
+          "lsn": "3",
+          "lsnGradeVarNotes": null
+        }
+      ],
+      "resources": [
+        {
+          "grades": "Grades 5-9",
+          "gradePrefix": "G5-9",
+          "links": {
+            "linkText": "Browse & Download All G5-9 Materials",
+            "url": "https://drive.google.com/drive/folders/1XyEXtt0bTp4TdivARtQz3A-YADlq15wf"
+          },
+          "lessons": [
+            {
+              "lsn": "1",
+              "title": "Why Do I Like That?",
+              "tags": [
+                null
+              ],
+              "preface": "Students conduct an experiment on themselves. They rank images and attempt to understand *why* they preferred some images over others.",
+              "tile": null,
+              "itemList": [
+                {
+                  "itemTitle": "Presentation (Part 1)",
+                  "itemDescription": "Need: WiFi, Computer, Projector, Sound",
+                  "itemCat": "presentation",
+                  "links": [
+                    {
+                      "linkText": "Present Now",
+                      "url": "https://docs.google.com/presentation/d/13hjWf-5C9WeNBINcE08Ml18a5gZCFsJtNQProJ5Lgb8/present"
+                    },
+                    {
+                      "linkText": "Copy/Edit in Google Docs",
+                      "url": "https://docs.google.com/presentation/d/13hjWf-5C9WeNBINcE08Ml18a5gZCFsJtNQProJ5Lgb8/template/preview"
+                    }
+                  ]
+                },
+                {
+                  "itemTitle": "Image Handout for Student Experiment (Part 1)",
+                  "itemDescription": "Print Class Set for Each Group (Pair of Students)",
+                  "itemCat": "presentation",
+                  "links": [
+                    {
+                      "linkText": "PDF",
+                      "url": "https://docs.google.com/presentation/d/1WeO_tE_o9G7CsOdbIBkdf8gfTE0ZcF-_E8EAv39DFSE/export/pdf"
+                    },
+                    {
+                      "linkText": "Copy/Edit in Google Docs",
+                      "url": "https://docs.google.com/presentation/d/1WeO_tE_o9G7CsOdbIBkdf8gfTE0ZcF-_E8EAv39DFSE/template/preview"
+                    }
+                  ]
+                },
+                {
+                  "itemTitle": "Student Worksheet (Part 1)",
+                  "itemDescription": "Print 1 Per Student",
+                  "itemCat": "document",
+                  "links": [
+                    {
+                      "linkText": "PDF",
+                      "url": "https://docs.google.com/document/d/1LvkjEULRdYK1mHPyhtm_ZKQMayjMIXo7I0qqZ5PAdGg/export?format=pdf"
+                    },
+                    {
+                      "linkText": "Copy/Edit in Google Docs",
+                      "url": "https://docs.google.com/document/d/1LvkjEULRdYK1mHPyhtm_ZKQMayjMIXo7I0qqZ5PAdGg/template/preview"
+                    }
+                  ]
+                },
+                {
+                  "itemTitle": "Teacher Worksheet (Part 1)",
+                  "itemDescription": "Print 1",
+                  "itemCat": "document",
+                  "links": [
+                    {
+                      "linkText": "PDF",
+                      "url": "https://docs.google.com/document/d/1t1IJs_crq_gf8Gg3t7TwmkKlZJ8mIoK7FJi198sEmpM/export?format=pdf"
+                    },
+                    {
+                      "linkText": "Copy/Edit in Google Docs",
+                      "url": "https://docs.google.com/document/d/1t1IJs_crq_gf8Gg3t7TwmkKlZJ8mIoK7FJi198sEmpM/template/preview"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "lsn": "2",
+              "title": "The Perception of Beauty",
+              "tags": [
+                null
+              ],
+              "preface": "Students analyze real data to determine if fish mating preferences are explained by sensitivity to certain colors.",
+              "tile": null,
+              "itemList": [
+                {
+                  "itemTitle": "Presentation (Part 2)",
+                  "itemDescription": "Need: WiFi, Computer, Projector, Sound",
+                  "itemCat": "presentation",
+                  "links": [
+                    {
+                      "linkText": "Present Now",
+                      "url": "https://docs.google.com/presentation/d/1frxP_t6AMaJz8CwYFkp5fKxkPntZ3UZNyTHdfQJe9h4/present"
+                    },
+                    {
+                      "linkText": "Copy/Edit in Google Docs",
+                      "url": "https://docs.google.com/presentation/d/1frxP_t6AMaJz8CwYFkp5fKxkPntZ3UZNyTHdfQJe9h4/template/preview"
+                    }
+                  ]
+                },
+                {
+                  "itemTitle": "Teacher Worksheet (Part 2)",
+                  "itemDescription": "Print 1",
+                  "itemCat": "document",
+                  "links": [
+                    {
+                      "linkText": "PDF",
+                      "url": "https://docs.google.com/document/d/1ONVxdx8PZnC4d7BdKHF2rudWuygQZYFDynjIFin0nA4/export?format=pdf"
+                    },
+                    {
+                      "linkText": "Copy/Edit in Google Docs",
+                      "url": "https://docs.google.com/document/d/1ONVxdx8PZnC4d7BdKHF2rudWuygQZYFDynjIFin0nA4/template/preview"
+                    }
+                  ]
+                },
+                {
+                  "itemTitle": "Student Worksheet (Part 2)",
+                  "itemDescription": "Print 1 Per Student",
+                  "itemCat": "document",
+                  "links": [
+                    {
+                      "linkText": "PDF",
+                      "url": "https://docs.google.com/document/d/13-H6mPouTG9y8ul-FG8f8_cAjnD9FaMGoGMiO-4OO4w/export?format=pdf"
+                    },
+                    {
+                      "linkText": "Copy/Edit in Google Docs",
+                      "url": "https://docs.google.com/document/d/13-H6mPouTG9y8ul-FG8f8_cAjnD9FaMGoGMiO-4OO4w/template/preview"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "lsn": "3",
+              "title": "Creature Stats",
+              "tags": [
+                null
+              ],
+              "preface": "Students collect data from original artworks to test whether being outside the range of human variation makes a drawing creepy or cute.",
+              "tile": null,
+              "itemList": [
+                {
+                  "itemTitle": "Presentation (Part 3)",
+                  "itemDescription": "Need: WiFi, Computer, Projector, Sound",
+                  "itemCat": "presentation",
+                  "links": [
+                    {
+                      "linkText": "Present Now",
+                      "url": "https://docs.google.com/presentation/d/1HkmdAMXFc75AiahjsIYWZKh7Ug-xs7FxM2Cdw6Z1jSg/present"
+                    },
+                    {
+                      "linkText": "Copy/Edit in Google Docs",
+                      "url": "https://docs.google.com/presentation/d/1HkmdAMXFc75AiahjsIYWZKh7Ug-xs7FxM2Cdw6Z1jSg/template/preview"
+                    }
+                  ]
+                },
+                {
+                  "itemTitle": "Student Worksheet (Part 3)",
+                  "itemDescription": "Print 1 Per Student",
+                  "itemCat": "document",
+                  "links": [
+                    {
+                      "linkText": "PDF",
+                      "url": "https://docs.google.com/document/d/1XChGl-UF1lH-mGCr4Vu3to3nr5mNje7q5VNJUWW4pQI/export?format=pdf"
+                    },
+                    {
+                      "linkText": "Copy/Edit in Google Docs",
+                      "url": "https://docs.google.com/document/d/1XChGl-UF1lH-mGCr4Vu3to3nr5mNje7q5VNJUWW4pQI/template/preview"
+                    }
+                  ]
+                },
+                {
+                  "itemTitle": "Teacher Worksheet (Part 3)",
+                  "itemDescription": "Print 1",
+                  "itemCat": "document",
+                  "links": [
+                    {
+                      "linkText": "PDF",
+                      "url": "https://docs.google.com/document/d/1XZhoUHxKM3DmrCh95ZmG-oJz7KRhBLyG16rVp6Q9b4M/export?format=pdf"
+                    },
+                    {
+                      "linkText": "Copy/Edit in Google Docs",
+                      "url": "https://docs.google.com/document/d/1XZhoUHxKM3DmrCh95ZmG-oJz7KRhBLyG16rVp6Q9b4M/template/preview"
+                    }
+                  ]
+                },
+                {
+                  "itemTitle": "Creature Stats Character Sheets Handout (Part 3)",
+                  "itemDescription": "Print Class Set for Stations or 1 per Student",
+                  "itemCat": "pdf",
+                  "links": [
+                    {
+                      "linkText": "PDF",
+                      "url": "https://drive.google.com/file/d/1bpMTOcpuZYoRmY2IlTMuYyjVKWTj3YPc"
+                    },
+                    {
+                      "linkText": "Copy/Edit in Google Docs",
+                      "url": "https://drive.google.com/file/d/1bpMTOcpuZYoRmY2IlTMuYyjVKWTj3YPc"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "lesson": [
+      {
+        "lsnNum": 1,
+        "lsnTitle": "Why Do I Like That?",
+        "lsnDur": 45,
+        "lsnPreface": "Students conduct an experiment on themselves. They rank images and attempt to understand *why* they preferred some images over others.",
+        "learningObj": null,
+        "lsnPrep": {
+          "prepTitle": "Prep",
+          "prepDur": 15,
+          "prepQuickDescription": "Print out: \n- a class set of visual stimulus handouts (1 for each pair of students).\n- a worksheet for each student\n- a teacher handout",
+          "prepDetails": "You might ask a student volunteer cut out the visual stimulus cards.",
+          "prepVariantNotes": null,
+          "prepTeachingTips": null
+        },
+        "chunks": [
+          {
+            "chunkTitle": "Getting Started",
+            "chunkStart": 0,
+            "chunkDur": 5,
+            "steps": [
+              {
+                "Step": 1,
+                "StepTitle": "Puzzle Warm-Up",
+                "StepQuickDescription": "What question are we investigating?",
+                "StepDetails": "Students interpret a series of images (rebus puzzle) to determine the focus of this lesson. Their answers are recorded on the \"I Like That\" Part 1 worksheet.",
+                "Vocab": null,
+                "VariantNotes": null,
+                "TeachingTips": null
+              },
+              {
+                "Step": 2,
+                "StepTitle": "Scientific Method",
+                "StepQuickDescription": "Quick refresher of the scientific method",
+                "StepDetails": "This lesson is a real experiment and the results are specific to each class that completes it. This is exactly what scientists face in their own labs when they ask questions that don't have answers yet. Because this requires students to have a solid understanding of the Scientific Method, the first part of the lesson is a recap of each step in that process.",
+                "Vocab": null,
+                "VariantNotes": null,
+                "TeachingTips": null
+              }
+            ]
+          },
+          {
+            "chunkTitle": "Observation",
+            "chunkStart": 5,
+            "chunkDur": 10,
+            "steps": [
+              {
+                "Step": 3,
+                "StepTitle": "Ranking Images",
+                "StepQuickDescription": "The Image Cards present a set of ten images to the students which they must rank from favorite (#1) to least favorite (#10) on their worksheet (Qs 1-10).",
+                "StepDetails": "Students have five minutes to complete this activity. Their observations form the basis for the next part of the scientific method. Students need either digital or printed copies of Images A - J (Image Cards) as well as the \"I Like That\" Part 1 Worksheet.",
+                "Vocab": null,
+                "VariantNotes": null,
+                "TeachingTips": "Try to save the Image Cards and laminate them or put them in protective sleeves if you plan to teach the lesson multiple times."
+              }
+            ]
+          },
+          {
+            "chunkTitle": "Question",
+            "chunkStart": 15,
+            "chunkDur": 10,
+            "steps": [
+              {
+                "Step": 4,
+                "StepTitle": "Watch Video 1",
+                "StepQuickDescription": "The next step after collecting observations is questioning why they are the way they are.",
+                "StepDetails": "By talking about visual stimuli, students understand why they ranked the 10 images the way they did. [▶ I Like That! How our eyes and brains interact to determine what we like and dislike](https://www.youtube.com/watch?v=mw8OoXGIsj8) explores how the eyes and brain interact to result in our visual preferences.",
+                "Vocab": "- **stimulus:** something that causes an organ or tissue (like your brain) to react (plural is stimuli)",
+                "VariantNotes": null,
+                "TeachingTips": null
+              },
+              {
+                "Step": 5,
+                "StepTitle": "Check In",
+                "StepQuickDescription": "Students next consider how Cognition, Perception, and Emotion of visual stimuli influenced their observations.",
+                "StepDetails": "After watching the video and learning more about the Cognition, Perception, and Emotion triad, students answer Questions 11-15 on their worksheets.",
+                "Vocab": "- **cognition:** how well you understand what you're perceiving\n- **perception:** our ability to see, hear, or become aware of a stimulus through our senses\n- **emotion:** a positive or negative feelings brought about by chemicals released in the brain\n- **preference:** whether you like or dislike something which is influenced by a combination of cognition, perception, and emotions",
+                "VariantNotes": null,
+                "TeachingTips": null
+              }
+            ]
+          },
+          {
+            "chunkTitle": "Hypothesis",
+            "chunkStart": 25,
+            "chunkDur": 10,
+            "steps": [
+              {
+                "Step": 6,
+                "StepTitle": "Developing Hypotheses",
+                "StepQuickDescription": "The next step in the scientific method is to develop a hypothesis that can be tested which gets at the \"Why.\"",
+                "StepDetails": "The class tests the hypothesis that cognition and emotion determine how the images were ranked.",
+                "Vocab": null,
+                "VariantNotes": null,
+                "TeachingTips": null
+              },
+              {
+                "Step": 7,
+                "StepTitle": "Setting Up Experiments",
+                "StepQuickDescription": "To determine whether the hypothesis can be rejected or accepted with confidence, the group sets up an experiment.",
+                "StepDetails": "The experiment must try to isolate two of the three effects (Cognition and Emotion) and measure how much each contributes to preference.",
+                "Vocab": null,
+                "VariantNotes": null,
+                "TeachingTips": null
+              },
+              {
+                "Step": 8,
+                "StepTitle": "Think - Pair",
+                "StepQuickDescription": null,
+                "StepDetails": "Using descriptive numerical scales, students discuss in pairs (or small groups) how they would rate their top-ranked images based on Emotion and Cognition.",
+                "Vocab": null,
+                "VariantNotes": null,
+                "TeachingTips": "Throughout the lesson, you will occasionally see *Think - Ink - Pair - Share*, or some combination thereof, on the presentation slides. The words not grayed out are the goals for that activity. *Think* means a student considers a question or challenge on their own, *Ink* indicates they should be writing their thoughts or answers down, *Pair* asks that once they have completed Think and/or Ink, students pair up (or get in small groups) and talk about the question or activity. Lastly, *Share* is when the class comes together and talks about the question or activity as a group."
+              }
+            ]
+          },
+          {
+            "chunkTitle": "Prediction",
+            "chunkStart": 35,
+            "chunkDur": 10,
+            "steps": [
+              {
+                "Step": 9,
+                "StepTitle": "Creating Predictions",
+                "StepQuickDescription": "Think - Ink - Pair",
+                "StepDetails": "Students learn how to develop predictions related to their hypothesis and experimental design by looking at example data. They have two minutes to think about the example presented to them and decide which responses they would predict. Students then discuss their answers in pairs or small groups.",
+                "Vocab": null,
+                "VariantNotes": null,
+                "TeachingTips": null
+              },
+              {
+                "Step": 10,
+                "StepTitle": "Adopting a prediction.",
+                "StepQuickDescription": null,
+                "StepDetails": "Once the class understands how to formulate a prediction, for the purposes of this study they adopt the following Prediction (P1): Top ranked images will have high cognitive and emotional scores.",
+                "Vocab": null,
+                "VariantNotes": null,
+                "TeachingTips": null
+              }
+            ]
+          },
+          {
+            "chunkTitle": "Experiment",
+            "chunkStart": 45,
+            "chunkDur": 20,
+            "steps": [
+              {
+                "Step": 11,
+                "StepTitle": "Collecting Data",
+                "StepQuickDescription": "Working in pairs, students trade off being the \"scientist\" and \"test-subject.\"",
+                "StepDetails": "The student acting as the \"scientist\" shows the \"test subject\" one image at a time and asks questions using the Cognitive and Emotion Score scales to collect data. Each pair has 10 minutes to complete the experiment, then they switch roles and repeat the process. The scientist should record the test subject's data on the test subject's worksheet (page 4).",
+                "Vocab": null,
+                "VariantNotes": null,
+                "TeachingTips": null
+              }
+            ]
+          },
+          {
+            "chunkTitle": "Results",
+            "chunkStart": 65,
+            "chunkDur": 10,
+            "steps": [
+              {
+                "Step": 12,
+                "StepTitle": "Plotting Data",
+                "StepQuickDescription": "Using the data from the experiment, students plot their results on graphs.",
+                "StepDetails": "Students plot their data to make similar graphs as the ones used in the example data to practice making predictions. These graphs plot Emotion vs. Cognitive scores for the top and bottom five scores.",
+                "Vocab": null,
+                "VariantNotes": null,
+                "TeachingTips": null
+              }
+            ]
+          },
+          {
+            "chunkTitle": "Conclusions",
+            "chunkStart": 75,
+            "chunkDur": 5,
+            "steps": [
+              {
+                "Step": 13,
+                "StepTitle": "Discussing the Results",
+                "StepQuickDescription": "Based on the class's data, what can be concluded about how cognition and emotion affect how images are ranked?",
+                "StepDetails": "Students answer questions 9 - 15 on their worksheets. The class can also discuss as a group the results, why they may have ended up with the results that were observed, and how the experimental design may have affected any outcomes.",
+                "Vocab": null,
+                "VariantNotes": null,
+                "TeachingTips": null
+              }
+            ]
+          }
+        ],
+        "lsnExt": null
+      },
+      {
+        "lsnNum": 2,
+        "lsnTitle": "The Perception of Beauty",
+        "lsnDur": 45,
+        "lsnPreface": "Students analyze real data to determine if fish mating preferences are explained by sensitivity to certain colors.",
+        "learningObj": null,
+        "lsnPrep": {
+          "prepTitle": null,
+          "prepDur": null,
+          "prepQuickDescription": null,
+          "prepDetails": null,
+          "prepVariantNotes": null,
+          "prepTeachingTips": null
+        },
+        "chunks": [
+          {
+            "chunkTitle": "Warm-Up",
+            "chunkStart": 0,
+            "chunkDur": 5,
+            "steps": [
+              {
+                "Step": 1,
+                "StepTitle": "Polymath Puzzle #2",
+                "StepQuickDescription": "How many ladybugs are there?",
+                "StepDetails": "Students see a set of squares and are tasked with counting how many ladybugs they see. This activity was developed by experimental psychologist, Akiyoshi Kitaoka, who studies visual illusions.",
+                "Vocab": null,
+                "VariantNotes": null,
+                "TeachingTips": null
+              },
+              {
+                "Step": 2,
+                "StepTitle": "Part 1 Review",
+                "StepQuickDescription": "What patterns could be observed?",
+                "StepDetails": "Students recall their data from Part 1 from the image ranking experiment and whether about whether they noticed any patterns.",
+                "Vocab": "- **aesthetics:** a set of principles concerned with the nature and appreciation of beauty, especially in art.",
+                "VariantNotes": null,
+                "TeachingTips": null
+              }
+            ]
+          },
+          {
+            "chunkTitle": "The Science of Perception",
+            "chunkStart": 5,
+            "chunkDur": 15,
+            "steps": [
+              {
+                "Step": 3,
+                "StepTitle": "How does the human eye work?",
+                "StepQuickDescription": null,
+                "StepDetails": "The perception of beauty is often influenced by colors which is perceived using our eyes. Students learn more about how this process works in the interface between the eyes and brain.",
+                "Vocab": "- **perception:** the ability to see, hear, and become aware of something through the senses.",
+                "VariantNotes": null,
+                "TeachingTips": null
+              }
+            ]
+          },
+          {
+            "chunkTitle": "Preferences in the Animal Kingdom",
+            "chunkStart": 20,
+            "chunkDur": 20,
+            "steps": [
+              {
+                "Step": 4,
+                "StepTitle": "Studying visual signals in fish",
+                "StepQuickDescription": "An introduction to Dr. Mendelson's work with Darters.",
+                "StepDetails": "Darters are great model organisms to study evolutionary changes in animal communication over time.",
+                "Vocab": "- **model organism:** a non-human species used to study some biological phenomena or process to provide insight into how the phenomena or process works in other species.",
+                "VariantNotes": null,
+                "TeachingTips": null
+              },
+              {
+                "Step": 5,
+                "StepTitle": "What a fish likes",
+                "StepQuickDescription": null,
+                "StepDetails": "Students watch [▶ How do we know what a fish likes? (And can we predict it?)](https://www.youtube.com/watch?v=PGmPIHPX9eQ) which explains more about Dr. Mendelson's work on how fish preference is studied scientifically.",
+                "Vocab": null,
+                "VariantNotes": null,
+                "TeachingTips": null
+              }
+            ]
+          },
+          {
+            "chunkTitle": "Analysis",
+            "chunkStart": 40,
+            "chunkDur": 5,
+            "steps": [
+              {
+                "Step": 6,
+                "StepTitle": "Box Plots",
+                "StepQuickDescription": "Think - Ink - Pair - Share",
+                "StepDetails": "Using actual data from Dr. Mendelson's studies, students consider how visual stimuli and fish perception interact to influence fish preferences (Q3 in the worksheet). They then learn about box plots and how they are used in data analysis.",
+                "Vocab": null,
+                "VariantNotes": null,
+                "TeachingTips": null
+              }
+            ]
+          },
+          {
+            "chunkTitle": "Conclusions",
+            "chunkStart": 45,
+            "chunkDur": 15,
+            "steps": [
+              {
+                "Step": 7,
+                "StepTitle": "Independent Work",
+                "StepQuickDescription": "Students reflect on their findings. This work can be done in class or for homework.",
+                "StepDetails": null,
+                "Vocab": null,
+                "VariantNotes": null,
+                "TeachingTips": "The beginning of Part 3 will include time to discuss take-homes from the analysis. Specifically, which is more important--cognition or emotion--for explaining students' ranked preferences for images?"
+              }
+            ]
+          }
+        ],
+        "lsnExt": null
+      },
+      {
+        "lsnNum": 3,
+        "lsnTitle": "Creature Stats",
+        "lsnDur": null,
+        "lsnPreface": "Students collect data from original artworks to test whether being outside the range of human variation makes a drawing creepy or cute.",
+        "learningObj": null,
+        "lsnPrep": {
+          "prepTitle": null,
+          "prepDur": null,
+          "prepQuickDescription": null,
+          "prepDetails": null,
+          "prepVariantNotes": null,
+          "prepTeachingTips": null
+        },
+        "chunks": [
+          {
+            "chunkTitle": "Warm-Up",
+            "chunkStart": 0,
+            "chunkDur": 5,
+            "steps": [
+              {
+                "Step": 1,
+                "StepTitle": "Cute vs. Creepy",
+                "StepQuickDescription": "Quick write-up about how to define cute vs. creepy.",
+                "StepDetails": "Students write briefly about how they might define something as being cute and creepy. They then look at a line-up of characters and write about which one they find the cutest vs. creepiest and why.",
+                "Vocab": "- **phenotype:** physical appearance",
+                "VariantNotes": null,
+                "TeachingTips": null
+              }
+            ]
+          },
+          {
+            "chunkTitle": "Typicality",
+            "chunkStart": 5,
+            "chunkDur": 10,
+            "steps": [
+              {
+                "Step": 2,
+                "StepTitle": "Perception and preference affecting familiarity",
+                "StepQuickDescription": "What do we mean when something is called \"typical\"?",
+                "StepDetails": "After learning about what typicality means, students apply it to how it can influence preference through our different sensory systems.",
+                "Vocab": "- **typicality:** within certain limits of what is typical, or occurs most often",
+                "VariantNotes": null,
+                "TeachingTips": null
+              },
+              {
+                "Step": 3,
+                "StepTitle": "How does \"atypicality\" influence our preferences?",
+                "StepQuickDescription": null,
+                "StepDetails": "While \"typical\" things often reflect what we prefer, on the other hand atypical things can cause us to feel repulsed or uneasy. Students use animated characters to dig deeper into this.",
+                "Vocab": null,
+                "VariantNotes": null,
+                "TeachingTips": null
+              },
+              {
+                "Step": 4,
+                "StepTitle": "Form a prediction",
+                "StepQuickDescription": null,
+                "StepDetails": "Students answer Q1-3 on their worksheet to form a prediction about how we percieve what is cute vs. creepy.",
+                "Vocab": null,
+                "VariantNotes": null,
+                "TeachingTips": null
+              }
+            ]
+          },
+          {
+            "chunkTitle": "Creature Stats",
+            "chunkStart": 15,
+            "chunkDur": 15,
+            "steps": [
+              {
+                "Step": 5,
+                "StepTitle": "Typical and Exaggerated Human Proportions",
+                "StepQuickDescription": "Evaluate the characters",
+                "StepDetails": "There are seven illustrated characters which have several different measurements for different parts of their bodies. Students use these to calculate different proportions, or ratios, between different body parts, such as eye height to eye width, by finishing Table 1 in the worksheet (Qs4-15). Lastly students mark the ratios on a pre-made histogram (Q16).",
+                "Vocab": null,
+                "VariantNotes": null,
+                "TeachingTips": "Try to save the Creature Stats Character Sheets and laminate them or put them in protective sleeves if you plan to teach the lesson multiple times to save on printed paper."
+              }
+            ]
+          },
+          {
+            "chunkTitle": "How to read this graph?",
+            "chunkStart": 30,
+            "chunkDur": 15,
+            "steps": [
+              {
+                "Step": 6,
+                "StepTitle": "Histograms",
+                "StepQuickDescription": "What is a histogram?",
+                "StepDetails": "Students go through an example of what a histogram is and how to interpret the data to draw conclusions.",
+                "Vocab": null,
+                "VariantNotes": null,
+                "TeachingTips": null
+              },
+              {
+                "Step": 7,
+                "StepTitle": "Dot Plots",
+                "StepQuickDescription": "Understanding the data",
+                "StepDetails": "Dot plots use similar data to histograms, but make display the data in a way that's a little easier to understand. Students practice looking at example dot plots and analyzing them for information.",
+                "Vocab": null,
+                "VariantNotes": null,
+                "TeachingTips": null
+              }
+            ]
+          },
+          {
+            "chunkTitle": "Results & Conclusions",
+            "chunkStart": 45,
+            "chunkDur": 15,
+            "steps": [
+              {
+                "Step": 8,
+                "StepTitle": "Data Analysis",
+                "StepQuickDescription": "Drawing conclusions about cute vs. creepy.",
+                "StepDetails": "Using the histogram data from Creature Stats, students draw final conclusions about how something could be labeled as cute or creepy based on ratios.",
+                "Vocab": null,
+                "VariantNotes": null,
+                "TeachingTips": null
+              },
+              {
+                "Step": 9,
+                "StepTitle": "Discussion",
+                "StepQuickDescription": "Do the data support the predictions?",
+                "StepDetails": "Students refer back to their predictions and discuss whether the data they collected and analyzed support them.",
+                "Vocab": null,
+                "VariantNotes": null,
+                "TeachingTips": null
+              }
+            ]
+          }
+        ],
+        "lsnExt": null
+      }
+    ],
+    "gatheredVocab": [
+      {
+        "term": "stimulus",
+        "definition": "something that causes an organ or tissue (like your brain) to react (plural is stimuli)"
+      },
+      {
+        "term": "cognition",
+        "definition": "how well you understand what you're perceiving"
+      },
+      {
+        "term": "perception",
+        "definition": "our ability to see, hear, or become aware of a stimulus through our senses"
+      },
+      {
+        "term": "emotion",
+        "definition": "a positive or negative feelings brought about by chemicals released in the brain"
+      },
+      {
+        "term": "preference",
+        "definition": "whether you like or dislike something which is influenced by a combination of cognition, perception, and emotions"
+      },
+      {
+        "term": "aesthetics",
+        "definition": "a set of principles concerned with the nature and appreciation of beauty, especially in art."
+      },
+      {
+        "term": "model organism",
+        "definition": "a non-human species used to study some biological phenomena or process to provide insight into how the phenomena or process works in other species."
+      },
+      {
+        "term": "phenotype",
+        "definition": "physical appearance"
+      },
+      {
+        "term": "typicality",
+        "definition": "within certain limits of what is typical, or occurs most often"
+      }
+    ]
+  }
+}

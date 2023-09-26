@@ -1,0 +1,419 @@
+{
+  "__component": "teaching-resources.teaching-resources",
+  "SectionTitle": "Teaching Materials",
+  "Data": {
+    "lessonPreface": null,
+    "classroom": {
+      "gradeVariantNotes": [
+        {
+          "lsn": "1",
+          "lsnGradeVarNotes": null
+        },
+        {
+          "lsn": "2",
+          "lsnGradeVarNotes": null
+        },
+        {
+          "lsn": "3",
+          "lsnGradeVarNotes": null
+        },
+        {
+          "lsn": "4",
+          "lsnGradeVarNotes": null
+        },
+        {
+          "lsn": "5",
+          "lsnGradeVarNotes": null
+        },
+        {
+          "lsn": "6",
+          "lsnGradeVarNotes": null
+        }
+      ],
+      "resources": [
+        {
+          "grades": "Grades 11-university",
+          "gradePrefix": "G11-university",
+          "links": {
+            "linkText": "Browse & Download All G11-university Materials",
+            "url": "https://drive.google.com/drive/folders/1JHwYsNvHegCsCGizhS2is8FX70emR7Pn"
+          },
+          "lessons": [
+            {
+              "lsn": "1",
+              "title": "Group living is complex! Social network drawing activity",
+              "tags": [
+                ["art", "self-reflection", "SEL"]
+              ],
+              "preface": "Students will grapple with the meaning of *complexity* by drawing & reflecting on their own social networks. They will then consider how scientists study complexity in nature.",
+              "tile": "https://storage.googleapis.com/gp-cloud/lessons/AnimalCollective_en-US/L1_tile.png",
+              "itemList": [
+                {
+                  "itemTitle": "Presentation (Lesson 1)",
+                  "itemDescription": "Need: WiFi, Computer, Projector, Sound",
+                  "itemCat": "presentation",
+                  "links": [
+                    {
+                      "linkText": "Present Now",
+                      "url": "https://docs.google.com/presentation/d/1T3-7J7DR3q3ewoP3tl-X_XMiBCCaPrs2nbJ84bW9TbI/present"
+                    },
+                    {
+                      "linkText": "Copy/Edit in Google Docs",
+                      "url": "https://docs.google.com/presentation/d/1T3-7J7DR3q3ewoP3tl-X_XMiBCCaPrs2nbJ84bW9TbI/template/preview"
+                    }
+                  ]
+                },
+                {
+                  "itemTitle": "Teacher Worksheet (Lesson 1)",
+                  "itemDescription": "Print 1",
+                  "itemCat": "document",
+                  "links": [
+                    {
+                      "linkText": "PDF",
+                      "url": "https://docs.google.com/document/d/1K53wTt7hmFIz70B7z--6lRpimdmTLMBizncX904gYRQ/export?format=pdf"
+                    },
+                    {
+                      "linkText": "Copy/Edit in Google Docs",
+                      "url": "https://docs.google.com/document/d/1K53wTt7hmFIz70B7z--6lRpimdmTLMBizncX904gYRQ/template/preview"
+                    }
+                  ]
+                },
+                {
+                  "itemTitle": "Teacher (Lesson 1)",
+                  "itemDescription": null,
+                  "itemCat": "document",
+                  "links": [
+                    {
+                      "linkText": "Download",
+                      "url": "https://docs.google.com/document/d/1gJEgY75QAIOc9P4Z6O_I36P5cNV-c1UhGpl3Z4mprfY"
+                    },
+                    {
+                      "linkText": "Copy/Edit in Google Docs",
+                      "url": "https://docs.google.com/document/d/1gJEgY75QAIOc9P4Z6O_I36P5cNV-c1UhGpl3Z4mprfY/template/preview"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "lsn": "2",
+              "title": "Emergence in the Game of Life",
+              "tags": [
+                "simulation"
+              ],
+              "preface": "How complexity can spring from simple rules",
+              "tile": "https://storage.googleapis.com/gp-cloud/lessons/AnimalCollective_en-US/L2_tile.png",
+              "itemList": [
+                {
+                  "itemTitle": "Presentation (Lesson 2)",
+                  "itemDescription": "Need: WiFi, Computer, Projector, Sound",
+                  "itemCat": "presentation",
+                  "links": [
+                    {
+                      "linkText": "Present Now",
+                      "url": "https://docs.google.com/presentation/d/1n_0wBBnCH-Ih-MrfC9o6cbo0JYQ6eZoXSthdDcC9IYE/present"
+                    },
+                    {
+                      "linkText": "Copy/Edit in Google Docs",
+                      "url": "https://docs.google.com/presentation/d/1n_0wBBnCH-Ih-MrfC9o6cbo0JYQ6eZoXSthdDcC9IYE/template/preview"
+                    }
+                  ]
+                },
+                {
+                  "itemTitle": "Teacher Worksheet (Lesson 2)",
+                  "itemDescription": "Print 1",
+                  "itemCat": "document",
+                  "links": [
+                    {
+                      "linkText": "PDF",
+                      "url": "https://docs.google.com/document/d/1tjCVIY64tHNMBS4yiFvFjeZ3n5h7Sa_tUqp36dQ-268/export?format=pdf"
+                    },
+                    {
+                      "linkText": "Copy/Edit in Google Docs",
+                      "url": "https://docs.google.com/document/d/1tjCVIY64tHNMBS4yiFvFjeZ3n5h7Sa_tUqp36dQ-268/template/preview"
+                    }
+                  ]
+                },
+                {
+                  "itemTitle": "Teacher Worksheet (Lesson 2)",
+                  "itemDescription": "Print 1",
+                  "itemCat": "document",
+                  "links": [
+                    {
+                      "linkText": "PDF",
+                      "url": "https://docs.google.com/document/d/1AwJOCeQqB_J3wHh6Me0DhKWlpA_oJsHglfN967DsL-s/export?format=pdf"
+                    },
+                    {
+                      "linkText": "Copy/Edit in Google Docs",
+                      "url": "https://docs.google.com/document/d/1AwJOCeQqB_J3wHh6Me0DhKWlpA_oJsHglfN967DsL-s/template/preview"
+                    }
+                  ]
+                },
+                {
+                  "itemTitle": "Student Worksheet (Lesson 2)",
+                  "itemDescription": "Print 1 Per Student",
+                  "itemCat": "document",
+                  "links": [
+                    {
+                      "linkText": "PDF",
+                      "url": "https://docs.google.com/document/d/1LRLZ139-dx5OVWpnjkgjfhFqJje6IqFnSXsWYhy4Xg8/export?format=pdf"
+                    },
+                    {
+                      "linkText": "Copy/Edit in Google Docs",
+                      "url": "https://docs.google.com/document/d/1LRLZ139-dx5OVWpnjkgjfhFqJje6IqFnSXsWYhy4Xg8/template/preview"
+                    }
+                  ]
+                },
+                {
+                  "itemTitle": "Teacher Card",
+                  "itemDescription": null,
+                  "itemCat": "document",
+                  "links": [
+                    {
+                      "linkText": "PDF",
+                      "url": "https://docs.google.com/document/d/174Jq7AM1k57a0kSifXMSvtwyIMyIPeXBiBxeBOmgFIE/export?format=pdf"
+                    },
+                    {
+                      "linkText": "Copy/Edit in Google Docs",
+                      "url": "https://docs.google.com/document/d/174Jq7AM1k57a0kSifXMSvtwyIMyIPeXBiBxeBOmgFIE/template/preview"
+                    }
+                  ]
+                },
+                {
+                  "itemTitle": "Teacher (Lesson 2)",
+                  "itemDescription": null,
+                  "itemCat": "document",
+                  "links": [
+                    {
+                      "linkText": "Download",
+                      "url": "https://docs.google.com/document/d/1Kh5b1e66kDXTdYL4UOMFnnvNXZFESVEZ9hqWU1WOsjY"
+                    },
+                    {
+                      "linkText": "Copy/Edit in Google Docs",
+                      "url": "https://docs.google.com/document/d/1Kh5b1e66kDXTdYL4UOMFnnvNXZFESVEZ9hqWU1WOsjY/template/preview"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "lsn": "3",
+              "title": "Flock this way",
+              "tags": [
+                "movement"
+              ],
+              "preface": "Students will get up and move (in a gym or field) to test how simple behavioral rules affect emergent patterns of \"flocking\" and \"schooling\" in animal groups.",
+              "tile": "https://storage.googleapis.com/gp-cloud/lessons/AnimalCollective_en-US/L3_tile_v3.png",
+              "itemList": [
+                {
+                  "itemTitle": "Presentation (Lesson 3)",
+                  "itemDescription": "Need: WiFi, Computer, Projector, Sound",
+                  "itemCat": "presentation",
+                  "links": [
+                    {
+                      "linkText": "Present Now",
+                      "url": "https://docs.google.com/presentation/d/14CA_gpXwHQVB0pjLy28S7L8tYaRP5WGT8xi6-Oi0CR0/present"
+                    },
+                    {
+                      "linkText": "Copy/Edit in Google Docs",
+                      "url": "https://docs.google.com/presentation/d/14CA_gpXwHQVB0pjLy28S7L8tYaRP5WGT8xi6-Oi0CR0/template/preview"
+                    }
+                  ]
+                },
+                {
+                  "itemTitle": "Teacher (Lesson 3)",
+                  "itemDescription": null,
+                  "itemCat": "document",
+                  "links": [
+                    {
+                      "linkText": "Download",
+                      "url": "https://docs.google.com/document/d/1QJV_utYJCIe_DazWZd6fZaCusH2o-gev6JfBm25tnUM"
+                    },
+                    {
+                      "linkText": "Copy/Edit in Google Docs",
+                      "url": "https://docs.google.com/document/d/1QJV_utYJCIe_DazWZd6fZaCusH2o-gev6JfBm25tnUM/template/preview"
+                    }
+                  ]
+                },
+                {
+                  "itemTitle": "AnimalCollective_L3_FlockingActivityRules",
+                  "itemDescription": null,
+                  "itemCat": "document",
+                  "links": [
+                    {
+                      "linkText": "Download",
+                      "url": "https://docs.google.com/document/d/1GlubxDcG8ZlNw3jahQw7x9QEXDGyBXmPplVniPeUuys"
+                    },
+                    {
+                      "linkText": "Copy/Edit in Google Docs",
+                      "url": "https://docs.google.com/document/d/1GlubxDcG8ZlNw3jahQw7x9QEXDGyBXmPplVniPeUuys/template/preview"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "lsn": "4",
+              "title": "Swimming in the Dark",
+              "tags": [
+                "simulation"
+              ],
+              "preface": "Students will use a custom simulation to run digital experiments about fish schooling behavior. They will compare their results to findings from a real study.",
+              "tile": "https://storage.googleapis.com/gp-cloud/lessons/AnimalCollective_en-US/L4_tile.png",
+              "itemList": [
+                {
+                  "itemTitle": "Presentation (Lesson 4)",
+                  "itemDescription": "Need: WiFi, Computer, Projector, Sound",
+                  "itemCat": "presentation",
+                  "links": [
+                    {
+                      "linkText": "Present Now",
+                      "url": "https://docs.google.com/presentation/d/1ylSZIQuneaJQevMJv4-40fVv8lRHoA7cVOnrsawnSKc/present"
+                    },
+                    {
+                      "linkText": "Copy/Edit in Google Docs",
+                      "url": "https://docs.google.com/presentation/d/1ylSZIQuneaJQevMJv4-40fVv8lRHoA7cVOnrsawnSKc/template/preview"
+                    }
+                  ]
+                },
+                {
+                  "itemTitle": "Teacher Worksheet (Lesson 4)",
+                  "itemDescription": "Print 1",
+                  "itemCat": "document",
+                  "links": [
+                    {
+                      "linkText": "PDF",
+                      "url": "https://docs.google.com/document/d/1agFVIaKptDQjxFbq4ZIGYoY_tPO9XHs8syNq6IntF4Y/export?format=pdf"
+                    },
+                    {
+                      "linkText": "Copy/Edit in Google Docs",
+                      "url": "https://docs.google.com/document/d/1agFVIaKptDQjxFbq4ZIGYoY_tPO9XHs8syNq6IntF4Y/template/preview"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "lsn": "5",
+              "title": "Emergence in Human Social Networks",
+              "tags": [
+                "simulation"
+              ],
+              "preface": "Students use a simulation of human social network behavior to understand how echo chambers form. They will reflect on how our individual choices affect the flow of information.",
+              "tile": "https://storage.googleapis.com/gp-cloud/lessons/AnimalCollective_en-US/L5_tile.png",
+              "itemList": [
+                {
+                  "itemTitle": "Presentation (Lesson 5)",
+                  "itemDescription": "Need: WiFi, Computer, Projector, Sound",
+                  "itemCat": "presentation",
+                  "links": [
+                    {
+                      "linkText": "Present Now",
+                      "url": "https://docs.google.com/presentation/d/1FVmbfmYyA1QPo54gaoaaAfZ9msi2OcPoAsDYww1Vxog/present"
+                    },
+                    {
+                      "linkText": "Copy/Edit in Google Docs",
+                      "url": "https://docs.google.com/presentation/d/1FVmbfmYyA1QPo54gaoaaAfZ9msi2OcPoAsDYww1Vxog/template/preview"
+                    }
+                  ]
+                },
+                {
+                  "itemTitle": "Teacher Worksheet (Lesson 5)",
+                  "itemDescription": "Print 1",
+                  "itemCat": "document",
+                  "links": [
+                    {
+                      "linkText": "PDF",
+                      "url": "https://docs.google.com/document/d/1YhBIxV0TOlIevg9QgTThF-kwgyacGqla0R_pmORHeHg/export?format=pdf"
+                    },
+                    {
+                      "linkText": "Copy/Edit in Google Docs",
+                      "url": "https://docs.google.com/document/d/1YhBIxV0TOlIevg9QgTThF-kwgyacGqla0R_pmORHeHg/template/preview"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "lsn": "6",
+              "title": "The End (Reflection)",
+              "tags": [
+                ["synthesis", "reflection"]
+              ],
+              "preface": "Brief guidelines and ideas for student discussion, reflection & synthesis about the whole unit.",
+              "tile": "https://storage.googleapis.com/gp-cloud/lessons/AnimalCollective_en-US/L6_tile.png",
+              "itemList": [
+                {
+                  "itemTitle": "Teacher Worksheet (Lesson 6)",
+                  "itemDescription": "Print 1",
+                  "itemCat": "document",
+                  "links": [
+                    {
+                      "linkText": "PDF",
+                      "url": "https://docs.google.com/document/d/17elGbmszonz-EpoD2PJRDjMTwtaqrKVLjIfaWMQPlw4/export?format=pdf"
+                    },
+                    {
+                      "linkText": "Copy/Edit in Google Docs",
+                      "url": "https://docs.google.com/document/d/17elGbmszonz-EpoD2PJRDjMTwtaqrKVLjIfaWMQPlw4/template/preview"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "lesson": [
+      {
+        "lsnNum": 1,
+        "lsnTitle": "Procedure not documented yet",
+        "lsnDur": null,
+        "lsnPreface": null,
+        "Chunks": null,
+        "lsnExtension": null
+      },
+      {
+        "lsnNum": 2,
+        "lsnTitle": "Procedure not documented yet",
+        "lsnDur": null,
+        "lsnPreface": null,
+        "Chunks": null,
+        "lsnExtension": null
+      },
+      {
+        "lsnNum": 3,
+        "lsnTitle": "Procedure not documented yet",
+        "lsnDur": null,
+        "lsnPreface": null,
+        "Chunks": null,
+        "lsnExtension": null
+      },
+      {
+        "lsnNum": 4,
+        "lsnTitle": "Procedure not documented yet",
+        "lsnDur": null,
+        "lsnPreface": null,
+        "Chunks": null,
+        "lsnExtension": null
+      },
+      {
+        "lsnNum": 5,
+        "lsnTitle": "Procedure not documented yet",
+        "lsnDur": null,
+        "lsnPreface": null,
+        "Chunks": null,
+        "lsnExtension": null
+      },
+      {
+        "lsnNum": 6,
+        "lsnTitle": "Procedure not documented yet",
+        "lsnDur": null,
+        "lsnPreface": null,
+        "Chunks": null,
+        "lsnExtension": null
+      }
+    ],
+    "gatheredVocab": null
+  }
+}

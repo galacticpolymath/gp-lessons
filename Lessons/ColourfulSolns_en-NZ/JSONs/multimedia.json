@@ -1,0 +1,50 @@
+[
+  {
+    "order": "0",
+    "type": "pdf",
+    "forLsn": "1",
+    "title": "Role of the Dye Readings",
+    "description": null,
+    "lessonRelevance": "These narrative texts introduce students to the 3 dye technologies (ancient, Māori, and synthetic) that they will investigate.",
+    "by": "Galactic Polymath",
+    "byLink": "https://www.youtube.com/channel/UCfyBNvN3CH4uWmwOCQVhmhg/featured",
+    "mainLink": "https://docs.google.com/document/d/1-Z6AQJLxAy8AVvhfHJ1we1kpa5Pr4zlgeTc4gWqE1QU/preview?rm=minimal",
+    "otherLink": null
+  },
+  {
+    "order": "1",
+    "type": "video",
+    "forLsn": "1",
+    "title": "The Nature of Colour at the American Museum of Natural History",
+    "description": "Colour is woven so tightly into our lives that we rarely stop to question what it is and how it works. Where do the colours in diamonds and rainbows come from? How have some animals benefited by evolving to stand out, while others survive by blending in? Why do some colours make us happy while others make us, well, blue? The Nature of Colour, a new exhibition now open at the American Museum of Natural History reveals how colour carries information both in nature and across cultures.",
+    "lessonRelevance": "Provides a broad appreciation of colour that sets the ground for our unit investigating dye technologies and why they are important.",
+    "by": "Galactic Polymath",
+    "byLink": "https://www.youtube.com/channel/UCfyBNvN3CH4uWmwOCQVhmhg/featured",
+    "mainLink": "https://www.youtube.com/embed/U2BMqRVOdCk",
+    "otherLink": null
+  },
+  {
+    "order": "2",
+    "type": "pdf",
+    "forLsn": "2",
+    "title": "Dye Technology \"Cost Card\" Puzzle Activity",
+    "description": "After reading about and discussing 3 dye technologies: Tyrian purple (extracted from snails); Tānekaha red (from tree bark); and mauveine (from coal tar), students will sort these cards into 3 correctly ordered processes. This will scaffold discussion of how costs (and price) scale with production.",
+    "lessonRelevance": "Students will sort these cards into 3 correctly ordered processes. This builds an chemical/process engineering mindset.",
+    "by": "Galactic Polymath",
+    "byLink": "https://www.youtube.com/channel/UCfyBNvN3CH4uWmwOCQVhmhg/featured",
+    "mainLink": "https://docs.google.com/presentation/d/12JrjYbvNHOcNcGZGZ-idt4KLE3j8nW8qdNXzc8px9pI/preview?rm=minimal#slide=id.p",
+    "otherLink": null
+  },
+  {
+    "order": "3",
+    "type": "video",
+    "forLsn": "3",
+    "title": "True Blues: Textiles Water Pollution Problem",
+    "description": "A life cycle of one T-shirt pollutes approximately 2700 litres of water. Shocked, right? So were we! The textile industry is one of the biggest causes of water pollution due to the amount of chemicals used in dyeing and other processes.",
+    "lessonRelevance": "Supports student reflection and analysis as they perform a cost-benefit analysis of dye technologies to make a recommendation.",
+    "by": "Colour Ashram",
+    "byLink": "https://www.youtube.com/channel/UCd1rQ-NAhfUoA0OSDJ9tN8w/featured",
+    "mainLink": "https://www.youtube.com/embed/Bk2APxqIhbk",
+    "otherLink": null
+  }
+]

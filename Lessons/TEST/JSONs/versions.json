@@ -11,6 +11,13 @@
           "summary": "Lesson initialized",
           "notes": null,
           "acknowledgments": null
+        },
+        {
+          "version": "0.1.2",
+          "date": "June 13, 2023",
+          "summary": "Added some stuff",
+          "notes": null,
+          "acknowledgments": null
         }
       ]
     }
