@@ -7,17 +7,18 @@
   "Country": "United States",
   "DefaultLanguage": "English",
   "DefaultCountry": "United States",
-  "LastUpdated": "2023-09-17 21:42:54.520125",
+  "LastUpdated": "2023-10-19 08:48:25.234672",
+  "ReleaseDate": "2022-04-22",
+  "isTestRepo": false,
   "FirstPublicationDate": "2022-04-01 15:16:29",
-  "MediumTitle": "'The Guardian Frogs of Borneo' |Science| G5-9 (en-US)",
+  "MediumTitle": "'Guardian Frogs of Borneo' |Science| G5-9 (en-US)",
   "lang": "en",
   "lng": "eng",
   "locale": "en-US",
   "DefaultLocale": "en-US",
-  "TemplateVer": "0.6.0",
-  "galacticPubsVer": "0.9.7",
-  "isTestRepo": false,
-  "URL": "https://galacticpolymath.com/lessons/2",
+  "TemplateVer": "0.6.1",
+  "galacticPubsVer": "0.9.8",
+  "URL": "https://www.galacticpolymath.com/lessons/en-US/2",
   "GdriveHome": "GP-LIVE",
   "GdriveDirName": "GuardianFrogs_en-US",
   "GdriveTeachMatPath": "GalacticPolymath/'The Guardian Frogs of Borneo' |Science| G5-9 (en-US)",
@@ -30,8 +31,7 @@
   "GdrivePublishedID": "1YHNOtsgW5Am5o7AmVoCPyzzF4ATZGt4N",
   "GdriveDirURL": "https://drive.google.com/drive/folders/1TzFgd8KL7QeqSXUcg15WN5wYGlsSIZta",
   "RebuildAllMaterials": false,
-  "ReleaseDate": "2022-04-22",
-  "Title": "The Guardian Frogs of Borneo",
+  "Title": "Guardian Frogs of Borneo",
   "Subtitle": "Why Exceptions Matter in Biology and Everyday Life",
   "SponsorName": "Johana Goyes Vallejos",
   "SponsoredBy": "- [Johana Goyes Vallejos, PhD](https://jogoyesvallejos.weebly.com/) — Postdoc in the Division of Biological Sciences, University of Missouri – Columbia",
@@ -183,7 +183,7 @@
                           "url": "https://docs.google.com/presentation/d/1QV9ZMPG7eFnPVlYrSj3t75W8YBD825feGGRntmll9uc/present"
                         },
                         {
-                          "linkText": "Copy/Edit in Google Docs",
+                          "linkText": "Preview/Copy in Google Docs",
                           "url": "https://docs.google.com/presentation/d/1QV9ZMPG7eFnPVlYrSj3t75W8YBD825feGGRntmll9uc/template/preview"
                         }
                       ]
@@ -198,7 +198,7 @@
                           "url": "https://docs.google.com/document/d/1jIgQ8m4OvsSYOnWlnBgUXsjeK97w0mFlW2PmNcy91fo/export?format=pdf"
                         },
                         {
-                          "linkText": "Copy/Edit in Google Docs",
+                          "linkText": "Preview/Copy in Google Docs",
                           "url": "https://docs.google.com/document/d/1jIgQ8m4OvsSYOnWlnBgUXsjeK97w0mFlW2PmNcy91fo/template/preview"
                         }
                       ]
@@ -213,7 +213,7 @@
                           "url": "https://docs.google.com/document/d/1jkBbS6L0sFdkwY304ZZqOGxtJEYQWhcjHcIG55l_lCI/export?format=pdf"
                         },
                         {
-                          "linkText": "Copy/Edit in Google Docs",
+                          "linkText": "Preview/Copy in Google Docs",
                           "url": "https://docs.google.com/document/d/1jkBbS6L0sFdkwY304ZZqOGxtJEYQWhcjHcIG55l_lCI/template/preview"
                         }
                       ]
@@ -228,7 +228,7 @@
                           "url": "https://drive.google.com/file/d/1Jn8uIM_tPdLMi8ZabtDETt0ioAfB8FKc"
                         },
                         {
-                          "linkText": "Copy/Edit in Google Docs",
+                          "linkText": "Preview/Copy in Google Docs",
                           "url": "https://drive.google.com/file/d/1Jn8uIM_tPdLMi8ZabtDETt0ioAfB8FKc"
                         }
                       ]
@@ -254,7 +254,7 @@
                           "url": "https://docs.google.com/document/d/1jIgQ8m4OvsSYOnWlnBgUXsjeK97w0mFlW2PmNcy91fo/export?format=pdf"
                         },
                         {
-                          "linkText": "Copy/Edit in Google Docs",
+                          "linkText": "Preview/Copy in Google Docs",
                           "url": "https://docs.google.com/document/d/1jIgQ8m4OvsSYOnWlnBgUXsjeK97w0mFlW2PmNcy91fo/template/preview"
                         }
                       ]
@@ -269,7 +269,7 @@
                           "url": "https://docs.google.com/document/d/1jkBbS6L0sFdkwY304ZZqOGxtJEYQWhcjHcIG55l_lCI/export?format=pdf"
                         },
                         {
-                          "linkText": "Copy/Edit in Google Docs",
+                          "linkText": "Preview/Copy in Google Docs",
                           "url": "https://docs.google.com/document/d/1jkBbS6L0sFdkwY304ZZqOGxtJEYQWhcjHcIG55l_lCI/template/preview"
                         }
                       ]
@@ -298,7 +298,7 @@
                           "url": "https://docs.google.com/presentation/d/1tp9kJR040qMQUflS9xCddbbThqGo_7Gu0dzn46l7kAc/present"
                         },
                         {
-                          "linkText": "Copy/Edit in Google Docs",
+                          "linkText": "Preview/Copy in Google Docs",
                           "url": "https://docs.google.com/presentation/d/1tp9kJR040qMQUflS9xCddbbThqGo_7Gu0dzn46l7kAc/template/preview"
                         }
                       ]
@@ -313,7 +313,7 @@
                           "url": "https://docs.google.com/document/d/1HftnYxSfyZ304pIs4hqaYBhvUf958jmUff_1NmRlwas/export?format=pdf"
                         },
                         {
-                          "linkText": "Copy/Edit in Google Docs",
+                          "linkText": "Preview/Copy in Google Docs",
                           "url": "https://docs.google.com/document/d/1HftnYxSfyZ304pIs4hqaYBhvUf958jmUff_1NmRlwas/template/preview"
                         }
                       ]
@@ -328,7 +328,7 @@
                           "url": "https://docs.google.com/document/d/1aFVmAC55uuimnlxbRxUPwwFzZeVexsEV8ZNbtHz0iiE/export?format=pdf"
                         },
                         {
-                          "linkText": "Copy/Edit in Google Docs",
+                          "linkText": "Preview/Copy in Google Docs",
                           "url": "https://docs.google.com/document/d/1aFVmAC55uuimnlxbRxUPwwFzZeVexsEV8ZNbtHz0iiE/template/preview"
                         }
                       ]
@@ -689,9 +689,7 @@
       "Title": "About the GP Learning Chart",
       "Description": "This Galactic Polymath Learning Chart illustrates the areas of knowledge covered. This lesson targets Science, but it helps teach national learning standards in 4 subjects: \n- [Common Core Math](https://learning.ccsso.org/common-core-state-standards-initiative); [Common Core ELA](https://learning.ccsso.org/common-core-state-standards-initiative); [Next Generation Science (NGSS)](https://www.nextgenscience.org/); and [College, Career, and Civic Life (C3) Social Studies Standards](https://www.socialstudies.org/standards/c3).\nIn total, there are 18 standards across US grade band(s): 5-6, 7-8, 9-12.",
       "Footnote": "",
-      "Badge": {
-        "url": "https://gp-catalog.vercel.app/lessons/GuardianFrogs_en-US/GP-Learning-Chart.png"
-      }
+      "Badge": "https://storage.googleapis.com/gp-cloud/lessons/GuardianFrogs_en-US/GP-Learning-Chart.png"
     },
     "standards": {
       "__component": "lesson-plan.standards",
@@ -1060,7 +1058,7 @@
       "Data": [
         {
           "role": "Education Consultant",
-          "def": "(Initial lesson development)",
+          "def": "Initial lesson development",
           "records": [
             {
               "name": "Tracy Burkhard, PhD",

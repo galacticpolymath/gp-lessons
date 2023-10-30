@@ -1,27 +1,29 @@
 numID: 7
 _id: lesson_7_en-US
 ShortTitle: AnimalCollective
-PublicationStatus: Proto
+PublicationStatus: Live
 Language: English
 Country: United States
 DefaultLanguage: English
 DefaultCountry: United States
-LastUpdated: 2023-09-26 17:21:53.489642
+LastUpdated: 2023-10-25 10:44:36.769755
+ReleaseDate: '2050-01-01'
+isTestRepo: no
 FirstPublicationDate: .na
 MediumTitle: '''Animal Collective'' |Science| G11-university (en-US)'
 lang: en
 lng: eng
 locale: en-US
 DefaultLocale: en-US
-TemplateVer: 0.6.0
-galacticPubsVer: 0.9.7
-isTestRepo: no
-URL: .na
-GdriveHome: GP-Studio
+TemplateVer: 0.6.1
+galacticPubsVer: 0.9.8
+URL: https://www.galacticpolymath.com/lessons/en-US/7
+GdriveHome: GP-LIVE
 GdriveDirName: AnimalCollective_en-US
-GdriveTeachMatPath: GP-Studio/Edu/Lessons/AnimalCollective_en-US/teaching-materials
-GdriveTeachMatID: 1HQ1qx6sdHu27DdHLbnzjrYcF5eY8PZCl
-GdrivePublicID: .na
+GdriveTeachMatPath: GalacticPolymath/'Animal Collective' |Science| G11-university
+  (en-US)
+GdriveTeachMatID: .na
+GdrivePublicID: 1HQ1qx6sdHu27DdHLbnzjrYcF5eY8PZCl
 GdriveDirID: 1GzJyCtrEgDIZel_cB0G2zR8V_0goKdHP
 GdriveMetaID: 1HDqFCqTD_PcoPdu1IsSrsb-cRrbBwhX0
 GdriveTeachItID: 122K2LO0Sr2rF2b3_Iap4dj-JjHszE6_cCN0hPZW4hpA
@@ -29,7 +31,6 @@ GdriveStandardsID: 11USoIKp4HI6Pql24laezPLi-VYWsbfETx78SKzq9uao
 GdrivePublishedID: 1WtapJk-8R7En9d_Vxp6gmv22-TpaTyQ9
 GdriveDirURL: https://drive.google.com/drive/folders/1GzJyCtrEgDIZel_cB0G2zR8V_0goKdHP
 RebuildAllMaterials: no
-ReleaseDate: '2050-01-01'
 Title: Animal Collective
 Subtitle: How group behavior can produce surprising problems...and solutions!
 SponsorName:
@@ -66,7 +67,7 @@ LearningChart: https://storage.googleapis.com/gp-cloud/lessons/AnimalCollective_
 LearningChart_params_centralText: .na
 LearningChart_params_caption: .na
 LearningChart_params_captionN: yes
-SupportingMedia: []
+SupportingMedia: https://storage.googleapis.com/gp-cloud/lessons/AnimalCollective_en-US/vocab.csv
 LearningSummary: Students will draw their own social networks, ponder the meaning
   of complexity and begin to notice unexpected patterns that emerge around them, unnoticed.
   Through hands-on activities and digital experiments, students will discover how
@@ -98,10 +99,14 @@ QuickPrep: |
   4. Teach it and [let us know what you think!](#feedback)
 Bonus: .na
 Extensions: .na
-Background: |-
+Background: |+
   Dr. Albert Kao studies the fascinating and interdisciplinary field of *[collective behavior](https://www.britannica.com/science/collective-behaviour).* Collective behavior was coined to describe activities of large, loosely organized groups of people (like fads, cults, flash mobs, riots, and the like.) In recent decades, scientists such as Albert and his colleagues have expanded this definition to include other animal species such as ants, bees, great apes, and fish that live in large groups. In both humans and many group-living animal species, scientists are keen to understand how simple behavioral rules of individuals scale up to produce *emergent properties* that are present at the group-level, but that individuals don't have. Emergent properties like stampedes can obviously happen in human and animal populations, but recent advances in motion tracking of individual behavior and movements has allowed scientists to recognize other unexpected parallels between human and animal collective behavior--such as [wisdom of the crowd and traffic](https://bigthink.com/videos/the-wisdom-of-animal-crowds/).
 
-  As with this unit itself, Albert's work combines a lot of different approaches (such as computational simulations, lab experiments, and field work) to study how groups of humans and other animals make decisions collectively. Albert's work (and that of his former PhD advisor, Dr. Iain Couzin, and other collaborators) have been covered by many excellent popular press articles. Here is a selection for you and your students to dive in:
+  As with this unit itself, Albert's work combines a lot of different approaches (such as computational simulations, lab experiments, and field work) to study how groups of humans and other animals make decisions collectively. Albert's work (and that of his former PhD advisor, Dr. Iain Couzin, and other collaborators) have been covered by many excellent popular press articles. Here is a selection of papers and their popular press summaries for you and your students to dive in:
+  - [*The Current* | (Pop Press) An Unintended Consequence: New model shows that industrial fishing could promote anti-social fish behavior](https://news.ucsb.edu/2020/020044/unintended-consequence)
+  - [*Proceedings of the Royal Society B* | (Scientific Paper) Fisheries-induced selection against schooling behaviour in marine fishes](https://royalsocietypublishing.org/doi/10.1098/rspb.2020.1752)
+  - [*NYTimes* | The march of the ants holds clues for humans](https://www.nytimes.com/2007/11/12/health/12iht-12ants.8303066.html)
+
 ConnectionToResearch: "This unit was created with support and in close collaboration
   with [Dr. Albert Kao](https://blogs.umb.edu/collectivelab/members/), an Assistant
   Professor at UMass Boston. The lessons do not directly tie into his work, but Lesson
@@ -116,31 +121,110 @@ ConnectionToResearch: "This unit was created with support and in close collabora
   run another set of experiments, tinkering with different parameters (like tolerance
   to differing ideas or unfriending tendency) to see how they affect the structure
   of friendships and the flow of information. The simulation is based on code from
-  [Hao Peng](http://haoopeng.github.io/), which he developed to support a paper coauthored:
-  [Social influence and unfollowing accelerate the emergence of echo chambers](https://link.springer.com/article/10.1007/s42001-020-00084-7).\n\nAll
+  [Dr. Hao Peng](http://haoopeng.github.io/), which he developed to support a paper
+  he co-authored: [Social influence and unfollowing accelerate the emergence of echo
+  chambers](https://link.springer.com/article/10.1007/s42001-020-00084-7).\n\nAll
   the other lessons support understanding and engagement in these complex bodies of
   research through creative activities."
 Feedback: |
   ### Please let us know how it went with your class!
   #### We want to know what you (and/or your students) think!
   Share your feedback in < 5 min with these forms:
-  - [For teachers](https://forms.gle/HY1sFxZUH7uG6JqP8)
-  - [For students](https://forms.gle/gwkRYvvZY6Sp2dQb9)
+  - [For teachers](https://forms.gle/fEAKjyHvV56cydg37)
+  - [For students](https://forms.gle/dyicZBLaYjPHfWCV8)
 Credits:
-  value: .na
+  value: |-
+    [Jennifer Gentry, PhD](https://www.vanderbilt.edu/cseo/who-we-are/staff/) Led the project; developed and researched storylines; drafted Lessons 1-4.
+
+    [Stephanie Rapciak, MA](https://www.linkedin.com/in/stephanie-rapciak/) Researched and undertook transformative revisions of all lesson materials.
+
+    [Ranida McKneally, MLA](https://www.linkedin.com/in/rmckneally/) Led the development and drafting of Lesson 5. Provided feedback on all lesson parts.
+
+    [Stephanie Castillo, PhD](https://www.phuturedoctors.com/) Co-wrote, storyboarded, filmed, edited, and starred in Lesson 2 video "What makes a video go viral? Emergence!"
+
+    [Sarah Grasty, MS](https://www.linkedin.com/in/sarah-grasty-988676b0/) Provided feedback, editorial revisions, and strategic input throughout development.
+
+    [Albert Kao, PhD](https://scholar.google.com/citations?user=hZhwjsIAAAAJ) Defined outreach goals; provided feedback throughout development; provided scientific validation of lesson content.
+
+    [Matt Wilkins, PhD](https://mattwilkinsbio.com) Directed the project; helped develop, edit, and revise all aspects of the lesson
 Acknowledgments:
-  Role: .na
-  Role_def: .na
-  Name: .na
-  Title: .na
-  Affiliation: .na
-  Location: .na
-  Link: .na
+  Role:
+  - Web App Lead Developer
+  - Into the Dark Code Author
+  - Web App Co-Developer
+  - Web App Co-Developer
+  - EchoDemo Author
+  - Education Consultant
+  - Illustrator
+  - Education Consultant for Lesson 3
+  - Video Contributor
+  Role_def:
+  - Created the {item2} and {item3} simulations by heavily modifying code provided
+    by others (see below)
+  - Provided original *Explorable* code base for our {item2} sim
+  - Logistical support and mentorship with fork of {item2} simulation
+  - Logistical support and mentorship with fork of {item2} simulation
+  - Provided original code base for {item3}
+  - Provided feedback and helped develop the unit
+  - Created illustrations for the unit and the video {item1}
+  - Provided foundational materials for the Lesson 3 "Flock This Way" activity
+  - Graciously provided the amazing starling murmuration footage that ends our video
+    {vid1}
+  Name:
+  - Patrick Cheng, MD
+  - Dirk Brockmann, PhD
+  - Ryan Dexter
+  - Jared Swarts
+  - Hao Peng, PhD
+  - Letimicia Fears, PhD
+  - Caroline Hu, PhD
+  - Thomas Meager, Phd
+  - Jan Van Ijken
+  Title:
+  - Freelance Full-Stack Developer
+  - Professor
+  - Software Engineer
+  - Technology Innovator and Co-Founder
+  - Postdoctoral Fellow
+  - Program Manager for Evaluation
+  - Assistant Professor
+  - STEM Coordinator
+  - Independent Filmmaker
+  Affiliation:
+  - .na.character
+  - Humboldt University
+  - MonkeyJump Labs
+  - MonkeyJump Labs
+  - Northwestern University
+  - Vanderbilt University, Peabody College
+  - Massachusetts College of Arts and Design
+  - Owatonna Public Schools
+  - .na.character
+  Location:
+  - Portland, OR
+  - Berlin, Germany
+  - Minneapolis, MN
+  - Minneapolis, MN
+  - Chicago, IL
+  - Nashville, TN
+  - Somerville, MA
+  - Owatonna, MN
+  - Leiden, the Netherlands
+  Link:
+  - https://www.linkedin.com/in/alpinedevpat/
+  - https://www.complexity-explorables.org/explorables/into-the-dark/
+  - https://www.linkedin.com/in/ryan-dexter/
+  - https://www.linkedin.com/in/jared-swarts-298a4514/
+  - https://www.linkedin.com/in/hao-peng/
+  - https://www.linkedin.com/in/letimicia-fears-phd-b384b496/
+  - https://www.hudrewthis.com/about
+  - https://www.linkedin.com/in/thomas-meagher-248b5a36/
+  - https://www.janvanijken.com/
 Versions:
   ver_num: 0.1.0
-  date: August 07, 2023
+  date: September 28, 2023
   ver_summary: Lesson initialized
-  ver_notes: .na
+  ver_notes: 'FALSE'
   ver_acknowledgments: .na
 ScriptsToRun: .na
 GoogleCloudStorage:
@@ -153,4 +237,7 @@ ReadyToCompile:
 - Front Matter
 - Standards Alignment
 - Teaching Materials
+- Procedure
+- Acknowledgments
+- Versions
 GitHubURL: "origin\thttps://github.com/galacticpolymath/AnimalCollective.git (fetch)"

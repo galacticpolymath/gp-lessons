@@ -4,7 +4,7 @@
   "Data": [
     {
       "role": "Scientific Advisory",
-      "def": "(Helped devise conceptual framework & lesson structure)",
+      "def": "Helped devise conceptual framework & lesson structure",
       "records": [
         {
           "name": "Julien Renoult, PhD",
@@ -17,7 +17,7 @@
     },
     {
       "role": "Featured Scientist",
-      "def": "(In [▶ How do we know what a fish likes? (And can we predict it?)](https://www.youtube.com/watch?v=PGmPIHPX9eQ))",
+      "def": "In [▶ How do we know what a fish likes? (And can we predict it?)](https://www.youtube.com/watch?v=PGmPIHPX9eQ)",
       "records": [
         {
           "name": "Tory Williams, PhD",
@@ -30,7 +30,7 @@
     },
     {
       "role": "Data Provider",
-      "def": "(For Part 2: The Perception of Beauty)",
+      "def": "For Part 2: The Perception of Beauty",
       "records": [
         {
           "name": "Jenny Gumm, PhD",
@@ -43,7 +43,7 @@
     },
     {
       "role": "Beta Tester",
-      "def": "(Ran the lesson in class and recommended changes)",
+      "def": "Ran the lesson in class and recommended changes",
       "records": [
         {
           "name": "Kenton Wesby, EdD",

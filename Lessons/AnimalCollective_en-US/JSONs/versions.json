@@ -7,9 +7,9 @@
       "sub_releases": [
         {
           "version": "0.1.0",
-          "date": "August 07, 2023",
+          "date": "September 28, 2023",
           "summary": "Lesson initialized",
-          "notes": null,
+          "notes": "FALSE",
           "acknowledgments": null
         }
       ]

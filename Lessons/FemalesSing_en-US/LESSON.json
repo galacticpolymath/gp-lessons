@@ -7,17 +7,18 @@
   "Country": "United States",
   "DefaultLanguage": "English",
   "DefaultCountry": "United States",
-  "LastUpdated": "2023-09-17 21:42:58.421661",
+  "LastUpdated": "2023-10-18 17:23:45.906079",
+  "ReleaseDate": "2021-12-16",
+  "isTestRepo": false,
   "FirstPublicationDate": "2021-12-16 16:03:12",
   "MediumTitle": "'Females singing to be heard' |Math| G5–8 & 9–12 (en-US)",
   "lang": "en",
   "lng": "eng",
   "locale": "en-US",
   "DefaultLocale": "en-US",
-  "TemplateVer": "0.6.0",
-  "galacticPubsVer": "0.9.7",
-  "isTestRepo": false,
-  "URL": "https://galacticpolymath.com/lessons/1",
+  "TemplateVer": "0.6.1",
+  "galacticPubsVer": "0.9.8",
+  "URL": "https://www.galacticpolymath.com/lessons/en-US/1",
   "GdriveHome": "GP-LIVE",
   "GdriveDirName": "FemalesSing_en-US",
   "GdriveTeachMatPath": "GalacticPolymath/'Females singing to be heard' |Math| G5–8 & 9–12 (en-US)",
@@ -30,7 +31,6 @@
   "GdrivePublishedID": "1bJLtzE0TCZptVTd4HQ4eJMKf8K5A29De",
   "GdriveDirURL": "https://drive.google.com/drive/folders/1ZK_7lIrBBjq3mGoeVkpVS67Ly6h8TaUR",
   "RebuildAllMaterials": false,
-  "ReleaseDate": "2021-12-16",
   "Title": "Females singing to be heard",
   "Subtitle": "Challenging long-held assumptions about birdsong through data visualization",
   "SponsorName": "Animal Behaviour Society",
@@ -246,7 +246,7 @@
                           "url": "https://docs.google.com/presentation/d/1PzHglFcBqhzxJ51dVRaBh2vAupmQ0OXjZoOI_mbitfI/present"
                         },
                         {
-                          "linkText": "Copy/Edit in Google Docs",
+                          "linkText": "Preview/Copy in Google Docs",
                           "url": "https://docs.google.com/presentation/d/1PzHglFcBqhzxJ51dVRaBh2vAupmQ0OXjZoOI_mbitfI/template/preview"
                         }
                       ]
@@ -261,7 +261,7 @@
                           "url": "https://docs.google.com/document/d/18KBX0VU0DSrNQQAyvzQZfNUcxGC1IErrQlbpRZyhXhE/export?format=pdf"
                         },
                         {
-                          "linkText": "Copy/Edit in Google Docs",
+                          "linkText": "Preview/Copy in Google Docs",
                           "url": "https://docs.google.com/document/d/18KBX0VU0DSrNQQAyvzQZfNUcxGC1IErrQlbpRZyhXhE/template/preview"
                         }
                       ]
@@ -276,7 +276,7 @@
                           "url": "https://docs.google.com/document/d/1M90ZyX1V-nqUC1DXXRXKwSzJSWsRd4a84kUeA9TUOD4/export?format=pdf"
                         },
                         {
-                          "linkText": "Copy/Edit in Google Docs",
+                          "linkText": "Preview/Copy in Google Docs",
                           "url": "https://docs.google.com/document/d/1M90ZyX1V-nqUC1DXXRXKwSzJSWsRd4a84kUeA9TUOD4/template/preview"
                         }
                       ]
@@ -305,7 +305,7 @@
                           "url": "https://docs.google.com/presentation/d/1cKfX9PyBCccWHLuQb-8K90RLsa8BUpNLxZ_ChMjSSu4/present"
                         },
                         {
-                          "linkText": "Copy/Edit in Google Docs",
+                          "linkText": "Preview/Copy in Google Docs",
                           "url": "https://docs.google.com/presentation/d/1cKfX9PyBCccWHLuQb-8K90RLsa8BUpNLxZ_ChMjSSu4/template/preview"
                         }
                       ]
@@ -320,7 +320,7 @@
                           "url": "https://docs.google.com/document/d/1HlpIiJevIOcAEDQ7qTyNxhsd7MQsfOF4Gy8SEzzZoYs/export?format=pdf"
                         },
                         {
-                          "linkText": "Copy/Edit in Google Docs",
+                          "linkText": "Preview/Copy in Google Docs",
                           "url": "https://docs.google.com/document/d/1HlpIiJevIOcAEDQ7qTyNxhsd7MQsfOF4Gy8SEzzZoYs/template/preview"
                         }
                       ]
@@ -335,7 +335,7 @@
                           "url": "https://docs.google.com/document/d/10llmmmtvDkTOQIQofwd_zswkk_rYsaQ9r_BGVVpTvGM/export?format=pdf"
                         },
                         {
-                          "linkText": "Copy/Edit in Google Docs",
+                          "linkText": "Preview/Copy in Google Docs",
                           "url": "https://docs.google.com/document/d/10llmmmtvDkTOQIQofwd_zswkk_rYsaQ9r_BGVVpTvGM/template/preview"
                         }
                       ]
@@ -364,7 +364,7 @@
                           "url": "https://docs.google.com/presentation/d/1RxLKqmF6A9Va-InSKIis6LqnqgfqH5sMhbAJj1CJneI/present"
                         },
                         {
-                          "linkText": "Copy/Edit in Google Docs",
+                          "linkText": "Preview/Copy in Google Docs",
                           "url": "https://docs.google.com/presentation/d/1RxLKqmF6A9Va-InSKIis6LqnqgfqH5sMhbAJj1CJneI/template/preview"
                         }
                       ]
@@ -375,11 +375,11 @@
                       "itemCat": "presentation",
                       "links": [
                         {
-                          "linkText": "Download",
-                          "url": "https://docs.google.com/presentation/d/15iLaVFX00vDginfqjMOqKAU7SYjzZ83Iyqkd6KiwFVo"
+                          "linkText": "PDF",
+                          "url": "https://docs.google.com/presentation/d/15iLaVFX00vDginfqjMOqKAU7SYjzZ83Iyqkd6KiwFVo/export/pdf"
                         },
                         {
-                          "linkText": "Copy/Edit in Google Docs",
+                          "linkText": "Preview/Copy in Google Docs",
                           "url": "https://docs.google.com/presentation/d/15iLaVFX00vDginfqjMOqKAU7SYjzZ83Iyqkd6KiwFVo/template/preview"
                         }
                       ]
@@ -394,7 +394,7 @@
                           "url": "https://docs.google.com/document/d/1cfCvzHBlEbpaDp6NV2TV15I6CJTMdQhWoGtFpQrRrJs/export?format=pdf"
                         },
                         {
-                          "linkText": "Copy/Edit in Google Docs",
+                          "linkText": "Preview/Copy in Google Docs",
                           "url": "https://docs.google.com/document/d/1cfCvzHBlEbpaDp6NV2TV15I6CJTMdQhWoGtFpQrRrJs/template/preview"
                         }
                       ]
@@ -409,7 +409,7 @@
                           "url": "https://docs.google.com/document/d/1tBdSuwW3HmSwmG3_YmLJHXeNQMBiB2XAUE-FfmLFSCM/export?format=pdf"
                         },
                         {
-                          "linkText": "Copy/Edit in Google Docs",
+                          "linkText": "Preview/Copy in Google Docs",
                           "url": "https://docs.google.com/document/d/1tBdSuwW3HmSwmG3_YmLJHXeNQMBiB2XAUE-FfmLFSCM/template/preview"
                         }
                       ]
@@ -449,7 +449,7 @@
                           "url": "https://docs.google.com/presentation/d/1w84HQa6GGAVEGQvSray4BVT9LGdqzjxZN876UKYFDs8/present"
                         },
                         {
-                          "linkText": "Copy/Edit in Google Docs",
+                          "linkText": "Preview/Copy in Google Docs",
                           "url": "https://docs.google.com/presentation/d/1w84HQa6GGAVEGQvSray4BVT9LGdqzjxZN876UKYFDs8/template/preview"
                         }
                       ]
@@ -464,7 +464,7 @@
                           "url": "https://docs.google.com/document/d/1Y_PpwtdPh4eveKgUVFpJ_-Qqo9I2KnpTdYzE5OXYBAg/export?format=pdf"
                         },
                         {
-                          "linkText": "Copy/Edit in Google Docs",
+                          "linkText": "Preview/Copy in Google Docs",
                           "url": "https://docs.google.com/document/d/1Y_PpwtdPh4eveKgUVFpJ_-Qqo9I2KnpTdYzE5OXYBAg/template/preview"
                         }
                       ]
@@ -479,7 +479,7 @@
                           "url": "https://docs.google.com/document/d/1EMTTnTb2IQBwRV5KAhLXDJckNjApMsY_LOzAkiSkDtk/export?format=pdf"
                         },
                         {
-                          "linkText": "Copy/Edit in Google Docs",
+                          "linkText": "Preview/Copy in Google Docs",
                           "url": "https://docs.google.com/document/d/1EMTTnTb2IQBwRV5KAhLXDJckNjApMsY_LOzAkiSkDtk/template/preview"
                         }
                       ]
@@ -508,7 +508,7 @@
                           "url": "https://docs.google.com/presentation/d/1ckWobnlPtPoWKolTOtoQEFtoolPFVXm4j_2ikKU8Ef0/present"
                         },
                         {
-                          "linkText": "Copy/Edit in Google Docs",
+                          "linkText": "Preview/Copy in Google Docs",
                           "url": "https://docs.google.com/presentation/d/1ckWobnlPtPoWKolTOtoQEFtoolPFVXm4j_2ikKU8Ef0/template/preview"
                         }
                       ]
@@ -523,7 +523,7 @@
                           "url": "https://docs.google.com/document/d/1UzURPvg7eW6tZ-PmNmNuLWbT9bpJ42UkHUmskSxAXMk/export?format=pdf"
                         },
                         {
-                          "linkText": "Copy/Edit in Google Docs",
+                          "linkText": "Preview/Copy in Google Docs",
                           "url": "https://docs.google.com/document/d/1UzURPvg7eW6tZ-PmNmNuLWbT9bpJ42UkHUmskSxAXMk/template/preview"
                         }
                       ]
@@ -538,7 +538,7 @@
                           "url": "https://docs.google.com/document/d/1udMKSFWIaTBIPtbOJvqgfwyGNQgVv654wBF-ar7ftbs/export?format=pdf"
                         },
                         {
-                          "linkText": "Copy/Edit in Google Docs",
+                          "linkText": "Preview/Copy in Google Docs",
                           "url": "https://docs.google.com/document/d/1udMKSFWIaTBIPtbOJvqgfwyGNQgVv654wBF-ar7ftbs/template/preview"
                         }
                       ]
@@ -567,7 +567,7 @@
                           "url": "https://docs.google.com/presentation/d/1YfTXp-WyTWsb9pbbAMKB_ejC1JajGNpKNA6M9gEgUCI/export/pdf"
                         },
                         {
-                          "linkText": "Copy/Edit in Google Docs",
+                          "linkText": "Preview/Copy in Google Docs",
                           "url": "https://docs.google.com/presentation/d/1YfTXp-WyTWsb9pbbAMKB_ejC1JajGNpKNA6M9gEgUCI/template/preview"
                         }
                       ]
@@ -582,7 +582,7 @@
                           "url": "https://docs.google.com/presentation/d/1e8QnWBa7n8X20SS7JL6VIeL-4fvIkNb__K8mJLToORI/present"
                         },
                         {
-                          "linkText": "Copy/Edit in Google Docs",
+                          "linkText": "Preview/Copy in Google Docs",
                           "url": "https://docs.google.com/presentation/d/1e8QnWBa7n8X20SS7JL6VIeL-4fvIkNb__K8mJLToORI/template/preview"
                         }
                       ]
@@ -597,7 +597,7 @@
                           "url": "https://docs.google.com/document/d/1gr0QyDxoFUNRF42X5E2gBo9uAWjxUrX-FJhcr5LbbzQ/export?format=pdf"
                         },
                         {
-                          "linkText": "Copy/Edit in Google Docs",
+                          "linkText": "Preview/Copy in Google Docs",
                           "url": "https://docs.google.com/document/d/1gr0QyDxoFUNRF42X5E2gBo9uAWjxUrX-FJhcr5LbbzQ/template/preview"
                         }
                       ]
@@ -612,7 +612,7 @@
                           "url": "https://docs.google.com/document/d/1R_B7yRK-5wvIZ3K13ND3XstrBk__FBsb93d-lTHr29A/export?format=pdf"
                         },
                         {
-                          "linkText": "Copy/Edit in Google Docs",
+                          "linkText": "Preview/Copy in Google Docs",
                           "url": "https://docs.google.com/document/d/1R_B7yRK-5wvIZ3K13ND3XstrBk__FBsb93d-lTHr29A/template/preview"
                         }
                       ]
@@ -670,7 +670,7 @@
                           "url": "https://docs.google.com/presentation/d/1hXSC_74mTCcfmRDJ-eUczMYe2Kn4S-knFBpJVZZmwe4/present"
                         },
                         {
-                          "linkText": "Copy/Edit in Google Docs",
+                          "linkText": "Preview/Copy in Google Docs",
                           "url": "https://docs.google.com/presentation/d/1hXSC_74mTCcfmRDJ-eUczMYe2Kn4S-knFBpJVZZmwe4/template/preview"
                         }
                       ]
@@ -699,7 +699,7 @@
                           "url": "https://docs.google.com/presentation/d/18yN0k8GQ78ZvMSMzVOzIGlIh_itCve4FPSfFeUtrweM/present"
                         },
                         {
-                          "linkText": "Copy/Edit in Google Docs",
+                          "linkText": "Preview/Copy in Google Docs",
                           "url": "https://docs.google.com/presentation/d/18yN0k8GQ78ZvMSMzVOzIGlIh_itCve4FPSfFeUtrweM/template/preview"
                         }
                       ]
@@ -728,7 +728,7 @@
                           "url": "https://docs.google.com/presentation/d/1B4NrO4mPN82oLKjaA-SlXXK2DVGNeCbLDULKvbPRIKE/present"
                         },
                         {
-                          "linkText": "Copy/Edit in Google Docs",
+                          "linkText": "Preview/Copy in Google Docs",
                           "url": "https://docs.google.com/presentation/d/1B4NrO4mPN82oLKjaA-SlXXK2DVGNeCbLDULKvbPRIKE/template/preview"
                         }
                       ]
@@ -739,11 +739,11 @@
                       "itemCat": "docx",
                       "links": [
                         {
-                          "linkText": "Download",
-                          "url": "https://docs.google.com/document/d/1QYnQtJaFdv2r99FXOvdlPhUzi5ZBXQZe"
+                          "linkText": "PDF",
+                          "url": "https://docs.google.com/document/d/1QYnQtJaFdv2r99FXOvdlPhUzi5ZBXQZe/export?format=pdf"
                         },
                         {
-                          "linkText": "Copy/Edit in Google Docs",
+                          "linkText": "Preview/Copy in Google Docs",
                           "url": "https://docs.google.com/document/d/1QYnQtJaFdv2r99FXOvdlPhUzi5ZBXQZe"
                         }
                       ]
@@ -754,11 +754,11 @@
                       "itemCat": "docx",
                       "links": [
                         {
-                          "linkText": "Download",
-                          "url": "https://docs.google.com/document/d/1v0K-RgJCaa2JGNWYiX5SrM2nS2IAw-PQ"
+                          "linkText": "PDF",
+                          "url": "https://docs.google.com/document/d/1v0K-RgJCaa2JGNWYiX5SrM2nS2IAw-PQ/export?format=pdf"
                         },
                         {
-                          "linkText": "Copy/Edit in Google Docs",
+                          "linkText": "Preview/Copy in Google Docs",
                           "url": "https://docs.google.com/document/d/1v0K-RgJCaa2JGNWYiX5SrM2nS2IAw-PQ"
                         }
                       ]
@@ -798,7 +798,7 @@
                           "url": "https://docs.google.com/presentation/d/1Pr6Oms_QfA0zf-dkY6QEwdOfBo3J5JNrj-MMOCH9Q-E/present"
                         },
                         {
-                          "linkText": "Copy/Edit in Google Docs",
+                          "linkText": "Preview/Copy in Google Docs",
                           "url": "https://docs.google.com/presentation/d/1Pr6Oms_QfA0zf-dkY6QEwdOfBo3J5JNrj-MMOCH9Q-E/template/preview"
                         }
                       ]
@@ -827,7 +827,7 @@
                           "url": "https://docs.google.com/presentation/d/1TqqWA4pe1aWubjgi2Scys-D6SNO9IexyrDs-rhnP1jo/present"
                         },
                         {
-                          "linkText": "Copy/Edit in Google Docs",
+                          "linkText": "Preview/Copy in Google Docs",
                           "url": "https://docs.google.com/presentation/d/1TqqWA4pe1aWubjgi2Scys-D6SNO9IexyrDs-rhnP1jo/template/preview"
                         }
                       ]
@@ -856,7 +856,7 @@
                           "url": "https://docs.google.com/presentation/d/1yUx0-FlCKrfRwkzIxtf8YK7dFqcKcNLfHbek6R2rPXk/present"
                         },
                         {
-                          "linkText": "Copy/Edit in Google Docs",
+                          "linkText": "Preview/Copy in Google Docs",
                           "url": "https://docs.google.com/presentation/d/1yUx0-FlCKrfRwkzIxtf8YK7dFqcKcNLfHbek6R2rPXk/template/preview"
                         }
                       ]
@@ -867,11 +867,11 @@
                       "itemCat": "docx",
                       "links": [
                         {
-                          "linkText": "Download",
-                          "url": "https://docs.google.com/document/d/1AgMEVmRS9xY_zLQOzYv_IcanwVK-wk8Q"
+                          "linkText": "PDF",
+                          "url": "https://docs.google.com/document/d/1AgMEVmRS9xY_zLQOzYv_IcanwVK-wk8Q/export?format=pdf"
                         },
                         {
-                          "linkText": "Copy/Edit in Google Docs",
+                          "linkText": "Preview/Copy in Google Docs",
                           "url": "https://docs.google.com/document/d/1AgMEVmRS9xY_zLQOzYv_IcanwVK-wk8Q"
                         }
                       ]
@@ -882,11 +882,11 @@
                       "itemCat": "docx",
                       "links": [
                         {
-                          "linkText": "Download",
-                          "url": "https://docs.google.com/document/d/1CTH1uYC-DmfOz7pqA3Nsn7ipU4Sryb8G"
+                          "linkText": "PDF",
+                          "url": "https://docs.google.com/document/d/1CTH1uYC-DmfOz7pqA3Nsn7ipU4Sryb8G/export?format=pdf"
                         },
                         {
-                          "linkText": "Copy/Edit in Google Docs",
+                          "linkText": "Preview/Copy in Google Docs",
                           "url": "https://docs.google.com/document/d/1CTH1uYC-DmfOz7pqA3Nsn7ipU4Sryb8G"
                         }
                       ]
@@ -1385,6 +1385,13 @@
       "__component": "lesson-plan.section-heading",
       "SectionTitle": "Learning Standards"
     },
+    "learning-chart": {
+      "__component": "lesson-plan.learning-chart",
+      "Title": "About the GP Learning Chart",
+      "Description": "This Galactic Polymath Learning Chart illustrates the areas of knowledge covered. This lesson targets Math, but it helps teach national learning standards in 4 subjects: \n- [Common Core Math](https://learning.ccsso.org/common-core-state-standards-initiative); [Common Core ELA](https://learning.ccsso.org/common-core-state-standards-initiative); [Next Generation Science (NGSS)](https://www.nextgenscience.org/); and [College, Career, and Civic Life (C3) Social Studies Standards](https://www.socialstudies.org/standards/c3).\nIn total, there are 25 standards across US grade band(s): 5-6, 7-8, 9-12.",
+      "Footnote": "",
+      "Badge": "https://storage.googleapis.com/gp-cloud/lessons/FemalesSing_en-US/GP-Learning-Chart.png"
+    },
     "standards": {
       "__component": "lesson-plan.standards",
       "Data": [
@@ -1797,7 +1804,7 @@
       "Data": [
         {
           "role": "Beta Testers",
-          "def": "(Teachers who trialed earlier versions of the lesson with their children or students)",
+          "def": "Teachers who trialed earlier versions of the lesson with their children or students",
           "records": [
             {
               "name": "Jennifer Gentry, PhD",
@@ -1817,7 +1824,7 @@
         },
         {
           "role": "Peer Reviewers",
-          "def": "(Instructional and subject experts who provided input or validation on content accuracy)",
+          "def": "Instructional and subject experts who provided input or validation on content accuracy",
           "records": [
             {
               "name": "Greta Clinton-Selin",

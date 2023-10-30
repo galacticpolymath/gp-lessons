@@ -6,19 +6,20 @@ Language: English
 Country: United States
 DefaultLanguage: English
 DefaultCountry: United States
-LastUpdated: 2023-09-17 21:43:01.643435
+LastUpdated: 2023-10-18 17:38:09.286843
+ReleaseDate: '2023-05-07'
+isTestRepo: no
 FirstPublicationDate: 2023-04-10 12:14:57
 MediumTitle: '''Electric Crystals'' |Science| G7-12 (en-US)'
 lang: en
 lng: eng
 locale: en-US
 DefaultLocale: en-US
-TemplateVer: 0.6.0
-galacticPubsVer: 0.9.7
-isTestRepo: no
-URL: https://galacticpolymath.com/lessons/6
+TemplateVer: 0.6.1
+galacticPubsVer: 0.9.8
 GPCatalogURL: https://gp-catalog.vercel.app/lessons/ElectricCrystals_en-US/LESSON.json
 GitHubURL: git@github.com:galacticpolymath/ElectricCrystals_en-US.git
+URL: https://www.galacticpolymath.com/lessons/en-US/6
 GdriveHome: GP-LIVE
 GdriveDirName: ElectricCrystals_en-US
 GdriveTeachMatPath: GalacticPolymath/'Electric Crystals' |Science| G7-12 (en-US)
@@ -31,7 +32,6 @@ GdriveStandardsID: 1pmi9qRJXBUrzHP-j9-BkyO58DnuZVu4fsV7dohVOheo
 GdrivePublishedID: 1dlN6OdrQXZi4YzV0-9sjsaPL3ZDAQK-C
 GdriveDirURL: https://drive.google.com/drive/folders/1J24HOKWaZM346IKL2Vs32YjAu9fvlEj5
 RebuildAllMaterials: no
-ReleaseDate: '2023-05-07'
 Title: Electric Crystals
 Subtitle: Exploring how crystal symmetry can power everyday life
 SponsorName:

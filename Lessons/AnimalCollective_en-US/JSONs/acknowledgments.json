@@ -1,5 +1,117 @@
 {
   "__component": "lesson-plan.acknowledgments",
   "SectionTitle": "Acknowledgments",
-  "Data": null
+  "Data": [
+    {
+      "role": "Web App Lead Developer",
+      "def": "Created the [➚ \"Swimming in the Dark\" Fish Schooling App](https://into-the-dark.vercel.app/) and [➚ \"EchoSim\" Social Media Dynamics App](https://echo-jade.vercel.app/) simulations by heavily modifying code provided by others (see below)",
+      "records": [
+        {
+          "name": "Patrick Cheng, MD",
+          "url": "https://www.linkedin.com/in/alpinedevpat/",
+          "title": "Freelance Full-Stack Developer",
+          "affiliation": null,
+          "location": "Portland, OR"
+        }
+      ]
+    },
+    {
+      "role": "Into the Dark Code Author",
+      "def": "Provided original *Explorable* code base for our [➚ \"Swimming in the Dark\" Fish Schooling App](https://into-the-dark.vercel.app/) sim",
+      "records": [
+        {
+          "name": "Dirk Brockmann, PhD",
+          "url": "https://www.complexity-explorables.org/explorables/into-the-dark/",
+          "title": "Professor",
+          "affiliation": "Humboldt University",
+          "location": "Berlin, Germany"
+        }
+      ]
+    },
+    {
+      "role": "Web App Co-Developer",
+      "def": "Logistical support and mentorship with fork of [➚ \"Swimming in the Dark\" Fish Schooling App](https://into-the-dark.vercel.app/) simulation",
+      "records": [
+        {
+          "name": "Ryan Dexter",
+          "url": "https://www.linkedin.com/in/ryan-dexter/",
+          "title": "Software Engineer",
+          "affiliation": "MonkeyJump Labs",
+          "location": "Minneapolis, MN"
+        },
+        {
+          "name": "Jared Swarts",
+          "url": "https://www.linkedin.com/in/jared-swarts-298a4514/",
+          "title": "Technology Innovator and Co-Founder",
+          "affiliation": "MonkeyJump Labs",
+          "location": "Minneapolis, MN"
+        }
+      ]
+    },
+    {
+      "role": "EchoDemo Author",
+      "def": "Provided original code base for [➚ \"EchoSim\" Social Media Dynamics App](https://echo-jade.vercel.app/)",
+      "records": [
+        {
+          "name": "Hao Peng, PhD",
+          "url": "https://www.linkedin.com/in/hao-peng/",
+          "title": "Postdoctoral Fellow",
+          "affiliation": "Northwestern University",
+          "location": "Chicago, IL"
+        }
+      ]
+    },
+    {
+      "role": "Education Consultant",
+      "def": "Provided feedback and helped develop the unit",
+      "records": [
+        {
+          "name": "Letimicia Fears, PhD",
+          "url": "https://www.linkedin.com/in/letimicia-fears-phd-b384b496/",
+          "title": "Program Manager for Evaluation",
+          "affiliation": "Vanderbilt University, Peabody College",
+          "location": "Nashville, TN"
+        }
+      ]
+    },
+    {
+      "role": "Illustrator",
+      "def": "Created illustrations for the unit and the video [▶ What makes a video go viral? Emergence!](https://youtu.be/mD24yi7uLgU)",
+      "records": [
+        {
+          "name": "Caroline Hu, PhD",
+          "url": "https://www.hudrewthis.com/about",
+          "title": "Assistant Professor",
+          "affiliation": "Massachusetts College of Arts and Design",
+          "location": "Somerville, MA"
+        }
+      ]
+    },
+    {
+      "role": "Education Consultant for Lesson 3",
+      "def": "Provided foundational materials for the Lesson 3 \"Flock This Way\" activity",
+      "records": [
+        {
+          "name": "Thomas Meager, Phd",
+          "url": "https://www.linkedin.com/in/thomas-meagher-248b5a36/",
+          "title": "STEM Coordinator",
+          "affiliation": "Owatonna Public Schools",
+          "location": "Owatonna, MN"
+        }
+      ]
+    },
+    {
+      "role": "Video Contributor",
+      "def": "Graciously provided the amazing starling murmuration footage that ends our video [▶ What makes a video go viral? Emergence!](https://youtu.be/mD24yi7uLgU)",
+      "records": [
+        {
+          "name": "Jan Van Ijken",
+          "url": "https://www.janvanijken.com/",
+          "title": "Independent Filmmaker",
+          "affiliation": null,
+          "location": "Leiden, the Netherlands"
+        }
+      ]
+    }
+  ]
 }

@@ -27,8 +27,8 @@
             "linkText": "Browse & Download All Y9-13 Materials",
             "url": "https://drive.google.com/drive/folders/10wz9V9NMbwLZ-r6EsN3kkE-nY-G_rjDQ"
           },
-          "lessons": {
-            "1": {
+          "lessons": [
+            {
               "lsn": "1",
               "title": "Role of the Dye",
               "tags": [
@@ -47,7 +47,7 @@
                       "url": "https://docs.google.com/presentation/d/1_6BC7WeMUNsfkUdAV9P6cTyrDhD_7F2unssCEh8o8yA/present"
                     },
                     {
-                      "linkText": "Copy/Edit in Google Docs",
+                      "linkText": "Preview/Copy in Google Docs",
                       "url": "https://docs.google.com/presentation/d/1_6BC7WeMUNsfkUdAV9P6cTyrDhD_7F2unssCEh8o8yA/template/preview"
                     }
                   ]
@@ -62,7 +62,7 @@
                       "url": "https://docs.google.com/document/d/1xKPuXFlQDIK_mIbbTJ0prbA8z2wJnTqcXbyyzSSGiW4/export?format=pdf"
                     },
                     {
-                      "linkText": "Copy/Edit in Google Docs",
+                      "linkText": "Preview/Copy in Google Docs",
                       "url": "https://docs.google.com/document/d/1xKPuXFlQDIK_mIbbTJ0prbA8z2wJnTqcXbyyzSSGiW4/template/preview"
                     }
                   ]
@@ -77,7 +77,7 @@
                       "url": "https://docs.google.com/document/d/1KU3W3m8oNWy-onRFIFr8hEWq14CQNQbxujixmJ-VcaE/export?format=pdf"
                     },
                     {
-                      "linkText": "Copy/Edit in Google Docs",
+                      "linkText": "Preview/Copy in Google Docs",
                       "url": "https://docs.google.com/document/d/1KU3W3m8oNWy-onRFIFr8hEWq14CQNQbxujixmJ-VcaE/template/preview"
                     }
                   ]
@@ -92,14 +92,14 @@
                       "url": "https://docs.google.com/document/d/15AhBWQQZCaYM6ORbixDSRleep5tF_tP0V3Lc5N-438I/export?format=pdf"
                     },
                     {
-                      "linkText": "Copy/Edit in Google Docs",
+                      "linkText": "Preview/Copy in Google Docs",
                       "url": "https://docs.google.com/document/d/15AhBWQQZCaYM6ORbixDSRleep5tF_tP0V3Lc5N-438I/template/preview"
                     }
                   ]
                 }
               ]
             },
-            "2": {
+            {
               "lsn": "2",
               "title": "The Price of Colour",
               "tags": [
@@ -118,7 +118,7 @@
                       "url": "https://docs.google.com/presentation/d/15L5Ieyr4xiSMdm9yxMbSYTjGklZjolrj-xOWv_5Dg0A/export/pdf"
                     },
                     {
-                      "linkText": "Copy/Edit in Google Docs",
+                      "linkText": "Preview/Copy in Google Docs",
                       "url": "https://docs.google.com/presentation/d/15L5Ieyr4xiSMdm9yxMbSYTjGklZjolrj-xOWv_5Dg0A/template/preview"
                     }
                   ]
@@ -133,7 +133,7 @@
                       "url": "https://docs.google.com/presentation/d/1EV3aiwZS8NzQX285k6D5D3W4FyqzsPZ6nHal1D3EoV4/present"
                     },
                     {
-                      "linkText": "Copy/Edit in Google Docs",
+                      "linkText": "Preview/Copy in Google Docs",
                       "url": "https://docs.google.com/presentation/d/1EV3aiwZS8NzQX285k6D5D3W4FyqzsPZ6nHal1D3EoV4/template/preview"
                     }
                   ]
@@ -148,7 +148,7 @@
                       "url": "https://docs.google.com/document/d/1RUKC103P-aehIa6A3M3DqzaxNHh97uLjyLRPjbd28lQ/export?format=pdf"
                     },
                     {
-                      "linkText": "Copy/Edit in Google Docs",
+                      "linkText": "Preview/Copy in Google Docs",
                       "url": "https://docs.google.com/document/d/1RUKC103P-aehIa6A3M3DqzaxNHh97uLjyLRPjbd28lQ/template/preview"
                     }
                   ]
@@ -163,14 +163,14 @@
                       "url": "https://docs.google.com/document/d/17_XqQ4MPxVNTAIE6k-F1J0FhEQWOL7paO7ScQTO2XEs/export?format=pdf"
                     },
                     {
-                      "linkText": "Copy/Edit in Google Docs",
+                      "linkText": "Preview/Copy in Google Docs",
                       "url": "https://docs.google.com/document/d/17_XqQ4MPxVNTAIE6k-F1J0FhEQWOL7paO7ScQTO2XEs/template/preview"
                     }
                   ]
                 }
               ]
             },
-            "3": {
+            {
               "lsn": "3",
               "title": "Thinking Like a Chemical Engineer",
               "tags": [
@@ -189,7 +189,7 @@
                       "url": "https://docs.google.com/presentation/d/17zEu-pUxYjGXGDjbQjCxc_v7W2VHv75wpsjFeTAhWEk/present"
                     },
                     {
-                      "linkText": "Copy/Edit in Google Docs",
+                      "linkText": "Preview/Copy in Google Docs",
                       "url": "https://docs.google.com/presentation/d/17zEu-pUxYjGXGDjbQjCxc_v7W2VHv75wpsjFeTAhWEk/template/preview"
                     }
                   ]
@@ -204,7 +204,7 @@
                       "url": "https://docs.google.com/document/d/1K_tkkMY8gXKMD0ZX38W977OHBgxwB3xDBv4rIqn_eeE/export?format=pdf"
                     },
                     {
-                      "linkText": "Copy/Edit in Google Docs",
+                      "linkText": "Preview/Copy in Google Docs",
                       "url": "https://docs.google.com/document/d/1K_tkkMY8gXKMD0ZX38W977OHBgxwB3xDBv4rIqn_eeE/template/preview"
                     }
                   ]
@@ -219,49 +219,53 @@
                       "url": "https://docs.google.com/document/d/1fOVN5pYxARU7bTpNESSw5nqWHAStaT56L-vy9BNtr_0/export?format=pdf"
                     },
                     {
-                      "linkText": "Copy/Edit in Google Docs",
+                      "linkText": "Preview/Copy in Google Docs",
                       "url": "https://docs.google.com/document/d/1fOVN5pYxARU7bTpNESSw5nqWHAStaT56L-vy9BNtr_0/template/preview"
                     }
                   ]
                 }
               ]
             },
-            "lsn": "last",
-            "title": "Assessments",
-            "preface": "",
-            "itemList": [
-              {
-                "itemTitle": "Assessment (TEACHER)",
-                "itemDescription": null,
-                "itemCat": "document",
-                "links": [
-                  {
-                    "linkText": "PDF",
-                    "url": "https://docs.google.com/document/d/1Y-oKO7_tWRJ0wPAE02p-GNbVR8h65eXiX44-W3YVfFc/export?format=pdf"
-                  },
-                  {
-                    "linkText": "Copy/Edit in Google Docs",
-                    "url": "https://docs.google.com/document/d/1Y-oKO7_tWRJ0wPAE02p-GNbVR8h65eXiX44-W3YVfFc/template/preview"
-                  }
-                ]
-              },
-              {
-                "itemTitle": "Assessment (STUDENT)",
-                "itemDescription": null,
-                "itemCat": "document",
-                "links": [
-                  {
-                    "linkText": "PDF",
-                    "url": "https://docs.google.com/document/d/1uteaP2Ip49SXWtTXqnUQOsupBLVCVL-GJL3h--V3uY8/export?format=pdf"
-                  },
-                  {
-                    "linkText": "Copy/Edit in Google Docs",
-                    "url": "https://docs.google.com/document/d/1uteaP2Ip49SXWtTXqnUQOsupBLVCVL-GJL3h--V3uY8/template/preview"
-                  }
-                ]
-              }
-            ]
-          }
+            {
+              "lsn": "last",
+              "title": "Assessments",
+              "tags": null,
+              "preface": "",
+              "tile": "https://storage.googleapis.com/gp-cloud/icons/assessment%20icon.png",
+              "itemList": [
+                {
+                  "itemTitle": "Assessment (TEACHER)",
+                  "itemDescription": null,
+                  "itemCat": "document",
+                  "links": [
+                    {
+                      "linkText": "PDF",
+                      "url": "https://docs.google.com/document/d/1Y-oKO7_tWRJ0wPAE02p-GNbVR8h65eXiX44-W3YVfFc/export?format=pdf"
+                    },
+                    {
+                      "linkText": "Preview/Copy in Google Docs",
+                      "url": "https://docs.google.com/document/d/1Y-oKO7_tWRJ0wPAE02p-GNbVR8h65eXiX44-W3YVfFc/template/preview"
+                    }
+                  ]
+                },
+                {
+                  "itemTitle": "Assessment (STUDENT)",
+                  "itemDescription": null,
+                  "itemCat": "document",
+                  "links": [
+                    {
+                      "linkText": "PDF",
+                      "url": "https://docs.google.com/document/d/1uteaP2Ip49SXWtTXqnUQOsupBLVCVL-GJL3h--V3uY8/export?format=pdf"
+                    },
+                    {
+                      "linkText": "Preview/Copy in Google Docs",
+                      "url": "https://docs.google.com/document/d/1uteaP2Ip49SXWtTXqnUQOsupBLVCVL-GJL3h--V3uY8/template/preview"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ]
     },

@@ -7,17 +7,18 @@
   "Country": "United States",
   "DefaultLanguage": "English",
   "DefaultCountry": "United States",
-  "LastUpdated": "2023-09-17 21:42:55.803128",
+  "LastUpdated": "2023-10-18 17:22:21.388129",
+  "ReleaseDate": "2021-12-15",
+  "isTestRepo": false,
   "FirstPublicationDate": "2021-12-15 17:06:16",
   "MediumTitle": "'Genetic Rescue to the Rescue' |Science| G9-12 (en-US)",
   "lang": "en",
   "lng": "eng",
   "locale": "en-US",
   "DefaultLocale": "en-US",
-  "TemplateVer": "0.6.0",
-  "galacticPubsVer": "0.9.7",
-  "isTestRepo": false,
-  "URL": "https://galacticpolymath.com/lessons/3",
+  "TemplateVer": "0.6.1",
+  "galacticPubsVer": "0.9.8",
+  "URL": "https://www.galacticpolymath.com/lessons/en-US/3",
   "GdriveHome": "GP-LIVE",
   "GdriveDirName": "geneticRescue_sci",
   "GdriveTeachMatPath": "GalacticPolymath/'Genetic Rescue to the Rescue' |Science| G9-12 (en-US)",
@@ -30,7 +31,6 @@
   "GdrivePublishedID": "1_8YhQHo4LftImt8U_WGVUm0sL3ypzKnD",
   "GdriveDirURL": "https://drive.google.com/drive/folders/1NWH6z13CgpVn0bFe1fWloeWw87ycGDti",
   "RebuildAllMaterials": false,
-  "ReleaseDate": "2021-12-15",
   "Title": "Genetic Rescue to the Rescue",
   "Subtitle": "Preventing extinction through gene flow",
   "SponsorName": [
@@ -162,7 +162,7 @@
       "SectionTitle": "Teaching Materials",
       "Data": {
         "lessonPreface": null,
-        "lessonDur": "3 x 45 min",
+        "lessonDur": "5 x 45 min",
         "classroom": {
           "gradeVariantNotes": [
             {
@@ -194,8 +194,8 @@
                 "linkText": "Browse & Download All G9-12 Materials",
                 "url": "https://drive.google.com/drive/folders/1EZGL0OCJ_vp8KxajI0l5xvU4fu7ZETTF"
               },
-              "lessons": {
-                "1": {
+              "lessons": [
+                {
                   "lsn": "1",
                   "title": "Florida Panthers in Peril",
                   "tags": [
@@ -217,7 +217,7 @@
                           "url": "https://docs.google.com/presentation/d/1G8YuV_U_QSHHA_zrVJ9yzJafDBIr7tOWpMasVBAnQCE/present"
                         },
                         {
-                          "linkText": "Copy/Edit in Google Docs",
+                          "linkText": "Preview/Copy in Google Docs",
                           "url": "https://docs.google.com/presentation/d/1G8YuV_U_QSHHA_zrVJ9yzJafDBIr7tOWpMasVBAnQCE/template/preview"
                         }
                       ]
@@ -232,7 +232,7 @@
                           "url": "https://docs.google.com/document/d/1rG0ijtWH3j5jok_RmXahyOPrxXyV4pLN_0qbM1o1KJw/export?format=pdf"
                         },
                         {
-                          "linkText": "Copy/Edit in Google Docs",
+                          "linkText": "Preview/Copy in Google Docs",
                           "url": "https://docs.google.com/document/d/1rG0ijtWH3j5jok_RmXahyOPrxXyV4pLN_0qbM1o1KJw/template/preview"
                         }
                       ]
@@ -247,14 +247,14 @@
                           "url": "https://docs.google.com/document/d/1dNwRDQb5lJ_3flGaUEKdunSVaGMTh12utgZ1_jpdry0/export?format=pdf"
                         },
                         {
-                          "linkText": "Copy/Edit in Google Docs",
+                          "linkText": "Preview/Copy in Google Docs",
                           "url": "https://docs.google.com/document/d/1dNwRDQb5lJ_3flGaUEKdunSVaGMTh12utgZ1_jpdry0/template/preview"
                         }
                       ]
                     }
                   ]
                 },
-                "2": {
+                {
                   "lsn": "2",
                   "title": "Genetics of Endangered Species",
                   "tags": [
@@ -276,7 +276,7 @@
                           "url": "https://docs.google.com/presentation/d/1S8dNXln6_RjpHbZg8QTMThWS-Yusk1f2_BwcwxNhf3c/export/pdf"
                         },
                         {
-                          "linkText": "Copy/Edit in Google Docs",
+                          "linkText": "Preview/Copy in Google Docs",
                           "url": "https://docs.google.com/presentation/d/1S8dNXln6_RjpHbZg8QTMThWS-Yusk1f2_BwcwxNhf3c/template/preview"
                         }
                       ]
@@ -291,7 +291,7 @@
                           "url": "https://docs.google.com/presentation/d/1ygAA4-0WdSnIoP55ah8POBPFmPzKEPv1AiD65CzH2Y4/present"
                         },
                         {
-                          "linkText": "Copy/Edit in Google Docs",
+                          "linkText": "Preview/Copy in Google Docs",
                           "url": "https://docs.google.com/presentation/d/1ygAA4-0WdSnIoP55ah8POBPFmPzKEPv1AiD65CzH2Y4/template/preview"
                         }
                       ]
@@ -306,7 +306,7 @@
                           "url": "https://docs.google.com/document/d/1yc89U5TD4QRf1fRq3ZTh9u4wo6xX1llhh1lKzktDPIg/export?format=pdf"
                         },
                         {
-                          "linkText": "Copy/Edit in Google Docs",
+                          "linkText": "Preview/Copy in Google Docs",
                           "url": "https://docs.google.com/document/d/1yc89U5TD4QRf1fRq3ZTh9u4wo6xX1llhh1lKzktDPIg/template/preview"
                         }
                       ]
@@ -321,14 +321,14 @@
                           "url": "https://docs.google.com/document/d/1maeaQdqwv3ymNR_J8_Oh3b7da18RfjwLIHywh7Fsvn8/export?format=pdf"
                         },
                         {
-                          "linkText": "Copy/Edit in Google Docs",
+                          "linkText": "Preview/Copy in Google Docs",
                           "url": "https://docs.google.com/document/d/1maeaQdqwv3ymNR_J8_Oh3b7da18RfjwLIHywh7Fsvn8/template/preview"
                         }
                       ]
                     }
                   ]
                 },
-                "3": {
+                {
                   "lsn": "3",
                   "title": "The Florida Panther Debate",
                   "tags": [
@@ -347,7 +347,7 @@
                           "url": "https://docs.google.com/presentation/d/1LwAzYmxXvSkMCL4bPKuLh2CzHZ25oUsE3377_jZnz9Q/present"
                         },
                         {
-                          "linkText": "Copy/Edit in Google Docs",
+                          "linkText": "Preview/Copy in Google Docs",
                           "url": "https://docs.google.com/presentation/d/1LwAzYmxXvSkMCL4bPKuLh2CzHZ25oUsE3377_jZnz9Q/template/preview"
                         }
                       ]
@@ -362,7 +362,7 @@
                           "url": "https://docs.google.com/document/d/1gK1eYtilqMPLbq9vzPzkc3mOrX0N9eV4h8tBlh5JnfQ/export?format=pdf"
                         },
                         {
-                          "linkText": "Copy/Edit in Google Docs",
+                          "linkText": "Preview/Copy in Google Docs",
                           "url": "https://docs.google.com/document/d/1gK1eYtilqMPLbq9vzPzkc3mOrX0N9eV4h8tBlh5JnfQ/template/preview"
                         }
                       ]
@@ -377,14 +377,14 @@
                           "url": "https://docs.google.com/document/d/1Vs5nujrjNkrKOoJq6iWjvOpK3HFxujYML4DM4rRTuKs/export?format=pdf"
                         },
                         {
-                          "linkText": "Copy/Edit in Google Docs",
+                          "linkText": "Preview/Copy in Google Docs",
                           "url": "https://docs.google.com/document/d/1Vs5nujrjNkrKOoJq6iWjvOpK3HFxujYML4DM4rRTuKs/template/preview"
                         }
                       ]
                     }
                   ]
                 },
-                "4": {
+                {
                   "lsn": "4",
                   "title": "Deep Dive into Genetic Rescue",
                   "tags": [
@@ -406,7 +406,7 @@
                           "url": "https://docs.google.com/presentation/d/1UGcWE-yBrrzAnqP5Yohdc47tPgzKnV9hlCrgAUx9Oe8/present"
                         },
                         {
-                          "linkText": "Copy/Edit in Google Docs",
+                          "linkText": "Preview/Copy in Google Docs",
                           "url": "https://docs.google.com/presentation/d/1UGcWE-yBrrzAnqP5Yohdc47tPgzKnV9hlCrgAUx9Oe8/template/preview"
                         }
                       ]
@@ -421,7 +421,7 @@
                           "url": "https://docs.google.com/document/d/1d-nuCTCa_9cbcLNUU2h-REPyazt_HLWRWmZ3s9mVc9A/export?format=pdf"
                         },
                         {
-                          "linkText": "Copy/Edit in Google Docs",
+                          "linkText": "Preview/Copy in Google Docs",
                           "url": "https://docs.google.com/document/d/1d-nuCTCa_9cbcLNUU2h-REPyazt_HLWRWmZ3s9mVc9A/template/preview"
                         }
                       ]
@@ -436,14 +436,14 @@
                           "url": "https://docs.google.com/document/d/1tq2yueS_j9vXrRArCj1jfsb15j4ihUUiNFL3JzjHAgI/export?format=pdf"
                         },
                         {
-                          "linkText": "Copy/Edit in Google Docs",
+                          "linkText": "Preview/Copy in Google Docs",
                           "url": "https://docs.google.com/document/d/1tq2yueS_j9vXrRArCj1jfsb15j4ihUUiNFL3JzjHAgI/template/preview"
                         }
                       ]
                     }
                   ]
                 },
-                "5": {
+                {
                   "lsn": "5",
                   "title": "Analyzing Real Genetic Rescue Data",
                   "tags": [
@@ -466,7 +466,7 @@
                           "url": "https://docs.google.com/presentation/d/1kNCoWwRGVEnKqyHmbIMJCi6v0cup1LISDofUAvx0qBE/present"
                         },
                         {
-                          "linkText": "Copy/Edit in Google Docs",
+                          "linkText": "Preview/Copy in Google Docs",
                           "url": "https://docs.google.com/presentation/d/1kNCoWwRGVEnKqyHmbIMJCi6v0cup1LISDofUAvx0qBE/template/preview"
                         }
                       ]
@@ -481,7 +481,7 @@
                           "url": "https://docs.google.com/document/d/19gicDDdWGSt1QJBFSMxXKjKL8U0UMHU4uV4uCXrDBH0/export?format=pdf"
                         },
                         {
-                          "linkText": "Copy/Edit in Google Docs",
+                          "linkText": "Preview/Copy in Google Docs",
                           "url": "https://docs.google.com/document/d/19gicDDdWGSt1QJBFSMxXKjKL8U0UMHU4uV4uCXrDBH0/template/preview"
                         }
                       ]
@@ -496,64 +496,68 @@
                           "url": "https://docs.google.com/document/d/1ngeuUXhI02BCfnu_5-HLIC-QnbZSI1KNaQBmEVBdaMs/export?format=pdf"
                         },
                         {
-                          "linkText": "Copy/Edit in Google Docs",
+                          "linkText": "Preview/Copy in Google Docs",
                           "url": "https://docs.google.com/document/d/1ngeuUXhI02BCfnu_5-HLIC-QnbZSI1KNaQBmEVBdaMs/template/preview"
                         }
                       ]
                     }
                   ]
                 },
-                "lsn": "last",
-                "title": "Assessments",
-                "preface": "",
-                "itemList": [
-                  {
-                    "itemTitle": "Student Assessment",
-                    "itemDescription": null,
-                    "itemCat": "document",
-                    "links": [
-                      {
-                        "linkText": "PDF",
-                        "url": "https://docs.google.com/document/d/1NacFoHGQyxcureOPxYdlAx1raJGidtSqcZicy6G-FOY/export?format=pdf"
-                      },
-                      {
-                        "linkText": "Copy/Edit in Google Docs",
-                        "url": "https://docs.google.com/document/d/1NacFoHGQyxcureOPxYdlAx1raJGidtSqcZicy6G-FOY/template/preview"
-                      }
-                    ]
-                  },
-                  {
-                    "itemTitle": "Teacher Assessment",
-                    "itemDescription": null,
-                    "itemCat": "document",
-                    "links": [
-                      {
-                        "linkText": "PDF",
-                        "url": "https://docs.google.com/document/d/1Q7QUW0UxMHcMFWJL954r1UBxxHghgfZTPTSuofPKwhU/export?format=pdf"
-                      },
-                      {
-                        "linkText": "Copy/Edit in Google Docs",
-                        "url": "https://docs.google.com/document/d/1Q7QUW0UxMHcMFWJL954r1UBxxHghgfZTPTSuofPKwhU/template/preview"
-                      }
-                    ]
-                  },
-                  {
-                    "itemTitle": "Genetic Rescue Unit Assessment Rubric",
-                    "itemDescription": null,
-                    "itemCat": "document",
-                    "links": [
-                      {
-                        "linkText": "PDF",
-                        "url": "https://docs.google.com/document/d/1sBxfEsKLdDCE5-C3NTU0wcINFwNJdVz_zt-bWfA4nVo/export?format=pdf"
-                      },
-                      {
-                        "linkText": "Copy/Edit in Google Docs",
-                        "url": "https://docs.google.com/document/d/1sBxfEsKLdDCE5-C3NTU0wcINFwNJdVz_zt-bWfA4nVo/template/preview"
-                      }
-                    ]
-                  }
-                ]
-              }
+                {
+                  "lsn": "last",
+                  "title": "Assessments",
+                  "tags": null,
+                  "preface": "",
+                  "tile": "https://storage.googleapis.com/gp-cloud/icons/assessment%20icon.png",
+                  "itemList": [
+                    {
+                      "itemTitle": "Student Assessment",
+                      "itemDescription": null,
+                      "itemCat": "document",
+                      "links": [
+                        {
+                          "linkText": "PDF",
+                          "url": "https://docs.google.com/document/d/1NacFoHGQyxcureOPxYdlAx1raJGidtSqcZicy6G-FOY/export?format=pdf"
+                        },
+                        {
+                          "linkText": "Preview/Copy in Google Docs",
+                          "url": "https://docs.google.com/document/d/1NacFoHGQyxcureOPxYdlAx1raJGidtSqcZicy6G-FOY/template/preview"
+                        }
+                      ]
+                    },
+                    {
+                      "itemTitle": "Teacher Assessment",
+                      "itemDescription": null,
+                      "itemCat": "document",
+                      "links": [
+                        {
+                          "linkText": "PDF",
+                          "url": "https://docs.google.com/document/d/1Q7QUW0UxMHcMFWJL954r1UBxxHghgfZTPTSuofPKwhU/export?format=pdf"
+                        },
+                        {
+                          "linkText": "Preview/Copy in Google Docs",
+                          "url": "https://docs.google.com/document/d/1Q7QUW0UxMHcMFWJL954r1UBxxHghgfZTPTSuofPKwhU/template/preview"
+                        }
+                      ]
+                    },
+                    {
+                      "itemTitle": "Genetic Rescue Unit Assessment Rubric",
+                      "itemDescription": null,
+                      "itemCat": "document",
+                      "links": [
+                        {
+                          "linkText": "PDF",
+                          "url": "https://docs.google.com/document/d/1sBxfEsKLdDCE5-C3NTU0wcINFwNJdVz_zt-bWfA4nVo/export?format=pdf"
+                        },
+                        {
+                          "linkText": "Preview/Copy in Google Docs",
+                          "url": "https://docs.google.com/document/d/1sBxfEsKLdDCE5-C3NTU0wcINFwNJdVz_zt-bWfA4nVo/template/preview"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
             }
           ]
         },
@@ -789,7 +793,7 @@
           {
             "lsnNum": 3,
             "lsnTitle": "The Florida Panther Debate",
-            "lsnDur": null,
+            "lsnDur": 45,
             "lsnPreface": "Students play the role of wildlife managers in the 1990s charged with deciding what to do about Florida panthers. Includes collaboration, active movement, and discussions.",
             "learningObj": [
               "Provide examples of variation in genes, traits, and individual survival, and why each is important for a species to persist and evolve.",
@@ -837,9 +841,9 @@
                   },
                   {
                     "Step": 3,
-                    "StepTitle": "Gallery Walk",
-                    "StepQuickDescription": null,
-                    "StepDetails": "Groups then complete a gallery walk to observe what others worked on and finish by returning to their own group and finishing the worksheet based on what they learned.",
+                    "StepTitle": "Explore",
+                    "StepQuickDescription": "Gallery Walk",
+                    "StepDetails": "Groups observe what others worked on and finish by returning to their own group and finishing the worksheet based on what they learned.",
                     "Vocab": null,
                     "VariantNotes": null,
                     "TeachingTips": "You can choose whether the gallery walk should be \"as a group\" or individually paced."
@@ -895,7 +899,7 @@
           {
             "lsnNum": 4,
             "lsnTitle": "Deep Dive into Genetic Rescue",
-            "lsnDur": null,
+            "lsnDur": 45,
             "lsnPreface": "Students learn about the details of genetic rescue, what can go wrong, and why species (like fruit flies and guppies) are great models for research that don't risk causing the extinction of a rare species.",
             "learningObj": [
               "Provide examples of variation in genes, traits, and individual survival, and why each is important for a species to persist and evolve.",
@@ -992,21 +996,37 @@
               "Interpret scatter plot data from a model organism (guppies) and compare to related data in an endangered species (Florida panthers)."
             ],
             "lsnPrep": {
-              "prepTitle": "Genetic Rescue in Action",
+              "prepTitle": "Prep",
               "prepDur": 5,
-              "prepQuickDescription": "Students review the end of [▶ What is genetic rescue, and can we use it to save endangered species?](https://www.youtube.com/watch?v=oFQmNq8sJ2Y&list=PLz-D3xOC0d88kLYQLB9xeUz7gAaO1JJZb&index=2) and go over the previous day's worksheet.",
-              "prepDetails": "Tortoises are the only bad option listed, as they have a slow generation time and are not common. The other species are all actual models for genetic rescue research.",
+              "prepQuickDescription": "Print teacher and student handouts.",
+              "prepDetails": null,
               "prepVariantNotes": null,
               "prepTeachingTips": null
             },
             "chunks": [
               {
-                "chunkTitle": "Dr. Sarah Fitzpatrick Talks About her Research",
+                "chunkTitle": "Review",
                 "chunkStart": 0,
                 "chunkDur": 5,
                 "steps": [
                   {
                     "Step": 1,
+                    "StepTitle": "Genetic Rescue in Action",
+                    "StepQuickDescription": "Students review the end of [▶ What is genetic rescue, and can we use it to save endangered species?](https://www.youtube.com/watch?v=oFQmNq8sJ2Y&list=PLz-D3xOC0d88kLYQLB9xeUz7gAaO1JJZb&index=2) and go over the previous day's worksheet.",
+                    "StepDetails": "Tortoises are the only bad option listed, as they have a slow generation time and are not common. The other species are all actual models for genetic rescue research.",
+                    "Vocab": null,
+                    "VariantNotes": null,
+                    "TeachingTips": null
+                  }
+                ]
+              },
+              {
+                "chunkTitle": "Dr. Sarah Fitzpatrick Talks About her Research",
+                "chunkStart": 5,
+                "chunkDur": 5,
+                "steps": [
+                  {
+                    "Step": 2,
                     "StepTitle": "Hear it from a Scientist!",
                     "StepQuickDescription": "Dr. Fitzpatrick, whose research forms the basis of this lesson, discusses how she has studied genetic rescue using Trinidadian Guppies (fish) in [▶ Saving a species through genetic rescue: Why we need model organisms](https://www.youtube.com/watch?v=AiXyHxv4Sx4&list=PLz-D3xOC0d88kLYQLB9xeUz7gAaO1JJZb&index=3).",
                     "StepDetails": null,
@@ -1018,11 +1038,11 @@
               },
               {
                 "chunkTitle": "Quick Activity",
-                "chunkStart": 5,
+                "chunkStart": 10,
                 "chunkDur": 15,
                 "steps": [
                   {
-                    "Step": 2,
+                    "Step": 3,
                     "StepTitle": "Instant Peer Review",
                     "StepQuickDescription": "Students compare and contrast guppies and panthers on their worksheets (Q1-4).",
                     "StepDetails": "They then switch papers with a partner. They should underline a point they strongly agree with, circle  a point they disagree with or think should be explained better, and discuss. Then revise based on the feedback. Students can then share positive/helpful feedback they received.",
@@ -1031,7 +1051,7 @@
                     "TeachingTips": null
                   },
                   {
-                    "Step": 3,
+                    "Step": 4,
                     "StepTitle": "Scaffolding",
                     "StepQuickDescription": "Slides walk through the primary responses students should have come up with.",
                     "StepDetails": null,
@@ -1043,11 +1063,11 @@
               },
               {
                 "chunkTitle": "Analyzing Real Data",
-                "chunkStart": 20,
+                "chunkStart": 25,
                 "chunkDur": 10,
                 "steps": [
                   {
-                    "Step": 4,
+                    "Step": 5,
                     "StepTitle": "Developing Predictions",
                     "StepQuickDescription": "Students revisit the genetic rescue concept map and think about what they could measure to assess success.",
                     "StepDetails": "Specifically, we expect that if genetic rescue is successful:\n1. genetic variation should increase and \n2. as a result population size should increase (because of higher survival and reproduction)",
@@ -1056,7 +1076,7 @@
                     "TeachingTips": null
                   },
                   {
-                    "Step": 5,
+                    "Step": 6,
                     "StepTitle": "Independent Analysis",
                     "StepQuickDescription": "Students spend the rest of class filling out the worksheet on their own.",
                     "StepDetails": "They are asked to label graphs from Florida panthers and guppies by carefully studying part of the data table used to generate them.",
@@ -1065,7 +1085,7 @@
                     "TeachingTips": "If students are confused, ask them to notice anything at all about the tables. Do some of the numbers or dates seem to match up with any of the graphs?"
                   },
                   {
-                    "Step": 6,
+                    "Step": 7,
                     "StepTitle": "Independent Reflection",
                     "StepQuickDescription": "Students generate a question from the data  and synthesize their findings and observations to make a recommendation.",
                     "StepDetails": "Given the evidence from Florida panther recovery and the study in Trinidadian guppies, should we conduct a second genetic rescue attempt in the panthers?",
@@ -1184,9 +1204,7 @@
       "Title": "About the GP Learning Chart",
       "Description": "This Galactic Polymath Learning Chart illustrates the areas of knowledge covered. This lesson targets Science, but it helps teach national learning standards in 4 subjects: \n- [Common Core Math](https://learning.ccsso.org/common-core-state-standards-initiative); [Common Core ELA](https://learning.ccsso.org/common-core-state-standards-initiative); [Next Generation Science (NGSS)](https://www.nextgenscience.org/); and [College, Career, and Civic Life (C3) Social Studies Standards](https://www.socialstudies.org/standards/c3).\nIn total, there are 21 standards across US grade band(s): 9-12.",
       "Footnote": "",
-      "Badge": {
-        "url": "https://gp-catalog.vercel.app/lessons/geneticRescue_sci/GP-Learning-Chart.png"
-      }
+      "Badge": "https://storage.googleapis.com/gp-cloud/lessons/geneticRescue_sci/GP-Learning-Chart.png"
     },
     "standards": {
       "__component": "lesson-plan.standards",
@@ -1656,7 +1674,7 @@
       "Data": [
         {
           "role": "Data",
-          "def": "(Provided Florida panther data and expert feedback on Florida panther conservation)",
+          "def": "Provided Florida panther data and expert feedback on Florida panther conservation",
           "records": [
             {
               "name": "Madelon van de Kerk, PhD",
@@ -1669,7 +1687,7 @@
         },
         {
           "role": "\"Return of the Panther\" Video",
-          "def": "(For more, amazing videos like this, check out Chris's YouTube channel!)",
+          "def": "For more, amazing videos like this, check out Chris's YouTube channel!",
           "records": [
             {
               "name": "Chris Morgan",
@@ -1682,7 +1700,7 @@
         },
         {
           "role": "\"Are endangered species worth saving?\" Video",
-          "def": "(Check out other fun, thought-provoking videos at Above the Noise!)",
+          "def": "Check out other fun, thought-provoking videos at Above the Noise!",
           "records": [
             {
               "name": "Myles Bess and team",
@@ -1695,7 +1713,7 @@
         },
         {
           "role": "Images of Florida Panthers",
-          "def": "(Florida Panthers & abnormalities in Part 1 Presentations)",
+          "def": "Florida Panthers & abnormalities in Part 1 Presentations",
           "records": [
             {
               "name": "Panther Team",
@@ -1708,7 +1726,7 @@
         },
         {
           "role": "Photo of Black Panthers",
-          "def": "(\"Keira & Neron Jaguars\" in Part 1 Presentation)",
+          "def": "\"Keira & Neron Jaguars\" in Part 1 Presentation",
           "records": [
             {
               "name": "Alma Leaper",

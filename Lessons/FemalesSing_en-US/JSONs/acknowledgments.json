@@ -4,7 +4,7 @@
   "Data": [
     {
       "role": "Beta Testers",
-      "def": "(Teachers who trialed earlier versions of the lesson with their children or students)",
+      "def": "Teachers who trialed earlier versions of the lesson with their children or students",
       "records": [
         {
           "name": "Jennifer Gentry, PhD",
@@ -24,7 +24,7 @@
     },
     {
       "role": "Peer Reviewers",
-      "def": "(Instructional and subject experts who provided input or validation on content accuracy)",
+      "def": "Instructional and subject experts who provided input or validation on content accuracy",
       "records": [
         {
           "name": "Greta Clinton-Selin",

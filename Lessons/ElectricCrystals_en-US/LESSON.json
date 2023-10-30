@@ -7,17 +7,18 @@
   "Country": "United States",
   "DefaultLanguage": "English",
   "DefaultCountry": "United States",
-  "LastUpdated": "2023-09-17 21:43:01.643435",
+  "LastUpdated": "2023-10-18 17:26:00.00093",
+  "ReleaseDate": "2023-05-07",
+  "isTestRepo": false,
   "FirstPublicationDate": "2023-04-10 12:14:57",
   "MediumTitle": "'Electric Crystals' |Science| G7-12 (en-US)",
   "lang": "en",
   "lng": "eng",
   "locale": "en-US",
   "DefaultLocale": "en-US",
-  "TemplateVer": "0.6.0",
-  "galacticPubsVer": "0.9.7",
-  "isTestRepo": false,
-  "URL": "https://galacticpolymath.com/lessons/6",
+  "TemplateVer": "0.6.1",
+  "galacticPubsVer": "0.9.8",
+  "URL": "https://www.galacticpolymath.com/lessons/en-US/6",
   "GdriveHome": "GP-LIVE",
   "GdriveDirName": "ElectricCrystals_en-US",
   "GdriveTeachMatPath": "GalacticPolymath/'Electric Crystals' |Science| G7-12 (en-US)",
@@ -30,7 +31,6 @@
   "GdrivePublishedID": "1dlN6OdrQXZi4YzV0-9sjsaPL3ZDAQK-C",
   "GdriveDirURL": "https://drive.google.com/drive/folders/1J24HOKWaZM346IKL2Vs32YjAu9fvlEj5",
   "RebuildAllMaterials": false,
-  "ReleaseDate": "2023-05-07",
   "Title": "Electric Crystals",
   "Subtitle": "Exploring how crystal symmetry can power everyday life",
   "SponsorName": [
@@ -212,7 +212,7 @@
                           "url": "https://docs.google.com/presentation/d/1OzRFuj1akldvdg9HZbcrYxYsFLfrs2V4pWhcCgppnmQ/export/pdf"
                         },
                         {
-                          "linkText": "Copy/Edit in Google Docs",
+                          "linkText": "Preview/Copy in Google Docs",
                           "url": "https://docs.google.com/presentation/d/1OzRFuj1akldvdg9HZbcrYxYsFLfrs2V4pWhcCgppnmQ/template/preview"
                         }
                       ]
@@ -227,7 +227,7 @@
                           "url": "https://docs.google.com/document/d/1QIS_lvkq3jPFQptNWXVwxxRXG1M9sPkOwPmj0917bxQ/export?format=pdf"
                         },
                         {
-                          "linkText": "Copy/Edit in Google Docs",
+                          "linkText": "Preview/Copy in Google Docs",
                           "url": "https://docs.google.com/document/d/1QIS_lvkq3jPFQptNWXVwxxRXG1M9sPkOwPmj0917bxQ/template/preview"
                         }
                       ]
@@ -242,7 +242,7 @@
                           "url": "https://docs.google.com/document/d/1PZvzZ9ytgr7uzo6QZBbqyUHvSe4fwDQ5eoAxdNiSL0Y/export?format=pdf"
                         },
                         {
-                          "linkText": "Copy/Edit in Google Docs",
+                          "linkText": "Preview/Copy in Google Docs",
                           "url": "https://docs.google.com/document/d/1PZvzZ9ytgr7uzo6QZBbqyUHvSe4fwDQ5eoAxdNiSL0Y/template/preview"
                         }
                       ]
@@ -272,7 +272,7 @@
                           "url": "https://docs.google.com/document/d/1AhRceruzn8ytn1FSJg-tdxcw0Qmiz6U3OWS8eHG--jc/export?format=pdf"
                         },
                         {
-                          "linkText": "Copy/Edit in Google Docs",
+                          "linkText": "Preview/Copy in Google Docs",
                           "url": "https://docs.google.com/document/d/1AhRceruzn8ytn1FSJg-tdxcw0Qmiz6U3OWS8eHG--jc/template/preview"
                         }
                       ]
@@ -287,7 +287,7 @@
                           "url": "https://docs.google.com/document/d/1731ng2yUv_8RNGV5OB5Bew1WY_Rsky-O7qP5f9C7RNE/export?format=pdf"
                         },
                         {
-                          "linkText": "Copy/Edit in Google Docs",
+                          "linkText": "Preview/Copy in Google Docs",
                           "url": "https://docs.google.com/document/d/1731ng2yUv_8RNGV5OB5Bew1WY_Rsky-O7qP5f9C7RNE/template/preview"
                         }
                       ]
@@ -317,7 +317,7 @@
                           "url": "https://docs.google.com/presentation/d/1im-4JZzjp-Om_oUxNgvuEqDr9quc1Ry7K3PlROMy2gs/export/pdf"
                         },
                         {
-                          "linkText": "Copy/Edit in Google Docs",
+                          "linkText": "Preview/Copy in Google Docs",
                           "url": "https://docs.google.com/presentation/d/1im-4JZzjp-Om_oUxNgvuEqDr9quc1Ry7K3PlROMy2gs/template/preview"
                         }
                       ]
@@ -332,7 +332,7 @@
                           "url": "https://docs.google.com/document/d/1w85Gg0xW3xewvVrXx87RI1wGdcDaftwY6iGESm79wOc/export?format=pdf"
                         },
                         {
-                          "linkText": "Copy/Edit in Google Docs",
+                          "linkText": "Preview/Copy in Google Docs",
                           "url": "https://docs.google.com/document/d/1w85Gg0xW3xewvVrXx87RI1wGdcDaftwY6iGESm79wOc/template/preview"
                         }
                       ]
@@ -347,7 +347,7 @@
                           "url": "https://docs.google.com/document/d/1qdfi14wmE6i77z7kh7U2t08YzjFcNyAXMyK35vGQn94/export?format=pdf"
                         },
                         {
-                          "linkText": "Copy/Edit in Google Docs",
+                          "linkText": "Preview/Copy in Google Docs",
                           "url": "https://docs.google.com/document/d/1qdfi14wmE6i77z7kh7U2t08YzjFcNyAXMyK35vGQn94/template/preview"
                         }
                       ]
@@ -377,7 +377,7 @@
                           "url": "https://docs.google.com/document/d/1cgrhNQy_nwO8Ej7haVShtuO19RGreX4j_QB1VyoyQ8Q/export?format=pdf"
                         },
                         {
-                          "linkText": "Copy/Edit in Google Docs",
+                          "linkText": "Preview/Copy in Google Docs",
                           "url": "https://docs.google.com/document/d/1cgrhNQy_nwO8Ej7haVShtuO19RGreX4j_QB1VyoyQ8Q/template/preview"
                         }
                       ]
@@ -392,7 +392,7 @@
                           "url": "https://docs.google.com/document/d/1I77jzX1BZZOaNsM9w6JcocpkPw-QJWxfrLJpBzSPxfo/export?format=pdf"
                         },
                         {
-                          "linkText": "Copy/Edit in Google Docs",
+                          "linkText": "Preview/Copy in Google Docs",
                           "url": "https://docs.google.com/document/d/1I77jzX1BZZOaNsM9w6JcocpkPw-QJWxfrLJpBzSPxfo/template/preview"
                         }
                       ]
@@ -827,6 +827,13 @@
       "__component": "lesson-plan.section-heading",
       "SectionTitle": "Learning Standards"
     },
+    "learning-chart": {
+      "__component": "lesson-plan.learning-chart",
+      "Title": "About the GP Learning Chart",
+      "Description": "This Galactic Polymath Learning Chart illustrates the areas of knowledge covered. This lesson targets Science, but it helps teach national learning standards in 4 subjects: \n- [Common Core Math](https://learning.ccsso.org/common-core-state-standards-initiative); [Common Core ELA](https://learning.ccsso.org/common-core-state-standards-initiative); [Next Generation Science (NGSS)](https://www.nextgenscience.org/); and [College, Career, and Civic Life (C3) Social Studies Standards](https://www.socialstudies.org/standards/c3).\nIn total, there are 18 standards across US grade band(s): 5-6, 7-8, 9-12.",
+      "Footnote": "",
+      "Badge": "https://storage.googleapis.com/gp-cloud/lessons/ElectricCrystals_en-US/GP-Learning-Chart.png"
+    },
     "standards": {
       "__component": "lesson-plan.standards",
       "Data": [
@@ -1206,7 +1213,7 @@
       "Data": [
         {
           "role": "SciComm Consultant",
-          "def": "(Helped envision and plan an earlier version of the lesson)",
+          "def": "Helped envision and plan an earlier version of the lesson",
           "records": [
             {
               "name": "Carleen Sabusap, PhD",

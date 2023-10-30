@@ -6,18 +6,19 @@ Language: English
 Country: United States
 DefaultLanguage: English
 DefaultCountry: United States
-LastUpdated: 2023-09-17 21:42:59.768117
+LastUpdated: 2023-10-18 17:23:47.123049
+ReleaseDate: '2022-10-31'
+isTestRepo: no
 FirstPublicationDate: 2022-07-11 21:10:05
 MediumTitle: '''I Like That!'' |Science| G5-9 (en-US)'
 lang: en
 lng: eng
 locale: en-US
 DefaultLocale: en-US
-TemplateVer: 0.6.0
-galacticPubsVer: 0.9.7
-isTestRepo: no
-URL: https://galacticpolymath.com/lessons/5
+TemplateVer: 0.6.1
+galacticPubsVer: 0.9.8
 GPCatalogURL: https://gp-catalog.vercel.app/lessons/ILikeThat_en-US/LESSON.json
+URL: https://www.galacticpolymath.com/lessons/en-US/5
 GdriveHome: GP-LIVE
 GdriveDirName: ILikeThat_en-US
 GdriveTeachMatPath: GalacticPolymath/'I Like That!' |Science| G5-9 (en-US)
@@ -30,7 +31,6 @@ GdriveStandardsID: 1dSjqy3VjBn_qKEFWjp5ElJFQ98b7Mm4YnSApAZUKf9A
 GdrivePublishedID: 1qORPugrPSBLwCew3wSEwzmmbVjTnkKOJ
 GdriveDirURL: https://drive.google.com/drive/folders/1Nxy1V4pf21NhElAUdqVZpdinqCPi1oh3
 RebuildAllMaterials: no
-ReleaseDate: '2022-10-31'
 Title: I Like That!
 Subtitle: How perception, emotion, and cognition shape our preferences
 SponsorName:

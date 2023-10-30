@@ -6,18 +6,19 @@ Language: English
 Country: New Zealand
 DefaultLanguage: English
 DefaultCountry: New Zealand
-LastUpdated: 2023-09-17 21:42:57.135297
+LastUpdated: 2023-10-18 17:22:22.521137
+ReleaseDate: '2022-09-01'
+isTestRepo: no
 FirstPublicationDate: 2022-06-26 20:30:21
 MediumTitle: '''Colourful Solutions'' |Science| Y9-13 (en-NZ)'
 lang: en
 lng: eng
 locale: en-NZ
 DefaultLocale: en-NZ
-TemplateVer: 0.6.0
-galacticPubsVer: 0.9.7
-isTestRepo: no
-URL: https://galacticpolymath.com/lessons/4
+TemplateVer: 0.6.1
+galacticPubsVer: 0.9.8
 GPCatalogURL: https://gp-catalog.vercel.app/lessons/ColourfulSolns_en-NZ/LESSON.json
+URL: https://www.galacticpolymath.com/lessons/en-NZ/4
 GdriveHome: GP-LIVE
 GdriveDirName: ColourfulSolns_en-NZ
 GdriveTeachMatPath: GalacticPolymath/'Colourful Solutions' |Science| Y9-13 (en-NZ)
@@ -30,7 +31,6 @@ GdriveStandardsID: 1SFtXsfqJ1hjzcUzgt6xOA9FGOc3w6jG6dooBV-5Mh3U
 GdrivePublishedID: 1SXg5rfPo0i-nr-sRsDJxihBQHmZ6Xfeh
 GdriveDirURL: https://drive.google.com/drive/folders/1VMKHGhLAJ6ssn32d7PFs5MC0zkFwCBSv
 RebuildAllMaterials: no
-ReleaseDate: '2022-09-01'
 Title: Colourful Solutions
 Subtitle: Chemical Engineering Dyes to Brighten Lives
 SponsorName: University of Canterbury

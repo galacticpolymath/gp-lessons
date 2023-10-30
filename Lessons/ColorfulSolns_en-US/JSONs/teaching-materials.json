@@ -27,14 +27,15 @@
             "linkText": "Browse & Download All G8-12 Materials",
             "url": "https://drive.google.com/drive/folders/100eAJzq3kCNgiL78DCG2731tjKGmHjZw"
           },
-          "lessons": {
-            "1": {
+          "lessons": [
+            {
               "lsn": "1",
               "title": "Role of the Dye",
               "tags": [
                 "history of science"
               ],
               "preface": "Students investigate 3 different dye technologies, extracting information from text to fill in concept maps of the inputs and outputs of each process.",
+              "tile": null,
               "itemList": [
                 {
                   "itemTitle": "Presentation (Part 1)",
@@ -46,7 +47,7 @@
                       "url": "https://docs.google.com/presentation/d/1C-Fw9bC0EjCv-JDr9cklYwoHBkDLYOBlpiHdrO5b668/present"
                     },
                     {
-                      "linkText": "Copy/Edit in Google Docs",
+                      "linkText": "Preview/Copy in Google Docs",
                       "url": "https://docs.google.com/presentation/d/1C-Fw9bC0EjCv-JDr9cklYwoHBkDLYOBlpiHdrO5b668/template/preview"
                     }
                   ]
@@ -61,7 +62,7 @@
                       "url": "https://docs.google.com/document/d/1-Z6AQJLxAy8AVvhfHJ1we1kpa5Pr4zlgeTc4gWqE1QU/export?format=pdf"
                     },
                     {
-                      "linkText": "Copy/Edit in Google Docs",
+                      "linkText": "Preview/Copy in Google Docs",
                       "url": "https://docs.google.com/document/d/1-Z6AQJLxAy8AVvhfHJ1we1kpa5Pr4zlgeTc4gWqE1QU/template/preview"
                     }
                   ]
@@ -76,7 +77,7 @@
                       "url": "https://docs.google.com/document/d/1BmOfJasOa7R_yebmy86phKb0FJNgnHmgGdy-e7VPD2k/export?format=pdf"
                     },
                     {
-                      "linkText": "Copy/Edit in Google Docs",
+                      "linkText": "Preview/Copy in Google Docs",
                       "url": "https://docs.google.com/document/d/1BmOfJasOa7R_yebmy86phKb0FJNgnHmgGdy-e7VPD2k/template/preview"
                     }
                   ]
@@ -91,20 +92,21 @@
                       "url": "https://docs.google.com/document/d/1fi56lemsPK7LUk_KqqCbxzeJYGeKdVGBX8f61o4c0fk/export?format=pdf"
                     },
                     {
-                      "linkText": "Copy/Edit in Google Docs",
+                      "linkText": "Preview/Copy in Google Docs",
                       "url": "https://docs.google.com/document/d/1fi56lemsPK7LUk_KqqCbxzeJYGeKdVGBX8f61o4c0fk/template/preview"
                     }
                   ]
                 }
               ]
             },
-            "2": {
+            {
               "lsn": "2",
               "title": "The Price of Colour",
               "tags": [
                 "engineering mindset"
               ],
               "preface": "Using the concept maps they developed in Part 1, students sort a set of cards into 3 ordered processes. This is used to understand the starting costs of each technology.",
+              "tile": null,
               "itemList": [
                 {
                   "itemTitle": "Presentation (Part 2)",
@@ -116,7 +118,7 @@
                       "url": "https://docs.google.com/presentation/d/1DD8nTGmtMWZyB1TTFqj1O1YVXyfZYln1B0A9v5ayJ3c/present"
                     },
                     {
-                      "linkText": "Copy/Edit in Google Docs",
+                      "linkText": "Preview/Copy in Google Docs",
                       "url": "https://docs.google.com/presentation/d/1DD8nTGmtMWZyB1TTFqj1O1YVXyfZYln1B0A9v5ayJ3c/template/preview"
                     }
                   ]
@@ -131,7 +133,7 @@
                       "url": "https://docs.google.com/presentation/d/1rz6IfIbApSKUpx32RDnE5_abCVvv5RisIsDqqVnqsQU/export/pdf"
                     },
                     {
-                      "linkText": "Copy/Edit in Google Docs",
+                      "linkText": "Preview/Copy in Google Docs",
                       "url": "https://docs.google.com/presentation/d/1rz6IfIbApSKUpx32RDnE5_abCVvv5RisIsDqqVnqsQU/template/preview"
                     }
                   ]
@@ -146,7 +148,7 @@
                       "url": "https://docs.google.com/document/d/1993yqIrSIL4VDr3i0lLme3stVoTfDZ6DzRtvrz2DzoI/export?format=pdf"
                     },
                     {
-                      "linkText": "Copy/Edit in Google Docs",
+                      "linkText": "Preview/Copy in Google Docs",
                       "url": "https://docs.google.com/document/d/1993yqIrSIL4VDr3i0lLme3stVoTfDZ6DzRtvrz2DzoI/template/preview"
                     }
                   ]
@@ -161,20 +163,21 @@
                       "url": "https://docs.google.com/document/d/1ik66cWM0A_aQq7phctie0MqsA6ZKwFlZd7TIXYH4lrE/export?format=pdf"
                     },
                     {
-                      "linkText": "Copy/Edit in Google Docs",
+                      "linkText": "Preview/Copy in Google Docs",
                       "url": "https://docs.google.com/document/d/1ik66cWM0A_aQq7phctie0MqsA6ZKwFlZd7TIXYH4lrE/template/preview"
                     }
                   ]
                 }
               ]
             },
-            "3": {
+            {
               "lsn": "3",
               "title": "Thinking Like a Chemical Engineer",
               "tags": [
                 ["data literacy", "sustainability", "engineering mindset"]
               ],
               "preface": "Students interpreting graphs of how textile prices change with production scale for each dye technology used. They then weigh price, sustainability, and cultural significance to propose the best technological solution.",
+              "tile": null,
               "itemList": [
                 {
                   "itemTitle": "Presentation (Part 3)",
@@ -186,7 +189,7 @@
                       "url": "https://docs.google.com/presentation/d/19fmYTEeKalfm3u5D_6ErJJZukAkLG9-U2P1ZX78fDXE/present"
                     },
                     {
-                      "linkText": "Copy/Edit in Google Docs",
+                      "linkText": "Preview/Copy in Google Docs",
                       "url": "https://docs.google.com/presentation/d/19fmYTEeKalfm3u5D_6ErJJZukAkLG9-U2P1ZX78fDXE/template/preview"
                     }
                   ]
@@ -201,7 +204,7 @@
                       "url": "https://docs.google.com/document/d/1yAYh7TdRAzEdOmO_IysCJeBFdC0jxdlv0IiosZnI8NA/export?format=pdf"
                     },
                     {
-                      "linkText": "Copy/Edit in Google Docs",
+                      "linkText": "Preview/Copy in Google Docs",
                       "url": "https://docs.google.com/document/d/1yAYh7TdRAzEdOmO_IysCJeBFdC0jxdlv0IiosZnI8NA/template/preview"
                     }
                   ]
@@ -216,49 +219,53 @@
                       "url": "https://docs.google.com/document/d/1IuA6asdUFeQuc2uOy5Fx-v8eymIbF7JNftV3HG5V5bs/export?format=pdf"
                     },
                     {
-                      "linkText": "Copy/Edit in Google Docs",
+                      "linkText": "Preview/Copy in Google Docs",
                       "url": "https://docs.google.com/document/d/1IuA6asdUFeQuc2uOy5Fx-v8eymIbF7JNftV3HG5V5bs/template/preview"
                     }
                   ]
                 }
               ]
             },
-            "lsn": "last",
-            "title": "Assessments",
-            "preface": "",
-            "itemList": [
-              {
-                "itemTitle": "Assessment (TEACHER)",
-                "itemDescription": "This is a streamlined assessment designed to be used in pre/post testing to measure how this lesson affects STEM alignment and key learning objectives.",
-                "itemCat": "document",
-                "links": [
-                  {
-                    "linkText": "PDF",
-                    "url": "https://docs.google.com/document/d/1o-o_enCw6u6_SRjg8tkxPMUSoYEg2b5yOp80HqNa008/export?format=pdf"
-                  },
-                  {
-                    "linkText": "Copy/Edit in Google Docs",
-                    "url": "https://docs.google.com/document/d/1o-o_enCw6u6_SRjg8tkxPMUSoYEg2b5yOp80HqNa008/template/preview"
-                  }
-                ]
-              },
-              {
-                "itemTitle": "Assessment (STUDENT)",
-                "itemDescription": null,
-                "itemCat": "document",
-                "links": [
-                  {
-                    "linkText": "PDF",
-                    "url": "https://docs.google.com/document/d/15g3EXyg-Imz0CRFNaKcrSqj2OLOrK_5J7EN0TwaTGp0/export?format=pdf"
-                  },
-                  {
-                    "linkText": "Copy/Edit in Google Docs",
-                    "url": "https://docs.google.com/document/d/15g3EXyg-Imz0CRFNaKcrSqj2OLOrK_5J7EN0TwaTGp0/template/preview"
-                  }
-                ]
-              }
-            ]
-          }
+            {
+              "lsn": "last",
+              "title": "Assessments",
+              "tags": null,
+              "preface": "",
+              "tile": "https://storage.googleapis.com/gp-cloud/icons/assessment%20icon.png",
+              "itemList": [
+                {
+                  "itemTitle": "Assessment (TEACHER)",
+                  "itemDescription": "This is a streamlined assessment designed to be used in pre/post testing to measure how this lesson affects STEM alignment and key learning objectives.",
+                  "itemCat": "document",
+                  "links": [
+                    {
+                      "linkText": "PDF",
+                      "url": "https://docs.google.com/document/d/1o-o_enCw6u6_SRjg8tkxPMUSoYEg2b5yOp80HqNa008/export?format=pdf"
+                    },
+                    {
+                      "linkText": "Preview/Copy in Google Docs",
+                      "url": "https://docs.google.com/document/d/1o-o_enCw6u6_SRjg8tkxPMUSoYEg2b5yOp80HqNa008/template/preview"
+                    }
+                  ]
+                },
+                {
+                  "itemTitle": "Assessment (STUDENT)",
+                  "itemDescription": null,
+                  "itemCat": "document",
+                  "links": [
+                    {
+                      "linkText": "PDF",
+                      "url": "https://docs.google.com/document/d/15g3EXyg-Imz0CRFNaKcrSqj2OLOrK_5J7EN0TwaTGp0/export?format=pdf"
+                    },
+                    {
+                      "linkText": "Preview/Copy in Google Docs",
+                      "url": "https://docs.google.com/document/d/15g3EXyg-Imz0CRFNaKcrSqj2OLOrK_5J7EN0TwaTGp0/template/preview"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ]
     },

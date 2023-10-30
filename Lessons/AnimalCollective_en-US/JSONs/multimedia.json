@@ -10,5 +10,29 @@
     "byLink": "https://www.youtube.com/channel/UCfyBNvN3CH4uWmwOCQVhmhg/featured",
     "mainLink": "https://www.youtube.com/embed/mD24yi7uLgU",
     "otherLink": null
+  },
+  {
+    "order": "2",
+    "type": "web-app",
+    "forLsn": "4",
+    "title": "\"Swimming in the Dark\" Fish Schooling App",
+    "description": null,
+    "lessonRelevance": "Our custom simulation allows students to run digital experiments about what drives the emergence of schooling behavior.",
+    "by": "Galactic Polymath",
+    "byLink": "https://www.youtube.com/channel/UCfyBNvN3CH4uWmwOCQVhmhg/featured",
+    "mainLink": "https://into-the-dark.vercel.app/",
+    "otherLink": null
+  },
+  {
+    "order": "3",
+    "type": "web-app",
+    "forLsn": "5",
+    "title": "\"EchoSim\" Social Media Dynamics App",
+    "description": null,
+    "lessonRelevance": "Our custom sim allows students to explore how different human variables (like tolerance) affect the formation of echo chambers in social media.",
+    "by": "Galactic Polymath",
+    "byLink": "https://www.youtube.com/channel/UCfyBNvN3CH4uWmwOCQVhmhg/featured",
+    "mainLink": "https://echo-jade.vercel.app/",
+    "otherLink": null
   }
 ]
