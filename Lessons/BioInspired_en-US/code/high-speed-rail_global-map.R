@@ -58,10 +58,18 @@ world <- ne_countries(returnclass = "sf")
 
 
 # Plot the map ------------------------------------------------------------
-map <- ggplot() +
-  # xlim(-80, -65) +
+map0 <- ggplot() +
   ylim(-55, 80) +
-  geom_sf(data = world, fill = "#3E454D") +
+  geom_sf(data = world, fill = "#3E454D")+
+  theme_void() +
+  ggplot2::theme(
+    panel.background = ggplot2::element_rect(fill = "#020A14"),
+    plot.margin = ggplot2::unit(c(0, 0, 0, 0), "in"),
+    panel.grid = ggplot2::element_line(linewidth = 0.1, colour = "#A0A5AB")
+  ) +
+  scale_x_continuous(expand = c(0, 0))
+
+map <- map0+
   with_outer_glow(
     geom_sf(
       data = rail_simple,
@@ -72,22 +80,40 @@ map <- ggplot() +
     colour = "#FECB29",
     sigma = 10,
     expansion = 5
-  ) +
-  theme_void() +
-  ggplot2::theme(
-    panel.background = ggplot2::element_rect(fill = "#020A14"),
-    plot.margin = ggplot2::unit(c(0, 0, 0, 0), "in"),
-    panel.grid = ggplot2::element_line(linewidth = 0.1, colour = "#A0A5AB")
-  ) +
-  scale_x_continuous(expand = c(0, 0))
+  )
 
 # Save high res version for video -----------------------------------------
 
 
 map
-ggsave(fs::path(WD, "assets", "highSpeedRail_world.png"), dpi = 600)
+ggsave(fs::path(WD, "assets", "highSpeedRail_world.png"),plot = map, dpi = 600)
 
+#Export just the map layer
+ggsave(plot = map0,filename=fs::path(WD, "assets", "highSpeedRail_world_justMap.png"), dpi = 600)
 
+#export just the railroad
+railmap <- ggplot() +
+  ylim(-55, 80) +
+  theme_void() +
+  ggplot2::theme(
+    # panel.background = ggplot2::element_rect(fill = "#020A14"),
+    plot.margin = ggplot2::unit(c(0, 0, 0, 0), "in"),
+    # panel.grid = ggplot2::element_line(linewidth = 0.1, colour = "#A0A5AB")
+  ) +
+  scale_x_continuous(limits =c(-180,180), expand = c(0, 0))+
+  with_outer_glow(
+    geom_sf(
+      data = rail_simple,
+      col = "#FCF000",
+      fill = NA,
+      linewidth = 0.5
+    ),
+    colour = "#FECB29",
+    sigma = 10,
+    expansion = 5
+  )
+railmap
+ggsave(plot = railmap,filename=fs::path(WD, "assets", "highSpeedRail_world_justRail.png"), dpi = 600)
 
 # Make GP footer version for socializing ----------------------------------
 
@@ -148,9 +174,9 @@ G <- grid::grid.grabExpr({
 })
   grDevices::png(
     fs::path(WD, "assets", "highSpeedRail_world_GP.png"),
-    # width = 7,
-    # height = 4.5,
-    units = "in",
+    width = 5566,
+    height = 3924,
+    units = "px",
     res = 600
   )
 
