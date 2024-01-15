@@ -204,7 +204,7 @@
       {
         "lsnNum": 1,
         "lsnTitle": "Defining a Pattern in Nature",
-        "lsnDur": 45,
+        "lsnDur": 60,
         "lsnPreface": "Students \"collect\" data in a fun activity blending creative movement, cards, animal videos, and data literacy.",
         "learningObj": ["Explain how animal behavior facilitates survival and reproduction.", "Collect, reorganize, and analyze data to identify a pattern (that males tend to have adaptations to compete for mates, while females provide more parental care), and interpret exceptions to that pattern."],
         "lsnPrep": {
@@ -372,7 +372,7 @@
       {
         "lsnNum": 3,
         "lsnTitle": "Let's Go to Borneo!",
-        "lsnDur": null,
+        "lsnDur": 45,
         "lsnPreface": "Students analyze Dr. Johana Goyes Vallejos' data, collected from the field in Borneo. They will test whether Guardian Frogs are the first known frog with sex role reversal.",
         "learningObj": ["Explain how animal behavior facilitates survival and reproduction.", "Learn to test hypotheses by interpreting authentic scientific graphs and data.", "Understand that there is always variability in scientific data.", "Cite evidence to support explanatory claims.", "Integrate multiple lines of evidence to explain why biological exceptions matter to science and society."],
         "lsnPrep": {

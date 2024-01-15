@@ -7,16 +7,39 @@
   "Country": "United States",
   "DefaultLanguage": "English",
   "DefaultCountry": "New Zealand",
-  "LastUpdated": "2023-10-18 17:19:33.667212",
+  "LastUpdated": "2023-12-15 17:47:04.162357",
   "ReleaseDate": "2022-09-06",
   "isTestRepo": false,
   "FirstPublicationDate": "2022-06-26 20:30:21",
+  "LsnStatuses": [
+    {
+      "lsn": 1,
+      "status": "Live",
+      "updated_date": null,
+      "new_date": "2022-09-06",
+      "sort_by_date": "2022-09-06"
+    },
+    {
+      "lsn": 2,
+      "status": "Live",
+      "updated_date": null,
+      "new_date": "2022-09-06",
+      "sort_by_date": "2022-09-06"
+    },
+    {
+      "lsn": 3,
+      "status": "Live",
+      "updated_date": null,
+      "new_date": "2022-09-06",
+      "sort_by_date": "2022-09-06"
+    }
+  ],
   "MediumTitle": "'Colorful Solutions' |Science| G8-12 (en-US)",
   "lang": "en",
   "lng": "eng",
   "locale": "en-US",
   "DefaultLocale": "en-NZ",
-  "TemplateVer": "0.6.1",
+  "TemplateVer": "0.6.2",
   "galacticPubsVer": "0.9.8",
   "URL": "https://www.galacticpolymath.com/lessons/en-US/4",
   "GdriveHome": "GP-LIVE",
@@ -26,7 +49,7 @@
   "GdrivePublicID": "15KK-qNwPUbw2d1VBDvsjHfreCSBpwMiw",
   "GdriveDirID": "1iZor6-fjHKoWPZZeDM-3BlTywEebVgHB",
   "GdriveMetaID": "1hFvlkgzybMvud8VhaSYX_bz63bSMhPtl",
-  "GdriveTeachItID": "1F2fqMxL4fJXyaOhAP13vuFHN7TMODya6MYiOmCivpBE",
+  "GdriveTeachItID": "1ls3aqCLKX3A8o3BhVbX-QkZ_x6o-eKtlzFCJokXB8VQ",
   "GdriveStandardsID": "1BZ_0DEjYME1SX2Ozo4au92vEo-Ge32_M14TTFgrvorQ",
   "GdrivePublishedID": "1CtpWq3wr30Rw38mrH__WKJGdXbyyGkvi",
   "GdriveDirURL": "https://drive.google.com/drive/folders/1iZor6-fjHKoWPZZeDM-3BlTywEebVgHB",
@@ -78,7 +101,7 @@
       "SteamEpaulette_vert": "https://storage.googleapis.com/gp-cloud/lessons/ColorfulSolns_en-US/GP-Learning-Epaulette_vert.png"
     },
     "preview": {
-      "__component": "lesson-plan.lesson-preview",
+      "__component": "lesson-plan.unit-preview",
       "SectionTitle": "Lesson Preview",
       "QuickPrep": "1. Check out lesson multimedia below\n2. Look over <AnchorLink href=\"#teaching_materials\"> Teaching Materials <\/AnchorLink>\n3. Teach it and <AnchorLink href=\"#feedback\"> let us know what you think! <\/AnchorLink>",
       "Multimedia": [
@@ -621,7 +644,7 @@
           {
             "lsnNum": 3,
             "lsnTitle": "Thinking Like a Chemical Engineer",
-            "lsnDur": null,
+            "lsnDur": 45,
             "lsnPreface": "Students interpreting graphs of how textile prices change with production scale for each dye technology used. They then weigh price, sustainability, and cultural significance to propose the best technological solution.",
             "learningObj": [
               "Understand that chemical engineers develop economical commercial processes to convert raw material into useful products.",
@@ -757,7 +780,7 @@
     "background": {
       "__component": "lesson-plan.collapsible-text-section",
       "SectionTitle": "Background",
-      "Content": "#### Māori Culture\nFor those unfamiliar with Māori culture and language, here are some helpful links.\n- [Written Māori pronunciation guide](https://www.wgtn.ac.nz/maori-hub/ako/te-reo-at-university/te-reo-maori-pronunciation-guide) and [Video of Māori vowel pronunciation](https://www.youtube.com/watch?v=O_DtsHdMAtk)\n- [Māori dictionary](https://maoridictionary.co.nz/)\n- [Māori history Wikipedia entry](https://en.wikipedia.org/wiki/M%C4%81ori_history)\n \n#### Scientific Background\nThis lesson helps build a high-level understanding of the different processes behind 3 dye technologies: 2 derived from natural resources (tānekaha red and Tyrian purple) and 1 derived from fossil fuels (mauveine). You and your students can gain more detailed knowledge by reading this scientific paper, coauthored by Rangi Te Kanawa.\n![Screenshot of the journal article](https://gp-catalog.vercel.app/lessons/ColorfulSolns_en-US/paper.png)\n- [Link to Journal Article](https://www.dominikmatus.cz/files/Some%20Traditional%20Colourants%20of%20Maori%20and%20other%20Cultures.pdf)\n#### Further Reading:\n- [Middle East Eye | “Smelly Snails and deep purple: This ancient dye costs $2,700 per gram”](https://www.middleeasteye.net/discover/colour-purple-dyeing-techniques-phoenician-sea-snails)\n- [Pangaia | “Dyes and the Dyeing Process](https://pangaia.com/pages/dyes-and-the-dyeing-process): a marketing blog about clothing company Pangaia’s search for sustainable dyes. Have students read and discuss this blog with a critical eye.\n- [Science History | “Fit to Be Dyed: The enduring appeal of tie-dye”](https://www.sciencehistory.org/distillations/fit-to-be-dyed) ",
+      "Content": "#### Māori Culture\nFor those unfamiliar with Māori culture and language, here are some helpful links.\n- [Written Māori pronunciation guide](https://www.wgtn.ac.nz/maori-hub/ako/te-reo-at-university/te-reo-maori-pronunciation-guide) and [Video of Māori vowel pronunciation](https://www.youtube.com/watch?v=O_DtsHdMAtk)\n- [Māori dictionary](https://maoridictionary.co.nz/)\n- [Māori history Wikipedia entry](https://en.wikipedia.org/wiki/M%C4%81ori_history)\n \n#### Scientific Background\nThis lesson helps build a high-level understanding of the different processes behind 3 dye technologies: 2 derived from natural resources (tānekaha red and Tyrian purple) and 1 derived from fossil fuels (mauveine). You and your students can gain more detailed knowledge by reading this scientific paper, coauthored by Rangi Te Kanawa.\n![Screenshot of the journal article](https://storage.googleapis.com/gp-cloud/lessons/ColorfulSolns_en-US/paper.png)\n- [Link to Journal Article](https://www.dominikmatus.cz/files/Some%20Traditional%20Colourants%20of%20Maori%20and%20other%20Cultures.pdf)\n#### Further Reading:\n- [Middle East Eye | “Smelly Snails and deep purple: This ancient dye costs $2,700 per gram”](https://www.middleeasteye.net/discover/colour-purple-dyeing-techniques-phoenician-sea-snails)\n- [Pangaia | “Dyes and the Dyeing Process](https://pangaia.com/pages/dyes-and-the-dyeing-process): a marketing blog about clothing company Pangaia’s search for sustainable dyes. Have students read and discuss this blog with a critical eye.\n- [Science History | “Fit to Be Dyed: The enduring appeal of tie-dye”](https://www.sciencehistory.org/distillations/fit-to-be-dyed) ",
       "InitiallyExpanded": true
     },
     "standards-header": {

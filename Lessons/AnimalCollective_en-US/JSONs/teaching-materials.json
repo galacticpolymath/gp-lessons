@@ -634,7 +634,7 @@
       {
         "lsnNum": 3,
         "lsnTitle": "Flock this way",
-        "lsnDur": 50,
+        "lsnDur": 45,
         "lsnPreface": "Students will get up and move (in a gym or field) to test how simple behavioral rules affect emergent patterns of \"flocking\" and \"schooling\" in animal groups.",
         "learningObj": ["Explain how flocking and schooling represent *emergent* properties that arise from simple rules operating in a complex group.", "Do a physical (analog) simulation to test if simple rules can reproduce schooling/flocking behavior.", "Deeply understand how abstract parameters like following distance and cohesion translate into group movement patterns."],
         "lsnPrep": {
@@ -707,7 +707,7 @@
       {
         "lsnNum": 4,
         "lsnTitle": "Swimming in the Dark",
-        "lsnDur": 45,
+        "lsnDur": 50,
         "lsnPreface": "Students will use a custom simulation to run digital experiments about fish schooling behavior. They will compare their results to findings from a real study.",
         "learningObj": ["Explain how flocking and schooling represent *emergent* properties that arise from simple rules operating in a complex group.", "Connect their analog physical activities in Lesson 3 to a computer simulation of fish schooling.", "Run digital experiments to analyze how simulation parameters affect the group movement behavior of digital fish.", "Compare digital experimental results to real scientific results to better understand the nature of science."],
         "lsnPrep": {
@@ -796,7 +796,7 @@
       {
         "lsnNum": 5,
         "lsnTitle": "Emergence in Human Social Networks",
-        "lsnDur": null,
+        "lsnDur": 45,
         "lsnPreface": "Students use a simulation of human social network behavior to understand how echo chambers form. They will reflect on how our individual choices affect the flow of information.",
         "learningObj": ["Apply the concepts of complexity and emergence to the flow of information in social media networks.", "Run simulations to test how different factors (such as unfriending rate or tolerance) affect social media network structure.", "Use a digital simulation of social media networks to understand how echo chambers emerge in social media.", "Evaluate how their own decisions on social media affect broader (emergent) patterns, such as the formation or breakdown of echo chambers."],
         "lsnPrep": {
@@ -891,7 +891,7 @@
       {
         "lsnNum": 6,
         "lsnTitle": "The End (Reflection)",
-        "lsnDur": null,
+        "lsnDur": 45,
         "lsnPreface": "Brief guidelines and ideas for student discussion, reflection & synthesis about the whole unit.",
         "learningObj": null,
         "lsnPrep": {

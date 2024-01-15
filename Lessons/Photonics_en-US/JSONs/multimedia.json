@@ -1,0 +1,74 @@
+[
+  {
+    "order": "1",
+    "type": "pdf",
+    "forLsn": "1",
+    "title": "Magnification Technologies Timeline Puzzle",
+    "description": null,
+    "lessonRelevance": "This timeline puzzle requires students to think critically as they learn about early optical engineers.",
+    "by": "Galactic Polymath",
+    "byLink": "https://www.youtube.com/channel/UCfyBNvN3CH4uWmwOCQVhmhg/featured",
+    "mainLink": "https://docs.google.com/presentation/d/18D0tqNx2flXrTFb1iFINHORV_diTpKMCWTbpSPGL8iU/preview?rm=minimal",
+    "otherLink": null
+  },
+  {
+    "order": "2",
+    "type": "video",
+    "forLsn": "1",
+    "title": "What Are Lenses?",
+    "description": null,
+    "lessonRelevance": "This video explores the history of photonics, and introduces the scientific basis of lenses.",
+    "by": "Galactic Polymath",
+    "byLink": "https://www.youtube.com/channel/UCfyBNvN3CH4uWmwOCQVhmhg/featured",
+    "mainLink": null,
+    "otherLink": null
+  },
+  {
+    "order": "4",
+    "type": "pdf",
+    "forLsn": "1",
+    "title": "Seeing Through Time worksheet",
+    "description": null,
+    "lessonRelevance": "This worksheet has students to take notes about lens technology and take on an optical engineering design challenge.",
+    "by": "Galactic Polymath",
+    "byLink": "https://www.youtube.com/channel/UCfyBNvN3CH4uWmwOCQVhmhg/featured",
+    "mainLink": "https://docs.google.com/document/d/1lGF3DM_G_NVjIw7AFz9Xtfxa3LFchEY3GU2b_rQzSHI/preview?rm=minimal",
+    "otherLink": null
+  },
+  {
+    "order": "3",
+    "type": "video",
+    "forLsn": "1",
+    "title": "How Glasses Work to Correct Vision",
+    "description": null,
+    "lessonRelevance": "More advanced students might be interested in learning how glasses and contacts work to correct vision.",
+    "by": "Galactic Polymath",
+    "byLink": "https://www.youtube.com/channel/UCfyBNvN3CH4uWmwOCQVhmhg/featured",
+    "mainLink": null,
+    "otherLink": null
+  },
+  {
+    "order": "6",
+    "type": "pdf",
+    "forLsn": "2",
+    "title": "Communicating With Light Worksheet",
+    "description": null,
+    "lessonRelevance": "On this worksheet students explore \"what is light?\" and brainstorm how messages can be encoded in waves.",
+    "by": "Galactic Polymath",
+    "byLink": "https://www.youtube.com/channel/UCfyBNvN3CH4uWmwOCQVhmhg/featured",
+    "mainLink": null,
+    "otherLink": null
+  },
+  {
+    "order": "5",
+    "type": "video",
+    "forLsn": "2",
+    "title": "What is Light?",
+    "description": null,
+    "lessonRelevance": "In this short video a photonics expert introduces light as a broad spectrum of frequencies.",
+    "by": "Galactic Polymath",
+    "byLink": "https://www.youtube.com/channel/UCfyBNvN3CH4uWmwOCQVhmhg/featured",
+    "mainLink": null,
+    "otherLink": null
+  }
+]

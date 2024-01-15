@@ -1,22 +1,49 @@
 numID: 8
 _id: lesson_8_en-US
 ShortTitle: BioInspired
-PublicationStatus: Proto
+PublicationStatus: Draft
 Language: English
 Country: United States
 DefaultLanguage: English
 DefaultCountry: United States
-LastUpdated: 2023-09-26 17:27:40.858796
+LastUpdated: 2024-01-03 14:44:54.902256
+ReleaseDate: '2023-12-31'
+isTestRepo: no
 FirstPublicationDate: .na
-MediumTitle: '''Bio-Inspired Design'' |Math| (en-US)'
+LsnStatuses:
+- lsn: 1
+  status: Beta
+  updated_date: .na
+  new_date: .na
+  sort_by_date: '2024-01-02'
+- lsn: 2
+  status: Beta
+  updated_date: .na
+  new_date: .na
+  sort_by_date: '2024-01-02'
+- lsn: 3
+  status: Beta
+  updated_date: .na
+  new_date: .na
+  sort_by_date: '2024-01-02'
+- lsn: 4
+  status: Beta
+  updated_date: .na
+  new_date: .na
+  sort_by_date: '2024-01-02'
+- lsn: 5
+  status: Beta
+  updated_date: .na
+  new_date: .na
+  sort_by_date: '2024-01-02'
+MediumTitle: '''Bioinspired Design'' |Science| G8-University (en-US)'
 lang: en
 lng: eng
 locale: en-US
 DefaultLocale: en-US
-TemplateVer: 0.6.0
-galacticPubsVer: 0.9.7
-isTestRepo: no
-URL: .na
+TemplateVer: 0.6.2
+galacticPubsVer: 0.9.8
+URL: https://www.galacticpolymath.com/lessons/en-US/8
 GdriveHome: GP-Studio
 GdriveDirName: BioInspired_en-US
 GdriveTeachMatPath: GP-Studio/Edu/Lessons/BioInspired_en-US/teaching-materials
@@ -24,25 +51,33 @@ GdriveTeachMatID: 1oWVviHRSpyXelq7rDLiM9NfwecGf7DOV
 GdrivePublicID: .na
 GdriveDirID: 1oG2tr0JvLZtTKRqPwlPIVRuc3FQONYq3
 GdriveMetaID: 1oLpRpu4ojmZ6lPzBv-8fxibguwLugsvp
-GdriveTeachItID: 16sCsT3mRr3XFKZTPP1s_V3GDalBmF-fNO3mv_NU_UQA
+GdriveTeachItID: 1dT6u3HMhpyIVscUEcqisi7Kghaug01WoyPM5wW40up4
 GdriveStandardsID: 1mp9m_1iOEc-Hiv6oVBk4KG-4I4k5Z9GZ70rEATD88UY
 GdrivePublishedID: 1oU_74nxGctnRfvSRYrqI1v1rCw4na5Jo
 GdriveDirURL: https://drive.google.com/drive/folders/1oG2tr0JvLZtTKRqPwlPIVRuc3FQONYq3
 RebuildAllMaterials: no
-ReleaseDate: '2050-01-01'
-Title: Bio-Inspired Design
-Subtitle: Looking to Nature for Better Solutions
-SponsorName: .na
-SponsoredBy: .na
-SponsorLogo: []
-LessonBanner: .na
+Title: Bioinspired Design
+Subtitle: Looking to Biology for Better Solutions
+SponsorName:
+- John Templeton Foundation
+- Emilie Snell-Rood Lab
+SponsoredBy: |-
+  - The [John Templeton Foundation](https://www.templeton.org/about/vision-mission-impact) funds research and catalyzes conversations that inspire people with awe and wonder.
+  - [Dr. Emilie Snell-Rood's Lab](https://cbs.umn.edu/snell-rood-lab/people) at the University of Minnesota studies how organisms respond to anthropogenic environments, and implications for preserving biodiversity. This unit is an interdisciplinary side-project with collaborators in biology, design, architecture, and engineering.
+SponsorLogo: https://storage.googleapis.com/gp-cloud/lessons/BioInspired_en-US/JTF_logo_wtagline.png
+LessonBanner: https://storage.googleapis.com/gp-cloud/lessons/BioInspired_en-US/Banner_Clean_Color.png
 LessonCard: .na
-TargetSubject: Math
-LessonEnvir: .na
-ForGrades: .na
+TargetSubject: Science
+LessonEnvir: Classroom
+ForGrades: 8-University
 GradesOrYears: Grades
-LessonTiles: .na
-EstLessonTime: .na
+LessonTiles:
+- https://storage.googleapis.com/gp-cloud/lessons/BioInspired_en-US/Bioinspired-Lesson-Tiles-1-Bioinspired_L1_Tile.png
+- https://storage.googleapis.com/gp-cloud/lessons/BioInspired_en-US/Bioinspired-Lesson-Tiles-2-Bioinspired_L2_Tile.png
+- https://storage.googleapis.com/gp-cloud/lessons/BioInspired_en-US/Bioinspired-Lesson-Tiles-3-Bioinspired_L3_Tile.png
+- https://storage.googleapis.com/gp-cloud/lessons/BioInspired_en-US/Bioinspired-Lesson-Tiles-4-Bioinspired_L4_Tile.png
+- https://storage.googleapis.com/gp-cloud/lessons/BioInspired_en-US/Bioinspired-Lesson-Tiles-5-Bioinspired_L5_Tile.png
+EstLessonTime: 5 or more class periods
 PullStandardsInfoFrom: myFile
 LearningPlotCorrection: yes
 LearningChartFriendly: .na
@@ -54,14 +89,23 @@ LearningChart: .na
 LearningChart_params_centralText: []
 LearningChart_params_caption: []
 LearningChart_params_captionN: yes
-SupportingMedia: []
-LearningSummary: .na
-DrivingQ: .na
+SupportingMedia: https://storage.googleapis.com/gp-cloud/lessons/BioInspired_en-US/vocab.csv
+LearningSummary: 'By bridging engineering and biology, students will expand their
+  perspective on how to design solutions that could change the world. This challenge
+  empowers young learners with the Bioinspired Design Process: a novel design framework
+  developed with experts in evolutionary biology, architecture, and design.'
+DrivingQ: |
+  1. How can we use organismal adaptations to design better engineering solutions?
+  2. What products in our daily lives could be more sustainable, functional, or aesthetically pleasing?
 EssentialQ: .na
 Hooks: .na
 MiscMD: .na
 LearningObj: .na
-Tags: .na
+Tags:
+- biomimicry
+- design thinking
+- PBL
+- project-based learning
 Description: .na
 QuickPrep: |
   1. Check out lesson multimedia below
@@ -76,8 +120,8 @@ Feedback: |
   ### Please let us know how it went with your class!
   #### We want to know what you (and/or your students) think!
   Share your feedback in < 5 min with these forms:
-  - [For teachers](https://forms.gle/HY1sFxZUH7uG6JqP8)
-  - [For students](https://forms.gle/gwkRYvvZY6Sp2dQb9)
+  - [For teachers](https://forms.gle/RWavzgBusrXJyC1w8)
+  - [For students](https://forms.gle/Kk2CkDrjkzQN3div9)
 Credits:
   value: .na
 Acknowledgments:
@@ -89,11 +133,21 @@ Acknowledgments:
   Location: .na
   Link: .na
 Versions:
-  ver_num: 0.1.0
-  date: July 21, 2023
-  ver_summary: Lesson initialized
-  ver_notes: .na
-  ver_acknowledgments: .na
+  ver_num:
+  - 0.1.0
+  - 0.1.2
+  date:
+  - July 21, 2023
+  - December 23, 2023
+  ver_summary:
+  - Lesson initialized
+  - Added banner and other materials.
+  ver_notes:
+  - .na
+  - .na
+  ver_acknowledgments:
+  - .na
+  - .na
 ScriptsToRun: .na
 GoogleCloudStorage:
   filename: .na
@@ -101,4 +155,6 @@ GoogleCloudStorage:
   cloud_path: .na
   mod_time: .na
   last_uploaded: .na
-ReadyToCompile: Front Matter
+ReadyToCompile:
+- Front Matter
+- Teaching Materials

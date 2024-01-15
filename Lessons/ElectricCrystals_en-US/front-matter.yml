@@ -6,16 +6,37 @@ Language: English
 Country: United States
 DefaultLanguage: English
 DefaultCountry: United States
-LastUpdated: 2023-10-18 17:38:09.286843
+LastUpdated: 2023-12-15 17:50:01.949848
 ReleaseDate: '2023-05-07'
 isTestRepo: no
 FirstPublicationDate: 2023-04-10 12:14:57
+LsnStatuses:
+- lsn: 1
+  status: Live
+  updated_date: .na
+  new_date: '2023-05-07'
+  sort_by_date: '2023-05-07'
+- lsn: 2
+  status: Live
+  updated_date: .na
+  new_date: '2023-05-07'
+  sort_by_date: '2023-05-07'
+- lsn: 3
+  status: Live
+  updated_date: .na
+  new_date: '2023-05-07'
+  sort_by_date: '2023-05-07'
+- lsn: 4
+  status: Live
+  updated_date: .na
+  new_date: '2023-05-07'
+  sort_by_date: '2023-05-07'
 MediumTitle: '''Electric Crystals'' |Science| G7-12 (en-US)'
 lang: en
 lng: eng
 locale: en-US
 DefaultLocale: en-US
-TemplateVer: 0.6.1
+TemplateVer: 0.6.2
 galacticPubsVer: 0.9.8
 GPCatalogURL: https://gp-catalog.vercel.app/lessons/ElectricCrystals_en-US/LESSON.json
 GitHubURL: git@github.com:galacticpolymath/ElectricCrystals_en-US.git
@@ -27,7 +48,7 @@ GdriveTeachMatID: .na
 GdrivePublicID: 17GmAzcNYGrrTw7iBV-QQYHrPxw-C69WX
 GdriveDirID: 1J24HOKWaZM346IKL2Vs32YjAu9fvlEj5
 GdriveMetaID: 1dlkMAHfl7P-uFno3U_9lCheDFew3SjT5
-GdriveTeachItID: 1MYi32nIbB2doL2gpvUz8HVoSi7XgGYFAzkeCGLSFtrA
+GdriveTeachItID: 17_zX4pbOPMtmDdDxMWwPN7xWe47n9G8m5sZmK_pumqU
 GdriveStandardsID: 1pmi9qRJXBUrzHP-j9-BkyO58DnuZVu4fsV7dohVOheo
 GdrivePublishedID: 1dlN6OdrQXZi4YzV0-9sjsaPL3ZDAQK-C
 GdriveDirURL: https://drive.google.com/drive/folders/1J24HOKWaZM346IKL2Vs32YjAu9fvlEj5

@@ -7,16 +7,60 @@
   "Country": "United States",
   "DefaultLanguage": "English",
   "DefaultCountry": "United States",
-  "LastUpdated": "2023-10-26 14:04:02.531693",
-  "ReleaseDate": "2050-01-01",
+  "LastUpdated": "2023-12-15 17:46:37.116533",
+  "ReleaseDate": "2023-09-28",
   "isTestRepo": false,
   "FirstPublicationDate": null,
+  "LsnStatuses": [
+    {
+      "lsn": 1,
+      "status": "Live",
+      "updated_date": null,
+      "new_date": "2023-09-28",
+      "sort_by_date": "2023-09-28"
+    },
+    {
+      "lsn": 2,
+      "status": "Live",
+      "updated_date": null,
+      "new_date": "2023-09-28",
+      "sort_by_date": "2023-09-28"
+    },
+    {
+      "lsn": 3,
+      "status": "Live",
+      "updated_date": null,
+      "new_date": "2023-09-28",
+      "sort_by_date": "2023-09-28"
+    },
+    {
+      "lsn": 4,
+      "status": "Live",
+      "updated_date": null,
+      "new_date": "2023-09-28",
+      "sort_by_date": "2023-09-28"
+    },
+    {
+      "lsn": 5,
+      "status": "Live",
+      "updated_date": null,
+      "new_date": "2023-09-28",
+      "sort_by_date": "2023-09-28"
+    },
+    {
+      "lsn": 6,
+      "status": "Live",
+      "updated_date": null,
+      "new_date": "2023-09-28",
+      "sort_by_date": "2023-09-28"
+    }
+  ],
   "MediumTitle": "'Animal Collective' |Science| G11-university (en-US)",
   "lang": "en",
   "lng": "eng",
   "locale": "en-US",
   "DefaultLocale": "en-US",
-  "TemplateVer": "0.6.1",
+  "TemplateVer": "0.6.2",
   "galacticPubsVer": "0.9.8",
   "URL": "https://www.galacticpolymath.com/lessons/en-US/7",
   "GdriveHome": "GP-LIVE",
@@ -26,7 +70,7 @@
   "GdrivePublicID": "1HQ1qx6sdHu27DdHLbnzjrYcF5eY8PZCl",
   "GdriveDirID": "1GzJyCtrEgDIZel_cB0G2zR8V_0goKdHP",
   "GdriveMetaID": "1HDqFCqTD_PcoPdu1IsSrsb-cRrbBwhX0",
-  "GdriveTeachItID": "122K2LO0Sr2rF2b3_Iap4dj-JjHszE6_cCN0hPZW4hpA",
+  "GdriveTeachItID": "10guO6VQalxj_vp7P_oMXimUznRpzkEX81TkBXqy6o3E",
   "GdriveStandardsID": "11USoIKp4HI6Pql24laezPLi-VYWsbfETx78SKzq9uao",
   "GdrivePublishedID": "1WtapJk-8R7En9d_Vxp6gmv22-TpaTyQ9",
   "GdriveDirURL": "https://drive.google.com/drive/folders/1GzJyCtrEgDIZel_cB0G2zR8V_0goKdHP",
@@ -84,7 +128,7 @@
       "SteamEpaulette_vert": "https://storage.googleapis.com/gp-cloud/lessons/AnimalCollective_en-US/GP-Learning-Epaulette_vert.png"
     },
     "preview": {
-      "__component": "lesson-plan.lesson-preview",
+      "__component": "lesson-plan.unit-preview",
       "SectionTitle": "Lesson Preview",
       "QuickPrep": "1. Check out lesson multimedia below\n2. Look over <AnchorLink href=\"#teaching_materials\"> Teaching Materials <\/AnchorLink>\n3. Read our easy <AnchorLink href=\"#procedure\"> Procedure <\/AnchorLink>\n4. Teach it and <AnchorLink href=\"#feedback\"> let us know what you think! <\/AnchorLink>\n",
       "Multimedia": [
@@ -789,7 +833,7 @@
           {
             "lsnNum": 3,
             "lsnTitle": "Flock this way",
-            "lsnDur": 50,
+            "lsnDur": 45,
             "lsnPreface": "Students will get up and move (in a gym or field) to test how simple behavioral rules affect emergent patterns of \"flocking\" and \"schooling\" in animal groups.",
             "learningObj": [
               "Explain how flocking and schooling represent *emergent* properties that arise from simple rules operating in a complex group.",
@@ -866,7 +910,7 @@
           {
             "lsnNum": 4,
             "lsnTitle": "Swimming in the Dark",
-            "lsnDur": 45,
+            "lsnDur": 50,
             "lsnPreface": "Students will use a custom simulation to run digital experiments about fish schooling behavior. They will compare their results to findings from a real study.",
             "learningObj": [
               "Explain how flocking and schooling represent *emergent* properties that arise from simple rules operating in a complex group.",
@@ -960,7 +1004,7 @@
           {
             "lsnNum": 5,
             "lsnTitle": "Emergence in Human Social Networks",
-            "lsnDur": null,
+            "lsnDur": 45,
             "lsnPreface": "Students use a simulation of human social network behavior to understand how echo chambers form. They will reflect on how our individual choices affect the flow of information.",
             "learningObj": [
               "Apply the concepts of complexity and emergence to the flow of information in social media networks.",
@@ -1060,7 +1104,7 @@
           {
             "lsnNum": 6,
             "lsnTitle": "The End (Reflection)",
-            "lsnDur": null,
+            "lsnDur": 45,
             "lsnPreface": "Brief guidelines and ideas for student discussion, reflection & synthesis about the whole unit.",
             "learningObj": null,
             "lsnPrep": {
@@ -1807,9 +1851,21 @@
           "sub_releases": [
             {
               "version": "0.1.0",
-              "date": "September 28, 2023",
+              "date": "September 28, 2   023",
               "summary": "Lesson initialized",
-              "notes": "FALSE",
+              "notes": null,
+              "acknowledgments": null
+            }
+          ]
+        },
+        {
+          "major_release": "1",
+          "sub_releases": [
+            {
+              "version": "1.0.1",
+              "date": "November 3, 2023",
+              "summary": "Updates and minor fixes",
+              "notes": null,
               "acknowledgments": null
             }
           ]

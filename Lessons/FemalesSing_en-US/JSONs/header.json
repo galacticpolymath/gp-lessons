@@ -7,16 +7,39 @@
   "Country": "United States",
   "DefaultLanguage": "English",
   "DefaultCountry": "United States",
-  "LastUpdated": "2023-10-18 17:23:45.906079",
+  "LastUpdated": "2023-12-15 17:49:05.82056",
   "ReleaseDate": "2021-12-16",
   "isTestRepo": false,
   "FirstPublicationDate": "2021-12-16 16:03:12",
+  "LsnStatuses": [
+    {
+      "lsn": 1,
+      "status": "Live",
+      "updated_date": null,
+      "new_date": "2021-12-16",
+      "sort_by_date": "2021-12-16"
+    },
+    {
+      "lsn": 2,
+      "status": "Live",
+      "updated_date": null,
+      "new_date": "2021-12-16",
+      "sort_by_date": "2021-12-16"
+    },
+    {
+      "lsn": 3,
+      "status": "Live",
+      "updated_date": null,
+      "new_date": "2021-12-16",
+      "sort_by_date": "2021-12-16"
+    }
+  ],
   "MediumTitle": "'Females singing to be heard' |Math| G5–8 & 9–12 (en-US)",
   "lang": "en",
   "lng": "eng",
   "locale": "en-US",
   "DefaultLocale": "en-US",
-  "TemplateVer": "0.6.1",
+  "TemplateVer": "0.6.2",
   "galacticPubsVer": "0.9.8",
   "URL": "https://www.galacticpolymath.com/lessons/en-US/1",
   "GdriveHome": "GP-LIVE",
@@ -26,7 +49,7 @@
   "GdrivePublicID": "1XBmDhUv1dJUR1SL5WZV4P_tJUVOw37P2",
   "GdriveDirID": "1ZK_7lIrBBjq3mGoeVkpVS67Ly6h8TaUR",
   "GdriveMetaID": "1e9A_s4y0vddignJ6Pu1Lo0CuFVprR5N5",
-  "GdriveTeachItID": "1bfMmwXQMgzfxorgd1c-ZCxA-2-cjbMYiR56rmev_YZg",
+  "GdriveTeachItID": "1PX8vo_PJRS8k65NODeMBTBzAiTVUK25XllMLiXsqcmI",
   "GdriveStandardsID": "1XDYWWlFAPco2iEutmq_kzdcXn4tdKcndEFK2uf-MfUQ",
   "GdrivePublishedID": "1bJLtzE0TCZptVTd4HQ4eJMKf8K5A29De",
   "GdriveDirURL": "https://drive.google.com/drive/folders/1ZK_7lIrBBjq3mGoeVkpVS67Ly6h8TaUR",

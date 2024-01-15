@@ -7,16 +7,46 @@
   "Country": "United States",
   "DefaultLanguage": "English",
   "DefaultCountry": "United States",
-  "LastUpdated": "2023-10-18 17:26:00.00093",
+  "LastUpdated": "2023-12-15 17:50:01.949848",
   "ReleaseDate": "2023-05-07",
   "isTestRepo": false,
   "FirstPublicationDate": "2023-04-10 12:14:57",
+  "LsnStatuses": [
+    {
+      "lsn": 1,
+      "status": "Live",
+      "updated_date": null,
+      "new_date": "2023-05-07",
+      "sort_by_date": "2023-05-07"
+    },
+    {
+      "lsn": 2,
+      "status": "Live",
+      "updated_date": null,
+      "new_date": "2023-05-07",
+      "sort_by_date": "2023-05-07"
+    },
+    {
+      "lsn": 3,
+      "status": "Live",
+      "updated_date": null,
+      "new_date": "2023-05-07",
+      "sort_by_date": "2023-05-07"
+    },
+    {
+      "lsn": 4,
+      "status": "Live",
+      "updated_date": null,
+      "new_date": "2023-05-07",
+      "sort_by_date": "2023-05-07"
+    }
+  ],
   "MediumTitle": "'Electric Crystals' |Science| G7-12 (en-US)",
   "lang": "en",
   "lng": "eng",
   "locale": "en-US",
   "DefaultLocale": "en-US",
-  "TemplateVer": "0.6.1",
+  "TemplateVer": "0.6.2",
   "galacticPubsVer": "0.9.8",
   "URL": "https://www.galacticpolymath.com/lessons/en-US/6",
   "GdriveHome": "GP-LIVE",
@@ -26,7 +56,7 @@
   "GdrivePublicID": "17GmAzcNYGrrTw7iBV-QQYHrPxw-C69WX",
   "GdriveDirID": "1J24HOKWaZM346IKL2Vs32YjAu9fvlEj5",
   "GdriveMetaID": "1dlkMAHfl7P-uFno3U_9lCheDFew3SjT5",
-  "GdriveTeachItID": "1MYi32nIbB2doL2gpvUz8HVoSi7XgGYFAzkeCGLSFtrA",
+  "GdriveTeachItID": "17_zX4pbOPMtmDdDxMWwPN7xWe47n9G8m5sZmK_pumqU",
   "GdriveStandardsID": "1pmi9qRJXBUrzHP-j9-BkyO58DnuZVu4fsV7dohVOheo",
   "GdrivePublishedID": "1dlN6OdrQXZi4YzV0-9sjsaPL3ZDAQK-C",
   "GdriveDirURL": "https://drive.google.com/drive/folders/1J24HOKWaZM346IKL2Vs32YjAu9fvlEj5",
@@ -77,7 +107,7 @@
       "SteamEpaulette_vert": "https://storage.googleapis.com/gp-cloud/lessons/ElectricCrystals_en-US/GP-Learning-Epaulette_vert.png"
     },
     "preview": {
-      "__component": "lesson-plan.lesson-preview",
+      "__component": "lesson-plan.unit-preview",
       "SectionTitle": "Lesson Preview",
       "QuickPrep": "1. Check out lesson multimedia below\n2. Look over <AnchorLink href=\"#teaching_materials\"> Teaching Materials <\/AnchorLink>\n3. Teach it and <AnchorLink href=\"#feedback\"> let us know what you think! <\/AnchorLink>\n",
       "Multimedia": [
@@ -161,7 +191,7 @@
       "SectionTitle": "Teaching Materials",
       "Data": {
         "lessonPreface": "This lesson is largely student driven. There is no lecture or presentation. Videos provide check-ins and supports. The primary teacher role is to facilitate classroom discussions and engagement.",
-        "lessonDur": "4 x 45 min",
+        "lessonDur": "3 x 45 min",
         "classroom": {
           "gradeVariantNotes": [
             {
@@ -679,7 +709,7 @@
           {
             "lsnNum": 4,
             "lsnTitle": "Electric crystals and their broken symmetries",
-            "lsnDur": null,
+            "lsnDur": 45,
             "lsnPreface": "Students learn how some crystals produce electricity when squeezed (by the piezoelectric effect). Students perform calculations and explore engineering applications of piezo-devices to deepen understanding and engagement.",
             "learningObj": [
               "Understand how molecules form the building blocks of solids, and how crystals have repeating units called \"unit cells.\"",

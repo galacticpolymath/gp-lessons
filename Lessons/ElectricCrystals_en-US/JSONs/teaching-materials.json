@@ -3,7 +3,7 @@
   "SectionTitle": "Teaching Materials",
   "Data": {
     "lessonPreface": "This lesson is largely student driven. There is no lecture or presentation. Videos provide check-ins and supports. The primary teacher role is to facilitate classroom discussions and engagement.",
-    "lessonDur": "4 x 45 min",
+    "lessonDur": "3 x 45 min",
     "classroom": {
       "gradeVariantNotes": [
         {
@@ -495,7 +495,7 @@
       {
         "lsnNum": 4,
         "lsnTitle": "Electric crystals and their broken symmetries",
-        "lsnDur": null,
+        "lsnDur": 45,
         "lsnPreface": "Students learn how some crystals produce electricity when squeezed (by the piezoelectric effect). Students perform calculations and explore engineering applications of piezo-devices to deepen understanding and engagement.",
         "learningObj": ["Understand how molecules form the building blocks of solids, and how crystals have repeating units called \"unit cells.\"", "Interpret models to predict how macrostructure will follow microstructure", "Perform (scaffolded) calculations based on molecular net charge to determine if different materials are piezoelectric (i.e. produce electricity when squeezed).", "Envision electronic applications based on the properties of crystals"],
         "lsnPrep": {

@@ -7,16 +7,39 @@
   "Country": "United States",
   "DefaultLanguage": "English",
   "DefaultCountry": "United States",
-  "LastUpdated": "2023-10-18 17:24:24.937171",
+  "LastUpdated": "2023-12-15 17:49:33.234319",
   "ReleaseDate": "2022-10-31",
   "isTestRepo": false,
   "FirstPublicationDate": "2022-07-11 21:10:05",
+  "LsnStatuses": [
+    {
+      "lsn": 1,
+      "status": "Live",
+      "updated_date": null,
+      "new_date": "2022-10-31",
+      "sort_by_date": "2022-10-31"
+    },
+    {
+      "lsn": 2,
+      "status": "Live",
+      "updated_date": null,
+      "new_date": "2022-10-31",
+      "sort_by_date": "2022-10-31"
+    },
+    {
+      "lsn": 3,
+      "status": "Live",
+      "updated_date": null,
+      "new_date": "2022-10-31",
+      "sort_by_date": "2022-10-31"
+    }
+  ],
   "MediumTitle": "'I Like That!' |Science| G5-9 (en-US)",
   "lang": "en",
   "lng": "eng",
   "locale": "en-US",
   "DefaultLocale": "en-US",
-  "TemplateVer": "0.6.1",
+  "TemplateVer": "0.6.2",
   "galacticPubsVer": "0.9.8",
   "URL": "https://www.galacticpolymath.com/lessons/en-US/5",
   "GdriveHome": "GP-LIVE",
@@ -26,7 +49,7 @@
   "GdrivePublicID": "1UXpy8XV17eKX5qZ4ALEeGc9IEt1IEuIf",
   "GdriveDirID": "1Nxy1V4pf21NhElAUdqVZpdinqCPi1oh3",
   "GdriveMetaID": "1eC6wRn9rqFLLmsV_SKf3TSxSRnKDJf17",
-  "GdriveTeachItID": "1kAhLGAkI3bTcX73hNdpg_YUToZFfqIxEYD1pazbNz6s",
+  "GdriveTeachItID": "173XD1xQd6dQt45m1NGhmM3lP9LRd5FWo-gn5mmmaSuM",
   "GdriveStandardsID": "1dSjqy3VjBn_qKEFWjp5ElJFQ98b7Mm4YnSApAZUKf9A",
   "GdrivePublishedID": "1qORPugrPSBLwCew3wSEwzmmbVjTnkKOJ",
   "GdriveDirURL": "https://drive.google.com/drive/folders/1Nxy1V4pf21NhElAUdqVZpdinqCPi1oh3",
@@ -88,7 +111,7 @@
       "SteamEpaulette_vert": "https://storage.googleapis.com/gp-cloud/lessons/ILikeThat_en-US/GP-Learning-Epaulette_vert.png"
     },
     "preview": {
-      "__component": "lesson-plan.lesson-preview",
+      "__component": "lesson-plan.unit-preview",
       "SectionTitle": "Lesson Preview",
       "QuickPrep": "1. Check out lesson multimedia below\n2. Look over <AnchorLink href=\"#teaching_materials\"> Teaching Materials <\/AnchorLink>\n3. Teach it and <AnchorLink href=\"#feedback\"> let us know what you think! <\/AnchorLink>",
       "Multimedia": [
@@ -427,7 +450,7 @@
           {
             "lsnNum": 1,
             "lsnTitle": "Why Do I Like That?",
-            "lsnDur": 45,
+            "lsnDur": 80,
             "lsnPreface": "Students conduct an experiment on themselves. They rank images and attempt to understand *why* they preferred some images over others.",
             "learningObj": null,
             "lsnPrep": {
@@ -618,7 +641,7 @@
           {
             "lsnNum": 2,
             "lsnTitle": "The Perception of Beauty",
-            "lsnDur": 45,
+            "lsnDur": 60,
             "lsnPreface": "Students analyze real data to determine if fish mating preferences are explained by sensitivity to certain colors.",
             "learningObj": null,
             "lsnPrep": {
@@ -734,7 +757,7 @@
           {
             "lsnNum": 3,
             "lsnTitle": "Creature Stats",
-            "lsnDur": null,
+            "lsnDur": 60,
             "lsnPreface": "Students collect data from original artworks to test whether being outside the range of human variation makes a drawing creepy or cute.",
             "learningObj": null,
             "lsnPrep": {
@@ -915,7 +938,7 @@
     "background": {
       "__component": "lesson-plan.collapsible-text-section",
       "SectionTitle": "Background",
-      "Content": "#### Connection to Research\n In this three-part lesson, students will follow in the footsteps of scientists (analyzing real, published data), but also conduct their own novel experiments. Overall, our hope is that students will recognize that science and data are everywhere and give us insight into ourselves.  \n#### Research Background\n Parts 1 and 3, students will run their own experiments, testing novel hypotheses related to their own preferences. For these activities, we developed a conceptual framework that is woven into all lesson parts. This framework is explained in our video [▶ I Like That! How our eyes and brains interact to determine what we like and dislike](https://www.youtube.com/watch?v=mw8OoXGIsj8). We want students to understand in general terms how our brains perceive things detected by our senses, and then incorporate prior experience and emotional responses to form preferences that affect their behavior. This is based on research in humans and other animals. Though human \"emotions\" can be very complex, many animals from primates to bees show a range of positive <-> negative responses to stimuli that can be interpreted as emotions. If students are interested in learning more about emotions in animals, here are some excellent scientific articles targeted at young readers:\n- [*Frontiers for Young Minds* | Animal Emotions–Do Animals Feel as We Do?](https://kids.frontiersin.org/articles/10.3389/frym.2021.622811)\n- [*Frontiers for Young Minds* | Your Smile Caught My Eye: Why Do Emotional Things Catch and Hold Our Attention?](https://kids.frontiersin.org/articles/10.3389/frym.2022.781748)\n\nIn Part 2, students will learn about how our eyes detect and process different colors (i.e. different wavelengths of light). They learn key background from [▶ How we see color - Colm Kelleher](https://www.youtube.com/watch?v=l8_fZPHasdo) and [▶ The Science of Color Perception](https://www.youtube.com/watch?v=poL7nDmqjmk). \n\nIn our original video: [▶ How do we know what a fish likes? (And can we predict it?)](https://www.youtube.com/watch?v=PGmPIHPX9eQ), Drs. Tamra Mendelson and Tory Williams talk about their work on darters, a fascinating and beautiful group of fish native to North America (see supplementary vid: [▶ Darter facts: the colorful little fish | Animal Fact Files](https://www.youtube.com/watch?v=JnD1d4pIxO4)). \n\nIn the scientific study students will learn about, the researchers tested whether female darters were most attracted to colors that were most stimulating to the sensory cells in their eyes (i.e. cones found in the retina). Students will follow in the scientist's footsteps, first making predictions and then analyzing their authentic data. The video and presentation will guide students through interpreting graphs of sensitivity curves to make their predictions. \n\nBasically, there were two models of male fish used to test female preferences. They were colored \"red\" and \"orange\" to mimic extremes of natural variation. Looking at the graph below, the place where the 2 sensitivity curves overlap is the light wavelength that should be most stimulating to females' eyes. That is, light that has a wavelength of about 550nm should maximize activation of both the medium and long wavelength cone cells in the retina. The question is: do females prefer a model with an average reflectance closest to this wavelength? \n\n![Sensitivity curves for darters. A dashed line shows medium wavelength cone sensitivity, peaking around 580nm, while a solid line shows long wavelength cone sensitivity peaking around 580nm. The curves overlap at 550nm. Arrows point to orange model fish, showing the peak reflectances of the orange model fish at 570nm and the red model at 584 nm](https://gp-catalog.vercel.app/lessons/ILikeThat_en-US/darter_vis_sensitivity_curve.png)\n\nThe video and presentation guide students through interpreting this graph—to predict that females should prefer the orange model. Our video explains the experimental setup, but here it is briefly: Individual wild-caught females were put in the middle of a tank which had two tanks on either side of it. Model fish simulating extremes of natural variation in male colors were placed on either side of the female tank. An observer recorded what proportion of time females spent associating with the \"red\" versus the \"orange\" male model. Students will observe the patterns in the data and determine that females had a strong preference for the orange model. They will then draw conclusions about why this research matters more broadly and hopefully begin to wonder--how are our daily decisions affected by our sensitivity to different stimuli? This could be a great jumping-off point for independent research/PBLs. <AnchorLink href=\"#extensions\"> See Extensions <\/AnchorLink>\n\n![Cover of journal article](https://gp-catalog.vercel.app/lessons/ILikeThat_en-US/paper.png)\n[Link to Journal Article](https://academic.oup.com/beheco/article/24/6/1407/190166)\n",
+      "Content": "#### Connection to Research\n In this three-part lesson, students will follow in the footsteps of scientists (analyzing real, published data), but also conduct their own novel experiments. Overall, our hope is that students will recognize that science and data are everywhere and give us insight into ourselves.  \n#### Research Background\n Parts 1 and 3, students will run their own experiments, testing novel hypotheses related to their own preferences. For these activities, we developed a conceptual framework that is woven into all lesson parts. This framework is explained in our video [▶ I Like That! How our eyes and brains interact to determine what we like and dislike](https://www.youtube.com/watch?v=mw8OoXGIsj8). We want students to understand in general terms how our brains perceive things detected by our senses, and then incorporate prior experience and emotional responses to form preferences that affect their behavior. This is based on research in humans and other animals. Though human \"emotions\" can be very complex, many animals from primates to bees show a range of positive <-> negative responses to stimuli that can be interpreted as emotions. If students are interested in learning more about emotions in animals, here are some excellent scientific articles targeted at young readers:\n- [*Frontiers for Young Minds* | Animal Emotions–Do Animals Feel as We Do?](https://kids.frontiersin.org/articles/10.3389/frym.2021.622811)\n- [*Frontiers for Young Minds* | Your Smile Caught My Eye: Why Do Emotional Things Catch and Hold Our Attention?](https://kids.frontiersin.org/articles/10.3389/frym.2022.781748)\n\nIn Part 2, students will learn about how our eyes detect and process different colors (i.e. different wavelengths of light). They learn key background from [▶ How we see color - Colm Kelleher](https://www.youtube.com/watch?v=l8_fZPHasdo) and [▶ The Science of Color Perception](https://www.youtube.com/watch?v=poL7nDmqjmk). \n\nIn our original video: [▶ How do we know what a fish likes? (And can we predict it?)](https://www.youtube.com/watch?v=PGmPIHPX9eQ), Drs. Tamra Mendelson and Tory Williams talk about their work on darters, a fascinating and beautiful group of fish native to North America (see supplementary vid: [▶ Darter facts: the colorful little fish | Animal Fact Files](https://www.youtube.com/watch?v=JnD1d4pIxO4)). \n\nIn the scientific study students will learn about, the researchers tested whether female darters were most attracted to colors that were most stimulating to the sensory cells in their eyes (i.e. cones found in the retina). Students will follow in the scientist's footsteps, first making predictions and then analyzing their authentic data. The video and presentation will guide students through interpreting graphs of sensitivity curves to make their predictions. \n\nBasically, there were two models of male fish used to test female preferences. They were colored \"red\" and \"orange\" to mimic extremes of natural variation. Looking at the graph below, the place where the 2 sensitivity curves overlap is the light wavelength that should be most stimulating to females' eyes. That is, light that has a wavelength of about 550nm should maximize activation of both the medium and long wavelength cone cells in the retina. The question is: do females prefer a model with an average reflectance closest to this wavelength? \n\n![Sensitivity curves for darters. A dashed line shows medium wavelength cone sensitivity, peaking around 580nm, while a solid line shows long wavelength cone sensitivity peaking around 580nm. The curves overlap at 550nm. Arrows point to orange model fish, showing the peak reflectances of the orange model fish at 570nm and the red model at 584 nm](https://storage.googleapis.com/gp-cloud/lessons/ILikeThat_en-US/darter_vis_sensitivity_curve.png)\n\nThe video and presentation guide students through interpreting this graph—to predict that females should prefer the orange model. Our video explains the experimental setup, but here it is briefly: Individual wild-caught females were put in the middle of a tank which had two tanks on either side of it. Model fish simulating extremes of natural variation in male colors were placed on either side of the female tank. An observer recorded what proportion of time females spent associating with the \"red\" versus the \"orange\" male model. Students will observe the patterns in the data and determine that females had a strong preference for the orange model. They will then draw conclusions about why this research matters more broadly and hopefully begin to wonder--how are our daily decisions affected by our sensitivity to different stimuli? This could be a great jumping-off point for independent research/PBLs. <AnchorLink href=\"#extensions\"> See Extensions <\/AnchorLink>\n\n![Cover of journal article](https://storage.googleapis.com/gp-cloud/lessons/ILikeThat_en-US/paper.png)\n[Link to Journal Article](https://academic.oup.com/beheco/article/24/6/1407/190166)\n",
       "InitiallyExpanded": true
     },
     "standards-header": {

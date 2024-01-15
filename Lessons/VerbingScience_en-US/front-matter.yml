@@ -6,18 +6,18 @@ Language: English
 Country: United States
 DefaultLanguage: English
 DefaultCountry: United States
-LastUpdated: 2023-10-05 12:27:22.201219
+LastUpdated: 2023-11-10 14:41:33.035826
 ReleaseDate: '2050-01-01'
 isTestRepo: no
 FirstPublicationDate: .na
-MediumTitle: '''VerbingScience''(en-US)'
+MediumTitle: '''VerbingScience'' |Math| (en-US)'
 lang: en
 lng: eng
 locale: en-US
 DefaultLocale: en-US
 TemplateVer: 0.6.1
 galacticPubsVer: 0.9.8
-URL: .na
+URL: https://www.galacticpolymath.com/lessons/en-US/10
 GdriveHome: GP-Studio
 GdriveDirName: VerbingScience_en-US
 GdriveTeachMatPath: GP-Studio/Edu/Lessons/VerbingScience_en-US/teaching-materials
@@ -25,7 +25,7 @@ GdriveTeachMatID: 1392qa7v7BUEnS-Lr9x2YxpMrohwR9luN
 GdrivePublicID: .na
 GdriveDirID: 137NEG707Rjrgd_xaJIg1HY1gUyRO0Esy
 GdriveMetaID: 138Dxli8MBLS6PdrAR7QSlheY3otZSW3z
-GdriveTeachItID: 13F-eBd0t3d-lbO3z6-XdOuaBH_FyciTNg2J5mp36_ME
+GdriveTeachItID: 1hGRUzQTnjTuYUbEb_4d7qdHO6_xCMhVpqNneziDZnMA
 GdriveStandardsID: 1t8we5owW-3uCdiacDNOliix9Zn4jHD87HHbsgHI-WEI
 GdrivePublishedID: 138wJrcRVZupxNJynZli9686NOZIXo17D
 GdriveDirURL: https://drive.google.com/drive/folders/137NEG707Rjrgd_xaJIg1HY1gUyRO0Esy
@@ -34,11 +34,11 @@ Title: .na
 Subtitle: .na
 SponsorName: .na
 SponsoredBy: .na
-SponsorLogo: .na
+SponsorLogo: []
 LessonBanner: .na
 LessonCard: .na
-TargetSubject: .na
-LessonEnvir: classroom
+TargetSubject: Math
+LessonEnvir: .na
 ForGrades: .na
 GradesOrYears: Grades
 LessonTiles: .na
@@ -54,7 +54,7 @@ LearningChart: .na
 LearningChart_params_centralText: []
 LearningChart_params_caption: []
 LearningChart_params_captionN: yes
-SupportingMedia: .na
+SupportingMedia: []
 LearningSummary: .na
 DrivingQ: .na
 EssentialQ: .na

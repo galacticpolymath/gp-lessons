@@ -7,16 +7,39 @@
   "Country": "United States",
   "DefaultLanguage": "English",
   "DefaultCountry": "United States",
-  "LastUpdated": "2023-10-18 17:23:45.906079",
+  "LastUpdated": "2023-12-15 17:49:05.82056",
   "ReleaseDate": "2021-12-16",
   "isTestRepo": false,
   "FirstPublicationDate": "2021-12-16 16:03:12",
+  "LsnStatuses": [
+    {
+      "lsn": 1,
+      "status": "Live",
+      "updated_date": null,
+      "new_date": "2021-12-16",
+      "sort_by_date": "2021-12-16"
+    },
+    {
+      "lsn": 2,
+      "status": "Live",
+      "updated_date": null,
+      "new_date": "2021-12-16",
+      "sort_by_date": "2021-12-16"
+    },
+    {
+      "lsn": 3,
+      "status": "Live",
+      "updated_date": null,
+      "new_date": "2021-12-16",
+      "sort_by_date": "2021-12-16"
+    }
+  ],
   "MediumTitle": "'Females singing to be heard' |Math| G5–8 & 9–12 (en-US)",
   "lang": "en",
   "lng": "eng",
   "locale": "en-US",
   "DefaultLocale": "en-US",
-  "TemplateVer": "0.6.1",
+  "TemplateVer": "0.6.2",
   "galacticPubsVer": "0.9.8",
   "URL": "https://www.galacticpolymath.com/lessons/en-US/1",
   "GdriveHome": "GP-LIVE",
@@ -26,7 +49,7 @@
   "GdrivePublicID": "1XBmDhUv1dJUR1SL5WZV4P_tJUVOw37P2",
   "GdriveDirID": "1ZK_7lIrBBjq3mGoeVkpVS67Ly6h8TaUR",
   "GdriveMetaID": "1e9A_s4y0vddignJ6Pu1Lo0CuFVprR5N5",
-  "GdriveTeachItID": "1bfMmwXQMgzfxorgd1c-ZCxA-2-cjbMYiR56rmev_YZg",
+  "GdriveTeachItID": "1PX8vo_PJRS8k65NODeMBTBzAiTVUK25XllMLiXsqcmI",
   "GdriveStandardsID": "1XDYWWlFAPco2iEutmq_kzdcXn4tdKcndEFK2uf-MfUQ",
   "GdrivePublishedID": "1bJLtzE0TCZptVTd4HQ4eJMKf8K5A29De",
   "GdriveDirURL": "https://drive.google.com/drive/folders/1ZK_7lIrBBjq3mGoeVkpVS67Ly6h8TaUR",
@@ -90,7 +113,7 @@
       "SteamEpaulette_vert": "https://storage.googleapis.com/gp-cloud/lessons/FemalesSing_en-US/GP-Learning-Epaulette_vert.png"
     },
     "preview": {
-      "__component": "lesson-plan.lesson-preview",
+      "__component": "lesson-plan.unit-preview",
       "SectionTitle": "Lesson Preview",
       "QuickPrep": "1. Check out lesson multimedia below\n2. Look over <AnchorLink href=\"#teaching_materials\"> Teaching Materials <\/AnchorLink>\n3. Teach it and <AnchorLink href=\"#feedback\"> let us know what you think! <\/AnchorLink>",
       "Multimedia": [
@@ -1153,7 +1176,7 @@
           {
             "lsnNum": 3,
             "lsnTitle": "Visualizing Song Data",
-            "lsnDur": null,
+            "lsnDur": 45,
             "lsnPreface": "Students analyze and interpret data in histograms and scatter plots. They'll apply their new data literacy skills to understand why female song has been missed in this common species.",
             "learningObj": null,
             "lsnPrep": {
@@ -1378,7 +1401,7 @@
     "background": {
       "__component": "lesson-plan.collapsible-text-section",
       "SectionTitle": "Background",
-      "Content": "#### Connection to Research\n This lesson allows students to explore the actual data from [the study](https://www.unco.edu/nhs/biology/about-us/benedict-lauryn/documents/publications/Wilkins_et_al_2020.pdf) and to hear from the study’s lead author to deepen data literacy and understanding of the scientific method. Students explore one of the primary figures in the study, a scatter plot (graph) showing different patterns of male and female singing output over the breeding season. Importantly, males sang much more than females and for a longer time (May-Aug, rather than just May). Thus, because males sing more frequently, if we assume (as has been common for birders and scientists until recently) that only males sing, your assumptions are reinforced more easily, because you are less likely to see a female sing.\n\nDuring the peer review process, an anonymous scientist suggested that the scatter plot was not a good way to represent the data, instead suggesting that the authors should have displayed a histogram. In Parts 2 and 3 of the lesson, students aggregate (combine) the authentic study data in order to create a histogram. They must then interpret the data in both formats (deepening their understanding of how histograms and scatter plots relate to each other), and conclude which is a better way to demonstrate the study’s findings, explaining why.\n\nFor further reflection, students are then asked to synthesize what they have learned, along with new information presented to them. Why has female song been missed? Partially because of a pre-existing assumption that females don't sing, along with less common singing behavior in females. Why do females sing less? Because natural selection favors females who sing less. Females must sit on eggs for around 2 weeks, leaving them open to predation. If they were to sing as loudly and provocatively as males, they would attract predators which would eat them or their eggs, passing on no genes. Thus, natural selection has likely caused female song to be lost, simplified, or to be produced for short time periods during establishment of the breeding season in many species around the world. \n#### Research Background\n ![studyThumbnail.png](https://gp-catalog.vercel.app/lessons/FemalesSing_en-US/study-paper.png)\n[Link to the scientific study](https://www.unco.edu/nhs/biology/about-us/benedict-lauryn/documents/publications/Wilkins_et_al_2020.pdf)\n\nThis lesson is based on a recent study that describes female song in barn swallows for the first time. Barn swallows are one of the most common birds in the world and have been the subject of more than 1000 studies, yet published birding field guides and scientific papers have all failed to describe female song or they describe it incorrectly as being the same as male song (females have their own song type). This is an important oversight, because research on male bird song has informed a lot of theory in biology about how populations evolve through mate choice and competition involving vocal communication, and how new species form. \n\nIgnoring the sounds females make may result from inherent biases. Since bird song became an area of scientific study in the 1800s, it was almost exclusively researched by white males in the Northern Hemisphere. Since women have become welcomed into all areas of science, and research institutions have focused more intent study in tropical regions of the world, studies have discovered that female song is the ancestral state (i.e. the ancestor of all living song birds had both singing males and females). Moreover, female song has not been entirely lost in most species. As in the barn swallow, natural selection has favored females that sing less often, and to have more concise songs that are often restricted to the pre-egg-laying part of the breeding season. This drop in female singing after egg-laying is thought to stem from trying not to draw predators to nests. Due to lack of study, the full function of song in competition among females, male mate choice, or other functions is not well understood in most species.\n\nFurther Reading: \n- [Why We Didn't Know That Female Birds Sing](https://www.scientificamerican.com/article/why-it-took-so-long-to-appreciate-female-birds-songs/): Two authors of the study this lesson is based on discuss its broader implications for society and K-12 education.\n- [Female birds sing. These biologists want you to listen.](https://www.washingtonpost.com/news/speaking-of-science/wp/2018/03/14/female-birds-sing-these-biologists-want-you-to-listen/) (features Drs. Karan Odom and Lauryn Benedict who worked on the study this lesson is based on).\n    - If you're getting paywalled, try clearing your cache or opening the article in an incognito window.\n- [Female bird song ignored by science, researchers say](https://www.australiangeographic.com.au/topics/science-environment/2019/04/female-bird-song-ignored-by-science-researchers-say/) (features Dr. Karan Odom and Dr. Naomi Langmore, who was influential in shifting scientists' thinking about female song)\n- [Study reveals gender bias in bird song research and impact of women on science](https://phys.org/news/2020-08-reveals-gender-bias-bird-song.html) (features Dr. Karan Odom)",
+      "Content": "#### Connection to Research\n This lesson allows students to explore the actual data from [the study](https://www.unco.edu/nhs/biology/about-us/benedict-lauryn/documents/publications/Wilkins_et_al_2020.pdf) and to hear from the study’s lead author to deepen data literacy and understanding of the scientific method. Students explore one of the primary figures in the study, a scatter plot (graph) showing different patterns of male and female singing output over the breeding season. Importantly, males sang much more than females and for a longer time (May-Aug, rather than just May). Thus, because males sing more frequently, if we assume (as has been common for birders and scientists until recently) that only males sing, your assumptions are reinforced more easily, because you are less likely to see a female sing.\n\nDuring the peer review process, an anonymous scientist suggested that the scatter plot was not a good way to represent the data, instead suggesting that the authors should have displayed a histogram. In Parts 2 and 3 of the lesson, students aggregate (combine) the authentic study data in order to create a histogram. They must then interpret the data in both formats (deepening their understanding of how histograms and scatter plots relate to each other), and conclude which is a better way to demonstrate the study’s findings, explaining why.\n\nFor further reflection, students are then asked to synthesize what they have learned, along with new information presented to them. Why has female song been missed? Partially because of a pre-existing assumption that females don't sing, along with less common singing behavior in females. Why do females sing less? Because natural selection favors females who sing less. Females must sit on eggs for around 2 weeks, leaving them open to predation. If they were to sing as loudly and provocatively as males, they would attract predators which would eat them or their eggs, passing on no genes. Thus, natural selection has likely caused female song to be lost, simplified, or to be produced for short time periods during establishment of the breeding season in many species around the world. \n#### Research Background\n ![studyThumbnail.png](https://storage.googleapis.com/gp-cloud/lessons/FemalesSing_en-US/study-paper.png)\n[Link to the scientific study](https://www.unco.edu/nhs/biology/about-us/benedict-lauryn/documents/publications/Wilkins_et_al_2020.pdf)\n\nThis lesson is based on a recent study that describes female song in barn swallows for the first time. Barn swallows are one of the most common birds in the world and have been the subject of more than 1000 studies, yet published birding field guides and scientific papers have all failed to describe female song or they describe it incorrectly as being the same as male song (females have their own song type). This is an important oversight, because research on male bird song has informed a lot of theory in biology about how populations evolve through mate choice and competition involving vocal communication, and how new species form. \n\nIgnoring the sounds females make may result from inherent biases. Since bird song became an area of scientific study in the 1800s, it was almost exclusively researched by white males in the Northern Hemisphere. Since women have become welcomed into all areas of science, and research institutions have focused more intent study in tropical regions of the world, studies have discovered that female song is the ancestral state (i.e. the ancestor of all living song birds had both singing males and females). Moreover, female song has not been entirely lost in most species. As in the barn swallow, natural selection has favored females that sing less often, and to have more concise songs that are often restricted to the pre-egg-laying part of the breeding season. This drop in female singing after egg-laying is thought to stem from trying not to draw predators to nests. Due to lack of study, the full function of song in competition among females, male mate choice, or other functions is not well understood in most species.\n\nFurther Reading: \n- [Why We Didn't Know That Female Birds Sing](https://www.scientificamerican.com/article/why-it-took-so-long-to-appreciate-female-birds-songs/): Two authors of the study this lesson is based on discuss its broader implications for society and K-12 education.\n- [Female birds sing. These biologists want you to listen.](https://www.washingtonpost.com/news/speaking-of-science/wp/2018/03/14/female-birds-sing-these-biologists-want-you-to-listen/) (features Drs. Karan Odom and Lauryn Benedict who worked on the study this lesson is based on).\n    - If you're getting paywalled, try clearing your cache or opening the article in an incognito window.\n- [Female bird song ignored by science, researchers say](https://www.australiangeographic.com.au/topics/science-environment/2019/04/female-bird-song-ignored-by-science-researchers-say/) (features Dr. Karan Odom and Dr. Naomi Langmore, who was influential in shifting scientists' thinking about female song)\n- [Study reveals gender bias in bird song research and impact of women on science](https://phys.org/news/2020-08-reveals-gender-bias-bird-song.html) (features Dr. Karan Odom)",
       "InitiallyExpanded": true
     },
     "standards-header": {

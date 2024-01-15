@@ -1,0 +1,6 @@
+{
+  "__component": "lesson-plan.collapsible-text-section",
+  "SectionTitle": "Background",
+  "Content": "#### Connection to Research\n Students participate in engineering and design thinking throughout the mini-unit, putting themselves in the shoes of early optical engineers, taking on design challenges, and developing their own methods to encode wave messages. Each lesson spotlights an important photonics application. The lessons build a conceptual understanding of how light is a wave, and how light’s many unique properties can be shaped with tools to make life better in lots of ways. Lesson 3 will dive deeper into how light interacts with materials, including Dr. Folland’s research about how light interacts with materials at very small scales. \n#### Research Background\n Light is everywhere in our daily lives, and not just to help us see - from communication technologies like radio and Wi-Fi to X-rays at the dentist, our lives depend on the entire electromagnetic spectrum. Nanophotonics studies how light waves interact with materials at very small scales, with applications such as semiconductors, lasers, and microscopy. ",
+  "InitiallyExpanded": true
+}

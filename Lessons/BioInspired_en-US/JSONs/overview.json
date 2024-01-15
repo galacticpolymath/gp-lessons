@@ -1,14 +1,23 @@
 {
   "__component": "lesson-plan.overview",
-  "LearningSummary": null,
-  "EstLessonTime": null,
+  "LearningSummary": "By bridging engineering and biology, students will expand their perspective on how to design solutions that could change the world. This challenge empowers young learners with the Bioinspired Design Process: a novel design framework developed with experts in evolutionary biology, architecture, and design.",
+  "EstLessonTime": "5 or more class periods",
   "GradesOrYears": "Grades",
-  "ForGrades": null,
-  "TargetSubject": "Math",
-  "Text": null,
+  "ForGrades": "8-University",
+  "TargetSubject": "Science",
+  "Text": "#### Driving Question(s):\n1. How can we use organismal adaptations to design better engineering solutions?\n2. What products in our daily lives could be more sustainable, functional, or aesthetically pleasing?\n",
   "Tags": [
     {
-      "Value": null
+      "Value": "biomimicry"
+    },
+    {
+      "Value": "design thinking"
+    },
+    {
+      "Value": "PBL"
+    },
+    {
+      "Value": "project-based learning"
     }
   ],
   "SteamEpaulette": null,

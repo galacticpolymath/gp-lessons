@@ -6,17 +6,29 @@ Language: English
 Country: United States
 DefaultLanguage: English
 DefaultCountry: United States
-LastUpdated: 2023-09-26 17:27:40.193547
+LastUpdated: 2023-12-23 11:05:13.997422
+ReleaseDate: '2050-01-01'
+isTestRepo: no
 FirstPublicationDate: .na
-MediumTitle: '''Photonics''(en-US)'
+LsnStatuses:
+- lsn: 1
+  status: Live
+  updated_date: .na
+  new_date: .na
+  sort_by_date: -.inf
+- lsn: 2
+  status: Live
+  updated_date: .na
+  new_date: .na
+  sort_by_date: -.inf
+MediumTitle: '''Photon Engineers'' |Science| G6-9 (en-US)'
 lang: en
 lng: eng
 locale: en-US
 DefaultLocale: en-US
-TemplateVer: 0.6.0
-galacticPubsVer: 0.9.7
-isTestRepo: no
-URL: .na
+TemplateVer: 0.6.2
+galacticPubsVer: 0.9.8
+URL: https://www.galacticpolymath.com/lessons/en-US/9
 GdriveHome: GP-Studio
 GdriveDirName: Photonics_en-US
 GdriveTeachMatPath: GP-Studio/Edu/Lessons/Photonics_en-US/teaching-materials
@@ -24,44 +36,62 @@ GdriveTeachMatID: 1ykdZnAFD1AlXDp3Poaof1scur7pliSsB
 GdrivePublicID: .na
 GdriveDirID: 1yhMtW-BnxnZnXENeDiuNtFA05HXOnQTt
 GdriveMetaID: 1z-MJTlDar1FYd4xyNZvZNSE2Zk-R1DJZ
-GdriveTeachItID: 1LV4vf7TALunPa1JtOI9p3Pc9fzuEo6Eso0HRbPysYSA
+GdriveTeachItID: 1Kh4geykphCyVtDxGYMQdy2m2AIx82PnyfZ1BXRjxOpo
 GdriveStandardsID: 1WwFp3WCFZd28_a68GBZipNugm_HgsXuyhBKECpAkAgU
 GdrivePublishedID: 1z29Vp9drjWU5fW-tQP1hUgl0u0Mcnrfk
 GdriveDirURL: https://drive.google.com/drive/folders/1yhMtW-BnxnZnXENeDiuNtFA05HXOnQTt
 RebuildAllMaterials: no
-ReleaseDate: '2050-01-01'
-Title: .na
-Subtitle: .na
-SponsorName: .na
-SponsoredBy: .na
-SponsorLogo: .na
-LessonBanner: .na
-LessonCard: .na
-TargetSubject: .na
-LessonEnvir: classroom
-ForGrades: .na
+Title: Photon Engineers
+Subtitle: Tinkering with Light
+SponsorName:
+- NSF
+- University of Iowa
+SponsoredBy: |-
+  - National Science Foundation Grant
+  - [Dr. Tom Folland's Lab](https://physics.uiowa.edu/people/thomas-folland) at the University of Iowa
+SponsorLogo: https://storage.googleapis.com/gp-cloud/lessons/Photonics_en-US/Iowa_logo_blackBG.png
+LessonBanner: https://storage.googleapis.com/gp-cloud/lessons/Photonics_en-US/Photonics_1-banner.png
+LessonCard: https://storage.googleapis.com/gp-cloud/lessons/Photonics_en-US/Photonics_2-card.png
+TargetSubject: Science
+LessonEnvir: Classroom
+ForGrades: 6-9
 GradesOrYears: Grades
-LessonTiles: .na
-EstLessonTime: .na
+LessonTiles:
+- https://storage.googleapis.com/gp-cloud/lessons/Photonics_en-US/Photonics_tiles-1-L1_Tile.png
+- https://storage.googleapis.com/gp-cloud/lessons/Photonics_en-US/Photonics_tiles-2-L2_Tile.png
+EstLessonTime: 2 x 45 min classes
 PullStandardsInfoFrom: myFile
 LearningPlotCorrection: yes
-LearningChartFriendly: .na
-LearningEpaulette: .na
-LearningEpaulette_vert: .na
+LearningChartFriendly: yes
+LearningEpaulette: https://storage.googleapis.com/gp-cloud/lessons/Photonics_en-US/GP-Learning-Epaulette.png
+LearningEpaulette_vert: https://storage.googleapis.com/gp-cloud/lessons/Photonics_en-US/GP-Learning-Epaulette_vert.png
 LearningEpaulette_params_heightScalar: 0.5
 LearningEpaulette_params_randomSeed: 101.0
-LearningChart: .na
+LearningChart: https://storage.googleapis.com/gp-cloud/lessons/Photonics_en-US/GP-Learning-Chart.png
 LearningChart_params_centralText: []
 LearningChart_params_caption: []
 LearningChart_params_captionN: yes
-SupportingMedia: .na
-LearningSummary: .na
-DrivingQ: .na
-EssentialQ: .na
-Hooks: .na
+SupportingMedia: https://storage.googleapis.com/gp-cloud/lessons/Photonics_en-US/vocab.csv
+LearningSummary: Embark on a journey through time and space to understand what light
+  really is and how humans use it. From starting fires with sunlight to sending messages
+  to other planets to current research in photonics, students will become more curious
+  about light in their daily lives!
+DrivingQ: |-
+  1. How can light be used to measure, transmit, and control information?
+  2. How does light behave in various mediums?
+EssentialQ: |-
+  How has human curiosity driven innovation throughout history?
+  What are the benefits and challenges of communicating with light?
+Hooks: 'Puzzles, hands-on games, and original illustrations create a dynamic lesson
+  supported by engaging videos. '
 MiscMD: .na
 LearningObj: .na
-Tags: .na
+Tags:
+- photonics
+- optics
+- waves
+- information
+- STEM
 Description: .na
 QuickPrep: |
   1. Check out lesson multimedia below
@@ -70,14 +100,25 @@ QuickPrep: |
   4. Teach it and [let us know what you think!](#feedback)
 Bonus: .na
 Extensions: .na
-Background: .na
-ConnectionToResearch: .na
+Background: 'Light is everywhere in our daily lives, and not just to help us see -
+  from communication technologies like radio and Wi-Fi to X-rays at the dentist, our
+  lives depend on the entire electromagnetic spectrum. Nanophotonics studies how light
+  waves interact with materials at very small scales, with applications such as semiconductors,
+  lasers, and microscopy. '
+ConnectionToResearch: Students participate in engineering and design thinking throughout
+  the mini-unit, putting themselves in the shoes of early optical engineers, taking
+  on design challenges, and developing their own methods to encode wave messages.
+  Each lesson spotlights an important photonics application. The lessons build a conceptual
+  understanding of how light is a wave, and how light’s many unique properties can
+  be shaped with tools to make life better in lots of ways. Lesson 3 will dive deeper
+  into how light interacts with materials, including Dr. Folland’s research about
+  how light interacts with materials at very small scales.
 Feedback: |
   ### Please let us know how it went with your class!
   #### We want to know what you (and/or your students) think!
   Share your feedback in < 5 min with these forms:
-  - [For teachers](https://forms.gle/HY1sFxZUH7uG6JqP8)
-  - [For students](https://forms.gle/gwkRYvvZY6Sp2dQb9)
+  - [For teachers](https://forms.gle/XXwdht92z2cc2ttq5)
+  - [For students](https://forms.gle/VezvxbpAZpoEfqT18)
 Credits:
   value: .na
 Acknowledgments:
@@ -90,7 +131,7 @@ Acknowledgments:
   Link: .na
 Versions:
   ver_num: 0.1.0
-  date: September 11, 2023
+  date: December 4, 2023
   ver_summary: Lesson initialized
   ver_notes: .na
   ver_acknowledgments: .na
@@ -101,4 +142,8 @@ GoogleCloudStorage:
   cloud_path: .na
   mod_time: .na
   last_uploaded: .na
-ReadyToCompile: Front Matter
+ReadyToCompile:
+- Front Matter
+- Standards Alignment
+- Teaching Materials
+- Procedure

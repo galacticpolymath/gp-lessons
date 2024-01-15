@@ -7,9 +7,21 @@
       "sub_releases": [
         {
           "version": "0.1.0",
-          "date": "September 28, 2023",
+          "date": "September 28, 2   023",
           "summary": "Lesson initialized",
-          "notes": "FALSE",
+          "notes": null,
+          "acknowledgments": null
+        }
+      ]
+    },
+    {
+      "major_release": "1",
+      "sub_releases": [
+        {
+          "version": "1.0.1",
+          "date": "November 3, 2023",
+          "summary": "Updates and minor fixes",
+          "notes": null,
           "acknowledgments": null
         }
       ]

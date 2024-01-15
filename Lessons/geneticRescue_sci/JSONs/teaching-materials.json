@@ -3,7 +3,7 @@
   "SectionTitle": "Teaching Materials",
   "Data": {
     "lessonPreface": null,
-    "lessonDur": "5 x 45 min",
+    "lessonDur": "3 x 45 min",
     "classroom": {
       "gradeVariantNotes": [
         {
@@ -799,7 +799,7 @@
       {
         "lsnNum": 5,
         "lsnTitle": "Analyzing Real Genetic Rescue Data",
-        "lsnDur": null,
+        "lsnDur": 45,
         "lsnPreface": "Uses real data from a model species to investigate whether genetic rescue is a viable conservation method for Florida Panthers.",
         "learningObj": ["Provide examples of variation in genes, traits, and individual survival, and why each is important for a species to persist and evolve.", "Predict how increasing genetic variation by introducing new individuals (i.e. by conducting genetic rescue) will impact population size.", "Interpret scatter plot data from a model organism (guppies) and compare to related data in an endangered species (Florida panthers)."],
         "lsnPrep": {

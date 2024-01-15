@@ -1,7 +1,44 @@
 {
-  "__component": "lesson-plan.lesson-preview",
+  "__component": "lesson-plan.unit-preview",
   "SectionTitle": "Lesson Preview",
   "QuickPrep": "1. Check out lesson multimedia below\n2. Look over <AnchorLink href=\"#teaching_materials\"> Teaching Materials <\/AnchorLink>\n3. Read our easy <AnchorLink href=\"#procedure\"> Procedure <\/AnchorLink>\n4. Teach it and <AnchorLink href=\"#feedback\"> let us know what you think! <\/AnchorLink>\n",
-  "Multimedia": null,
+  "Multimedia": [
+    {
+      "order": "1",
+      "type": "video",
+      "forLsn": "1",
+      "title": "Borrowing Brilliance from Biology: The Future of Design",
+      "description": null,
+      "lessonRelevance": "This overview shows what bioinspired design looks like to inspire student-driven projects & investigations. (Beta: not on YouTube)",
+      "by": "Galactic Polymath",
+      "byLink": "https://www.youtube.com/channel/UCfyBNvN3CH4uWmwOCQVhmhg/featured",
+      "mainLink": "https://drive.google.com/file/d/14UKNtxaQRV_MAe4gtc9uO5oRLjqzaJ_Q/preview?rm=minimal",
+      "otherLink": null
+    },
+    {
+      "order": "2",
+      "type": "video",
+      "forLsn": "1",
+      "title": "Changing the world starts with defining a problem",
+      "description": null,
+      "lessonRelevance": "Helps students reflect on how they interact with products and identify ways they could be improved. (Beta: not on YouTube)",
+      "by": "Galactic Polymath",
+      "byLink": "https://www.youtube.com/channel/UCfyBNvN3CH4uWmwOCQVhmhg/featured",
+      "mainLink": "https://drive.google.com/file/d/19yPDFdTL1GKf7gs18LJ1iT6kw5MgC4MA/preview?rm=minimal",
+      "otherLink": null
+    },
+    {
+      "order": "3",
+      "type": "video",
+      "forLsn": "1",
+      "title": "Kickstart innovation with a mind map",
+      "description": null,
+      "lessonRelevance": "Builds the transferable skill of ideating and summarizing by drawing mind maps. (Beta: not on YouTube)",
+      "by": "Galactic Polymath",
+      "byLink": "https://www.youtube.com/channel/UCfyBNvN3CH4uWmwOCQVhmhg/featured",
+      "mainLink": "https://drive.google.com/file/d/1H7js0EClx4d59MfU28GcLz-Hi3sqX4pX/preview?rm=minimal",
+      "otherLink": null
+    }
+  ],
   "InitiallyExpanded": true
 }

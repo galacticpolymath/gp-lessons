@@ -234,7 +234,7 @@
       {
         "lsnNum": 1,
         "lsnTitle": "Why Do I Like That?",
-        "lsnDur": 45,
+        "lsnDur": 80,
         "lsnPreface": "Students conduct an experiment on themselves. They rank images and attempt to understand *why* they preferred some images over others.",
         "learningObj": null,
         "lsnPrep": {
@@ -425,7 +425,7 @@
       {
         "lsnNum": 2,
         "lsnTitle": "The Perception of Beauty",
-        "lsnDur": 45,
+        "lsnDur": 60,
         "lsnPreface": "Students analyze real data to determine if fish mating preferences are explained by sensitivity to certain colors.",
         "learningObj": null,
         "lsnPrep": {
@@ -541,7 +541,7 @@
       {
         "lsnNum": 3,
         "lsnTitle": "Creature Stats",
-        "lsnDur": null,
+        "lsnDur": 60,
         "lsnPreface": "Students collect data from original artworks to test whether being outside the range of human variation makes a drawing creepy or cute.",
         "learningObj": null,
         "lsnPrep": {

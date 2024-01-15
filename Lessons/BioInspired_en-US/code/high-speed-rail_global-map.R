@@ -3,7 +3,7 @@ require(galacticEdTools)
 require(galacticPubs)
 WD <- pick_lesson("?")#pick bioinspired_en-us
 rail_file <-
-  fs::path(WD, "data", "high-speed-rail2_overpass-turbo.geojson")
+  fs::path(WD, "data", "high-speed-rail_overpass-turbo2.geojson")
 checkmate::assert_file_exists(rail_file)
 
 
@@ -25,13 +25,19 @@ rail0 <- sf::read_sf(rail_file)
 #which are good columns
 data_counts <- rail0 %>% apply(., 2, \(x) sum(!is.na(x)))
 #these are robust data
-names(which(data_counts > 1000))
+(good_cols <- names(which(data_counts > 1000)))
+
+
+#if no mph in maxspeed, it's kph and should be converted to mph;otherwise extract the number
+rail0$maxspeed_mph <-ifelse(grepl("mph",rail0$maxspeed),
+  gsub("(\\d*)[ \\w]*$", "\\1", rail0$maxspeed, perl = TRUE),
+  as.numeric(rail0$maxspeed)*0.621371) %>% as.numeric()
 
 #which to keep
 noms <-
   c(
     "id",
-    "maxspeed_num",
+    "maxspeed_mph",
     "layer",
     "loc_name",
     "operator",
@@ -41,15 +47,12 @@ noms <-
     "wikipedia"
   )
 
-rail0$maxspeed_num <-
-  gsub("(\\d*)[ \\w]*$", "\\1", rail0$maxspeed, perl = TRUE) %>% as.numeric()
-
 rail <-
-  rail0 %>% dplyr::select(dplyr::all_of(noms)) %>% dplyr::filter(maxspeed_num >=
-                                                                   100)
+  rail0 %>% dplyr::select(dplyr::all_of(noms)) #%>% dplyr::filter(maxspeed_num >=100) #Filter only data w/ 100kph maxspeed
+
 #make maxspeed more cromulent (too many text entries)
 
-View(rail)
+# View(rail)
 
 rail_simple <- st_simplify(rail)
 #World map

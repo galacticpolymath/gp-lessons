@@ -7,16 +7,39 @@
   "Country": "United States",
   "DefaultLanguage": "English",
   "DefaultCountry": "United States",
-  "LastUpdated": "2023-10-18 17:24:24.937171",
+  "LastUpdated": "2023-12-15 17:49:33.234319",
   "ReleaseDate": "2022-10-31",
   "isTestRepo": false,
   "FirstPublicationDate": "2022-07-11 21:10:05",
+  "LsnStatuses": [
+    {
+      "lsn": 1,
+      "status": "Live",
+      "updated_date": null,
+      "new_date": "2022-10-31",
+      "sort_by_date": "2022-10-31"
+    },
+    {
+      "lsn": 2,
+      "status": "Live",
+      "updated_date": null,
+      "new_date": "2022-10-31",
+      "sort_by_date": "2022-10-31"
+    },
+    {
+      "lsn": 3,
+      "status": "Live",
+      "updated_date": null,
+      "new_date": "2022-10-31",
+      "sort_by_date": "2022-10-31"
+    }
+  ],
   "MediumTitle": "'I Like That!' |Science| G5-9 (en-US)",
   "lang": "en",
   "lng": "eng",
   "locale": "en-US",
   "DefaultLocale": "en-US",
-  "TemplateVer": "0.6.1",
+  "TemplateVer": "0.6.2",
   "galacticPubsVer": "0.9.8",
   "URL": "https://www.galacticpolymath.com/lessons/en-US/5",
   "GdriveHome": "GP-LIVE",
@@ -26,7 +49,7 @@
   "GdrivePublicID": "1UXpy8XV17eKX5qZ4ALEeGc9IEt1IEuIf",
   "GdriveDirID": "1Nxy1V4pf21NhElAUdqVZpdinqCPi1oh3",
   "GdriveMetaID": "1eC6wRn9rqFLLmsV_SKf3TSxSRnKDJf17",
-  "GdriveTeachItID": "1kAhLGAkI3bTcX73hNdpg_YUToZFfqIxEYD1pazbNz6s",
+  "GdriveTeachItID": "173XD1xQd6dQt45m1NGhmM3lP9LRd5FWo-gn5mmmaSuM",
   "GdriveStandardsID": "1dSjqy3VjBn_qKEFWjp5ElJFQ98b7Mm4YnSApAZUKf9A",
   "GdrivePublishedID": "1qORPugrPSBLwCew3wSEwzmmbVjTnkKOJ",
   "GdriveDirURL": "https://drive.google.com/drive/folders/1Nxy1V4pf21NhElAUdqVZpdinqCPi1oh3",

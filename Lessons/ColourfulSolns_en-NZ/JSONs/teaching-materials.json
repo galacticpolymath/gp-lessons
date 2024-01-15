@@ -473,7 +473,7 @@
       {
         "lsnNum": 3,
         "lsnTitle": "Thinking Like a Chemical Engineer",
-        "lsnDur": null,
+        "lsnDur": 45,
         "lsnPreface": "Students interpreting graphs of how textile prices change with production scale for each dye technology used. They then weigh price, sustainability, and cultural significance to propose the best technological solution.",
         "learningObj": ["Understand that chemical engineers develop economical commercial processes to convert raw material into useful products.", "Interpret graphs to design a product solution at an appropriate scale.", "Understand the scientific and engineering methods.", "Assess the tradeoffs in scalability, cost, sustainability, and cultural significance between Māori dye technology compared to modern petroleum-based synthetic dyes."],
         "lsnPrep": {

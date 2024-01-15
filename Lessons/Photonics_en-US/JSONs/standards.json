@@ -1,0 +1,373 @@
+{
+  "__component": "lesson-plan.standards",
+  "Data": [
+    {
+      "subject": "ELA",
+      "target": false,
+      "sets": [
+        {
+          "slug": "CCELA",
+          "name": "Common Core ELA",
+          "dimensions": [
+            {
+              "slug": "LS&L",
+              "name": "Language, Speaking & Listening",
+              "standardsGroup": [
+                {
+                  "lessons": [
+                    "2"
+                  ],
+                  "codes": "L.6.6",
+                  "grades": "6",
+                  "statements": "Acquire and use accurately grade-appropriate general academic and domain-specific words and phrases; gather vocabulary knowledge when considering a word or phrase important to comprehension or expression.",
+                  "alignmentNotes": "- Students are introduced to vocabularly related to waves and the manipulation of light.",
+                  "subcat": null
+                },
+                {
+                  "lessons": [
+                    "2"
+                  ],
+                  "codes": "L.7.6",
+                  "grades": "7",
+                  "statements": "Acquire and use accurately grade-appropriate general academic and domain-specific words and phrases; gather vocabulary knowledge when considering a word or phrase important to comprehension or expression.",
+                  "alignmentNotes": "- Students are introduced to vocabularly related to waves and the manipulation of light.",
+                  "subcat": null
+                },
+                {
+                  "lessons": [
+                    "2"
+                  ],
+                  "codes": "L.8.6",
+                  "grades": "8",
+                  "statements": "Acquire and use accurately grade-appropriate general academic and domain-specific words and phrases; gather vocabulary knowledge when considering a word or phrase important to comprehension or expression.",
+                  "alignmentNotes": "- Students are introduced to vocabularly related to waves and the manipulation of light.",
+                  "subcat": null
+                },
+                {
+                  "lessons": [
+                    "2"
+                  ],
+                  "codes": "L.9-10.6",
+                  "grades": ["9", "10"],
+                  "statements": "Acquire and use accurately general academic and domain-specific words and phrases, sufficient for reading, writing, speaking, and listening at the college and career readiness level; demonstrate independence in gathering vocabulary knowledge when considering a word or phrase important to comprehension or expression.",
+                  "alignmentNotes": "- Students are introduced to vocabularly related to waves and the manipulation of light.",
+                  "subcat": null
+                },
+                {
+                  "lessons": [
+                    "1"
+                  ],
+                  "codes": "CCRA.SL.1",
+                  "grades": ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12"],
+                  "statements": "Prepare for and participate effectively in a range of conversations and collaborations with diverse partners, building on others' ideas and expressing their own clearly and persuasively.",
+                  "alignmentNotes": "- By working in small groups, students will complete the Magnification Timeline puzzle sort. They will discuss the order in which various devices were invented, sharing and debating their historical knowledge to collectively determine a plausible invention timeline.",
+                  "subcat": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "subject": "Science",
+      "target": false,
+      "sets": [
+        {
+          "slug": "NGSS",
+          "name": "NGSS",
+          "dimensions": [
+            {
+              "slug": "SEP",
+              "name": "Science & Engineering Practices",
+              "standardsGroup": [
+                {
+                  "lessons": [
+                    "1"
+                  ],
+                  "codes": "AQDP-M8",
+                  "grades": ["6", "7", "8"],
+                  "statements": "Define a design problem that can be solved through the development of an object, tool, process or system and includes multiple criteria and constraints, including scientific knowledge that may limit possible solutions.",
+                  "alignmentNotes": "- Students consider the need for magnification as a design problem to be solved throughout history. In the Magnification Timeline Puzzle, students will think critically about the scientific and technological challenges that would have limited magnification inventions during different eras.",
+                  "subcat": "Ask Questions & Define Problems"
+                },
+                {
+                  "lessons": [
+                    "1"
+                  ],
+                  "codes": "MOD-M1",
+                  "grades": ["6", "7", "8"],
+                  "statements": "Evaluate limitations of a model for a proposed object or tool.",
+                  "alignmentNotes": "- When prompted to design their own lens from a raw material, students will grapple with the challenges of executing their design with limited tools or resources.",
+                  "subcat": "Developing & Using Models"
+                },
+                {
+                  "lessons": [
+                    "2"
+                  ],
+                  "codes": "AQDP-M1",
+                  "grades": ["6", "7", "8"],
+                  "statements": "Ask questions that arise from careful observation of phenomena, models, or unexpected results, to clarify and/or seek additional information.",
+                  "alignmentNotes": "- When presented with examples of the electromagnetic radiation spectrum, students are encouraged to express surprise or ask questions about phenomena they don't immediately identify as light.",
+                  "subcat": "Ask Questions & Define Problems"
+                },
+                {
+                  "lessons": [
+                    "1"
+                  ],
+                  "codes": "AQDP-H9",
+                  "grades": ["9", "10", "11", "12"],
+                  "statements": "Analyze complex real-world problems by specifying criteria and constraints for successful solutions.",
+                  "alignmentNotes": "- When prompted to design their own lens from a raw material, students will grapple with the challenges of executing their design with limited tools or resources.",
+                  "subcat": "Ask Questions & Define Problems"
+                },
+                {
+                  "lessons": [
+                    "2"
+                  ],
+                  "codes": "AQDP-H1",
+                  "grades": ["9", "10", "11", "12"],
+                  "statements": "Ask questions that arise from careful observation of phenomena, or unexpected results, to clarify and/or seek additional information.",
+                  "alignmentNotes": "- When presented with examples of the electromagnetic radiation spectrum, students are encouraged to express surprise or ask questions about phenomena they don't immediately identify as light.",
+                  "subcat": "Ask Questions & Define Problems"
+                }
+              ]
+            },
+            {
+              "slug": "DCI",
+              "name": "Disciplinary Core ideas",
+              "standardsGroup": [
+                {
+                  "lessons": [
+                    "2"
+                  ],
+                  "codes": "PS4.C-M1",
+                  "grades": ["6", "7", "8"],
+                  "statements": "Digitized signals (sent as wave pulses) are a more reliable way to encode and transmit information.",
+                  "alignmentNotes": "- When challenged to send a message across their classroom using waves, students will discover that a series of wave pulses is efficient for sending messages. The lesson then connects that many modern signals rely on binary encodings to send digitized signals as wave pulses.",
+                  "subcat": "Information Technologies & Instrumentation"
+                },
+                {
+                  "lessons": [
+                    "2"
+                  ],
+                  "codes": "PS4.A-H3",
+                  "grades": ["9", "10", "11", "12"],
+                  "statements": "Information can be digitized (e.g., a picture stored as the values of an array of pixels); in this form, it can be stored reliably in computer memory and sent over long distances as a series of wave pulses.",
+                  "alignmentNotes": "- After practicing sending their own messages across the classroom using waves, the lesson turns back to examples of modern technology and digitized signals. Students appreciate that most modern signals are sent via fiber optic cables, WiFi, or satellite, and messages are encoded in binary, as a series of wave pulses.",
+                  "subcat": "Wave Properties"
+                },
+                {
+                  "lessons": [
+                    "2"
+                  ],
+                  "codes": "PS4.B-H2",
+                  "grades": ["9", "10", "11", "12"],
+                  "statements": "When light or longer wavelength electromagnetic radiation is absorbed in matter, it is generally converted into thermal energy (heat). Shorter wavelength electromagnetic radiation (ultraviolet, X-rays, gamma rays) can ionize atoms and cause damage to living cells.",
+                  "alignmentNotes": "- Students are introduced to the entire electromagnetic spectrum through the context of how they interact with our world. Students learn that some light is visible, some can be absorbed and converted to heat, and ionizing radition is used in devices such as X-ray machines.",
+                  "subcat": "Electromagnetic Radiation"
+                },
+                {
+                  "lessons": [
+                    "3"
+                  ],
+                  "codes": "PS4.A-H2",
+                  "grades": ["9", "10", "11", "12"],
+                  "statements": "The wavelength and frequency of a wave are related to one another by the speed of travel of the wave, which depends on the type of wave and the medium through which it is passing.",
+                  "alignmentNotes": "- L3 will teach students how the wavelength and frequency of light change in various media, in order to preserve the speed of light as a constant.",
+                  "subcat": "Wave Properties"
+                }
+              ]
+            },
+            {
+              "slug": "CCC",
+              "name": "Cross-Cutting Concepts",
+              "standardsGroup": [
+                {
+                  "lessons": [
+                    "2"
+                  ],
+                  "codes": "SYS-H1",
+                  "grades": ["9", "10", "11", "12"],
+                  "statements": "Systems can be designed to do specific tasks.",
+                  "alignmentNotes": "- Students design unique codes that embed messages in waves using frequency and amplitude.",
+                  "subcat": "Systems & Systems Models"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "subject": "Social Studies",
+      "target": false,
+      "sets": [
+        {
+          "slug": "C3",
+          "name": "C3",
+          "dimensions": [
+            {
+              "slug": "CEGH",
+              "name": "Civics, Economics, Geography & History",
+              "standardsGroup": [
+                {
+                  "lessons": [
+                    "1"
+                  ],
+                  "codes": "D2.His.16.9-12",
+                  "grades": ["9", "10", "11", "12"],
+                  "statements": "Integrate evidence from multiple relevant historical sources and interpretations into a reasoned argument about the past.",
+                  "alignmentNotes": "- Students compare their own historical knowledge and intuition to descriptions of magnification devices invented throughout history. Using their prior knowledge and the device descriptions, they sort the inventions into a plausible timeline.",
+                  "subcat": null
+                },
+                {
+                  "lessons": [
+                    "1"
+                  ],
+                  "codes": "D2.His.16.6-8",
+                  "grades": ["6", "7", "8"],
+                  "statements": "Organize applicable evidence into a coherent argument about the past.",
+                  "alignmentNotes": "- Students compare their own historical knowledge and intuition to descriptions of magnification devices invented throughout history. Using their prior knowledge and the device descriptions, they sort the inventions into a plausible timeline.",
+                  "subcat": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "subject": "Science",
+      "target": true,
+      "sets": [
+        {
+          "slug": "NGSS",
+          "name": "NGSS",
+          "dimensions": [
+            {
+              "slug": "DCI",
+              "name": "Disciplinary Core ideas",
+              "standardsGroup": [
+                {
+                  "lessons": [
+                    "2"
+                  ],
+                  "codes": "PS4.A-M1",
+                  "grades": ["6", "7", "8"],
+                  "statements": "A simple wave has a repeating pattern with a specific wavelength, frequency, and amplitude.",
+                  "alignmentNotes": "- Students learn that waves are repeating patterns which transfer energy across space, as well as the anatomy of a wave (including wavelength, frequency, and amplitude).",
+                  "subcat": "Wave Properties"
+                },
+                {
+                  "lessons": [
+                    "3"
+                  ],
+                  "codes": "PS4.B-M2",
+                  "grades": ["6", "7", "8"],
+                  "statements": "The path that light travels can be traced as straight lines, except at surfaces between different transparent materials (e.g., air and water, air and glass) where the light path bends.",
+                  "alignmentNotes": "- Students encounter Snell's law, and practice how light bends at interfaces depending on the medium's index of refraction.",
+                  "subcat": "Electromagnetic Radiation"
+                },
+                {
+                  "lessons": [
+                    "2"
+                  ],
+                  "codes": "PS4.B-H1",
+                  "grades": ["9", "10", "11", "12"],
+                  "statements": "Electromagnetic radiation (e.g., radio, microwaves, light) can be modeled as a wave of changing electric and magnetic fields or as particles called photons. The wave model is useful for explaining many features of electromagnetic radiation, and the particle model explains other features.",
+                  "alignmentNotes": "- Expanding our concept of (visible) light to include the entire electromagnetic spectrum, advanced students learn that light can be described using a wave model or a particle model.",
+                  "subcat": "Electromagnetic Radiation"
+                },
+                {
+                  "lessons": [
+                    "2"
+                  ],
+                  "codes": "PS4.C-H1",
+                  "grades": ["9", "10", "11", "12"],
+                  "statements": "Multiple technologies based on the understanding of waves and their interactions with matter are part of everyday experiences in the modern world (e.g., medical imaging, communications, scanners) and in scientific research. They are essential tools for producing, transmitting, and capturing signals and for storing and interpreting the information contained in them.",
+                  "alignmentNotes": "- Throughout L2 students are introduced to modern technologies (such as radio, WiFi, and Bluetooth) based on sending and receiving signals which are encoded in light.",
+                  "subcat": "Information Technologies & Instrumentation"
+                }
+              ]
+            },
+            {
+              "slug": "CCC",
+              "name": "Cross-Cutting Concepts",
+              "standardsGroup": [
+                {
+                  "lessons": [
+                    "1"
+                  ],
+                  "codes": "SF-M2",
+                  "grades": ["6", "7", "8"],
+                  "statements": "Structures can be designed to serve particular functions by taking into account properties of different materials, and how materials can be shaped and used.",
+                  "alignmentNotes": "- Students are prompted to design their own lens from a raw material, taking into account its intended usage, available materials, and manufacturing challenges.",
+                  "subcat": "Structure & Function"
+                },
+                {
+                  "lessons": [
+                    "2"
+                  ],
+                  "codes": "SPQ-M1",
+                  "grades": ["6", "7", "8"],
+                  "statements": "Time, space, and energy phenomena can be observed at various scales using models to study systems that are too large or too small.",
+                  "alignmentNotes": "- Students are introduced to the wave model of light, and are informed that other models exist to study different aspects of light.",
+                  "subcat": "Scale, Proportion, & Quantity"
+                },
+                {
+                  "lessons": [
+                    "1"
+                  ],
+                  "codes": "SF-H2",
+                  "grades": ["9", "10", "11", "12"],
+                  "statements": "The functions and properties of natural and designed objects and systems can be inferred from their overall structure, the way their components are shaped and used, and the molecular substructures of its various materials.",
+                  "alignmentNotes": "- Students are prompted to design their own lens from a raw material, taking into account its intended usage, available materials, and manufacturing challenges.",
+                  "subcat": "Structure & Function"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "subject": "Social Studies",
+      "target": true,
+      "sets": [
+        {
+          "slug": "C3",
+          "name": "C3",
+          "dimensions": [
+            {
+              "slug": "CEGH",
+              "name": "Civics, Economics, Geography & History",
+              "standardsGroup": [
+                {
+                  "lessons": [
+                    "1"
+                  ],
+                  "codes": "D2.His.1.6-8",
+                  "grades": ["6", "7", "8"],
+                  "statements": "Analyze connections among events and developments in broader historical contexts.",
+                  "alignmentNotes": "- During the Magnification Timeline puzzle sort, students use their understanding of historical events to determine when each device could realisitically have been invented.",
+                  "subcat": null
+                },
+                {
+                  "lessons": [
+                    "1"
+                  ],
+                  "codes": "D2.His.1.9-12",
+                  "grades": ["9", "10", "11", "12"],
+                  "statements": "Evaluate how historical events and developments were shaped by unique circumstances of time and place as well as broader historical contexts.",
+                  "alignmentNotes": "- During the Magnification Timeline puzzle sort, students use their understanding of historical events to determine when each device could realisitically have been invented.",
+                  "subcat": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

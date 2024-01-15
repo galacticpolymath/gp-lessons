@@ -7,16 +7,53 @@
   "Country": "United States",
   "DefaultLanguage": "English",
   "DefaultCountry": "United States",
-  "LastUpdated": "2023-10-18 17:22:21.388129",
+  "LastUpdated": "2023-12-15 17:48:01.617587",
   "ReleaseDate": "2021-12-15",
   "isTestRepo": false,
   "FirstPublicationDate": "2021-12-15 17:06:16",
+  "LsnStatuses": [
+    {
+      "lsn": 1,
+      "status": "Live",
+      "updated_date": null,
+      "new_date": "2021-12-15",
+      "sort_by_date": "2021-12-15"
+    },
+    {
+      "lsn": 2,
+      "status": "Live",
+      "updated_date": null,
+      "new_date": "2021-12-15",
+      "sort_by_date": "2021-12-15"
+    },
+    {
+      "lsn": 3,
+      "status": "Live",
+      "updated_date": null,
+      "new_date": "2021-12-15",
+      "sort_by_date": "2021-12-15"
+    },
+    {
+      "lsn": 4,
+      "status": "Live",
+      "updated_date": null,
+      "new_date": "2021-12-15",
+      "sort_by_date": "2021-12-15"
+    },
+    {
+      "lsn": 5,
+      "status": "Live",
+      "updated_date": null,
+      "new_date": "2021-12-15",
+      "sort_by_date": "2021-12-15"
+    }
+  ],
   "MediumTitle": "'Genetic Rescue to the Rescue' |Science| G9-12 (en-US)",
   "lang": "en",
   "lng": "eng",
   "locale": "en-US",
   "DefaultLocale": "en-US",
-  "TemplateVer": "0.6.1",
+  "TemplateVer": "0.6.2",
   "galacticPubsVer": "0.9.8",
   "URL": "https://www.galacticpolymath.com/lessons/en-US/3",
   "GdriveHome": "GP-LIVE",
@@ -26,7 +63,7 @@
   "GdrivePublicID": "1JwsZMLh8s7nd9rI6uJcvCmHkGRuGNj_S",
   "GdriveDirID": "1NWH6z13CgpVn0bFe1fWloeWw87ycGDti",
   "GdriveMetaID": "1XAqIyNWH9pdOmJNPV9WLKMMpebQBoXoM",
-  "GdriveTeachItID": "1eFTJRPDlk1haTC1wUtfk7xJfZS6lxtJ1Pb5dfN0_qB4",
+  "GdriveTeachItID": "18ckPrJQ1P0arCYpLTH_xa_9wG8JZRhPvJJo3Vf7EV-E",
   "GdriveStandardsID": "1p2XC6MUV4G2FCRH9sdgda4L_sbsARyWHCeNnywWpv1g",
   "GdrivePublishedID": "1_8YhQHo4LftImt8U_WGVUm0sL3ypzKnD",
   "GdriveDirURL": "https://drive.google.com/drive/folders/1NWH6z13CgpVn0bFe1fWloeWw87ycGDti",
