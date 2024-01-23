@@ -1,48 +1,48 @@
 numID: 8
 _id: lesson_8_en-US
 ShortTitle: BioInspired
-PublicationStatus: Draft
+PublicationStatus: Live
 Language: English
 Country: United States
 DefaultLanguage: English
 DefaultCountry: United States
-LastUpdated: 2024-01-03 14:44:54.902256
-ReleaseDate: '2023-12-31'
+LastUpdated: 2024-01-22 17:40:20.056916
+ReleaseDate: '2023-01-21'
 isTestRepo: no
 FirstPublicationDate: .na
 LsnStatuses:
 - lsn: 1
   status: Beta
   updated_date: .na
-  new_date: .na
-  sort_by_date: '2024-01-02'
+  new_date: '2024-01-22'
+  sort_by_date: '2024-01-22'
 - lsn: 2
   status: Beta
   updated_date: .na
-  new_date: .na
-  sort_by_date: '2024-01-02'
+  new_date: '2024-01-22'
+  sort_by_date: '2024-01-22'
 - lsn: 3
   status: Beta
   updated_date: .na
-  new_date: .na
-  sort_by_date: '2024-01-02'
+  new_date: '2024-01-22'
+  sort_by_date: '2024-01-22'
 - lsn: 4
   status: Beta
   updated_date: .na
-  new_date: .na
-  sort_by_date: '2024-01-02'
+  new_date: '2024-01-22'
+  sort_by_date: '2024-01-22'
 - lsn: 5
   status: Beta
   updated_date: .na
-  new_date: .na
-  sort_by_date: '2024-01-02'
+  new_date: '2024-01-22'
+  sort_by_date: '2024-01-22'
 MediumTitle: '''Bioinspired Design'' |Science| G8-University (en-US)'
 lang: en
 lng: eng
 locale: en-US
 DefaultLocale: en-US
 TemplateVer: 0.6.2
-galacticPubsVer: 0.9.8
+galacticPubsVer: 0.9.9
 URL: https://www.galacticpolymath.com/lessons/en-US/8
 GdriveHome: GP-Studio
 GdriveDirName: BioInspired_en-US
@@ -65,8 +65,8 @@ SponsoredBy: |-
   - The [John Templeton Foundation](https://www.templeton.org/about/vision-mission-impact) funds research and catalyzes conversations that inspire people with awe and wonder.
   - [Dr. Emilie Snell-Rood's Lab](https://cbs.umn.edu/snell-rood-lab/people) at the University of Minnesota studies how organisms respond to anthropogenic environments, and implications for preserving biodiversity. This unit is an interdisciplinary side-project with collaborators in biology, design, architecture, and engineering.
 SponsorLogo: https://storage.googleapis.com/gp-cloud/lessons/BioInspired_en-US/JTF_logo_wtagline.png
-LessonBanner: https://storage.googleapis.com/gp-cloud/lessons/BioInspired_en-US/Banner_Clean_Color.png
-LessonCard: .na
+LessonBanner: https://storage.googleapis.com/gp-cloud/lessons/BioInspired_en-US/bioinspired_assets-2-banner.png
+LessonCard: https://storage.googleapis.com/gp-cloud/lessons/BioInspired_en-US/bioinspired_assets-3-card.png
 TargetSubject: Science
 LessonEnvir: Classroom
 ForGrades: 8-University
@@ -77,23 +77,23 @@ LessonTiles:
 - https://storage.googleapis.com/gp-cloud/lessons/BioInspired_en-US/Bioinspired-Lesson-Tiles-3-Bioinspired_L3_Tile.png
 - https://storage.googleapis.com/gp-cloud/lessons/BioInspired_en-US/Bioinspired-Lesson-Tiles-4-Bioinspired_L4_Tile.png
 - https://storage.googleapis.com/gp-cloud/lessons/BioInspired_en-US/Bioinspired-Lesson-Tiles-5-Bioinspired_L5_Tile.png
-EstLessonTime: 5 or more class periods
+EstLessonTime: ≥5 45 min. class periods
 PullStandardsInfoFrom: myFile
 LearningPlotCorrection: yes
-LearningChartFriendly: .na
-LearningEpaulette: .na
-LearningEpaulette_vert: .na
+LearningChartFriendly: yes
+LearningEpaulette: https://storage.googleapis.com/gp-cloud/lessons/BioInspired_en-US/GP-Learning-Epaulette.png
+LearningEpaulette_vert: https://storage.googleapis.com/gp-cloud/lessons/BioInspired_en-US/GP-Learning-Epaulette_vert.png
 LearningEpaulette_params_heightScalar: 0.5
-LearningEpaulette_params_randomSeed: 101.0
-LearningChart: .na
-LearningChart_params_centralText: []
-LearningChart_params_caption: []
+LearningEpaulette_params_randomSeed: 101
+LearningChart: https://storage.googleapis.com/gp-cloud/lessons/BioInspired_en-US/GP-Learning-Chart.png
+LearningChart_params_centralText: .na
+LearningChart_params_caption: .na
 LearningChart_params_captionN: yes
 SupportingMedia: https://storage.googleapis.com/gp-cloud/lessons/BioInspired_en-US/vocab.csv
-LearningSummary: 'By bridging engineering and biology, students will expand their
-  perspective on how to design solutions that could change the world. This challenge
-  empowers young learners with the Bioinspired Design Process: a novel design framework
-  developed with experts in evolutionary biology, architecture, and design.'
+LearningSummary: 'Students will identify a problem with an existing product and investigate
+  biological functions to inspire a product redesign. Through independent research
+  using AI bots and scholarly sources, students will gain a new perspective on STEM,
+  biology, and the human interface between. '
 DrivingQ: |
   1. How can we use organismal adaptations to design better engineering solutions?
   2. What products in our daily lives could be more sustainable, functional, or aesthetically pleasing?
@@ -103,6 +103,9 @@ MiscMD: .na
 LearningObj: .na
 Tags:
 - biomimicry
+- biomimetics
+- evolution
+- engineering
 - design thinking
 - PBL
 - project-based learning
@@ -114,8 +117,34 @@ QuickPrep: |
   4. Teach it and [let us know what you think!](#feedback)
 Bonus: .na
 Extensions: .na
-Background: .na
-ConnectionToResearch: .na
+Background: "This series of lessons comes out of an interdisciplinary collaboration
+  of biologists, designers, philosophers and educators at the University of Minnesota.
+  The team is led by [Emilie Snell-Rood](https://scholar.google.com/citations?user=s-pbFU8AAAAJ&hl=en&oi=ao),
+  who holds a BS in Biology, a doctorate in Ecology and Evolutionary Biology, and
+  is currently faculty in Ecology, Evolution and Behavior at UMN. Emilie’s research
+  focuses on understanding responses of organisms to human environments; for instance,
+  why some butterflies deal well with urban pollutants and others do not. For the
+  last decade, Emilie has been working to improve the biomimetic process, in research
+  and the classroom, by facilitating deeper interdisciplinary collaborations between
+  biologists, designers and engineers. The current team of biologists, architects
+  and philosophers is exploring the development of biological principles used in design
+  that are accurate but also spur creative design ideas in addition to developing
+  and testing classroom activities in biomimetics. \n\nThis unit and the scientific
+  working group that produced it is funded by the John Templeton Foundation's [Agency,
+  Directionality & Function research program](https://www.biologicalpurpose.org/).\n\n###
+  Further Reading\n#### Popular Media:\n- [Podcast| \"Evolution x Design – Butterfly
+  Wing Wallpaper\"](https://rss.com/podcasts/purposepodcast/1252299/)\n- [UMN Newsroom
+  | \"Found in translation\"](https://cbs.umn.edu/blog-posts/found-translation)\n####
+  Scientific Articles:\n- [**Ecology and Evolution** | \"Bioinspiration as a method
+  of problem-based STEM education: A case study with a class structured around the
+  COVID-19 crisis\"](https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.8044)\n-
+  [**Bioinspiration & Biomimetics** | \"Biology for biomimetics I: function as an
+  interdisciplinary bridge in bio-inspired design\"](https://iopscience.iop.org/article/10.1088/1748-3190/ace5fb/meta)\n-
+  [**Interdisciplinarity: Bring biologists into biomimetics**](https://www.nature.com/articles/529277a)\n\n"
+ConnectionToResearch: 'Students will dive into primary resources (e.g. through [Google
+  Scholar](https://scholar.google.com/)) or journal articles summarizing scientific
+  research (depending on student levels), as they investigate current products and
+  biological adaptations that could inspire new engineering solutions. '
 Feedback: |
   ### Please let us know how it went with your class!
   #### We want to know what you (and/or your students) think!
@@ -123,29 +152,71 @@ Feedback: |
   - [For teachers](https://forms.gle/RWavzgBusrXJyC1w8)
   - [For students](https://forms.gle/Kk2CkDrjkzQN3div9)
 Credits:
-  value: .na
+  value: |
+    [Matt Wilkins, PhD](https://www.linkedin.com/in/mattwilkinsphd/) Led the project; helped develop, edit, and revise all aspects of the lesson and supporting media
+
+    [Stephanie Rapciak, MA](https://www.linkedin.com/in/stephanie-rapciak/) Helped develop all lesson materials; co-wrote and produced supporting videos
+
+    [Stephanie Castillo, PhD](https://www.phuturedoctors.com/) Provided feedback throughout development. Led creation of all supporting multimedia.
+
+    [Emilie Snell-Rood, PhD](https://scholar.google.com/citations?user=s-pbFU8AAAAJ&hl=en&oi=ao) Defined outreach goals; provided feedback throughout development; provided scientific validation of lesson content.
 Acknowledgments:
-  Role: .na
-  Role_def: .na
-  Name: .na
-  Title: .na
-  Affiliation: .na
-  Location: .na
-  Link: .na
+  Role:
+  - Illustrator
+  - “Function in Bio-inspired design” research team
+  - Graphic Design Consultant
+  - Funding
+  Role_def:
+  - Created banner image and numerous supporting drawings
+  - Dimitri Smirnoff, Mary Guzowski, Billy Weber, Jessica Rossi-Mastracci, Alan Love,
+    Amanda Hund, Mike Travisano, Ruth Shaw, Mark Borrello, Gillian Roehrig, and Jeremy
+    Thomas
+  - Helped develop the bioinspired design visual framework
+  - John Templeton Foundation award 62220
+  Name:
+  - Anna Wilkins
+  - .na.character
+  - Caroline Hu, PhD
+  - .na.character
+  Title:
+  - Character Designer & Storyboard Artist
+  - .na.character
+  - Assistant Professor of Biology
+  - .na.character
+  Affiliation:
+  - Freelance
+  - .na.character
+  - Massachusetts College of Art and Design
+  - .na.character
+  Location:
+  - Atlanta, GA
+  - .na.character
+  - Boston, MA
+  - .na.character
+  Link:
+  - https://www.annamationvisdev.com/
+  - .na.character
+  - https://www.hudrewthis.com/about
+  - .na.character
 Versions:
   ver_num:
   - 0.1.0
   - 0.1.2
+  - 0.2.0
   date:
   - July 21, 2023
   - December 23, 2023
+  - Jan 18, 2023
   ver_summary:
   - Lesson initialized
   - Added banner and other materials.
+  - Adding standards, background; readying for launch
   ver_notes:
   - .na
   - .na
+  - .na
   ver_acknowledgments:
+  - .na
   - .na
   - .na
 ScriptsToRun: .na
@@ -157,4 +228,8 @@ GoogleCloudStorage:
   last_uploaded: .na
 ReadyToCompile:
 - Front Matter
+- Standards Alignment
 - Teaching Materials
+- Procedure
+- Acknowledgments
+- Versions

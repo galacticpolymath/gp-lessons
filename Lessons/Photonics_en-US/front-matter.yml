@@ -1,33 +1,38 @@
 numID: 9
 _id: lesson_9_en-US
 ShortTitle: Photonics
-PublicationStatus: Proto
+PublicationStatus: Draft
 Language: English
 Country: United States
 DefaultLanguage: English
 DefaultCountry: United States
-LastUpdated: 2023-12-23 11:05:13.997422
-ReleaseDate: '2050-01-01'
+LastUpdated: 2024-01-22 17:16:59.637036
+ReleaseDate: '2024-01-26'
 isTestRepo: no
 FirstPublicationDate: .na
 LsnStatuses:
 - lsn: 1
   status: Live
   updated_date: .na
-  new_date: .na
-  sort_by_date: -.inf
+  new_date: '2024-01-22'
+  sort_by_date: '2024-01-22'
 - lsn: 2
   status: Live
   updated_date: .na
+  new_date: '2024-01-22'
+  sort_by_date: '2024-01-22'
+- lsn: 3
+  status: Coming Soon
+  updated_date: .na
   new_date: .na
-  sort_by_date: -.inf
+  sort_by_date: '2024-01-22'
 MediumTitle: '''Photon Engineers'' |Science| G6-9 (en-US)'
 lang: en
 lng: eng
 locale: en-US
 DefaultLocale: en-US
 TemplateVer: 0.6.2
-galacticPubsVer: 0.9.8
+galacticPubsVer: 0.9.9
 URL: https://www.galacticpolymath.com/lessons/en-US/9
 GdriveHome: GP-Studio
 GdriveDirName: Photonics_en-US
@@ -47,9 +52,11 @@ SponsorName:
 - NSF
 - University of Iowa
 SponsoredBy: |-
-  - National Science Foundation Grant
   - [Dr. Tom Folland's Lab](https://physics.uiowa.edu/people/thomas-folland) at the University of Iowa
-SponsorLogo: https://storage.googleapis.com/gp-cloud/lessons/Photonics_en-US/Iowa_logo_blackBG.png
+  - National Science Foundation CAREER award, through the division of materials research, grant 2236807
+SponsorLogo:
+- https://storage.googleapis.com/gp-cloud/lessons/Photonics_en-US/Folland-Lab_logo.png
+- https://storage.googleapis.com/gp-cloud/lessons/Photonics_en-US/Iowa_logo_blackBG.png
 LessonBanner: https://storage.googleapis.com/gp-cloud/lessons/Photonics_en-US/Photonics_1-banner.png
 LessonCard: https://storage.googleapis.com/gp-cloud/lessons/Photonics_en-US/Photonics_2-card.png
 TargetSubject: Science
@@ -66,10 +73,10 @@ LearningChartFriendly: yes
 LearningEpaulette: https://storage.googleapis.com/gp-cloud/lessons/Photonics_en-US/GP-Learning-Epaulette.png
 LearningEpaulette_vert: https://storage.googleapis.com/gp-cloud/lessons/Photonics_en-US/GP-Learning-Epaulette_vert.png
 LearningEpaulette_params_heightScalar: 0.5
-LearningEpaulette_params_randomSeed: 101.0
+LearningEpaulette_params_randomSeed: 101
 LearningChart: https://storage.googleapis.com/gp-cloud/lessons/Photonics_en-US/GP-Learning-Chart.png
-LearningChart_params_centralText: []
-LearningChart_params_caption: []
+LearningChart_params_centralText: .na
+LearningChart_params_caption: .na
 LearningChart_params_captionN: yes
 SupportingMedia: https://storage.googleapis.com/gp-cloud/lessons/Photonics_en-US/vocab.csv
 LearningSummary: Embark on a journey through time and space to understand what light
@@ -80,8 +87,8 @@ DrivingQ: |-
   1. How can light be used to measure, transmit, and control information?
   2. How does light behave in various mediums?
 EssentialQ: |-
-  How has human curiosity driven innovation throughout history?
-  What are the benefits and challenges of communicating with light?
+  - How has human curiosity driven innovation throughout history?
+  - What are the benefits and challenges of communicating with light?
 Hooks: 'Puzzles, hands-on games, and original illustrations create a dynamic lesson
   supported by engaging videos. '
 MiscMD: .na
@@ -100,19 +107,35 @@ QuickPrep: |
   4. Teach it and [let us know what you think!](#feedback)
 Bonus: .na
 Extensions: .na
-Background: 'Light is everywhere in our daily lives, and not just to help us see -
-  from communication technologies like radio and Wi-Fi to X-rays at the dentist, our
-  lives depend on the entire electromagnetic spectrum. Nanophotonics studies how light
-  waves interact with materials at very small scales, with applications such as semiconductors,
-  lasers, and microscopy. '
-ConnectionToResearch: Students participate in engineering and design thinking throughout
+Background: "Light is one of the most powerful tools we have for understanding the
+  world around us! It helps us see, from visible light to X-rays, and communicate
+  via radio technologies— and, light can tell us about what things are made of.\n\nDr.
+  Tom Folland studies how light behaves in different materials, and what this behavior
+  can tell us about chemical, electrical and other properties of these materials.
+  All these properties influence the usefulness of materials to create technologies
+  as broad as computer chips, light bulbs, or pollutant sensors. In particular, by
+  observing light in crystalline materials, the Folland group is able to observe light
+  behaving in new ways, differently from in conventional optical materials like glass.\n\nAn
+  example is the *polariton* – which forms when light interacts with a material to
+  create a new state of light. It inherits some of the properties of light, but also
+  takes on some of the properties of the material it is coupled to. For instance,
+  the wavelength of the light can be compressed, or we can make light travel in certain
+  directions.\nHere is a selection of summaries and scientific papers about Dr. Folland’s
+  work and discipline:\n\n#### Further Reading:\n- [Phys.org | (Summary) Hyperbolic
+  shear polaritons in low-symmetry crystals ](https://phys.org/news/2022-02-hyperpolic-polaritons-low-symmetry-crystals.html)\n-
+  [Physics Today | (Overview of discipline) Nanophotonics for a sustainable future]
+  (https://pubs.aip.org/physicstoday/article/76/6/24/2893165/Nanophotonics-for-a-sustainable-futureAs-the-field)\n-
+  [American Chemical Society | (Scientific paper) Narrowband Polaritonic Thermal Emitters
+  Driven by Waste Heat] (https://pubs.acs.org/doi/full/10.1021/acsomega.0c00600) "
+ConnectionToResearch: 'Students participate in engineering and design thinking throughout
   the mini-unit, putting themselves in the shoes of early optical engineers, taking
-  on design challenges, and developing their own methods to encode wave messages.
-  Each lesson spotlights an important photonics application. The lessons build a conceptual
-  understanding of how light is a wave, and how light’s many unique properties can
-  be shaped with tools to make life better in lots of ways. Lesson 3 will dive deeper
-  into how light interacts with materials, including Dr. Folland’s research about
-  how light interacts with materials at very small scales.
+  on design challenges, developing their own methods to encode wave messages, and
+  learning about important photonics applications. The first two units give a basic
+  introduction to the concepts underpinning light, the manipulation of light, and
+  how different types of light can be used. The final module will introduce how material
+  properties can control light, and how this relates to ongoing technological developments.
+  This ties into Dr. Folland’s research about the behavior of light in crystalline
+  materials. '
 Feedback: |
   ### Please let us know how it went with your class!
   #### We want to know what you (and/or your students) think!
@@ -120,21 +143,56 @@ Feedback: |
   - [For teachers](https://forms.gle/XXwdht92z2cc2ttq5)
   - [For students](https://forms.gle/VezvxbpAZpoEfqT18)
 Credits:
-  value: .na
+  value: |2-
+
+    - [Dri Chiu Tattersfield](https://www.linkedin.com/in/dri-t/) Led the project; helped develop all lesson materials; co-wrote and produced supporting videos.
+    - [Madelyn, Leembruggen](https://www.linkedin.com/in/mleembruggen/) Helped develop all lesson materials; performed in, co-wrote, storyboarded, and produced supporting videos.
+    - [Ella Houlihan](https://www.linkedin.com/in/ella-houlihan-624878177/) Provided feedback and suggestions throughout development of lessons and media.
+    - [Thomas Folland, PhD](https://scholar.google.com/citations?user=s-pbFU8AAAAJ&hl=en&oi=ao) Defined outreach goals; provided feedback throughout development; provided scientific validation of lesson content.
+    - [Matt Wilkins, PhD](https://www.linkedin.com/in/mattwilkinsphd/) Directed the project; helped shape and revise all aspects of the lesson and supporting media
 Acknowledgments:
-  Role: .na
-  Role_def: .na
-  Name: .na
-  Title: .na
-  Affiliation: .na
-  Location: .na
-  Link: .na
+  Role:
+  - Funding
+  - Filmmaker
+  Role_def:
+  - NSF CAREER Award 2236807, through the Division of Materials Research.
+  - Edited, scored, and narrated supporting videos.
+  Name:
+  - .na.character
+  - Stephanie Castillo, PhD
+  Title:
+  - .na.character
+  - Digital Multimedia Specialist
+  Affiliation:
+  - .na.character
+  - Galactic Polymath
+  Location:
+  - .na.character
+  - Nashville, TN
+  Link:
+  - .na.character
+  - https://www.phuturedoctors.com/
 Versions:
-  ver_num: 0.1.0
-  date: December 4, 2023
-  ver_summary: Lesson initialized
-  ver_notes: .na
-  ver_acknowledgments: .na
+  ver_num:
+  - 0.2.1
+  - 0.2.0
+  - 0.1.0
+  date:
+  - January 19, 2023
+  - January 15, 2023
+  - December 4, 2023
+  ver_summary:
+  - Added authors and acknowledgments
+  - Updates for finalization
+  - Lesson initialized
+  ver_notes:
+  - .na
+  - .na
+  - .na
+  ver_acknowledgments:
+  - .na
+  - .na
+  - .na
 ScriptsToRun: .na
 GoogleCloudStorage:
   filename: .na
@@ -147,3 +205,5 @@ ReadyToCompile:
 - Standards Alignment
 - Teaching Materials
 - Procedure
+- Acknowledgments
+- Versions

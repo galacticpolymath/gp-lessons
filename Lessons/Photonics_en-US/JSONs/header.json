@@ -2,13 +2,13 @@
   "numID": 9,
   "_id": "lesson_9_en-US",
   "ShortTitle": "Photonics",
-  "PublicationStatus": "Proto",
+  "PublicationStatus": "Draft",
   "Language": "English",
   "Country": "United States",
   "DefaultLanguage": "English",
   "DefaultCountry": "United States",
-  "LastUpdated": "2023-12-23 11:05:13.997422",
-  "ReleaseDate": "2050-01-01",
+  "LastUpdated": "2024-01-22 17:16:59.637036",
+  "ReleaseDate": "2024-01-26",
   "isTestRepo": false,
   "FirstPublicationDate": null,
   "LsnStatuses": [
@@ -16,15 +16,22 @@
       "lsn": 1,
       "status": "Live",
       "updated_date": null,
-      "new_date": null,
-      "sort_by_date": null
+      "new_date": "2024-01-22",
+      "sort_by_date": "2024-01-22"
     },
     {
       "lsn": 2,
       "status": "Live",
       "updated_date": null,
+      "new_date": "2024-01-22",
+      "sort_by_date": "2024-01-22"
+    },
+    {
+      "lsn": 3,
+      "status": "Coming Soon",
+      "updated_date": null,
       "new_date": null,
-      "sort_by_date": null
+      "sort_by_date": "2024-01-22"
     }
   ],
   "MediumTitle": "'Photon Engineers' |Science| G6-9 (en-US)",
@@ -33,7 +40,7 @@
   "locale": "en-US",
   "DefaultLocale": "en-US",
   "TemplateVer": "0.6.2",
-  "galacticPubsVer": "0.9.8",
+  "galacticPubsVer": "0.9.9",
   "URL": "https://www.galacticpolymath.com/lessons/en-US/9",
   "GdriveHome": "GP-Studio",
   "GdriveDirName": "Photonics_en-US",
@@ -50,8 +57,8 @@
   "Title": "Photon Engineers",
   "Subtitle": "Tinkering with Light",
   "SponsorName": ["NSF", "University of Iowa"],
-  "SponsoredBy": "- National Science Foundation Grant\n- [Dr. Tom Folland's Lab](https://physics.uiowa.edu/people/thomas-folland) at the University of Iowa",
-  "SponsorLogo": "https://storage.googleapis.com/gp-cloud/lessons/Photonics_en-US/Iowa_logo_blackBG.png",
+  "SponsoredBy": "- [Dr. Tom Folland's Lab](https://physics.uiowa.edu/people/thomas-folland) at the University of Iowa\n- National Science Foundation CAREER award, through the division of materials research, grant 2236807",
+  "SponsorLogo": ["https://storage.googleapis.com/gp-cloud/lessons/Photonics_en-US/Folland-Lab_logo.png", "https://storage.googleapis.com/gp-cloud/lessons/Photonics_en-US/Iowa_logo_blackBG.png"],
   "LessonBanner": "https://storage.googleapis.com/gp-cloud/lessons/Photonics_en-US/Photonics_1-banner.png",
   "LessonCard": "https://storage.googleapis.com/gp-cloud/lessons/Photonics_en-US/Photonics_2-card.png",
   "TargetSubject": "Science",

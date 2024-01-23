@@ -1,7 +1,7 @@
 {
   "__component": "lesson-plan.overview",
-  "LearningSummary": "By bridging engineering and biology, students will expand their perspective on how to design solutions that could change the world. This challenge empowers young learners with the Bioinspired Design Process: a novel design framework developed with experts in evolutionary biology, architecture, and design.",
-  "EstLessonTime": "5 or more class periods",
+  "LearningSummary": "Students will identify a problem with an existing product and investigate biological functions to inspire a product redesign. Through independent research using AI bots and scholarly sources, students will gain a new perspective on STEM, biology, and the human interface between. ",
+  "EstLessonTime": "≥5 45 min. class periods",
   "GradesOrYears": "Grades",
   "ForGrades": "8-University",
   "TargetSubject": "Science",
@@ -9,6 +9,15 @@
   "Tags": [
     {
       "Value": "biomimicry"
+    },
+    {
+      "Value": "biomimetics"
+    },
+    {
+      "Value": "evolution"
+    },
+    {
+      "Value": "engineering"
     },
     {
       "Value": "design thinking"
@@ -20,6 +29,6 @@
       "Value": "project-based learning"
     }
   ],
-  "SteamEpaulette": null,
-  "SteamEpaulette_vert": null
+  "SteamEpaulette": "https://storage.googleapis.com/gp-cloud/lessons/BioInspired_en-US/GP-Learning-Epaulette.png",
+  "SteamEpaulette_vert": "https://storage.googleapis.com/gp-cloud/lessons/BioInspired_en-US/GP-Learning-Epaulette_vert.png"
 }

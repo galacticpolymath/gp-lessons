@@ -34,5 +34,41 @@
     "byLink": "https://www.youtube.com/channel/UCfyBNvN3CH4uWmwOCQVhmhg/featured",
     "mainLink": "https://drive.google.com/file/d/1H7js0EClx4d59MfU28GcLz-Hi3sqX4pX/preview?rm=minimal",
     "otherLink": null
+  },
+  {
+    "order": "3.1",
+    "type": "pdf",
+    "forLsn": "1–5",
+    "title": "Bioinspired Design Canvas",
+    "description": null,
+    "lessonRelevance": "This graphic organizer helps students track and summarize their work throughout the Bioinspired Design Process.",
+    "by": "Galactic Polymath",
+    "byLink": "https://www.youtube.com/channel/UCfyBNvN3CH4uWmwOCQVhmhg/featured",
+    "mainLink": "https://docs.google.com/presentation/d/18Y57aiS-E81XA5FdVGhj-ZUTt13zlxdZUO_stXALzac/preview?rm=minimal",
+    "otherLink": null
+  },
+  {
+    "order": "4",
+    "type": "video",
+    "forLsn": "2",
+    "title": "How to search biology for engineering solutions",
+    "description": null,
+    "lessonRelevance": "Guides students through the \"biologize\" step of the Bioinspired Design Process. (Beta: not on YouTube)",
+    "by": "Galactic Polymath",
+    "byLink": "https://www.youtube.com/channel/UCfyBNvN3CH4uWmwOCQVhmhg/featured",
+    "mainLink": "https://drive.google.com/file/d/1QSVme9bGrAOqV8g2pmvF-AfUvSLlHJkI/preview?rm=minimal",
+    "otherLink": null
+  },
+  {
+    "order": "5",
+    "type": "pdf",
+    "forLsn": "2",
+    "title": "Biologize Student Worksheet",
+    "description": null,
+    "lessonRelevance": "This worksheet guides students through biologizing their problem.",
+    "by": "Galactic Polymath",
+    "byLink": "https://www.youtube.com/channel/UCfyBNvN3CH4uWmwOCQVhmhg/featured",
+    "mainLink": "https://docs.google.com/document/d/1L4yOQqcPAo43cFddptioY6rRMTFdOV2c9ZzVaYIXb5k/preview?rm=minimal",
+    "otherLink": null
   }
 ]

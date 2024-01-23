@@ -39,12 +39,42 @@
                   "itemCat": "presentation",
                   "links": [
                     {
-                      "linkText": "Present Now",
+                      "linkText": "Present Now (DRAFT FILE)",
                       "url": "https://docs.google.com/presentation/d/1IfgB7A0h8uuCrMpQ0fMg6Jyk9fsjYdN4FT7zmaeW_qY/present"
                     },
                     {
-                      "linkText": "Preview/Copy in Google Docs",
+                      "linkText": "Preview/Copy in Google Docs (DRAFT FILE)",
                       "url": "https://docs.google.com/presentation/d/1IfgB7A0h8uuCrMpQ0fMg6Jyk9fsjYdN4FT7zmaeW_qY/template/preview"
+                    }
+                  ]
+                },
+                {
+                  "itemTitle": "Teacher Version of Timeline Puzzle",
+                  "itemDescription": "Print 1",
+                  "itemCat": "presentation",
+                  "links": [
+                    {
+                      "linkText": "PDF (DRAFT FILE)",
+                      "url": "https://docs.google.com/presentation/d/18D0tqNx2flXrTFb1iFINHORV_diTpKMCWTbpSPGL8iU/export/pdf"
+                    },
+                    {
+                      "linkText": "Preview/Copy in Google Docs (DRAFT FILE)",
+                      "url": "https://docs.google.com/presentation/d/18D0tqNx2flXrTFb1iFINHORV_diTpKMCWTbpSPGL8iU/template/preview"
+                    }
+                  ]
+                },
+                {
+                  "itemTitle": "Student Version of Timeline Puzzle",
+                  "itemDescription": "Print class set for small groups",
+                  "itemCat": "presentation",
+                  "links": [
+                    {
+                      "linkText": "PDF (DRAFT FILE)",
+                      "url": "https://docs.google.com/presentation/d/1U7XUGLNzaH5MAql1OWRl6QFIbTXfUlN4ySptYNiryFM/export/pdf"
+                    },
+                    {
+                      "linkText": "Preview/Copy in Google Docs (DRAFT FILE)",
+                      "url": "https://docs.google.com/presentation/d/1U7XUGLNzaH5MAql1OWRl6QFIbTXfUlN4ySptYNiryFM/template/preview"
                     }
                   ]
                 },
@@ -54,11 +84,11 @@
                   "itemCat": "document",
                   "links": [
                     {
-                      "linkText": "PDF",
+                      "linkText": "PDF (DRAFT FILE)",
                       "url": "https://docs.google.com/document/d/1rni5PN00oe1fxh64bnvSYY_MT_SZZxVvg84TWZqT6FU/export?format=pdf"
                     },
                     {
-                      "linkText": "Preview/Copy in Google Docs",
+                      "linkText": "Preview/Copy in Google Docs (DRAFT FILE)",
                       "url": "https://docs.google.com/document/d/1rni5PN00oe1fxh64bnvSYY_MT_SZZxVvg84TWZqT6FU/template/preview"
                     }
                   ]
@@ -69,11 +99,11 @@
                   "itemCat": "document",
                   "links": [
                     {
-                      "linkText": "PDF",
+                      "linkText": "PDF (DRAFT FILE)",
                       "url": "https://docs.google.com/document/d/1lGF3DM_G_NVjIw7AFz9Xtfxa3LFchEY3GU2b_rQzSHI/export?format=pdf"
                     },
                     {
-                      "linkText": "Preview/Copy in Google Docs",
+                      "linkText": "Preview/Copy in Google Docs (DRAFT FILE)",
                       "url": "https://docs.google.com/document/d/1lGF3DM_G_NVjIw7AFz9Xtfxa3LFchEY3GU2b_rQzSHI/template/preview"
                     }
                   ]
@@ -95,11 +125,11 @@
                   "itemCat": "presentation",
                   "links": [
                     {
-                      "linkText": "Present Now",
+                      "linkText": "Present Now (DRAFT FILE)",
                       "url": "https://docs.google.com/presentation/d/1adGVYookTpFv9R6o6stPiIDVwjuG_R5uQscsl7LxCK0/present"
                     },
                     {
-                      "linkText": "Preview/Copy in Google Docs",
+                      "linkText": "Preview/Copy in Google Docs (DRAFT FILE)",
                       "url": "https://docs.google.com/presentation/d/1adGVYookTpFv9R6o6stPiIDVwjuG_R5uQscsl7LxCK0/template/preview"
                     }
                   ]
@@ -110,11 +140,11 @@
                   "itemCat": "document",
                   "links": [
                     {
-                      "linkText": "PDF",
+                      "linkText": "PDF (DRAFT FILE)",
                       "url": "https://docs.google.com/document/d/18sGSNHuzd8H-OXY2bHKY1vUm0KGNJRjaudFtQRsx3oQ/export?format=pdf"
                     },
                     {
-                      "linkText": "Preview/Copy in Google Docs",
+                      "linkText": "Preview/Copy in Google Docs (DRAFT FILE)",
                       "url": "https://docs.google.com/document/d/18sGSNHuzd8H-OXY2bHKY1vUm0KGNJRjaudFtQRsx3oQ/template/preview"
                     }
                   ]
@@ -125,11 +155,11 @@
                   "itemCat": "document",
                   "links": [
                     {
-                      "linkText": "PDF",
+                      "linkText": "PDF (DRAFT FILE)",
                       "url": "https://docs.google.com/document/d/1oKBFUmXcudtQE21y59Q1sDxxEdoMGWW9OIz7MUcLNFI/export?format=pdf"
                     },
                     {
-                      "linkText": "Preview/Copy in Google Docs",
+                      "linkText": "Preview/Copy in Google Docs (DRAFT FILE)",
                       "url": "https://docs.google.com/document/d/1oKBFUmXcudtQE21y59Q1sDxxEdoMGWW9OIz7MUcLNFI/template/preview"
                     }
                   ]
@@ -197,7 +227,7 @@
                 "Step": 3,
                 "StepTitle": "What Are Lenses?",
                 "StepQuickDescription": "Watch a video about the history and science of lenses and follow along on the student worksheet.",
-                "StepDetails": "The \"What Are Lenses?\" video ([▶ What Are Lenses?](NA)) is embedded in the presentation slides with break points for discussion and reflection questions. Students can follow along with the discussion by taking notes on their worksheet: [➚ Seeing Through Time worksheet](https://docs.google.com/document/d/1lGF3DM_G_NVjIw7AFz9Xtfxa3LFchEY3GU2b_rQzSHI/edit).",
+                "StepDetails": "The \"What Are Lenses?\" video ([▶ 2000 years of engineering with light (it’s about lenses)](https://drive.google.com/file/d/1JDgqBPtbUdYjfCr5zIcsmgQ9zQYZB54R/view?usp=sharing)) is embedded in the presentation slides with break points for discussion and reflection questions. Students can follow along with the discussion by taking notes on their worksheet: [➚ Seeing Through Time worksheet](https://docs.google.com/document/d/1lGF3DM_G_NVjIw7AFz9Xtfxa3LFchEY3GU2b_rQzSHI/edit).",
                 "Vocab": "- **photonics:** The study of manipulating light.\n- **lens:** A piece of material which is transparent and curved, useful for bending light.\n- **convex:** A lens which curves outward on at least one side.\n- **concave:** A lens which curves inward (creating a shallow \"cave\") on at least one side.\n- **focal point:** The point at which light rays converge after passing through a lens.",
                 "VariantNotes": null,
                 "TeachingTips": null
@@ -222,7 +252,7 @@
                 "Step": 5,
                 "StepTitle": "Bonus Challenge: Glasses",
                 "StepQuickDescription": "Extend the knowledge from the lesson to determine how vision should be corrected.",
-                "StepDetails": "Students answer bonus reflection questions on their worksheet to determine what kind of glasses should go to far- or nearsighted people. They can check their answer and learn more about corrective eyeware with this video: [▶ How Glasses Work to Correct Vision](NA).",
+                "StepDetails": "Students answer bonus reflection questions on their worksheet to determine what kind of glasses should go to far- or nearsighted people. They can check their answer and learn more about corrective eyeware with this video: [▶ How Glasses Work to Correct Vision](https://www.youtube.com/watch?v=1vlojCoFrTw).",
                 "Vocab": "- **farsighted:** The focal point of the eye falls behind the retina.\n- **nearsighted:** The focal point of the eye falls in front of the retina.",
                 "VariantNotes": "More advanced students (e.g. G8-9) could benefit from this more challenging reflection activity.",
                 "TeachingTips": null
@@ -255,7 +285,7 @@
           "prepTitle": "Prep",
           "prepDur": 5,
           "prepQuickDescription": "Print handouts",
-          "prepDetails": "Print student worksheets ([➚ Communicating With Light Worksheet](NA))",
+          "prepDetails": "Print student worksheets ([➚ Communicating With Light Worksheet](https://docs.google.com/document/d/1oKBFUmXcudtQE21y59Q1sDxxEdoMGWW9OIz7MUcLNFI/edit?usp=drive_link))",
           "prepVariantNotes": null,
           "prepTeachingTips": null
         },
@@ -277,9 +307,9 @@
               {
                 "Step": 2,
                 "StepTitle": "Certain-Tier: What is Light?",
-                "StepQuickDescription": "Students rank how certain they are that a phenomenon is or is not light. Then we check in with Dr. Tom Folland via video ([▶ What is Light?](NA)) to hear how he defines light.",
-                "StepDetails": "The student worksheet ([➚ Communicating With Light Worksheet](NA)) has space for students to rank how certain they are about whether or not a light-candidate is light, as well as room to notice similarities or surprises. Next we check in with photonics expert, Dr. Tom Folland, to hear how he defines light: [▶ What is Light?](NA)!",
-                "Vocab": "- **light:** electromagnetic radition which includes the visible spectrum, as well as radio waves, infrared heat, x-rays, and more.",
+                "StepQuickDescription": "Students rank how certain they are that a phenomenon is or is not light. Then we check in with Dr. Tom Folland via video ([▶ What is Light?](https://drive.google.com/file/d/1BSiSv5LVEFgDoUCIrX7evj2iefg0SO0h/view?usp=drive_link)) to hear how he defines light.",
+                "StepDetails": "The student worksheet ([➚ Communicating With Light Worksheet](https://docs.google.com/document/d/1oKBFUmXcudtQE21y59Q1sDxxEdoMGWW9OIz7MUcLNFI/edit?usp=drive_link)) has space for students to rank how certain they are about whether or not a light-candidate is light, as well as room to notice similarities or surprises. Next we check in with photonics expert, Dr. Tom Folland, to hear how he defines light: [▶ What is Light?](https://drive.google.com/file/d/1BSiSv5LVEFgDoUCIrX7evj2iefg0SO0h/view?usp=drive_link)!",
+                "Vocab": "- **light:** electromagnetic radiation which includes the visible spectrum, as well as radio waves, infrared heat, x-rays, and more.",
                 "VariantNotes": null,
                 "TeachingTips": null
               }
@@ -370,7 +400,7 @@
       },
       {
         "term": "light",
-        "definition": "electromagnetic radition which includes the visible spectrum, as well as radio waves, infrared heat, x-rays, and more."
+        "definition": "electromagnetic radiation which includes the visible spectrum, as well as radio waves, infrared heat, x-rays, and more."
       },
       {
         "term": "wave",

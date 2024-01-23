@@ -1,5 +1,58 @@
 {
   "__component": "lesson-plan.acknowledgments",
   "SectionTitle": "Acknowledgments",
-  "Data": null
+  "Data": [
+    {
+      "role": "Illustrator",
+      "def": "Created banner image and numerous supporting drawings",
+      "records": [
+        {
+          "name": "Anna Wilkins",
+          "url": "https://www.annamationvisdev.com/",
+          "title": "Character Designer & Storyboard Artist",
+          "affiliation": "Freelance",
+          "location": "Atlanta, GA"
+        }
+      ]
+    },
+    {
+      "role": "“Function in Bio-inspired design” research team",
+      "def": "Dimitri Smirnoff, Mary Guzowski, Billy Weber, Jessica Rossi-Mastracci, Alan Love, Amanda Hund, Mike Travisano, Ruth Shaw, Mark Borrello, Gillian Roehrig, and Jeremy Thomas",
+      "records": [
+        {
+          "name": null,
+          "url": null,
+          "title": null,
+          "affiliation": null,
+          "location": null
+        }
+      ]
+    },
+    {
+      "role": "Graphic Design Consultant",
+      "def": "Helped develop the bioinspired design visual framework",
+      "records": [
+        {
+          "name": "Caroline Hu, PhD",
+          "url": "https://www.hudrewthis.com/about",
+          "title": "Assistant Professor of Biology",
+          "affiliation": "Massachusetts College of Art and Design",
+          "location": "Boston, MA"
+        }
+      ]
+    },
+    {
+      "role": "Funding",
+      "def": "John Templeton Foundation award 62220",
+      "records": [
+        {
+          "name": null,
+          "url": null,
+          "title": null,
+          "affiliation": null,
+          "location": null
+        }
+      ]
+    }
+  ]
 }

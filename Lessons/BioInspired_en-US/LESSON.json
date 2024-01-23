@@ -2,13 +2,13 @@
   "numID": 8,
   "_id": "lesson_8_en-US",
   "ShortTitle": "BioInspired",
-  "PublicationStatus": "Draft",
+  "PublicationStatus": "Live",
   "Language": "English",
   "Country": "United States",
   "DefaultLanguage": "English",
   "DefaultCountry": "United States",
-  "LastUpdated": "2024-01-03 14:44:54.902256",
-  "ReleaseDate": "2023-12-31",
+  "LastUpdated": "2024-01-22 17:40:20.056916",
+  "ReleaseDate": "2023-01-21",
   "isTestRepo": false,
   "FirstPublicationDate": null,
   "LsnStatuses": [
@@ -16,36 +16,36 @@
       "lsn": 1,
       "status": "Beta",
       "updated_date": null,
-      "new_date": null,
-      "sort_by_date": "2024-01-02"
+      "new_date": "2024-01-22",
+      "sort_by_date": "2024-01-22"
     },
     {
       "lsn": 2,
       "status": "Beta",
       "updated_date": null,
-      "new_date": null,
-      "sort_by_date": "2024-01-02"
+      "new_date": "2024-01-22",
+      "sort_by_date": "2024-01-22"
     },
     {
       "lsn": 3,
       "status": "Beta",
       "updated_date": null,
-      "new_date": null,
-      "sort_by_date": "2024-01-02"
+      "new_date": "2024-01-22",
+      "sort_by_date": "2024-01-22"
     },
     {
       "lsn": 4,
       "status": "Beta",
       "updated_date": null,
-      "new_date": null,
-      "sort_by_date": "2024-01-02"
+      "new_date": "2024-01-22",
+      "sort_by_date": "2024-01-22"
     },
     {
       "lsn": 5,
       "status": "Beta",
       "updated_date": null,
-      "new_date": null,
-      "sort_by_date": "2024-01-02"
+      "new_date": "2024-01-22",
+      "sort_by_date": "2024-01-22"
     }
   ],
   "MediumTitle": "'Bioinspired Design' |Science| G8-University (en-US)",
@@ -54,7 +54,7 @@
   "locale": "en-US",
   "DefaultLocale": "en-US",
   "TemplateVer": "0.6.2",
-  "galacticPubsVer": "0.9.8",
+  "galacticPubsVer": "0.9.9",
   "URL": "https://www.galacticpolymath.com/lessons/en-US/8",
   "GdriveHome": "GP-Studio",
   "GdriveDirName": "BioInspired_en-US",
@@ -76,8 +76,8 @@
   ],
   "SponsoredBy": "- The [John Templeton Foundation](https://www.templeton.org/about/vision-mission-impact) funds research and catalyzes conversations that inspire people with awe and wonder.\n- [Dr. Emilie Snell-Rood's Lab](https://cbs.umn.edu/snell-rood-lab/people) at the University of Minnesota studies how organisms respond to anthropogenic environments, and implications for preserving biodiversity. This unit is an interdisciplinary side-project with collaborators in biology, design, architecture, and engineering.",
   "SponsorLogo": "https://storage.googleapis.com/gp-cloud/lessons/BioInspired_en-US/JTF_logo_wtagline.png",
-  "LessonBanner": "https://storage.googleapis.com/gp-cloud/lessons/BioInspired_en-US/Banner_Clean_Color.png",
-  "LessonCard": null,
+  "LessonBanner": "https://storage.googleapis.com/gp-cloud/lessons/BioInspired_en-US/bioinspired_assets-2-banner.png",
+  "LessonCard": "https://storage.googleapis.com/gp-cloud/lessons/BioInspired_en-US/bioinspired_assets-3-card.png",
   "TargetSubject": "Science",
   "LessonEnvir": "Classroom",
   "ForGrades": "8-University",
@@ -85,8 +85,8 @@
   "Section": {
     "overview": {
       "__component": "lesson-plan.overview",
-      "LearningSummary": "By bridging engineering and biology, students will expand their perspective on how to design solutions that could change the world. This challenge empowers young learners with the Bioinspired Design Process: a novel design framework developed with experts in evolutionary biology, architecture, and design.",
-      "EstLessonTime": "5 or more class periods",
+      "LearningSummary": "Students will identify a problem with an existing product and investigate biological functions to inspire a product redesign. Through independent research using AI bots and scholarly sources, students will gain a new perspective on STEM, biology, and the human interface between. ",
+      "EstLessonTime": "≥5 45 min. class periods",
       "GradesOrYears": "Grades",
       "ForGrades": "8-University",
       "TargetSubject": "Science",
@@ -94,6 +94,15 @@
       "Tags": [
         {
           "Value": "biomimicry"
+        },
+        {
+          "Value": "biomimetics"
+        },
+        {
+          "Value": "evolution"
+        },
+        {
+          "Value": "engineering"
         },
         {
           "Value": "design thinking"
@@ -105,8 +114,8 @@
           "Value": "project-based learning"
         }
       ],
-      "SteamEpaulette": null,
-      "SteamEpaulette_vert": null
+      "SteamEpaulette": "https://storage.googleapis.com/gp-cloud/lessons/BioInspired_en-US/GP-Learning-Epaulette.png",
+      "SteamEpaulette_vert": "https://storage.googleapis.com/gp-cloud/lessons/BioInspired_en-US/GP-Learning-Epaulette_vert.png"
     },
     "preview": {
       "__component": "lesson-plan.unit-preview",
@@ -147,6 +156,42 @@
           "by": "Galactic Polymath",
           "byLink": "https://www.youtube.com/channel/UCfyBNvN3CH4uWmwOCQVhmhg/featured",
           "mainLink": "https://drive.google.com/file/d/1H7js0EClx4d59MfU28GcLz-Hi3sqX4pX/preview?rm=minimal",
+          "otherLink": null
+        },
+        {
+          "order": "3.1",
+          "type": "pdf",
+          "forLsn": "1–5",
+          "title": "Bioinspired Design Canvas",
+          "description": null,
+          "lessonRelevance": "This graphic organizer helps students track and summarize their work throughout the Bioinspired Design Process.",
+          "by": "Galactic Polymath",
+          "byLink": "https://www.youtube.com/channel/UCfyBNvN3CH4uWmwOCQVhmhg/featured",
+          "mainLink": "https://docs.google.com/presentation/d/18Y57aiS-E81XA5FdVGhj-ZUTt13zlxdZUO_stXALzac/preview?rm=minimal",
+          "otherLink": null
+        },
+        {
+          "order": "4",
+          "type": "video",
+          "forLsn": "2",
+          "title": "How to search biology for engineering solutions",
+          "description": null,
+          "lessonRelevance": "Guides students through the \"biologize\" step of the Bioinspired Design Process. (Beta: not on YouTube)",
+          "by": "Galactic Polymath",
+          "byLink": "https://www.youtube.com/channel/UCfyBNvN3CH4uWmwOCQVhmhg/featured",
+          "mainLink": "https://drive.google.com/file/d/1QSVme9bGrAOqV8g2pmvF-AfUvSLlHJkI/preview?rm=minimal",
+          "otherLink": null
+        },
+        {
+          "order": "5",
+          "type": "pdf",
+          "forLsn": "2",
+          "title": "Biologize Student Worksheet",
+          "description": null,
+          "lessonRelevance": "This worksheet guides students through biologizing their problem.",
+          "by": "Galactic Polymath",
+          "byLink": "https://www.youtube.com/channel/UCfyBNvN3CH4uWmwOCQVhmhg/featured",
+          "mainLink": "https://docs.google.com/document/d/1L4yOQqcPAo43cFddptioY6rRMTFdOV2c9ZzVaYIXb5k/preview?rm=minimal",
           "otherLink": null
         }
       ],
@@ -192,7 +237,7 @@
               "lessons": [
                 {
                   "lsn": "1",
-                  "title": "Step 1-Define the Problem",
+                  "title": "Define the Problem",
                   "tags": [
                     [
                       "mind map",
@@ -209,27 +254,27 @@
                       "itemCat": "presentation",
                       "links": [
                         {
-                          "linkText": "Present Now (DRAFT FILE)",
+                          "linkText": "Present Now",
                           "url": "https://docs.google.com/presentation/d/1rwBAGaiAlXeLKx8Gqmjvoxeckhv2yb0fZScCYyCtXts/present"
                         },
                         {
-                          "linkText": "Preview/Copy in Google Docs (DRAFT FILE)",
+                          "linkText": "Preview/Copy in Google Docs",
                           "url": "https://docs.google.com/presentation/d/1rwBAGaiAlXeLKx8Gqmjvoxeckhv2yb0fZScCYyCtXts/template/preview"
                         }
                       ]
                     },
                     {
-                      "itemTitle": "Teacher Worksheet (Lesson 1)",
-                      "itemDescription": "Print 1",
-                      "itemCat": "document",
+                      "itemTitle": "Bioinspired Design Canvas",
+                      "itemDescription": "Optional graphical organizer for students to summarize each step.",
+                      "itemCat": "presentation",
                       "links": [
                         {
-                          "linkText": "PDF (DRAFT FILE)",
-                          "url": "https://docs.google.com/document/d/1_ZzUa2dzqIFTLSi0XaYKBbX5muPRpJuksJpXGH_JXFw/export?format=pdf"
+                          "linkText": "PDF",
+                          "url": "https://docs.google.com/presentation/d/18Y57aiS-E81XA5FdVGhj-ZUTt13zlxdZUO_stXALzac/export/pdf"
                         },
                         {
-                          "linkText": "Preview/Copy in Google Docs (DRAFT FILE)",
-                          "url": "https://docs.google.com/document/d/1_ZzUa2dzqIFTLSi0XaYKBbX5muPRpJuksJpXGH_JXFw/template/preview"
+                          "linkText": "Preview/Copy in Google Docs",
+                          "url": "https://docs.google.com/presentation/d/18Y57aiS-E81XA5FdVGhj-ZUTt13zlxdZUO_stXALzac/template/preview"
                         }
                       ]
                     }
@@ -237,7 +282,7 @@
                 },
                 {
                   "lsn": "2",
-                  "title": "Step 2-Biologize the Problem",
+                  "title": "Biologize the Problem",
                   "tags": [
                     [
                       "AI",
@@ -253,11 +298,11 @@
                       "itemCat": "presentation",
                       "links": [
                         {
-                          "linkText": "Present Now (DRAFT FILE)",
+                          "linkText": "Present Now",
                           "url": "https://docs.google.com/presentation/d/1OPDFawprL6gU4ebDQXHsNs-0dTxRvYh3xDt-MGlChFk/present"
                         },
                         {
-                          "linkText": "Preview/Copy in Google Docs (DRAFT FILE)",
+                          "linkText": "Preview/Copy in Google Docs",
                           "url": "https://docs.google.com/presentation/d/1OPDFawprL6gU4ebDQXHsNs-0dTxRvYh3xDt-MGlChFk/template/preview"
                         }
                       ]
@@ -268,12 +313,27 @@
                       "itemCat": "document",
                       "links": [
                         {
-                          "linkText": "PDF (DRAFT FILE)",
-                          "url": "https://docs.google.com/document/d/1iQ4twalhxWS4HcxmYobFlksWtzVxlq0hf7TRnmME--I/export?format=pdf"
+                          "linkText": "PDF",
+                          "url": "https://docs.google.com/document/d/1FeUzI_CNUkyv1ct7VVO-XnOTGgQ0Asj58jwZkk3Kb9k/export?format=pdf"
                         },
                         {
-                          "linkText": "Preview/Copy in Google Docs (DRAFT FILE)",
-                          "url": "https://docs.google.com/document/d/1iQ4twalhxWS4HcxmYobFlksWtzVxlq0hf7TRnmME--I/template/preview"
+                          "linkText": "Preview/Copy in Google Docs",
+                          "url": "https://docs.google.com/document/d/1FeUzI_CNUkyv1ct7VVO-XnOTGgQ0Asj58jwZkk3Kb9k/template/preview"
+                        }
+                      ]
+                    },
+                    {
+                      "itemTitle": "Student Worksheet (Lesson 2)",
+                      "itemDescription": "Print 1 Per Student",
+                      "itemCat": "document",
+                      "links": [
+                        {
+                          "linkText": "PDF",
+                          "url": "https://docs.google.com/document/d/1L4yOQqcPAo43cFddptioY6rRMTFdOV2c9ZzVaYIXb5k/export?format=pdf"
+                        },
+                        {
+                          "linkText": "Preview/Copy in Google Docs",
+                          "url": "https://docs.google.com/document/d/1L4yOQqcPAo43cFddptioY6rRMTFdOV2c9ZzVaYIXb5k/template/preview"
                         }
                       ]
                     }
@@ -281,7 +341,7 @@
                 },
                 {
                   "lsn": "3",
-                  "title": "Step 3-Select a Biological Model",
+                  "title": "Select a Biological Model",
                   "tags": [
                     [
                       "synthesis",
@@ -292,32 +352,17 @@
                   "tile": "https://storage.googleapis.com/gp-cloud/lessons/BioInspired_en-US/Bioinspired-Lesson-Tiles-3-Bioinspired_L3_Tile.png",
                   "itemList": [
                     {
-                      "itemTitle": "Presentation (Lesson 3)",
-                      "itemDescription": "Need: WiFi, Computer, Projector, Sound",
+                      "itemTitle": "Bioinspired Design Canvas",
+                      "itemDescription": "Optional graphical organizer for students to summarize each step.",
                       "itemCat": "presentation",
                       "links": [
                         {
-                          "linkText": "Present Now (DRAFT FILE)",
-                          "url": "https://docs.google.com/presentation/d/1MeEwpWKp8OVHU1CRJoGu0Y2WfW70cQb3WWA-4NC5Zeg/present"
+                          "linkText": "PDF",
+                          "url": "https://docs.google.com/presentation/d/18Y57aiS-E81XA5FdVGhj-ZUTt13zlxdZUO_stXALzac/export/pdf"
                         },
                         {
-                          "linkText": "Preview/Copy in Google Docs (DRAFT FILE)",
-                          "url": "https://docs.google.com/presentation/d/1MeEwpWKp8OVHU1CRJoGu0Y2WfW70cQb3WWA-4NC5Zeg/template/preview"
-                        }
-                      ]
-                    },
-                    {
-                      "itemTitle": "Teacher Worksheet (Lesson 3)",
-                      "itemDescription": "Print 1",
-                      "itemCat": "document",
-                      "links": [
-                        {
-                          "linkText": "PDF (DRAFT FILE)",
-                          "url": "https://docs.google.com/document/d/1x3v7dFiWVBgeTEZgU9kRfasdhLZAQOaD2Bx9dqJJdb0/export?format=pdf"
-                        },
-                        {
-                          "linkText": "Preview/Copy in Google Docs (DRAFT FILE)",
-                          "url": "https://docs.google.com/document/d/1x3v7dFiWVBgeTEZgU9kRfasdhLZAQOaD2Bx9dqJJdb0/template/preview"
+                          "linkText": "Preview/Copy in Google Docs",
+                          "url": "https://docs.google.com/presentation/d/18Y57aiS-E81XA5FdVGhj-ZUTt13zlxdZUO_stXALzac/template/preview"
                         }
                       ]
                     }
@@ -325,7 +370,7 @@
                 },
                 {
                   "lsn": "4",
-                  "title": "Step 4-Propose Bioinspired Solutions",
+                  "title": "Propose Bioinspired Solutions",
                   "tags": [
                     "communication"
                   ],
@@ -333,32 +378,17 @@
                   "tile": "https://storage.googleapis.com/gp-cloud/lessons/BioInspired_en-US/Bioinspired-Lesson-Tiles-4-Bioinspired_L4_Tile.png",
                   "itemList": [
                     {
-                      "itemTitle": "Presentation (Lesson 4)",
-                      "itemDescription": "Need: WiFi, Computer, Projector, Sound",
+                      "itemTitle": "Bioinspired Design Canvas",
+                      "itemDescription": "Optional graphical organizer for students to summarize each step.",
                       "itemCat": "presentation",
                       "links": [
                         {
-                          "linkText": "Present Now (DRAFT FILE)",
-                          "url": "https://docs.google.com/presentation/d/14Cb6wvtxMkFTs91HoYeMLlWTtuzanIkOYhW0H9XeQjo/present"
+                          "linkText": "PDF",
+                          "url": "https://docs.google.com/presentation/d/18Y57aiS-E81XA5FdVGhj-ZUTt13zlxdZUO_stXALzac/export/pdf"
                         },
                         {
-                          "linkText": "Preview/Copy in Google Docs (DRAFT FILE)",
-                          "url": "https://docs.google.com/presentation/d/14Cb6wvtxMkFTs91HoYeMLlWTtuzanIkOYhW0H9XeQjo/template/preview"
-                        }
-                      ]
-                    },
-                    {
-                      "itemTitle": "Teacher Worksheet (Lesson 4)",
-                      "itemDescription": "Print 1",
-                      "itemCat": "document",
-                      "links": [
-                        {
-                          "linkText": "PDF (DRAFT FILE)",
-                          "url": "https://docs.google.com/document/d/15Lf0yW-xF_To94DQTibgUAlnw1NActI3vKgyrhdUGR4/export?format=pdf"
-                        },
-                        {
-                          "linkText": "Preview/Copy in Google Docs (DRAFT FILE)",
-                          "url": "https://docs.google.com/document/d/15Lf0yW-xF_To94DQTibgUAlnw1NActI3vKgyrhdUGR4/template/preview"
+                          "linkText": "Preview/Copy in Google Docs",
+                          "url": "https://docs.google.com/presentation/d/18Y57aiS-E81XA5FdVGhj-ZUTt13zlxdZUO_stXALzac/template/preview"
                         }
                       ]
                     }
@@ -366,7 +396,7 @@
                 },
                 {
                   "lsn": "5",
-                  "title": "Step 5-Evaluate",
+                  "title": "Evaluate",
                   "tags": [
                     [
                       "reflection",
@@ -377,32 +407,17 @@
                   "tile": "https://storage.googleapis.com/gp-cloud/lessons/BioInspired_en-US/Bioinspired-Lesson-Tiles-5-Bioinspired_L5_Tile.png",
                   "itemList": [
                     {
-                      "itemTitle": "Presentation (Lesson 5)",
-                      "itemDescription": "Need: WiFi, Computer, Projector, Sound",
+                      "itemTitle": "Bioinspired Design Canvas",
+                      "itemDescription": "Optional graphical organizer for students to summarize each step.",
                       "itemCat": "presentation",
                       "links": [
                         {
-                          "linkText": "Present Now (DRAFT FILE)",
-                          "url": "https://docs.google.com/presentation/d/1MZLdwORhRnuyEgNf6sKFS73jomrZzscXOnh6HeaiaNM/present"
+                          "linkText": "PDF",
+                          "url": "https://docs.google.com/presentation/d/18Y57aiS-E81XA5FdVGhj-ZUTt13zlxdZUO_stXALzac/export/pdf"
                         },
                         {
-                          "linkText": "Preview/Copy in Google Docs (DRAFT FILE)",
-                          "url": "https://docs.google.com/presentation/d/1MZLdwORhRnuyEgNf6sKFS73jomrZzscXOnh6HeaiaNM/template/preview"
-                        }
-                      ]
-                    },
-                    {
-                      "itemTitle": "Teacher Worksheet (Lesson 5)",
-                      "itemDescription": "Print 1",
-                      "itemCat": "document",
-                      "links": [
-                        {
-                          "linkText": "PDF (DRAFT FILE)",
-                          "url": "https://docs.google.com/document/d/1WkXA2lbsCgZSUE03gFCACRIRihatZr5Y4I3i6-32dLg/export?format=pdf"
-                        },
-                        {
-                          "linkText": "Preview/Copy in Google Docs (DRAFT FILE)",
-                          "url": "https://docs.google.com/document/d/1WkXA2lbsCgZSUE03gFCACRIRihatZr5Y4I3i6-32dLg/template/preview"
+                          "linkText": "Preview/Copy in Google Docs",
+                          "url": "https://docs.google.com/presentation/d/18Y57aiS-E81XA5FdVGhj-ZUTt13zlxdZUO_stXALzac/template/preview"
                         }
                       ]
                     }
@@ -415,10 +430,14 @@
         "lesson": [
           {
             "lsnNum": 1,
-            "lsnTitle": "Step 1-Define the Problem",
+            "lsnTitle": "Define the Problem",
             "lsnDur": 45,
             "lsnPreface": "Students self-reflect and draw mind maps to identify a product in their lives that could be more interesting, sustainable, or functional.",
-            "learningObj": null,
+            "learningObj": [
+              "Create mind maps to ideate, reflect, and identify a problem with a product or technology.",
+              "Recognize that biological evolution has resulted in all kinds of amazing solutions that can provide inspiration to solve realworld problems.",
+              "Define a problem with an existing product."
+            ],
             "lsnPrep": {
               "prepTitle": "Prep",
               "prepDur": 10,
@@ -456,7 +475,7 @@
                     "StepDetails": null,
                     "Vocab": null,
                     "VariantNotes": null,
-                    "TeachingTips": null
+                    "TeachingTips": "This lesson will toggle between [▶ Changing the world starts with defining a problem](https://drive.google.com/file/d/19yPDFdTL1GKf7gs18LJ1iT6kw5MgC4MA/preview) and [▶ Kickstart innovation with a mind map](https://drive.google.com/file/d/1H7js0EClx4d59MfU28GcLz-Hi3sqX4pX/preview) to guide students during brainstorming."
                   }
                 ]
               },
@@ -468,7 +487,7 @@
                   {
                     "Step": 3,
                     "StepTitle": "Write a Problem Statement",
-                    "StepQuickDescription": "Students will end this step of the design process by clearly defining their problem statement.",
+                    "StepQuickDescription": "By the end of this step, students will clearly define their problem statement.",
                     "StepDetails": null,
                     "Vocab": null,
                     "VariantNotes": null,
@@ -485,15 +504,900 @@
                 "itemLink": "https://www.lucidchart.com/pages/usecase/education"
               }
             ]
+          },
+          {
+            "lsnNum": 2,
+            "lsnTitle": "Biologize the Problem",
+            "lsnDur": 45,
+            "lsnPreface": "Students find a functional bridge to biology. They use field guides, AI chatbots, and other resources to find adaptations that are analogous to the design challenge they have set for themselves.",
+            "learningObj": [
+              "Use technology, such as AI chatbots, as well as resources like field guides to identify functions in biology that are analogous to an engineering/design problem.",
+              "Understand the biological term 'trait' and accurately connect organismal traits to design/engineering analogs. (e.g. fish caudal fin= boat propeller)"
+            ],
+            "lsnPrep": {
+              "prepTitle": "Prep",
+              "prepDur": 10,
+              "prepQuickDescription": "Print out L2 worksheets and open slideshow.",
+              "prepDetails": null,
+              "prepVariantNotes": null,
+              "prepTeachingTips": null
+            },
+            "chunks": [
+              {
+                "chunkTitle": "Review",
+                "chunkStart": 0,
+                "chunkDur": 5,
+                "steps": [
+                  {
+                    "Step": 1,
+                    "StepTitle": "Share Out",
+                    "StepQuickDescription": "Invite students to share their problem statements and/or other takeaways from the previous step.",
+                    "StepDetails": null,
+                    "Vocab": null,
+                    "VariantNotes": null,
+                    "TeachingTips": null
+                  }
+                ]
+              },
+              {
+                "chunkTitle": "Biologize",
+                "chunkStart": 5,
+                "chunkDur": 35,
+                "steps": [
+                  {
+                    "Step": 2,
+                    "StepTitle": "Translate the Problem into Abstract Functions",
+                    "StepQuickDescription": "With video guidance, students will learn how to abstractify their problem statement into functions.",
+                    "StepDetails": null,
+                    "Vocab": "- **Function:**  serves as the bridge between engineering and biology.",
+                    "VariantNotes": null,
+                    "TeachingTips": "This lesson relies on [▶ How to search biology for engineering solutions](https://drive.google.com/file/d/1QSVme9bGrAOqV8g2pmvF-AfUvSLlHJkI/view?usp=sharing) which explains how to biologize the problem. Students are encouraged to use [➚ Biologize Student Worksheet](https://docs.google.com/document/d/1L4yOQqcPAo43cFddptioY6rRMTFdOV2c9ZzVaYIXb5k/edit?usp=drive_link) to track their work during this step."
+                  },
+                  {
+                    "Step": 3,
+                    "StepTitle": "Look to Biology for Solutions",
+                    "StepQuickDescription": "Students will conduct exploratory research to find organisms or traits that align with their desired functions.",
+                    "StepDetails": null,
+                    "Vocab": null,
+                    "VariantNotes": null,
+                    "TeachingTips": "Helpful research resources and tips can be found on [➚ Biologize Student Worksheet](https://docs.google.com/document/d/1L4yOQqcPAo43cFddptioY6rRMTFdOV2c9ZzVaYIXb5k/edit?usp=drive_link)."
+                  }
+                ]
+              },
+              {
+                "chunkTitle": "Define",
+                "chunkStart": 40,
+                "chunkDur": 5,
+                "steps": [
+                  {
+                    "Step": 4,
+                    "StepTitle": "\"What If\" Statements",
+                    "StepQuickDescription": "By the end of this step, students will define several \"what if\" statements to explore further.",
+                    "StepDetails": null,
+                    "Vocab": null,
+                    "VariantNotes": null,
+                    "TeachingTips": null
+                  }
+                ]
+              }
+            ],
+            "lsnExt": [
+              {
+                "item": 1,
+                "itemTitle": "Perplexity.ai",
+                "itemDescription": "A useful AI chatbot that can really help students discover biological models, synonyms for their design problems, and identify analogous biology terms. Importantly, Perplexity shows links to backup claims, as many chatbots can hallucinate.",
+                "itemLink": "https://www.perplexity.ai/"
+              },
+              {
+                "item": 2,
+                "itemTitle": "asknature.org",
+                "itemDescription": "A library of examples of biomimicry and bioinspired design from the Biomimicry Institute.",
+                "itemLink": "http://asknature.org/"
+              },
+              {
+                "item": 3,
+                "itemTitle": "Wikipedia.org",
+                "itemDescription": "A helpful research tool, particularly if students know nothing about an organism and want to start with general inquiry.",
+                "itemLink": "http://wikipedia.org/"
+              },
+              {
+                "item": 4,
+                "itemTitle": "scholar.google.com",
+                "itemDescription": "A great way for students to dive into real research articles. Be sure to show them how to click \"All X versions\" for an article to find free PDFs which are sometimes available.",
+                "itemLink": "http://scholar.google.com/"
+              }
+            ]
+          },
+          {
+            "lsnNum": 3,
+            "lsnTitle": "Select a Biological Model",
+            "lsnDur": 45,
+            "lsnPreface": "Once they have a short list of potential biological inspirations, they must choose one based on how likely they think it is to translate to real world solutions.",
+            "learningObj": [
+              "Evaluate the pros/cons, and tradeoffs between different biological models to select one design inspiration.",
+              "Propose a bioinspired (re)design solution to address problems with an existing product."
+            ],
+            "lsnPrep": {
+              "prepTitle": null,
+              "prepDur": 10,
+              "prepQuickDescription": null,
+              "prepDetails": null,
+              "prepVariantNotes": null,
+              "prepTeachingTips": null
+            },
+            "chunks": [
+              {
+                "chunkTitle": "Select a Biological Model",
+                "chunkStart": 0,
+                "chunkDur": 45,
+                "steps": [
+                  {
+                    "Step": 1,
+                    "StepTitle": "Under construction.",
+                    "StepQuickDescription": "We're working on this lesson, but for now, feel free to use [➚ Bioinspired Design Canvas](https://docs.google.com/presentation/d/18Y57aiS-E81XA5FdVGhj-ZUTt13zlxdZUO_stXALzac/edit?usp=drive_link) for inspiration.",
+                    "StepDetails": "Choose how you would like students to research and pick the model for their design inspiration.",
+                    "Vocab": null,
+                    "VariantNotes": null,
+                    "TeachingTips": null
+                  }
+                ]
+              }
+            ],
+            "lsnExt": [
+              {
+                "item": 1,
+                "itemTitle": "OneZoom.org",
+                "itemDescription": "A fantastic tool for students to explore the true diversity of life on earth as a browseable tree of life.",
+                "itemLink": "http://onezoom.org/"
+              },
+              {
+                "item": 2,
+                "itemTitle": "Perplexity.ai",
+                "itemDescription": "A useful AI chatbot that can really help students discover biological models, synonyms for their design problems, and identify analogous biology terms. Importantly, Perplexity shows links to backup claims, as many chatbots can hallucinate.",
+                "itemLink": "https://www.perplexity.ai/"
+              }
+            ]
+          },
+          {
+            "lsnNum": 4,
+            "lsnTitle": "Propose Bioinspired Solutions",
+            "lsnDur": 45,
+            "lsnPreface": "Students summarize their work with a one-page graphic organizer. Teachers will decide if they should also present this as a pitch to the class.",
+            "learningObj": [
+              "Propose a bioinspired (re)design solution to address problems with an existing product.",
+              "Summarize and present their process: from identifying a problem to selection of biological inspiration model to proposed solution."
+            ],
+            "lsnPrep": {
+              "prepTitle": null,
+              "prepDur": 10,
+              "prepQuickDescription": null,
+              "prepDetails": null,
+              "prepVariantNotes": null,
+              "prepTeachingTips": null
+            },
+            "chunks": [
+              {
+                "chunkTitle": "Propose Bioinspired Solution",
+                "chunkStart": 0,
+                "chunkDur": 45,
+                "steps": [
+                  {
+                    "Step": 1,
+                    "StepTitle": "Under construction.",
+                    "StepQuickDescription": "Under construction. We're working on this lesson, but for now, feel free to use [➚ Bioinspired Design Canvas](https://docs.google.com/presentation/d/18Y57aiS-E81XA5FdVGhj-ZUTt13zlxdZUO_stXALzac/edit?usp=drive_link) for inspiration.",
+                    "StepDetails": "Choose how you would like students to present their final design.",
+                    "Vocab": null,
+                    "VariantNotes": null,
+                    "TeachingTips": null
+                  }
+                ]
+              }
+            ],
+            "lsnExt": null
+          },
+          {
+            "lsnNum": 5,
+            "lsnTitle": "Evaluate",
+            "lsnDur": 45,
+            "lsnPreface": "If desired, students can incorporate feedback into further refinement of their redesign proposals.",
+            "learningObj": [
+              "Propose a bioinspired (re)design solution to address problems with an existing product.",
+              "Incorporate feedback and/or prototype test data into a revised redesign."
+            ],
+            "lsnPrep": {
+              "prepTitle": null,
+              "prepDur": 10,
+              "prepQuickDescription": null,
+              "prepDetails": null,
+              "prepVariantNotes": null,
+              "prepTeachingTips": null
+            },
+            "chunks": [
+              {
+                "chunkTitle": "Evaluate",
+                "chunkStart": 0,
+                "chunkDur": 45,
+                "steps": [
+                  {
+                    "Step": 1,
+                    "StepTitle": "Under construction.",
+                    "StepQuickDescription": "Under construction. We're working on this lesson, but for now, feel free to use [➚ Bioinspired Design Canvas](https://docs.google.com/presentation/d/18Y57aiS-E81XA5FdVGhj-ZUTt13zlxdZUO_stXALzac/edit?usp=drive_link) for inspiration.",
+                    "StepDetails": "Choose how you would like students to evaluate their final design.",
+                    "Vocab": null,
+                    "VariantNotes": null,
+                    "TeachingTips": null
+                  }
+                ]
+              }
+            ],
+            "lsnExt": null
           }
         ],
         "gatheredVocab": [
           {
             "term": "Bioinspired Design",
             "definition": "process of designing solutions that take inspiration from organismal adaptations"
+          },
+          {
+            "term": "Function",
+            "definition": "serves as the bridge between engineering and biology."
           }
         ]
       }
+    },
+    "background": {
+      "__component": "lesson-plan.collapsible-text-section",
+      "SectionTitle": "Background",
+      "Content": "#### Connection to Research\n Students will dive into primary resources (e.g. through [Google Scholar](https://scholar.google.com/)) or journal articles summarizing scientific research (depending on student levels), as they investigate current products and biological adaptations that could inspire new engineering solutions.  \n#### Research Background\n This series of lessons comes out of an interdisciplinary collaboration of biologists, designers, philosophers and educators at the University of Minnesota. The team is led by [Emilie Snell-Rood](https://scholar.google.com/citations?user=s-pbFU8AAAAJ&hl=en&oi=ao), who holds a BS in Biology, a doctorate in Ecology and Evolutionary Biology, and is currently faculty in Ecology, Evolution and Behavior at UMN. Emilie’s research focuses on understanding responses of organisms to human environments; for instance, why some butterflies deal well with urban pollutants and others do not. For the last decade, Emilie has been working to improve the biomimetic process, in research and the classroom, by facilitating deeper interdisciplinary collaborations between biologists, designers and engineers. The current team of biologists, architects and philosophers is exploring the development of biological principles used in design that are accurate but also spur creative design ideas in addition to developing and testing classroom activities in biomimetics. \n\nThis unit and the scientific working group that produced it is funded by the John Templeton Foundation's [Agency, Directionality & Function research program](https://www.biologicalpurpose.org/).\n\n### Further Reading\n#### Popular Media:\n- [Podcast| \"Evolution x Design – Butterfly Wing Wallpaper\"](https://rss.com/podcasts/purposepodcast/1252299/)\n- [UMN Newsroom | \"Found in translation\"](https://cbs.umn.edu/blog-posts/found-translation)\n#### Scientific Articles:\n- [**Ecology and Evolution** | \"Bioinspiration as a method of problem-based STEM education: A case study with a class structured around the COVID-19 crisis\"](https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.8044)\n- [**Bioinspiration & Biomimetics** | \"Biology for biomimetics I: function as an interdisciplinary bridge in bio-inspired design\"](https://iopscience.iop.org/article/10.1088/1748-3190/ace5fb/meta)\n- [**Interdisciplinarity: Bring biologists into biomimetics**](https://www.nature.com/articles/529277a)\n\n",
+      "InitiallyExpanded": true
+    },
+    "standards-header": {
+      "__component": "lesson-plan.section-heading",
+      "SectionTitle": "Learning Standards"
+    },
+    "learning-chart": {
+      "__component": "lesson-plan.learning-chart",
+      "Title": "About the GP Learning Chart",
+      "Description": "This Galactic Polymath Learning Chart illustrates the areas of knowledge covered. This lesson targets Science, but it helps teach national learning standards in 4 subjects: \n- [Common Core Math](https://learning.ccsso.org/common-core-state-standards-initiative); [Common Core ELA](https://learning.ccsso.org/common-core-state-standards-initiative); [Next Generation Science (NGSS)](https://www.nextgenscience.org/); and [College, Career, and Civic Life (C3) Social Studies Standards](https://www.socialstudies.org/standards/c3).\nIn total, there are 33 standards across US grade band(s): 5-6, 7-8, 9-12.",
+      "Footnote": "",
+      "Badge": "https://storage.googleapis.com/gp-cloud/lessons/BioInspired_en-US/GP-Learning-Chart.png"
+    },
+    "standards": {
+      "__component": "lesson-plan.standards",
+      "Data": [
+        {
+          "subject": "ELA",
+          "target": false,
+          "sets": [
+            {
+              "slug": "CCELA",
+              "name": "Common Core ELA",
+              "dimensions": [
+                {
+                  "slug": "LS&L",
+                  "name": "Language, Speaking & Listening",
+                  "standardsGroup": [
+                    {
+                      "lessons": [
+                        "1",
+                        "2",
+                        "3",
+                        "4",
+                        "5"
+                      ],
+                      "codes": "CCRA.L.6",
+                      "grades": [
+                        "1",
+                        "2",
+                        "3",
+                        "4",
+                        "5",
+                        "6",
+                        "7",
+                        "8",
+                        "9",
+                        "10",
+                        "11",
+                        "12"
+                      ],
+                      "statements": "Acquire and use accurately a range of general academic and domain-specific words and phrases sufficient for reading, writing, speaking, and listening at the college and career readiness level; demonstrate independence in gathering vocabulary knowledge when encountering an unknown term important to comprehension or expression.",
+                      "alignmentNotes": "Students will be exposed to a variety of biological terms in their investigations, beginning with 'trait' and how this term has analogues with product design attributes.",
+                      "subcat": null
+                    },
+                    {
+                      "lessons": [
+                        "5"
+                      ],
+                      "codes": "SL.8.4",
+                      "grades": "8",
+                      "statements": "Present claims and findings, emphasizing salient points in a focused, coherent manner with relevant evidence, sound valid reasoning, and well-chosen details; use appropriate eye contact, adequate volume, and clear pronunciation.",
+                      "alignmentNotes": "This unit builds toward student presentations. You will decide what form this takes, but there is ample opportunity to align to this standard.",
+                      "subcat": null
+                    },
+                    {
+                      "lessons": [
+                        "5"
+                      ],
+                      "codes": "SL.11-12.4",
+                      "grades": [
+                        "11",
+                        "12"
+                      ],
+                      "statements": "Present information, findings, and supporting evidence, conveying a clear and distinct perspective, such that listeners can follow the line of reasoning, alternative or opposing perspectives are addressed, and the organization, development, substance, and style are appropriate to purpose, audience, and a range of formal and informal tasks.",
+                      "alignmentNotes": "This unit builds toward student presentations. You will decide what form this takes, but there is ample opportunity to align to this standard.",
+                      "subcat": null
+                    },
+                    {
+                      "lessons": [
+                        "5"
+                      ],
+                      "codes": "SL.9-10.4",
+                      "grades": [
+                        "9",
+                        "10"
+                      ],
+                      "statements": "Present information, findings, and supporting evidence clearly, concisely, and logically such that listeners can follow the line of reasoning and the organization, development, substance, and style are appropriate to purpose, audience, and task.",
+                      "alignmentNotes": "This unit builds toward student presentations. You will decide what form this takes, but there is ample opportunity to align to this standard.",
+                      "subcat": null
+                    }
+                  ]
+                },
+                {
+                  "slug": "R",
+                  "name": "Reading",
+                  "standardsGroup": [
+                    {
+                      "lessons": [
+                        "1",
+                        "2",
+                        "3",
+                        "4",
+                        "5"
+                      ],
+                      "codes": "RH.11-12.7",
+                      "grades": [
+                        "11",
+                        "12"
+                      ],
+                      "statements": "Integrate and evaluate multiple sources of information presented in diverse formats and media (e.g., visually, quantitatively, as well as in words) in order to address a question or solve a problem.",
+                      "alignmentNotes": "Throughout the unit, students will draw together diverse observations and ideas from engineering, design, and biology in order to propose a redesign to an existing product.",
+                      "subcat": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "subject": "Science",
+          "target": false,
+          "sets": [
+            {
+              "slug": "NGSS",
+              "name": "NGSS",
+              "dimensions": [
+                {
+                  "slug": "DCI",
+                  "name": "Disciplinary Core ideas",
+                  "standardsGroup": [
+                    {
+                      "lessons": [
+                        "1"
+                      ],
+                      "codes": "LS4.D-M1",
+                      "grades": [
+                        "6",
+                        "7",
+                        "8"
+                      ],
+                      "statements": "Changes in biodiversity can influence humans’ resources, such as food, energy, and medicines, as well as ecosystem services that humans rely on–for example, water purification and recycling.",
+                      "alignmentNotes": "Students build an appreciation of the connection between our everday lives and biology throughout the unit.",
+                      "subcat": "Biodiversity & Humans"
+                    },
+                    {
+                      "lessons": [
+                        "2"
+                      ],
+                      "codes": "LS3.A-M2",
+                      "grades": [
+                        "6",
+                        "7",
+                        "8"
+                      ],
+                      "statements": "Variations of inherited traits between parent and offspring arise from genetic differences that result from the subset of chromosomes (and therefore genes) inherited.",
+                      "alignmentNotes": "In their investigations, students will learn about 'traits' in biology, and think about how function forms an analogous bridge between biology and engineering. In comparing organismal adaptations in their research, they will deepen their understanding of how evolution shapes populations over time.",
+                      "subcat": "Inheritance of Traits"
+                    },
+                    {
+                      "lessons": [
+                        "2",
+                        "3"
+                      ],
+                      "codes": "LS4.B-M1",
+                      "grades": [
+                        "6",
+                        "7",
+                        "8"
+                      ],
+                      "statements": "Natural selection leads to the predominance of certain traits in a population, and the suppression of others.",
+                      "alignmentNotes": "In their investigations, students will learn about 'traits' in biology, and think about how function forms an analogous bridge between biology and engineering. In comparing organismal adaptations in their research, they will deepen their understanding of how evolution shapes populations over time.",
+                      "subcat": "Natural Selection"
+                    },
+                    {
+                      "lessons": [
+                        "1"
+                      ],
+                      "codes": "LS4.D-H2",
+                      "grades": [
+                        "9",
+                        "10",
+                        "11",
+                        "12"
+                      ],
+                      "statements": "Humans depend on the living world for the resources and other benefits provided by biodiversity. But human activity is also having adverse impacts on biodiversity through overpopulation, overexploitation, habitat destruction, pollution, introduction of invasive species, and climate change. Thus, sustaining biodiversity so that ecosystem functioning and productivity are maintained is essential to supporting and enhancing life on Earth. Sustaining biodiversity also aids humanity by preserving landscapes of recreational or inspirational value.",
+                      "alignmentNotes": "One design problem students can consider is sustainability. Depending on how much you wish to stress this, you could have students focus largely or entirely on making redesigns that are more sustainable.",
+                      "subcat": "Biodiversity & Humans"
+                    }
+                  ]
+                },
+                {
+                  "slug": "SEP",
+                  "name": "Science & Engineering Practices",
+                  "standardsGroup": [
+                    {
+                      "lessons": [
+                        "2",
+                        "3",
+                        "4"
+                      ],
+                      "codes": "INFO-M1",
+                      "grades": [
+                        "6",
+                        "7",
+                        "8"
+                      ],
+                      "statements": "Critically read scientific texts adapted for classroom use to determine the central ideas and/or obtain scientific and/or technical information to describe patterns in and/or evidence about the natural and designed world(s).",
+                      "alignmentNotes": "In lessons 2-4, students will dive into scientific literature, and other web-based sources to learn more about the product problem they've identified and biological models with analogous functions to the desired solution. They will then need to summarize and present their process and (re)design proposals.",
+                      "subcat": "Obtaining, Evaluating, & Communicating Information"
+                    },
+                    {
+                      "lessons": [
+                        "2",
+                        "3",
+                        "4"
+                      ],
+                      "codes": "MATH-M5",
+                      "grades": [
+                        "6",
+                        "7",
+                        "8"
+                      ],
+                      "statements": "Use digital tools and/or mathematical concepts and arguments to test and compare proposed solutions to an engineering design problem.",
+                      "alignmentNotes": "Students will use AI chatbots and other digital tools to devise bioinspired product redesigns. You could go a step further to have students build 3D models, prototypes, or mathematical models to test their ideas quantitatively.",
+                      "subcat": "Using Mathematics & Computational Thinking"
+                    },
+                    {
+                      "lessons": [
+                        "3",
+                        "4"
+                      ],
+                      "codes": "CEDS-M6",
+                      "grades": [
+                        "6",
+                        "7",
+                        "8"
+                      ],
+                      "statements": "Apply scientific ideas or principles to design, construct, and/or test a design of an object, tool, process or system.",
+                      "alignmentNotes": "Science, design, and engineering are fluidly woven together in this project, as students identify a problem, investigate it from a biological lens, and develop bioinspired solutions.",
+                      "subcat": "Constructing Explanations & Designing Solutions"
+                    },
+                    {
+                      "lessons": [
+                        "3",
+                        "4"
+                      ],
+                      "codes": "INV-M5",
+                      "grades": [
+                        "6",
+                        "7",
+                        "8"
+                      ],
+                      "statements": "Collect data about the performance of a proposed object, tool, process, or system under a range of conditions.",
+                      "alignmentNotes": "This standard connection would depend on you having the students prototype or evaluate their designs in some way.",
+                      "subcat": "Planning & Carrying out Investigations"
+                    },
+                    {
+                      "lessons": [
+                        "4"
+                      ],
+                      "codes": "ARG-M5",
+                      "grades": [
+                        "6",
+                        "7",
+                        "8"
+                      ],
+                      "statements": "Evaluate competing design solutions based on jointly developed and agreed-upon design criteria.",
+                      "alignmentNotes": "In Lesson 4, students will be asked to rigorously evaluate the pros and cons, and tradeoffs of different approaches for their redesign proposals.",
+                      "subcat": "Engaging in Argument from Evidence"
+                    },
+                    {
+                      "lessons": [
+                        "5"
+                      ],
+                      "codes": "ARG-M3",
+                      "grades": [
+                        "6",
+                        "7",
+                        "8"
+                      ],
+                      "statements": "Construct, use, and/or present an oral and written argument supported by empirical evidence and scientific reasoning to support or refute an explanation or a model for a phenomenon or a solution to a problem.",
+                      "alignmentNotes": "Through the Bioinspired Design Canvas and/or a the final presentations, students will communicate their process from beginning to end.",
+                      "subcat": "Engaging in Argument from Evidence"
+                    },
+                    {
+                      "lessons": [
+                        "1",
+                        "3",
+                        "4"
+                      ],
+                      "codes": "AQDP-H9",
+                      "grades": [
+                        "9",
+                        "10",
+                        "11",
+                        "12"
+                      ],
+                      "statements": "Analyze complex real-world problems by specifying criteria and constraints for successful solutions.",
+                      "alignmentNotes": "Throughout the unit, students will analyze problems with existing products and propose redesigns that better balance the needs and constraints of the users, economy, and the planet.",
+                      "subcat": "Ask Questions & Define Problems"
+                    },
+                    {
+                      "lessons": [
+                        "1",
+                        "3",
+                        "4"
+                      ],
+                      "codes": "ARG-H2",
+                      "grades": [
+                        "9",
+                        "10",
+                        "11",
+                        "12"
+                      ],
+                      "statements": "Evaluate the claims, evidence, and/or reasoning behind currently accepted explanations or solutions to determine the merits of arguments.",
+                      "alignmentNotes": "Throughout the unit, students will analyze problems with existing products and propose redesigns that better balance the needs and constraints of the users, economy, and the planet.",
+                      "subcat": "Engaging in Argument from Evidence"
+                    },
+                    {
+                      "lessons": [
+                        "2",
+                        "3",
+                        "4"
+                      ],
+                      "codes": "INFO-H1",
+                      "grades": [
+                        "9",
+                        "10",
+                        "11",
+                        "12"
+                      ],
+                      "statements": "Critically read scientific literature adapted for classroom use to determine the central ideas or conclusions and/or to obtain scientific and/or technical information to summarize complex evidence, concepts, processes, or information presented in a text by paraphrasing them in simpler but still accurate terms.",
+                      "alignmentNotes": "In lessons 2-4, students will dive into scientific literature, and other web-based sources to learn more about the product problem they've identified and biological models with analogous functions to the desired solution. They will then need to summarize and present their process and (re)design proposals.",
+                      "subcat": "Obtaining, Evaluating, & Communicating Information"
+                    },
+                    {
+                      "lessons": [
+                        "4"
+                      ],
+                      "codes": "ARG-H6",
+                      "grades": [
+                        "9",
+                        "10",
+                        "11",
+                        "12"
+                      ],
+                      "statements": "Evaluate competing design solutions to a real-world problem based on scientific ideas and principles, empirical evidence, and logical arguments regarding relevant factors (e.g., economic, societal, environmental, ethical considerations).",
+                      "alignmentNotes": "Lesson 4 in particular will involve a careful evaluation of the pros, cons, and tradeoffs between different biological models for the redesign proposal.",
+                      "subcat": "Engaging in Argument from Evidence"
+                    },
+                    {
+                      "lessons": [
+                        "4"
+                      ],
+                      "codes": "DATA-H6",
+                      "grades": [
+                        "9",
+                        "10",
+                        "11",
+                        "12"
+                      ],
+                      "statements": "Analyze data to identify design features or characteristics of the components of a proposed process or system to optimize it relative to criteria for success.",
+                      "alignmentNotes": "Lesson 4 in particular will involve a careful evaluation of the pros, cons, and tradeoffs between different biological models for the redesign proposal.",
+                      "subcat": "Analyzing Data"
+                    },
+                    {
+                      "lessons": [
+                        "4"
+                      ],
+                      "codes": "MOD-H1",
+                      "grades": [
+                        "9",
+                        "10",
+                        "11",
+                        "12"
+                      ],
+                      "statements": "Evaluate merits and limitations of two different models of the same proposed tool, process, mechanism, or system in order to select or revise a model that best fits the evidence or design criteria.",
+                      "alignmentNotes": "Lesson 4 in particular will involve a careful evaluation of the pros, cons, and tradeoffs between different biological models for the redesign proposal.",
+                      "subcat": "Developing & Using Models"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "subject": "Social Studies",
+          "target": false,
+          "sets": [
+            {
+              "slug": "C3",
+              "name": "C3",
+              "dimensions": [
+                {
+                  "slug": "CEGH",
+                  "name": "Civics, Economics, Geography & History",
+                  "standardsGroup": [
+                    {
+                      "lessons": [],
+                      "codes": "D2.Geo.4.9-12",
+                      "grades": [
+                        "9",
+                        "10",
+                        "11",
+                        "12"
+                      ],
+                      "statements": "Analyze relationships and interactions within and between human and physical systems to explain reciprocal influences that occur among them.",
+                      "alignmentNotes": "Throughout the redesign process, students will evaluate how humans interact with systems (both biological and engineered), and how these interactions can be improved.",
+                      "subcat": null
+                    }
+                  ]
+                },
+                {
+                  "slug": "ESCCTA",
+                  "name": "Evaluating Sources, Communicating Conclusions & Taking Action",
+                  "standardsGroup": [
+                    {
+                      "lessons": [
+                        "1"
+                      ],
+                      "codes": "D4.6.9-12",
+                      "grades": [
+                        "9",
+                        "10",
+                        "11",
+                        "12"
+                      ],
+                      "statements": "Use disciplinary and interdisciplinary lenses to understand the characteristics and causes of local, regional, and global problems; instances of such problems in multiple contexts; and challenges and opportunities faced by those trying to address these problems over time and place.",
+                      "alignmentNotes": "Throughout the redesign process, students will evaluate how humans interact with systems (both biological and engineered), and how these interactions can be improved.",
+                      "subcat": null
+                    },
+                    {
+                      "lessons": [
+                        "5"
+                      ],
+                      "codes": "D4.3.9-12",
+                      "grades": [
+                        "9",
+                        "10",
+                        "11",
+                        "12"
+                      ],
+                      "statements": "Present adaptations of arguments and explanations that feature evocative ideas and perspectives on issues and topics to reach a range of audiences and venues outside the classroom using print and oral technologies (e.g., posters, essays, letters, debates, speeches, reports, and maps) and digital technologies (e.g., Internet, social media, and digital documentary).",
+                      "alignmentNotes": "The capstone project at the end of this unit will be a presentation that you determine and which reflects students' independent investigations and conclusions about the problem they identified and their biologically inspired solution.",
+                      "subcat": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "subject": "Sustainability",
+          "target": false,
+          "sets": [
+            {
+              "slug": "SDG",
+              "name": "SDGs",
+              "dimensions": [
+                {
+                  "slug": "P",
+                  "name": "Planet",
+                  "standardsGroup": [
+                    {
+                      "lessons": [
+                        "1",
+                        "2",
+                        "3",
+                        "4",
+                        "5"
+                      ],
+                      "codes": "Goal 12",
+                      "grades": [
+                        "1",
+                        "2",
+                        "3",
+                        "4",
+                        "5",
+                        "6",
+                        "7",
+                        "8",
+                        "9",
+                        "10",
+                        "11",
+                        "12"
+                      ],
+                      "statements": "Ensure sustainable consumption and production patterns",
+                      "alignmentNotes": "Sustainability is one criterion by which students will identify problems for their redesign proposals. You can choose to focus on this more to hit this or other SDGs.",
+                      "subcat": "Responsible Consumption and Production"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "subject": "Science",
+          "target": true,
+          "sets": [
+            {
+              "slug": "NGSS",
+              "name": "NGSS",
+              "dimensions": [
+                {
+                  "slug": "SEP",
+                  "name": "Science & Engineering Practices",
+                  "standardsGroup": [
+                    {
+                      "lessons": [
+                        "1",
+                        "2",
+                        "3",
+                        "4",
+                        "5"
+                      ],
+                      "codes": "CEDS-M7",
+                      "grades": [
+                        "6",
+                        "7",
+                        "8"
+                      ],
+                      "statements": "Undertake a design project, engaging in the design cycle, to construct and/or implement a solution that meets specific design criteria and constraints.",
+                      "alignmentNotes": "Throughout this unit, students will identify a problem, and iterate through various potential solutions to that problem, inspired by biology.",
+                      "subcat": "Constructing Explanations & Designing Solutions"
+                    },
+                    {
+                      "lessons": [
+                        "1",
+                        "3",
+                        "4"
+                      ],
+                      "codes": "AQDP-M8",
+                      "grades": [
+                        "6",
+                        "7",
+                        "8"
+                      ],
+                      "statements": "Define a design problem that can be solved through the development of an object, tool, process or system and includes multiple criteria and constraints, including scientific knowledge that may limit possible solutions.",
+                      "alignmentNotes": "Throughout the unit, students will analyze problems with existing products and propose redesigns that better balance the needs and constraints of the users, economy, and the planet.",
+                      "subcat": "Ask Questions & Define Problems"
+                    },
+                    {
+                      "lessons": [
+                        "1",
+                        "3",
+                        "4"
+                      ],
+                      "codes": "MOD-M1",
+                      "grades": [
+                        "6",
+                        "7",
+                        "8"
+                      ],
+                      "statements": "Evaluate limitations of a model for a proposed object or tool.",
+                      "alignmentNotes": "Throughout the unit, students will analyze problems with existing products and propose redesigns that better balance the needs and constraints of the users, economy, and the planet.",
+                      "subcat": "Developing & Using Models"
+                    },
+                    {
+                      "lessons": [
+                        "5"
+                      ],
+                      "codes": "INFO-M5",
+                      "grades": [
+                        "6",
+                        "7",
+                        "8"
+                      ],
+                      "statements": "Communicate scientific and/or technical information (e.g., about a proposed object, tool, process, system) in writing and/or through oral presentations.",
+                      "alignmentNotes": "Through the Bioinspired Design Canvas and/or a the final presentations, students will communicate their process from beginning to end.",
+                      "subcat": "Obtaining, Evaluating, & Communicating Information"
+                    },
+                    {
+                      "lessons": [
+                        "1"
+                      ],
+                      "codes": "AQDP-H8",
+                      "grades": [
+                        "9",
+                        "10",
+                        "11",
+                        "12"
+                      ],
+                      "statements": "Define a design problem that involves the development of a process or system with interacting components and criteria and constraints that may include social, technical and/or environmental considerations.",
+                      "alignmentNotes": "Lesson 1 focuses on identifying problems with existing products. The mind mapping activity asks them to de-familiarize a product by breaking it down into its parts or functions and to think about it abstractly as a system. Then they identify their problem, as they begin to think about potential solutions inspired by Nature.",
+                      "subcat": "Ask Questions & Define Problems"
+                    },
+                    {
+                      "lessons": [
+                        "4"
+                      ],
+                      "codes": "INFO-H2",
+                      "grades": [
+                        "9",
+                        "10",
+                        "11",
+                        "12"
+                      ],
+                      "statements": "Compare, integrate and evaluate sources of information presented in different media or formats (e.g., visually, quantitatively) as well as in words in order to address a scientific question or solve a problem.",
+                      "alignmentNotes": "This unit is highly interdisciplinary, requiring students to draw from a wide variety of sources, their own creative mind maps, and discussions with classmates to solve a problem of their own choosing.",
+                      "subcat": "Obtaining, Evaluating, & Communicating Information"
+                    },
+                    {
+                      "lessons": [
+                        "5"
+                      ],
+                      "codes": "INFO-H5",
+                      "grades": [
+                        "9",
+                        "10",
+                        "11",
+                        "12"
+                      ],
+                      "statements": "Communicate scientific and/or technical information or ideas (e.g. about phenomena and/or the process of development and the design and performance of a proposed process or system) in multiple formats (including orally, graphically, textually, and mathematically).",
+                      "alignmentNotes": "The capstone project at the end of this unit will be a presentation that you determine and which reflects students' independent investigations and conclusions about the problem they identified and their biologically inspired solution.",
+                      "subcat": "Obtaining, Evaluating, & Communicating Information"
+                    }
+                  ]
+                },
+                {
+                  "slug": "DCI",
+                  "name": "Disciplinary Core ideas",
+                  "standardsGroup": [
+                    {
+                      "lessons": [
+                        "2",
+                        "3"
+                      ],
+                      "codes": "LS4.C-M1",
+                      "grades": [
+                        "6",
+                        "7",
+                        "8"
+                      ],
+                      "statements": "Adaptation by natural selection acting over generations is one important process by which species change over time in response to changes in environmental conditions. Traits that support successful survival and reproduction in the new environment become more common; those that do not become less common. Thus, the distribution of traits in a population changes.",
+                      "alignmentNotes": "In their investigations, students will learn about 'traits' in biology, and think about how function forms an analogous bridge between biology and engineering. In comparing organismal adaptations in their research, they will deepen their understanding of how evolution shapes populations over time.",
+                      "subcat": "Adaptation"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
     },
     "feedback": {
       "__component": "lesson-plan.collapsible-text-section",
@@ -501,10 +1405,69 @@
       "Content": "### Please let us know how it went with your class!\n#### We want to know what you (and/or your students) think!\nShare your feedback in < 5 min with these forms:\n- [For teachers](https://forms.gle/RWavzgBusrXJyC1w8)\n- [For students](https://forms.gle/Kk2CkDrjkzQN3div9)\n",
       "InitiallyExpanded": true
     },
+    "credits": {
+      "__component": "lesson-plan.collapsible-text-section",
+      "SectionTitle": "Credits",
+      "Content": "[Matt Wilkins, PhD](https://www.linkedin.com/in/mattwilkinsphd/) Led the project; helped develop, edit, and revise all aspects of the lesson and supporting media\n\n[Stephanie Rapciak, MA](https://www.linkedin.com/in/stephanie-rapciak/) Helped develop all lesson materials; co-wrote and produced supporting videos\n\n[Stephanie Castillo, PhD](https://www.phuturedoctors.com/) Provided feedback throughout development. Led creation of all supporting multimedia.\n\n[Emilie Snell-Rood, PhD](https://scholar.google.com/citations?user=s-pbFU8AAAAJ&hl=en&oi=ao) Defined outreach goals; provided feedback throughout development; provided scientific validation of lesson content.\n",
+      "InitiallyExpanded": true
+    },
     "acknowledgments": {
       "__component": "lesson-plan.acknowledgments",
       "SectionTitle": "Acknowledgments",
-      "Data": null
+      "Data": [
+        {
+          "role": "Illustrator",
+          "def": "Created banner image and numerous supporting drawings",
+          "records": [
+            {
+              "name": "Anna Wilkins",
+              "url": "https://www.annamationvisdev.com/",
+              "title": "Character Designer & Storyboard Artist",
+              "affiliation": "Freelance",
+              "location": "Atlanta, GA"
+            }
+          ]
+        },
+        {
+          "role": "“Function in Bio-inspired design” research team",
+          "def": "Dimitri Smirnoff, Mary Guzowski, Billy Weber, Jessica Rossi-Mastracci, Alan Love, Amanda Hund, Mike Travisano, Ruth Shaw, Mark Borrello, Gillian Roehrig, and Jeremy Thomas",
+          "records": [
+            {
+              "name": null,
+              "url": null,
+              "title": null,
+              "affiliation": null,
+              "location": null
+            }
+          ]
+        },
+        {
+          "role": "Graphic Design Consultant",
+          "def": "Helped develop the bioinspired design visual framework",
+          "records": [
+            {
+              "name": "Caroline Hu, PhD",
+              "url": "https://www.hudrewthis.com/about",
+              "title": "Assistant Professor of Biology",
+              "affiliation": "Massachusetts College of Art and Design",
+              "location": "Boston, MA"
+            }
+          ]
+        },
+        {
+          "role": "Funding",
+          "def": "John Templeton Foundation award 62220",
+          "records": [
+            {
+              "name": null,
+              "url": null,
+              "title": null,
+              "affiliation": null,
+              "location": null
+            }
+          ]
+        }
+      ]
     },
     "versions": {
       "__component": "lesson-plan.versions",
@@ -524,6 +1487,13 @@
               "version": "0.1.2",
               "date": "December 23, 2023",
               "summary": "Added banner and other materials.",
+              "notes": null,
+              "acknowledgments": null
+            },
+            {
+              "version": "0.2.0",
+              "date": "Jan 18, 2023",
+              "summary": "Adding standards, background; readying for launch",
               "notes": null,
               "acknowledgments": null
             }

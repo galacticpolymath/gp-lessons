@@ -1,0 +1,105 @@
+numID: 11
+_id: lesson_11_en-US
+ShortTitle: Chipper
+PublicationStatus: Proto
+Language: English
+Country: United States
+DefaultLanguage: English
+DefaultCountry: United States
+LastUpdated: 2024-01-22 11:03:43.775201
+ReleaseDate: '2050-01-01'
+isTestRepo: no
+FirstPublicationDate: .na
+LsnStatuses: .na
+MediumTitle: '''Chipper''(en-US)'
+lang: en
+lng: eng
+locale: en-US
+DefaultLocale: en-US
+TemplateVer: 0.6.2
+galacticPubsVer: 0.9.9
+URL: https://www.galacticpolymath.com/lessons/en-US/11
+GdriveHome: GP-Studio
+GdriveDirName: Chipper_en-US
+GdriveTeachMatPath: GP-Studio/Edu/Lessons/Chipper_en-US/teaching-materials
+GdriveTeachMatID: 15tKbnmGeJxRrtKpOulX492Y69yp7lnja
+GdrivePublicID: .na
+GdriveDirID: 15ocjRT7aMkyGBmwdwXaTcVcBRhFnhLNc
+GdriveMetaID: 15sjROBwlgP6fRQdUgd7Ehf3RD5e5rrHo
+GdriveTeachItID: 17k1leEfg3dIUtABBRjplKlR5uO33TMQaUj2kXXLi1jc
+GdriveStandardsID: 12QSdKmnhCLvq4wtSOjTohXykWO97NzxfS71xia0MEiU
+GdrivePublishedID: 15rmdHlJp2_54i9uSTkQZEneaSJLBzmU7
+GdriveDirURL: https://drive.google.com/drive/folders/15ocjRT7aMkyGBmwdwXaTcVcBRhFnhLNc
+RebuildAllMaterials: no
+Title: .na
+Subtitle: .na
+SponsorName: .na
+SponsoredBy: .na
+SponsorLogo: .na
+LessonBanner: .na
+LessonCard: .na
+TargetSubject: .na
+LessonEnvir: classroom
+ForGrades: .na
+GradesOrYears: Grades
+LessonTiles: .na
+EstLessonTime: .na
+PullStandardsInfoFrom: myFile
+LearningPlotCorrection: yes
+LearningChartFriendly: .na
+LearningEpaulette: .na
+LearningEpaulette_vert: .na
+LearningEpaulette_params_heightScalar: 0.5
+LearningEpaulette_params_randomSeed: 101.0
+LearningChart: .na
+LearningChart_params_centralText: []
+LearningChart_params_caption: []
+LearningChart_params_captionN: yes
+SupportingMedia: .na
+LearningSummary: .na
+DrivingQ: .na
+EssentialQ: .na
+Hooks: .na
+MiscMD: .na
+LearningObj: .na
+Tags: .na
+Description: .na
+QuickPrep: |
+  1. Check out lesson multimedia below
+  2. Look over [Teaching Materials](#teaching_materials)
+  3. Read our easy [Procedure](#procedure)
+  4. Teach it and [let us know what you think!](#feedback)
+Bonus: .na
+Extensions: .na
+Background: .na
+ConnectionToResearch: .na
+Feedback: |
+  ### Please let us know how it went with your class!
+  #### We want to know what you (and/or your students) think!
+  Share your feedback in < 5 min with these forms:
+  - [For teachers](https://forms.gle/HY1sFxZUH7uG6JqP8)
+  - [For students](https://forms.gle/gwkRYvvZY6Sp2dQb9)
+Credits:
+  value: .na
+Acknowledgments:
+  Role: .na
+  Role_def: .na
+  Name: .na
+  Title: .na
+  Affiliation: .na
+  Location: .na
+  Link: .na
+Versions:
+  ver_num: 0.1.0
+  date: January 22, 2024
+  ver_summary: Lesson initialized
+  ver_notes: .na
+  ver_acknowledgments: .na
+ScriptsToRun: .na
+GoogleCloudStorage:
+  filename: .na
+  WD_rel_path: .na
+  cloud_path: .na
+  mod_time: .na
+  last_uploaded: .na
+ReadyToCompile: Front Matter

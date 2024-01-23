@@ -1,5 +1,32 @@
 {
   "__component": "lesson-plan.acknowledgments",
   "SectionTitle": "Acknowledgments",
-  "Data": null
+  "Data": [
+    {
+      "role": "Funding",
+      "def": "NSF CAREER Award 2236807, through the Division of Materials Research.",
+      "records": [
+        {
+          "name": null,
+          "url": null,
+          "title": null,
+          "affiliation": null,
+          "location": null
+        }
+      ]
+    },
+    {
+      "role": "Filmmaker",
+      "def": "Edited, scored, and narrated supporting videos.",
+      "records": [
+        {
+          "name": "Stephanie Castillo, PhD",
+          "url": "https://www.phuturedoctors.com/",
+          "title": "Digital Multimedia Specialist",
+          "affiliation": "Galactic Polymath",
+          "location": "Nashville, TN"
+        }
+      ]
+    }
+  ]
 }

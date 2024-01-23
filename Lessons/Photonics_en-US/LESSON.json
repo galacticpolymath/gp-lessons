@@ -2,13 +2,13 @@
   "numID": 9,
   "_id": "lesson_9_en-US",
   "ShortTitle": "Photonics",
-  "PublicationStatus": "Proto",
+  "PublicationStatus": "Draft",
   "Language": "English",
   "Country": "United States",
   "DefaultLanguage": "English",
   "DefaultCountry": "United States",
-  "LastUpdated": "2023-12-23 11:05:13.997422",
-  "ReleaseDate": "2050-01-01",
+  "LastUpdated": "2024-01-22 17:16:59.637036",
+  "ReleaseDate": "2024-01-26",
   "isTestRepo": false,
   "FirstPublicationDate": null,
   "LsnStatuses": [
@@ -16,15 +16,22 @@
       "lsn": 1,
       "status": "Live",
       "updated_date": null,
-      "new_date": null,
-      "sort_by_date": null
+      "new_date": "2024-01-22",
+      "sort_by_date": "2024-01-22"
     },
     {
       "lsn": 2,
       "status": "Live",
       "updated_date": null,
+      "new_date": "2024-01-22",
+      "sort_by_date": "2024-01-22"
+    },
+    {
+      "lsn": 3,
+      "status": "Coming Soon",
+      "updated_date": null,
       "new_date": null,
-      "sort_by_date": null
+      "sort_by_date": "2024-01-22"
     }
   ],
   "MediumTitle": "'Photon Engineers' |Science| G6-9 (en-US)",
@@ -33,7 +40,7 @@
   "locale": "en-US",
   "DefaultLocale": "en-US",
   "TemplateVer": "0.6.2",
-  "galacticPubsVer": "0.9.8",
+  "galacticPubsVer": "0.9.9",
   "URL": "https://www.galacticpolymath.com/lessons/en-US/9",
   "GdriveHome": "GP-Studio",
   "GdriveDirName": "Photonics_en-US",
@@ -53,8 +60,11 @@
     "NSF",
     "University of Iowa"
   ],
-  "SponsoredBy": "- National Science Foundation Grant\n- [Dr. Tom Folland's Lab](https://physics.uiowa.edu/people/thomas-folland) at the University of Iowa",
-  "SponsorLogo": "https://storage.googleapis.com/gp-cloud/lessons/Photonics_en-US/Iowa_logo_blackBG.png",
+  "SponsoredBy": "- [Dr. Tom Folland's Lab](https://physics.uiowa.edu/people/thomas-folland) at the University of Iowa\n- National Science Foundation CAREER award, through the division of materials research, grant 2236807",
+  "SponsorLogo": [
+    "https://storage.googleapis.com/gp-cloud/lessons/Photonics_en-US/Folland-Lab_logo.png",
+    "https://storage.googleapis.com/gp-cloud/lessons/Photonics_en-US/Iowa_logo_blackBG.png"
+  ],
   "LessonBanner": "https://storage.googleapis.com/gp-cloud/lessons/Photonics_en-US/Photonics_1-banner.png",
   "LessonCard": "https://storage.googleapis.com/gp-cloud/lessons/Photonics_en-US/Photonics_2-card.png",
   "TargetSubject": "Science",
@@ -69,7 +79,7 @@
       "GradesOrYears": "Grades",
       "ForGrades": "6-9",
       "TargetSubject": "Science",
-      "Text": "#### Driving Question(s):\n1. How can light be used to measure, transmit, and control information?\n2. How does light behave in various mediums?\n#### Essential Question(s):\nHow has human curiosity driven innovation throughout history?\nWhat are the benefits and challenges of communicating with light?\n#### Hook(s):\nPuzzles, hands-on games, and original illustrations create a dynamic lesson supported by engaging videos. ",
+      "Text": "#### Driving Question(s):\n1. How can light be used to measure, transmit, and control information?\n2. How does light behave in various mediums?\n#### Essential Question(s):\n- How has human curiosity driven innovation throughout history?\n- What are the benefits and challenges of communicating with light?\n#### Hook(s):\nPuzzles, hands-on games, and original illustrations create a dynamic lesson supported by engaging videos. ",
       "Tags": [
         {
           "Value": "photonics"
@@ -96,6 +106,18 @@
       "QuickPrep": "1. Check out lesson multimedia below\n2. Look over <AnchorLink href=\"#teaching_materials\"> Teaching Materials <\/AnchorLink>\n3. Read our easy <AnchorLink href=\"#procedure\"> Procedure <\/AnchorLink>\n4. Teach it and <AnchorLink href=\"#feedback\"> let us know what you think! <\/AnchorLink>\n",
       "Multimedia": [
         {
+          "order": "0.5",
+          "type": "video",
+          "forLsn": "2",
+          "title": "What is Light?",
+          "description": null,
+          "lessonRelevance": "DRAFT version. In this short video a photonics expert introduces light as a broad spectrum of frequencies.",
+          "by": "Galactic Polymath",
+          "byLink": "https://www.youtube.com/channel/UCfyBNvN3CH4uWmwOCQVhmhg/featured",
+          "mainLink": "https://drive.google.com/file/d/1BSiSv5LVEFgDoUCIrX7evj2iefg0SO0h/preview?rm=minimal",
+          "otherLink": null
+        },
+        {
           "order": "1",
           "type": "pdf",
           "forLsn": "1",
@@ -111,12 +133,24 @@
           "order": "2",
           "type": "video",
           "forLsn": "1",
-          "title": "What Are Lenses?",
+          "title": "2000 years of engineering with light (it’s about lenses)",
           "description": null,
-          "lessonRelevance": "This video explores the history of photonics, and introduces the scientific basis of lenses.",
+          "lessonRelevance": "DRAFT version. This video explores the history of photonics, and introduces the scientific basis of lenses.",
           "by": "Galactic Polymath",
           "byLink": "https://www.youtube.com/channel/UCfyBNvN3CH4uWmwOCQVhmhg/featured",
-          "mainLink": null,
+          "mainLink": "https://drive.google.com/file/d/1JDgqBPtbUdYjfCr5zIcsmgQ9zQYZB54R/preview?rm=minimal",
+          "otherLink": null
+        },
+        {
+          "order": "3",
+          "type": "video",
+          "forLsn": "1",
+          "title": "How Glasses Work to Correct Vision",
+          "description": null,
+          "lessonRelevance": "More advanced students might be interested in learning how glasses and contacts work to correct vision.",
+          "by": "Galactic Polymath",
+          "byLink": "https://www.youtube.com/@MooMooMath",
+          "mainLink": "https://www.youtube.com/embed/1vlojCoFrTw",
           "otherLink": null
         },
         {
@@ -132,18 +166,6 @@
           "otherLink": null
         },
         {
-          "order": "3",
-          "type": "video",
-          "forLsn": "1",
-          "title": "How Glasses Work to Correct Vision",
-          "description": null,
-          "lessonRelevance": "More advanced students might be interested in learning how glasses and contacts work to correct vision.",
-          "by": "Galactic Polymath",
-          "byLink": "https://www.youtube.com/channel/UCfyBNvN3CH4uWmwOCQVhmhg/featured",
-          "mainLink": null,
-          "otherLink": null
-        },
-        {
           "order": "6",
           "type": "pdf",
           "forLsn": "2",
@@ -152,19 +174,7 @@
           "lessonRelevance": "On this worksheet students explore \"what is light?\" and brainstorm how messages can be encoded in waves.",
           "by": "Galactic Polymath",
           "byLink": "https://www.youtube.com/channel/UCfyBNvN3CH4uWmwOCQVhmhg/featured",
-          "mainLink": null,
-          "otherLink": null
-        },
-        {
-          "order": "5",
-          "type": "video",
-          "forLsn": "2",
-          "title": "What is Light?",
-          "description": null,
-          "lessonRelevance": "In this short video a photonics expert introduces light as a broad spectrum of frequencies.",
-          "by": "Galactic Polymath",
-          "byLink": "https://www.youtube.com/channel/UCfyBNvN3CH4uWmwOCQVhmhg/featured",
-          "mainLink": null,
+          "mainLink": "https://docs.google.com/document/d/1oKBFUmXcudtQE21y59Q1sDxxEdoMGWW9OIz7MUcLNFI/preview?rm=minimal",
           "otherLink": null
         }
       ],
@@ -211,12 +221,42 @@
                       "itemCat": "presentation",
                       "links": [
                         {
-                          "linkText": "Present Now",
+                          "linkText": "Present Now (DRAFT FILE)",
                           "url": "https://docs.google.com/presentation/d/1IfgB7A0h8uuCrMpQ0fMg6Jyk9fsjYdN4FT7zmaeW_qY/present"
                         },
                         {
-                          "linkText": "Preview/Copy in Google Docs",
+                          "linkText": "Preview/Copy in Google Docs (DRAFT FILE)",
                           "url": "https://docs.google.com/presentation/d/1IfgB7A0h8uuCrMpQ0fMg6Jyk9fsjYdN4FT7zmaeW_qY/template/preview"
+                        }
+                      ]
+                    },
+                    {
+                      "itemTitle": "Teacher Version of Timeline Puzzle",
+                      "itemDescription": "Print 1",
+                      "itemCat": "presentation",
+                      "links": [
+                        {
+                          "linkText": "PDF (DRAFT FILE)",
+                          "url": "https://docs.google.com/presentation/d/18D0tqNx2flXrTFb1iFINHORV_diTpKMCWTbpSPGL8iU/export/pdf"
+                        },
+                        {
+                          "linkText": "Preview/Copy in Google Docs (DRAFT FILE)",
+                          "url": "https://docs.google.com/presentation/d/18D0tqNx2flXrTFb1iFINHORV_diTpKMCWTbpSPGL8iU/template/preview"
+                        }
+                      ]
+                    },
+                    {
+                      "itemTitle": "Student Version of Timeline Puzzle",
+                      "itemDescription": "Print class set for small groups",
+                      "itemCat": "presentation",
+                      "links": [
+                        {
+                          "linkText": "PDF (DRAFT FILE)",
+                          "url": "https://docs.google.com/presentation/d/1U7XUGLNzaH5MAql1OWRl6QFIbTXfUlN4ySptYNiryFM/export/pdf"
+                        },
+                        {
+                          "linkText": "Preview/Copy in Google Docs (DRAFT FILE)",
+                          "url": "https://docs.google.com/presentation/d/1U7XUGLNzaH5MAql1OWRl6QFIbTXfUlN4ySptYNiryFM/template/preview"
                         }
                       ]
                     },
@@ -226,11 +266,11 @@
                       "itemCat": "document",
                       "links": [
                         {
-                          "linkText": "PDF",
+                          "linkText": "PDF (DRAFT FILE)",
                           "url": "https://docs.google.com/document/d/1rni5PN00oe1fxh64bnvSYY_MT_SZZxVvg84TWZqT6FU/export?format=pdf"
                         },
                         {
-                          "linkText": "Preview/Copy in Google Docs",
+                          "linkText": "Preview/Copy in Google Docs (DRAFT FILE)",
                           "url": "https://docs.google.com/document/d/1rni5PN00oe1fxh64bnvSYY_MT_SZZxVvg84TWZqT6FU/template/preview"
                         }
                       ]
@@ -241,11 +281,11 @@
                       "itemCat": "document",
                       "links": [
                         {
-                          "linkText": "PDF",
+                          "linkText": "PDF (DRAFT FILE)",
                           "url": "https://docs.google.com/document/d/1lGF3DM_G_NVjIw7AFz9Xtfxa3LFchEY3GU2b_rQzSHI/export?format=pdf"
                         },
                         {
-                          "linkText": "Preview/Copy in Google Docs",
+                          "linkText": "Preview/Copy in Google Docs (DRAFT FILE)",
                           "url": "https://docs.google.com/document/d/1lGF3DM_G_NVjIw7AFz9Xtfxa3LFchEY3GU2b_rQzSHI/template/preview"
                         }
                       ]
@@ -267,11 +307,11 @@
                       "itemCat": "presentation",
                       "links": [
                         {
-                          "linkText": "Present Now",
+                          "linkText": "Present Now (DRAFT FILE)",
                           "url": "https://docs.google.com/presentation/d/1adGVYookTpFv9R6o6stPiIDVwjuG_R5uQscsl7LxCK0/present"
                         },
                         {
-                          "linkText": "Preview/Copy in Google Docs",
+                          "linkText": "Preview/Copy in Google Docs (DRAFT FILE)",
                           "url": "https://docs.google.com/presentation/d/1adGVYookTpFv9R6o6stPiIDVwjuG_R5uQscsl7LxCK0/template/preview"
                         }
                       ]
@@ -282,11 +322,11 @@
                       "itemCat": "document",
                       "links": [
                         {
-                          "linkText": "PDF",
+                          "linkText": "PDF (DRAFT FILE)",
                           "url": "https://docs.google.com/document/d/18sGSNHuzd8H-OXY2bHKY1vUm0KGNJRjaudFtQRsx3oQ/export?format=pdf"
                         },
                         {
-                          "linkText": "Preview/Copy in Google Docs",
+                          "linkText": "Preview/Copy in Google Docs (DRAFT FILE)",
                           "url": "https://docs.google.com/document/d/18sGSNHuzd8H-OXY2bHKY1vUm0KGNJRjaudFtQRsx3oQ/template/preview"
                         }
                       ]
@@ -297,11 +337,11 @@
                       "itemCat": "document",
                       "links": [
                         {
-                          "linkText": "PDF",
+                          "linkText": "PDF (DRAFT FILE)",
                           "url": "https://docs.google.com/document/d/1oKBFUmXcudtQE21y59Q1sDxxEdoMGWW9OIz7MUcLNFI/export?format=pdf"
                         },
                         {
-                          "linkText": "Preview/Copy in Google Docs",
+                          "linkText": "Preview/Copy in Google Docs (DRAFT FILE)",
                           "url": "https://docs.google.com/document/d/1oKBFUmXcudtQE21y59Q1sDxxEdoMGWW9OIz7MUcLNFI/template/preview"
                         }
                       ]
@@ -369,7 +409,7 @@
                     "Step": 3,
                     "StepTitle": "What Are Lenses?",
                     "StepQuickDescription": "Watch a video about the history and science of lenses and follow along on the student worksheet.",
-                    "StepDetails": "The \"What Are Lenses?\" video ([▶ What Are Lenses?](NA)) is embedded in the presentation slides with break points for discussion and reflection questions. Students can follow along with the discussion by taking notes on their worksheet: [➚ Seeing Through Time worksheet](https://docs.google.com/document/d/1lGF3DM_G_NVjIw7AFz9Xtfxa3LFchEY3GU2b_rQzSHI/edit).",
+                    "StepDetails": "The \"What Are Lenses?\" video ([▶ 2000 years of engineering with light (it’s about lenses)](https://drive.google.com/file/d/1JDgqBPtbUdYjfCr5zIcsmgQ9zQYZB54R/view?usp=sharing)) is embedded in the presentation slides with break points for discussion and reflection questions. Students can follow along with the discussion by taking notes on their worksheet: [➚ Seeing Through Time worksheet](https://docs.google.com/document/d/1lGF3DM_G_NVjIw7AFz9Xtfxa3LFchEY3GU2b_rQzSHI/edit).",
                     "Vocab": "- **photonics:** The study of manipulating light.\n- **lens:** A piece of material which is transparent and curved, useful for bending light.\n- **convex:** A lens which curves outward on at least one side.\n- **concave:** A lens which curves inward (creating a shallow \"cave\") on at least one side.\n- **focal point:** The point at which light rays converge after passing through a lens.",
                     "VariantNotes": null,
                     "TeachingTips": null
@@ -394,7 +434,7 @@
                     "Step": 5,
                     "StepTitle": "Bonus Challenge: Glasses",
                     "StepQuickDescription": "Extend the knowledge from the lesson to determine how vision should be corrected.",
-                    "StepDetails": "Students answer bonus reflection questions on their worksheet to determine what kind of glasses should go to far- or nearsighted people. They can check their answer and learn more about corrective eyeware with this video: [▶ How Glasses Work to Correct Vision](NA).",
+                    "StepDetails": "Students answer bonus reflection questions on their worksheet to determine what kind of glasses should go to far- or nearsighted people. They can check their answer and learn more about corrective eyeware with this video: [▶ How Glasses Work to Correct Vision](https://www.youtube.com/watch?v=1vlojCoFrTw).",
                     "Vocab": "- **farsighted:** The focal point of the eye falls behind the retina.\n- **nearsighted:** The focal point of the eye falls in front of the retina.",
                     "VariantNotes": "More advanced students (e.g. G8-9) could benefit from this more challenging reflection activity.",
                     "TeachingTips": null
@@ -430,7 +470,7 @@
               "prepTitle": "Prep",
               "prepDur": 5,
               "prepQuickDescription": "Print handouts",
-              "prepDetails": "Print student worksheets ([➚ Communicating With Light Worksheet](NA))",
+              "prepDetails": "Print student worksheets ([➚ Communicating With Light Worksheet](https://docs.google.com/document/d/1oKBFUmXcudtQE21y59Q1sDxxEdoMGWW9OIz7MUcLNFI/edit?usp=drive_link))",
               "prepVariantNotes": null,
               "prepTeachingTips": null
             },
@@ -452,9 +492,9 @@
                   {
                     "Step": 2,
                     "StepTitle": "Certain-Tier: What is Light?",
-                    "StepQuickDescription": "Students rank how certain they are that a phenomenon is or is not light. Then we check in with Dr. Tom Folland via video ([▶ What is Light?](NA)) to hear how he defines light.",
-                    "StepDetails": "The student worksheet ([➚ Communicating With Light Worksheet](NA)) has space for students to rank how certain they are about whether or not a light-candidate is light, as well as room to notice similarities or surprises. Next we check in with photonics expert, Dr. Tom Folland, to hear how he defines light: [▶ What is Light?](NA)!",
-                    "Vocab": "- **light:** electromagnetic radition which includes the visible spectrum, as well as radio waves, infrared heat, x-rays, and more.",
+                    "StepQuickDescription": "Students rank how certain they are that a phenomenon is or is not light. Then we check in with Dr. Tom Folland via video ([▶ What is Light?](https://drive.google.com/file/d/1BSiSv5LVEFgDoUCIrX7evj2iefg0SO0h/view?usp=drive_link)) to hear how he defines light.",
+                    "StepDetails": "The student worksheet ([➚ Communicating With Light Worksheet](https://docs.google.com/document/d/1oKBFUmXcudtQE21y59Q1sDxxEdoMGWW9OIz7MUcLNFI/edit?usp=drive_link)) has space for students to rank how certain they are about whether or not a light-candidate is light, as well as room to notice similarities or surprises. Next we check in with photonics expert, Dr. Tom Folland, to hear how he defines light: [▶ What is Light?](https://drive.google.com/file/d/1BSiSv5LVEFgDoUCIrX7evj2iefg0SO0h/view?usp=drive_link)!",
+                    "Vocab": "- **light:** electromagnetic radiation which includes the visible spectrum, as well as radio waves, infrared heat, x-rays, and more.",
                     "VariantNotes": null,
                     "TeachingTips": null
                   }
@@ -545,7 +585,7 @@
           },
           {
             "term": "light",
-            "definition": "electromagnetic radition which includes the visible spectrum, as well as radio waves, infrared heat, x-rays, and more."
+            "definition": "electromagnetic radiation which includes the visible spectrum, as well as radio waves, infrared heat, x-rays, and more."
           },
           {
             "term": "wave",
@@ -565,7 +605,7 @@
     "background": {
       "__component": "lesson-plan.collapsible-text-section",
       "SectionTitle": "Background",
-      "Content": "#### Connection to Research\n Students participate in engineering and design thinking throughout the mini-unit, putting themselves in the shoes of early optical engineers, taking on design challenges, and developing their own methods to encode wave messages. Each lesson spotlights an important photonics application. The lessons build a conceptual understanding of how light is a wave, and how light’s many unique properties can be shaped with tools to make life better in lots of ways. Lesson 3 will dive deeper into how light interacts with materials, including Dr. Folland’s research about how light interacts with materials at very small scales. \n#### Research Background\n Light is everywhere in our daily lives, and not just to help us see - from communication technologies like radio and Wi-Fi to X-rays at the dentist, our lives depend on the entire electromagnetic spectrum. Nanophotonics studies how light waves interact with materials at very small scales, with applications such as semiconductors, lasers, and microscopy. ",
+      "Content": "#### Connection to Research\n Students participate in engineering and design thinking throughout the mini-unit, putting themselves in the shoes of early optical engineers, taking on design challenges, developing their own methods to encode wave messages, and learning about important photonics applications. The first two units give a basic introduction to the concepts underpinning light, the manipulation of light, and how different types of light can be used. The final module will introduce how material properties can control light, and how this relates to ongoing technological developments. This ties into Dr. Folland’s research about the behavior of light in crystalline materials.  \n#### Research Background\n Light is one of the most powerful tools we have for understanding the world around us! It helps us see, from visible light to X-rays, and communicate via radio technologies— and, light can tell us about what things are made of.\n\nDr. Tom Folland studies how light behaves in different materials, and what this behavior can tell us about chemical, electrical and other properties of these materials. All these properties influence the usefulness of materials to create technologies as broad as computer chips, light bulbs, or pollutant sensors. In particular, by observing light in crystalline materials, the Folland group is able to observe light behaving in new ways, differently from in conventional optical materials like glass.\n\nAn example is the *polariton* – which forms when light interacts with a material to create a new state of light. It inherits some of the properties of light, but also takes on some of the properties of the material it is coupled to. For instance, the wavelength of the light can be compressed, or we can make light travel in certain directions.\nHere is a selection of summaries and scientific papers about Dr. Folland’s work and discipline:\n\n#### Further Reading:\n- [Phys.org | (Summary) Hyperbolic shear polaritons in low-symmetry crystals ](https://phys.org/news/2022-02-hyperpolic-polaritons-low-symmetry-crystals.html)\n- [Physics Today | (Overview of discipline) Nanophotonics for a sustainable future] (https://pubs.aip.org/physicstoday/article/76/6/24/2893165/Nanophotonics-for-a-sustainable-futureAs-the-field)\n- [American Chemical Society | (Scientific paper) Narrowband Polaritonic Thermal Emitters Driven by Waste Heat] (https://pubs.acs.org/doi/full/10.1021/acsomega.0c00600) ",
       "InitiallyExpanded": true
     },
     "standards-header": {
@@ -1069,10 +1109,43 @@
       "Content": "### Please let us know how it went with your class!\n#### We want to know what you (and/or your students) think!\nShare your feedback in < 5 min with these forms:\n- [For teachers](https://forms.gle/XXwdht92z2cc2ttq5)\n- [For students](https://forms.gle/VezvxbpAZpoEfqT18)\n",
       "InitiallyExpanded": true
     },
+    "credits": {
+      "__component": "lesson-plan.collapsible-text-section",
+      "SectionTitle": "Credits",
+      "Content": "\n- [Dri Chiu Tattersfield](https://www.linkedin.com/in/dri-t/) Led the project; helped develop all lesson materials; co-wrote and produced supporting videos.\n- [Madelyn, Leembruggen](https://www.linkedin.com/in/mleembruggen/) Helped develop all lesson materials; performed in, co-wrote, storyboarded, and produced supporting videos.\n- [Ella Houlihan](https://www.linkedin.com/in/ella-houlihan-624878177/) Provided feedback and suggestions throughout development of lessons and media.\n- [Thomas Folland, PhD](https://scholar.google.com/citations?user=s-pbFU8AAAAJ&hl=en&oi=ao) Defined outreach goals; provided feedback throughout development; provided scientific validation of lesson content.\n- [Matt Wilkins, PhD](https://www.linkedin.com/in/mattwilkinsphd/) Directed the project; helped shape and revise all aspects of the lesson and supporting media",
+      "InitiallyExpanded": true
+    },
     "acknowledgments": {
       "__component": "lesson-plan.acknowledgments",
       "SectionTitle": "Acknowledgments",
-      "Data": null
+      "Data": [
+        {
+          "role": "Funding",
+          "def": "NSF CAREER Award 2236807, through the Division of Materials Research.",
+          "records": [
+            {
+              "name": null,
+              "url": null,
+              "title": null,
+              "affiliation": null,
+              "location": null
+            }
+          ]
+        },
+        {
+          "role": "Filmmaker",
+          "def": "Edited, scored, and narrated supporting videos.",
+          "records": [
+            {
+              "name": "Stephanie Castillo, PhD",
+              "url": "https://www.phuturedoctors.com/",
+              "title": "Digital Multimedia Specialist",
+              "affiliation": "Galactic Polymath",
+              "location": "Nashville, TN"
+            }
+          ]
+        }
+      ]
     },
     "versions": {
       "__component": "lesson-plan.versions",
@@ -1081,6 +1154,20 @@
         {
           "major_release": "Beta",
           "sub_releases": [
+            {
+              "version": "0.2.1",
+              "date": "January 19, 2023",
+              "summary": "Added authors and acknowledgments",
+              "notes": null,
+              "acknowledgments": null
+            },
+            {
+              "version": "0.2.0",
+              "date": "January 15, 2023",
+              "summary": "Updates for finalization",
+              "notes": null,
+              "acknowledgments": null
+            },
             {
               "version": "0.1.0",
               "date": "December 4, 2023",

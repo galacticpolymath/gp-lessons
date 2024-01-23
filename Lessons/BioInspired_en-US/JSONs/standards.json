@@ -1,0 +1,481 @@
+{
+  "__component": "lesson-plan.standards",
+  "Data": [
+    {
+      "subject": "ELA",
+      "target": false,
+      "sets": [
+        {
+          "slug": "CCELA",
+          "name": "Common Core ELA",
+          "dimensions": [
+            {
+              "slug": "LS&L",
+              "name": "Language, Speaking & Listening",
+              "standardsGroup": [
+                {
+                  "lessons": [
+                    "1",
+                    "2",
+                    "3",
+                    "4",
+                    "5"
+                  ],
+                  "codes": "CCRA.L.6",
+                  "grades": ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12"],
+                  "statements": "Acquire and use accurately a range of general academic and domain-specific words and phrases sufficient for reading, writing, speaking, and listening at the college and career readiness level; demonstrate independence in gathering vocabulary knowledge when encountering an unknown term important to comprehension or expression.",
+                  "alignmentNotes": "Students will be exposed to a variety of biological terms in their investigations, beginning with 'trait' and how this term has analogues with product design attributes.",
+                  "subcat": null
+                },
+                {
+                  "lessons": [
+                    "5"
+                  ],
+                  "codes": "SL.8.4",
+                  "grades": "8",
+                  "statements": "Present claims and findings, emphasizing salient points in a focused, coherent manner with relevant evidence, sound valid reasoning, and well-chosen details; use appropriate eye contact, adequate volume, and clear pronunciation.",
+                  "alignmentNotes": "This unit builds toward student presentations. You will decide what form this takes, but there is ample opportunity to align to this standard.",
+                  "subcat": null
+                },
+                {
+                  "lessons": [
+                    "5"
+                  ],
+                  "codes": "SL.11-12.4",
+                  "grades": ["11", "12"],
+                  "statements": "Present information, findings, and supporting evidence, conveying a clear and distinct perspective, such that listeners can follow the line of reasoning, alternative or opposing perspectives are addressed, and the organization, development, substance, and style are appropriate to purpose, audience, and a range of formal and informal tasks.",
+                  "alignmentNotes": "This unit builds toward student presentations. You will decide what form this takes, but there is ample opportunity to align to this standard.",
+                  "subcat": null
+                },
+                {
+                  "lessons": [
+                    "5"
+                  ],
+                  "codes": "SL.9-10.4",
+                  "grades": ["9", "10"],
+                  "statements": "Present information, findings, and supporting evidence clearly, concisely, and logically such that listeners can follow the line of reasoning and the organization, development, substance, and style are appropriate to purpose, audience, and task.",
+                  "alignmentNotes": "This unit builds toward student presentations. You will decide what form this takes, but there is ample opportunity to align to this standard.",
+                  "subcat": null
+                }
+              ]
+            },
+            {
+              "slug": "R",
+              "name": "Reading",
+              "standardsGroup": [
+                {
+                  "lessons": [
+                    "1",
+                    "2",
+                    "3",
+                    "4",
+                    "5"
+                  ],
+                  "codes": "RH.11-12.7",
+                  "grades": ["11", "12"],
+                  "statements": "Integrate and evaluate multiple sources of information presented in diverse formats and media (e.g., visually, quantitatively, as well as in words) in order to address a question or solve a problem.",
+                  "alignmentNotes": "Throughout the unit, students will draw together diverse observations and ideas from engineering, design, and biology in order to propose a redesign to an existing product.",
+                  "subcat": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "subject": "Science",
+      "target": false,
+      "sets": [
+        {
+          "slug": "NGSS",
+          "name": "NGSS",
+          "dimensions": [
+            {
+              "slug": "DCI",
+              "name": "Disciplinary Core ideas",
+              "standardsGroup": [
+                {
+                  "lessons": [
+                    "1"
+                  ],
+                  "codes": "LS4.D-M1",
+                  "grades": ["6", "7", "8"],
+                  "statements": "Changes in biodiversity can influence humans’ resources, such as food, energy, and medicines, as well as ecosystem services that humans rely on–for example, water purification and recycling.",
+                  "alignmentNotes": "Students build an appreciation of the connection between our everday lives and biology throughout the unit.",
+                  "subcat": "Biodiversity & Humans"
+                },
+                {
+                  "lessons": [
+                    "2"
+                  ],
+                  "codes": "LS3.A-M2",
+                  "grades": ["6", "7", "8"],
+                  "statements": "Variations of inherited traits between parent and offspring arise from genetic differences that result from the subset of chromosomes (and therefore genes) inherited.",
+                  "alignmentNotes": "In their investigations, students will learn about 'traits' in biology, and think about how function forms an analogous bridge between biology and engineering. In comparing organismal adaptations in their research, they will deepen their understanding of how evolution shapes populations over time.",
+                  "subcat": "Inheritance of Traits"
+                },
+                {
+                  "lessons": [
+                    "2",
+                    "3"
+                  ],
+                  "codes": "LS4.B-M1",
+                  "grades": ["6", "7", "8"],
+                  "statements": "Natural selection leads to the predominance of certain traits in a population, and the suppression of others.",
+                  "alignmentNotes": "In their investigations, students will learn about 'traits' in biology, and think about how function forms an analogous bridge between biology and engineering. In comparing organismal adaptations in their research, they will deepen their understanding of how evolution shapes populations over time.",
+                  "subcat": "Natural Selection"
+                },
+                {
+                  "lessons": [
+                    "1"
+                  ],
+                  "codes": "LS4.D-H2",
+                  "grades": ["9", "10", "11", "12"],
+                  "statements": "Humans depend on the living world for the resources and other benefits provided by biodiversity. But human activity is also having adverse impacts on biodiversity through overpopulation, overexploitation, habitat destruction, pollution, introduction of invasive species, and climate change. Thus, sustaining biodiversity so that ecosystem functioning and productivity are maintained is essential to supporting and enhancing life on Earth. Sustaining biodiversity also aids humanity by preserving landscapes of recreational or inspirational value.",
+                  "alignmentNotes": "One design problem students can consider is sustainability. Depending on how much you wish to stress this, you could have students focus largely or entirely on making redesigns that are more sustainable.",
+                  "subcat": "Biodiversity & Humans"
+                }
+              ]
+            },
+            {
+              "slug": "SEP",
+              "name": "Science & Engineering Practices",
+              "standardsGroup": [
+                {
+                  "lessons": [
+                    "2",
+                    "3",
+                    "4"
+                  ],
+                  "codes": "INFO-M1",
+                  "grades": ["6", "7", "8"],
+                  "statements": "Critically read scientific texts adapted for classroom use to determine the central ideas and/or obtain scientific and/or technical information to describe patterns in and/or evidence about the natural and designed world(s).",
+                  "alignmentNotes": "In lessons 2-4, students will dive into scientific literature, and other web-based sources to learn more about the product problem they've identified and biological models with analogous functions to the desired solution. They will then need to summarize and present their process and (re)design proposals.",
+                  "subcat": "Obtaining, Evaluating, & Communicating Information"
+                },
+                {
+                  "lessons": [
+                    "2",
+                    "3",
+                    "4"
+                  ],
+                  "codes": "MATH-M5",
+                  "grades": ["6", "7", "8"],
+                  "statements": "Use digital tools and/or mathematical concepts and arguments to test and compare proposed solutions to an engineering design problem.",
+                  "alignmentNotes": "Students will use AI chatbots and other digital tools to devise bioinspired product redesigns. You could go a step further to have students build 3D models, prototypes, or mathematical models to test their ideas quantitatively.",
+                  "subcat": "Using Mathematics & Computational Thinking"
+                },
+                {
+                  "lessons": [
+                    "3",
+                    "4"
+                  ],
+                  "codes": "CEDS-M6",
+                  "grades": ["6", "7", "8"],
+                  "statements": "Apply scientific ideas or principles to design, construct, and/or test a design of an object, tool, process or system.",
+                  "alignmentNotes": "Science, design, and engineering are fluidly woven together in this project, as students identify a problem, investigate it from a biological lens, and develop bioinspired solutions.",
+                  "subcat": "Constructing Explanations & Designing Solutions"
+                },
+                {
+                  "lessons": [
+                    "3",
+                    "4"
+                  ],
+                  "codes": "INV-M5",
+                  "grades": ["6", "7", "8"],
+                  "statements": "Collect data about the performance of a proposed object, tool, process, or system under a range of conditions.",
+                  "alignmentNotes": "This standard connection would depend on you having the students prototype or evaluate their designs in some way.",
+                  "subcat": "Planning & Carrying out Investigations"
+                },
+                {
+                  "lessons": [
+                    "4"
+                  ],
+                  "codes": "ARG-M5",
+                  "grades": ["6", "7", "8"],
+                  "statements": "Evaluate competing design solutions based on jointly developed and agreed-upon design criteria.",
+                  "alignmentNotes": "In Lesson 4, students will be asked to rigorously evaluate the pros and cons, and tradeoffs of different approaches for their redesign proposals.",
+                  "subcat": "Engaging in Argument from Evidence"
+                },
+                {
+                  "lessons": [
+                    "5"
+                  ],
+                  "codes": "ARG-M3",
+                  "grades": ["6", "7", "8"],
+                  "statements": "Construct, use, and/or present an oral and written argument supported by empirical evidence and scientific reasoning to support or refute an explanation or a model for a phenomenon or a solution to a problem.",
+                  "alignmentNotes": "Through the Bioinspired Design Canvas and/or a the final presentations, students will communicate their process from beginning to end.",
+                  "subcat": "Engaging in Argument from Evidence"
+                },
+                {
+                  "lessons": [
+                    "1",
+                    "3",
+                    "4"
+                  ],
+                  "codes": "AQDP-H9",
+                  "grades": ["9", "10", "11", "12"],
+                  "statements": "Analyze complex real-world problems by specifying criteria and constraints for successful solutions.",
+                  "alignmentNotes": "Throughout the unit, students will analyze problems with existing products and propose redesigns that better balance the needs and constraints of the users, economy, and the planet.",
+                  "subcat": "Ask Questions & Define Problems"
+                },
+                {
+                  "lessons": [
+                    "1",
+                    "3",
+                    "4"
+                  ],
+                  "codes": "ARG-H2",
+                  "grades": ["9", "10", "11", "12"],
+                  "statements": "Evaluate the claims, evidence, and/or reasoning behind currently accepted explanations or solutions to determine the merits of arguments.",
+                  "alignmentNotes": "Throughout the unit, students will analyze problems with existing products and propose redesigns that better balance the needs and constraints of the users, economy, and the planet.",
+                  "subcat": "Engaging in Argument from Evidence"
+                },
+                {
+                  "lessons": [
+                    "2",
+                    "3",
+                    "4"
+                  ],
+                  "codes": "INFO-H1",
+                  "grades": ["9", "10", "11", "12"],
+                  "statements": "Critically read scientific literature adapted for classroom use to determine the central ideas or conclusions and/or to obtain scientific and/or technical information to summarize complex evidence, concepts, processes, or information presented in a text by paraphrasing them in simpler but still accurate terms.",
+                  "alignmentNotes": "In lessons 2-4, students will dive into scientific literature, and other web-based sources to learn more about the product problem they've identified and biological models with analogous functions to the desired solution. They will then need to summarize and present their process and (re)design proposals.",
+                  "subcat": "Obtaining, Evaluating, & Communicating Information"
+                },
+                {
+                  "lessons": [
+                    "4"
+                  ],
+                  "codes": "ARG-H6",
+                  "grades": ["9", "10", "11", "12"],
+                  "statements": "Evaluate competing design solutions to a real-world problem based on scientific ideas and principles, empirical evidence, and logical arguments regarding relevant factors (e.g., economic, societal, environmental, ethical considerations).",
+                  "alignmentNotes": "Lesson 4 in particular will involve a careful evaluation of the pros, cons, and tradeoffs between different biological models for the redesign proposal.",
+                  "subcat": "Engaging in Argument from Evidence"
+                },
+                {
+                  "lessons": [
+                    "4"
+                  ],
+                  "codes": "DATA-H6",
+                  "grades": ["9", "10", "11", "12"],
+                  "statements": "Analyze data to identify design features or characteristics of the components of a proposed process or system to optimize it relative to criteria for success.",
+                  "alignmentNotes": "Lesson 4 in particular will involve a careful evaluation of the pros, cons, and tradeoffs between different biological models for the redesign proposal.",
+                  "subcat": "Analyzing Data"
+                },
+                {
+                  "lessons": [
+                    "4"
+                  ],
+                  "codes": "MOD-H1",
+                  "grades": ["9", "10", "11", "12"],
+                  "statements": "Evaluate merits and limitations of two different models of the same proposed tool, process, mechanism, or system in order to select or revise a model that best fits the evidence or design criteria.",
+                  "alignmentNotes": "Lesson 4 in particular will involve a careful evaluation of the pros, cons, and tradeoffs between different biological models for the redesign proposal.",
+                  "subcat": "Developing & Using Models"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "subject": "Social Studies",
+      "target": false,
+      "sets": [
+        {
+          "slug": "C3",
+          "name": "C3",
+          "dimensions": [
+            {
+              "slug": "CEGH",
+              "name": "Civics, Economics, Geography & History",
+              "standardsGroup": [
+                {
+                  "lessons": [],
+                  "codes": "D2.Geo.4.9-12",
+                  "grades": ["9", "10", "11", "12"],
+                  "statements": "Analyze relationships and interactions within and between human and physical systems to explain reciprocal influences that occur among them.",
+                  "alignmentNotes": "Throughout the redesign process, students will evaluate how humans interact with systems (both biological and engineered), and how these interactions can be improved.",
+                  "subcat": null
+                }
+              ]
+            },
+            {
+              "slug": "ESCCTA",
+              "name": "Evaluating Sources, Communicating Conclusions & Taking Action",
+              "standardsGroup": [
+                {
+                  "lessons": [
+                    "1"
+                  ],
+                  "codes": "D4.6.9-12",
+                  "grades": ["9", "10", "11", "12"],
+                  "statements": "Use disciplinary and interdisciplinary lenses to understand the characteristics and causes of local, regional, and global problems; instances of such problems in multiple contexts; and challenges and opportunities faced by those trying to address these problems over time and place.",
+                  "alignmentNotes": "Throughout the redesign process, students will evaluate how humans interact with systems (both biological and engineered), and how these interactions can be improved.",
+                  "subcat": null
+                },
+                {
+                  "lessons": [
+                    "5"
+                  ],
+                  "codes": "D4.3.9-12",
+                  "grades": ["9", "10", "11", "12"],
+                  "statements": "Present adaptations of arguments and explanations that feature evocative ideas and perspectives on issues and topics to reach a range of audiences and venues outside the classroom using print and oral technologies (e.g., posters, essays, letters, debates, speeches, reports, and maps) and digital technologies (e.g., Internet, social media, and digital documentary).",
+                  "alignmentNotes": "The capstone project at the end of this unit will be a presentation that you determine and which reflects students' independent investigations and conclusions about the problem they identified and their biologically inspired solution.",
+                  "subcat": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "subject": "Sustainability",
+      "target": false,
+      "sets": [
+        {
+          "slug": "SDG",
+          "name": "SDGs",
+          "dimensions": [
+            {
+              "slug": "P",
+              "name": "Planet",
+              "standardsGroup": [
+                {
+                  "lessons": [
+                    "1",
+                    "2",
+                    "3",
+                    "4",
+                    "5"
+                  ],
+                  "codes": "Goal 12",
+                  "grades": ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12"],
+                  "statements": "Ensure sustainable consumption and production patterns",
+                  "alignmentNotes": "Sustainability is one criterion by which students will identify problems for their redesign proposals. You can choose to focus on this more to hit this or other SDGs.",
+                  "subcat": "Responsible Consumption and Production"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "subject": "Science",
+      "target": true,
+      "sets": [
+        {
+          "slug": "NGSS",
+          "name": "NGSS",
+          "dimensions": [
+            {
+              "slug": "SEP",
+              "name": "Science & Engineering Practices",
+              "standardsGroup": [
+                {
+                  "lessons": [
+                    "1",
+                    "2",
+                    "3",
+                    "4",
+                    "5"
+                  ],
+                  "codes": "CEDS-M7",
+                  "grades": ["6", "7", "8"],
+                  "statements": "Undertake a design project, engaging in the design cycle, to construct and/or implement a solution that meets specific design criteria and constraints.",
+                  "alignmentNotes": "Throughout this unit, students will identify a problem, and iterate through various potential solutions to that problem, inspired by biology.",
+                  "subcat": "Constructing Explanations & Designing Solutions"
+                },
+                {
+                  "lessons": [
+                    "1",
+                    "3",
+                    "4"
+                  ],
+                  "codes": "AQDP-M8",
+                  "grades": ["6", "7", "8"],
+                  "statements": "Define a design problem that can be solved through the development of an object, tool, process or system and includes multiple criteria and constraints, including scientific knowledge that may limit possible solutions.",
+                  "alignmentNotes": "Throughout the unit, students will analyze problems with existing products and propose redesigns that better balance the needs and constraints of the users, economy, and the planet.",
+                  "subcat": "Ask Questions & Define Problems"
+                },
+                {
+                  "lessons": [
+                    "1",
+                    "3",
+                    "4"
+                  ],
+                  "codes": "MOD-M1",
+                  "grades": ["6", "7", "8"],
+                  "statements": "Evaluate limitations of a model for a proposed object or tool.",
+                  "alignmentNotes": "Throughout the unit, students will analyze problems with existing products and propose redesigns that better balance the needs and constraints of the users, economy, and the planet.",
+                  "subcat": "Developing & Using Models"
+                },
+                {
+                  "lessons": [
+                    "5"
+                  ],
+                  "codes": "INFO-M5",
+                  "grades": ["6", "7", "8"],
+                  "statements": "Communicate scientific and/or technical information (e.g., about a proposed object, tool, process, system) in writing and/or through oral presentations.",
+                  "alignmentNotes": "Through the Bioinspired Design Canvas and/or a the final presentations, students will communicate their process from beginning to end.",
+                  "subcat": "Obtaining, Evaluating, & Communicating Information"
+                },
+                {
+                  "lessons": [
+                    "1"
+                  ],
+                  "codes": "AQDP-H8",
+                  "grades": ["9", "10", "11", "12"],
+                  "statements": "Define a design problem that involves the development of a process or system with interacting components and criteria and constraints that may include social, technical and/or environmental considerations.",
+                  "alignmentNotes": "Lesson 1 focuses on identifying problems with existing products. The mind mapping activity asks them to de-familiarize a product by breaking it down into its parts or functions and to think about it abstractly as a system. Then they identify their problem, as they begin to think about potential solutions inspired by Nature.",
+                  "subcat": "Ask Questions & Define Problems"
+                },
+                {
+                  "lessons": [
+                    "4"
+                  ],
+                  "codes": "INFO-H2",
+                  "grades": ["9", "10", "11", "12"],
+                  "statements": "Compare, integrate and evaluate sources of information presented in different media or formats (e.g., visually, quantitatively) as well as in words in order to address a scientific question or solve a problem.",
+                  "alignmentNotes": "This unit is highly interdisciplinary, requiring students to draw from a wide variety of sources, their own creative mind maps, and discussions with classmates to solve a problem of their own choosing.",
+                  "subcat": "Obtaining, Evaluating, & Communicating Information"
+                },
+                {
+                  "lessons": [
+                    "5"
+                  ],
+                  "codes": "INFO-H5",
+                  "grades": ["9", "10", "11", "12"],
+                  "statements": "Communicate scientific and/or technical information or ideas (e.g. about phenomena and/or the process of development and the design and performance of a proposed process or system) in multiple formats (including orally, graphically, textually, and mathematically).",
+                  "alignmentNotes": "The capstone project at the end of this unit will be a presentation that you determine and which reflects students' independent investigations and conclusions about the problem they identified and their biologically inspired solution.",
+                  "subcat": "Obtaining, Evaluating, & Communicating Information"
+                }
+              ]
+            },
+            {
+              "slug": "DCI",
+              "name": "Disciplinary Core ideas",
+              "standardsGroup": [
+                {
+                  "lessons": [
+                    "2",
+                    "3"
+                  ],
+                  "codes": "LS4.C-M1",
+                  "grades": ["6", "7", "8"],
+                  "statements": "Adaptation by natural selection acting over generations is one important process by which species change over time in response to changes in environmental conditions. Traits that support successful survival and reproduction in the new environment become more common; those that do not become less common. Thus, the distribution of traits in a population changes.",
+                  "alignmentNotes": "In their investigations, students will learn about 'traits' in biology, and think about how function forms an analogous bridge between biology and engineering. In comparing organismal adaptations in their research, they will deepen their understanding of how evolution shapes populations over time.",
+                  "subcat": "Adaptation"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

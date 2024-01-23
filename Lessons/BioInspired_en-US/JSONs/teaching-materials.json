@@ -38,7 +38,7 @@
           "lessons": [
             {
               "lsn": "1",
-              "title": "Step 1-Define the Problem",
+              "title": "Define the Problem",
               "tags": [
                 ["mind map", "STEAM", "creativity"]
               ],
@@ -51,27 +51,27 @@
                   "itemCat": "presentation",
                   "links": [
                     {
-                      "linkText": "Present Now (DRAFT FILE)",
+                      "linkText": "Present Now",
                       "url": "https://docs.google.com/presentation/d/1rwBAGaiAlXeLKx8Gqmjvoxeckhv2yb0fZScCYyCtXts/present"
                     },
                     {
-                      "linkText": "Preview/Copy in Google Docs (DRAFT FILE)",
+                      "linkText": "Preview/Copy in Google Docs",
                       "url": "https://docs.google.com/presentation/d/1rwBAGaiAlXeLKx8Gqmjvoxeckhv2yb0fZScCYyCtXts/template/preview"
                     }
                   ]
                 },
                 {
-                  "itemTitle": "Teacher Worksheet (Lesson 1)",
-                  "itemDescription": "Print 1",
-                  "itemCat": "document",
+                  "itemTitle": "Bioinspired Design Canvas",
+                  "itemDescription": "Optional graphical organizer for students to summarize each step.",
+                  "itemCat": "presentation",
                   "links": [
                     {
-                      "linkText": "PDF (DRAFT FILE)",
-                      "url": "https://docs.google.com/document/d/1_ZzUa2dzqIFTLSi0XaYKBbX5muPRpJuksJpXGH_JXFw/export?format=pdf"
+                      "linkText": "PDF",
+                      "url": "https://docs.google.com/presentation/d/18Y57aiS-E81XA5FdVGhj-ZUTt13zlxdZUO_stXALzac/export/pdf"
                     },
                     {
-                      "linkText": "Preview/Copy in Google Docs (DRAFT FILE)",
-                      "url": "https://docs.google.com/document/d/1_ZzUa2dzqIFTLSi0XaYKBbX5muPRpJuksJpXGH_JXFw/template/preview"
+                      "linkText": "Preview/Copy in Google Docs",
+                      "url": "https://docs.google.com/presentation/d/18Y57aiS-E81XA5FdVGhj-ZUTt13zlxdZUO_stXALzac/template/preview"
                     }
                   ]
                 }
@@ -79,7 +79,7 @@
             },
             {
               "lsn": "2",
-              "title": "Step 2-Biologize the Problem",
+              "title": "Biologize the Problem",
               "tags": [
                 ["AI", "independent research"]
               ],
@@ -92,11 +92,11 @@
                   "itemCat": "presentation",
                   "links": [
                     {
-                      "linkText": "Present Now (DRAFT FILE)",
+                      "linkText": "Present Now",
                       "url": "https://docs.google.com/presentation/d/1OPDFawprL6gU4ebDQXHsNs-0dTxRvYh3xDt-MGlChFk/present"
                     },
                     {
-                      "linkText": "Preview/Copy in Google Docs (DRAFT FILE)",
+                      "linkText": "Preview/Copy in Google Docs",
                       "url": "https://docs.google.com/presentation/d/1OPDFawprL6gU4ebDQXHsNs-0dTxRvYh3xDt-MGlChFk/template/preview"
                     }
                   ]
@@ -107,12 +107,27 @@
                   "itemCat": "document",
                   "links": [
                     {
-                      "linkText": "PDF (DRAFT FILE)",
-                      "url": "https://docs.google.com/document/d/1iQ4twalhxWS4HcxmYobFlksWtzVxlq0hf7TRnmME--I/export?format=pdf"
+                      "linkText": "PDF",
+                      "url": "https://docs.google.com/document/d/1FeUzI_CNUkyv1ct7VVO-XnOTGgQ0Asj58jwZkk3Kb9k/export?format=pdf"
                     },
                     {
-                      "linkText": "Preview/Copy in Google Docs (DRAFT FILE)",
-                      "url": "https://docs.google.com/document/d/1iQ4twalhxWS4HcxmYobFlksWtzVxlq0hf7TRnmME--I/template/preview"
+                      "linkText": "Preview/Copy in Google Docs",
+                      "url": "https://docs.google.com/document/d/1FeUzI_CNUkyv1ct7VVO-XnOTGgQ0Asj58jwZkk3Kb9k/template/preview"
+                    }
+                  ]
+                },
+                {
+                  "itemTitle": "Student Worksheet (Lesson 2)",
+                  "itemDescription": "Print 1 Per Student",
+                  "itemCat": "document",
+                  "links": [
+                    {
+                      "linkText": "PDF",
+                      "url": "https://docs.google.com/document/d/1L4yOQqcPAo43cFddptioY6rRMTFdOV2c9ZzVaYIXb5k/export?format=pdf"
+                    },
+                    {
+                      "linkText": "Preview/Copy in Google Docs",
+                      "url": "https://docs.google.com/document/d/1L4yOQqcPAo43cFddptioY6rRMTFdOV2c9ZzVaYIXb5k/template/preview"
                     }
                   ]
                 }
@@ -120,7 +135,7 @@
             },
             {
               "lsn": "3",
-              "title": "Step 3-Select a Biological Model",
+              "title": "Select a Biological Model",
               "tags": [
                 ["synthesis", "critical thinking"]
               ],
@@ -128,32 +143,17 @@
               "tile": "https://storage.googleapis.com/gp-cloud/lessons/BioInspired_en-US/Bioinspired-Lesson-Tiles-3-Bioinspired_L3_Tile.png",
               "itemList": [
                 {
-                  "itemTitle": "Presentation (Lesson 3)",
-                  "itemDescription": "Need: WiFi, Computer, Projector, Sound",
+                  "itemTitle": "Bioinspired Design Canvas",
+                  "itemDescription": "Optional graphical organizer for students to summarize each step.",
                   "itemCat": "presentation",
                   "links": [
                     {
-                      "linkText": "Present Now (DRAFT FILE)",
-                      "url": "https://docs.google.com/presentation/d/1MeEwpWKp8OVHU1CRJoGu0Y2WfW70cQb3WWA-4NC5Zeg/present"
+                      "linkText": "PDF",
+                      "url": "https://docs.google.com/presentation/d/18Y57aiS-E81XA5FdVGhj-ZUTt13zlxdZUO_stXALzac/export/pdf"
                     },
                     {
-                      "linkText": "Preview/Copy in Google Docs (DRAFT FILE)",
-                      "url": "https://docs.google.com/presentation/d/1MeEwpWKp8OVHU1CRJoGu0Y2WfW70cQb3WWA-4NC5Zeg/template/preview"
-                    }
-                  ]
-                },
-                {
-                  "itemTitle": "Teacher Worksheet (Lesson 3)",
-                  "itemDescription": "Print 1",
-                  "itemCat": "document",
-                  "links": [
-                    {
-                      "linkText": "PDF (DRAFT FILE)",
-                      "url": "https://docs.google.com/document/d/1x3v7dFiWVBgeTEZgU9kRfasdhLZAQOaD2Bx9dqJJdb0/export?format=pdf"
-                    },
-                    {
-                      "linkText": "Preview/Copy in Google Docs (DRAFT FILE)",
-                      "url": "https://docs.google.com/document/d/1x3v7dFiWVBgeTEZgU9kRfasdhLZAQOaD2Bx9dqJJdb0/template/preview"
+                      "linkText": "Preview/Copy in Google Docs",
+                      "url": "https://docs.google.com/presentation/d/18Y57aiS-E81XA5FdVGhj-ZUTt13zlxdZUO_stXALzac/template/preview"
                     }
                   ]
                 }
@@ -161,7 +161,7 @@
             },
             {
               "lsn": "4",
-              "title": "Step 4-Propose Bioinspired Solutions",
+              "title": "Propose Bioinspired Solutions",
               "tags": [
                 "communication"
               ],
@@ -169,32 +169,17 @@
               "tile": "https://storage.googleapis.com/gp-cloud/lessons/BioInspired_en-US/Bioinspired-Lesson-Tiles-4-Bioinspired_L4_Tile.png",
               "itemList": [
                 {
-                  "itemTitle": "Presentation (Lesson 4)",
-                  "itemDescription": "Need: WiFi, Computer, Projector, Sound",
+                  "itemTitle": "Bioinspired Design Canvas",
+                  "itemDescription": "Optional graphical organizer for students to summarize each step.",
                   "itemCat": "presentation",
                   "links": [
                     {
-                      "linkText": "Present Now (DRAFT FILE)",
-                      "url": "https://docs.google.com/presentation/d/14Cb6wvtxMkFTs91HoYeMLlWTtuzanIkOYhW0H9XeQjo/present"
+                      "linkText": "PDF",
+                      "url": "https://docs.google.com/presentation/d/18Y57aiS-E81XA5FdVGhj-ZUTt13zlxdZUO_stXALzac/export/pdf"
                     },
                     {
-                      "linkText": "Preview/Copy in Google Docs (DRAFT FILE)",
-                      "url": "https://docs.google.com/presentation/d/14Cb6wvtxMkFTs91HoYeMLlWTtuzanIkOYhW0H9XeQjo/template/preview"
-                    }
-                  ]
-                },
-                {
-                  "itemTitle": "Teacher Worksheet (Lesson 4)",
-                  "itemDescription": "Print 1",
-                  "itemCat": "document",
-                  "links": [
-                    {
-                      "linkText": "PDF (DRAFT FILE)",
-                      "url": "https://docs.google.com/document/d/15Lf0yW-xF_To94DQTibgUAlnw1NActI3vKgyrhdUGR4/export?format=pdf"
-                    },
-                    {
-                      "linkText": "Preview/Copy in Google Docs (DRAFT FILE)",
-                      "url": "https://docs.google.com/document/d/15Lf0yW-xF_To94DQTibgUAlnw1NActI3vKgyrhdUGR4/template/preview"
+                      "linkText": "Preview/Copy in Google Docs",
+                      "url": "https://docs.google.com/presentation/d/18Y57aiS-E81XA5FdVGhj-ZUTt13zlxdZUO_stXALzac/template/preview"
                     }
                   ]
                 }
@@ -202,7 +187,7 @@
             },
             {
               "lsn": "5",
-              "title": "Step 5-Evaluate",
+              "title": "Evaluate",
               "tags": [
                 ["reflection", "iteration"]
               ],
@@ -210,32 +195,17 @@
               "tile": "https://storage.googleapis.com/gp-cloud/lessons/BioInspired_en-US/Bioinspired-Lesson-Tiles-5-Bioinspired_L5_Tile.png",
               "itemList": [
                 {
-                  "itemTitle": "Presentation (Lesson 5)",
-                  "itemDescription": "Need: WiFi, Computer, Projector, Sound",
+                  "itemTitle": "Bioinspired Design Canvas",
+                  "itemDescription": "Optional graphical organizer for students to summarize each step.",
                   "itemCat": "presentation",
                   "links": [
                     {
-                      "linkText": "Present Now (DRAFT FILE)",
-                      "url": "https://docs.google.com/presentation/d/1MZLdwORhRnuyEgNf6sKFS73jomrZzscXOnh6HeaiaNM/present"
+                      "linkText": "PDF",
+                      "url": "https://docs.google.com/presentation/d/18Y57aiS-E81XA5FdVGhj-ZUTt13zlxdZUO_stXALzac/export/pdf"
                     },
                     {
-                      "linkText": "Preview/Copy in Google Docs (DRAFT FILE)",
-                      "url": "https://docs.google.com/presentation/d/1MZLdwORhRnuyEgNf6sKFS73jomrZzscXOnh6HeaiaNM/template/preview"
-                    }
-                  ]
-                },
-                {
-                  "itemTitle": "Teacher Worksheet (Lesson 5)",
-                  "itemDescription": "Print 1",
-                  "itemCat": "document",
-                  "links": [
-                    {
-                      "linkText": "PDF (DRAFT FILE)",
-                      "url": "https://docs.google.com/document/d/1WkXA2lbsCgZSUE03gFCACRIRihatZr5Y4I3i6-32dLg/export?format=pdf"
-                    },
-                    {
-                      "linkText": "Preview/Copy in Google Docs (DRAFT FILE)",
-                      "url": "https://docs.google.com/document/d/1WkXA2lbsCgZSUE03gFCACRIRihatZr5Y4I3i6-32dLg/template/preview"
+                      "linkText": "Preview/Copy in Google Docs",
+                      "url": "https://docs.google.com/presentation/d/18Y57aiS-E81XA5FdVGhj-ZUTt13zlxdZUO_stXALzac/template/preview"
                     }
                   ]
                 }
@@ -248,10 +218,10 @@
     "lesson": [
       {
         "lsnNum": 1,
-        "lsnTitle": "Step 1-Define the Problem",
+        "lsnTitle": "Define the Problem",
         "lsnDur": 45,
         "lsnPreface": "Students self-reflect and draw mind maps to identify a product in their lives that could be more interesting, sustainable, or functional.",
-        "learningObj": null,
+        "learningObj": ["Create mind maps to ideate, reflect, and identify a problem with a product or technology.", "Recognize that biological evolution has resulted in all kinds of amazing solutions that can provide inspiration to solve realworld problems.", "Define a problem with an existing product."],
         "lsnPrep": {
           "prepTitle": "Prep",
           "prepDur": 10,
@@ -289,7 +259,7 @@
                 "StepDetails": null,
                 "Vocab": null,
                 "VariantNotes": null,
-                "TeachingTips": null
+                "TeachingTips": "This lesson will toggle between [▶ Changing the world starts with defining a problem](https://drive.google.com/file/d/19yPDFdTL1GKf7gs18LJ1iT6kw5MgC4MA/preview) and [▶ Kickstart innovation with a mind map](https://drive.google.com/file/d/1H7js0EClx4d59MfU28GcLz-Hi3sqX4pX/preview) to guide students during brainstorming."
               }
             ]
           },
@@ -301,7 +271,7 @@
               {
                 "Step": 3,
                 "StepTitle": "Write a Problem Statement",
-                "StepQuickDescription": "Students will end this step of the design process by clearly defining their problem statement.",
+                "StepQuickDescription": "By the end of this step, students will clearly define their problem statement.",
                 "StepDetails": null,
                 "Vocab": null,
                 "VariantNotes": null,
@@ -318,12 +288,231 @@
             "itemLink": "https://www.lucidchart.com/pages/usecase/education"
           }
         ]
+      },
+      {
+        "lsnNum": 2,
+        "lsnTitle": "Biologize the Problem",
+        "lsnDur": 45,
+        "lsnPreface": "Students find a functional bridge to biology. They use field guides, AI chatbots, and other resources to find adaptations that are analogous to the design challenge they have set for themselves.",
+        "learningObj": ["Use technology, such as AI chatbots, as well as resources like field guides to identify functions in biology that are analogous to an engineering/design problem.", "Understand the biological term 'trait' and accurately connect organismal traits to design/engineering analogs. (e.g. fish caudal fin= boat propeller)"],
+        "lsnPrep": {
+          "prepTitle": "Prep",
+          "prepDur": 10,
+          "prepQuickDescription": "Print out L2 worksheets and open slideshow.",
+          "prepDetails": null,
+          "prepVariantNotes": null,
+          "prepTeachingTips": null
+        },
+        "chunks": [
+          {
+            "chunkTitle": "Review",
+            "chunkStart": 0,
+            "chunkDur": 5,
+            "steps": [
+              {
+                "Step": 1,
+                "StepTitle": "Share Out",
+                "StepQuickDescription": "Invite students to share their problem statements and/or other takeaways from the previous step.",
+                "StepDetails": null,
+                "Vocab": null,
+                "VariantNotes": null,
+                "TeachingTips": null
+              }
+            ]
+          },
+          {
+            "chunkTitle": "Biologize",
+            "chunkStart": 5,
+            "chunkDur": 35,
+            "steps": [
+              {
+                "Step": 2,
+                "StepTitle": "Translate the Problem into Abstract Functions",
+                "StepQuickDescription": "With video guidance, students will learn how to abstractify their problem statement into functions.",
+                "StepDetails": null,
+                "Vocab": "- **Function:**  serves as the bridge between engineering and biology.",
+                "VariantNotes": null,
+                "TeachingTips": "This lesson relies on [▶ How to search biology for engineering solutions](https://drive.google.com/file/d/1QSVme9bGrAOqV8g2pmvF-AfUvSLlHJkI/view?usp=sharing) which explains how to biologize the problem. Students are encouraged to use [➚ Biologize Student Worksheet](https://docs.google.com/document/d/1L4yOQqcPAo43cFddptioY6rRMTFdOV2c9ZzVaYIXb5k/edit?usp=drive_link) to track their work during this step."
+              },
+              {
+                "Step": 3,
+                "StepTitle": "Look to Biology for Solutions",
+                "StepQuickDescription": "Students will conduct exploratory research to find organisms or traits that align with their desired functions.",
+                "StepDetails": null,
+                "Vocab": null,
+                "VariantNotes": null,
+                "TeachingTips": "Helpful research resources and tips can be found on [➚ Biologize Student Worksheet](https://docs.google.com/document/d/1L4yOQqcPAo43cFddptioY6rRMTFdOV2c9ZzVaYIXb5k/edit?usp=drive_link)."
+              }
+            ]
+          },
+          {
+            "chunkTitle": "Define",
+            "chunkStart": 40,
+            "chunkDur": 5,
+            "steps": [
+              {
+                "Step": 4,
+                "StepTitle": "\"What If\" Statements",
+                "StepQuickDescription": "By the end of this step, students will define several \"what if\" statements to explore further.",
+                "StepDetails": null,
+                "Vocab": null,
+                "VariantNotes": null,
+                "TeachingTips": null
+              }
+            ]
+          }
+        ],
+        "lsnExt": [
+          {
+            "item": 1,
+            "itemTitle": "Perplexity.ai",
+            "itemDescription": "A useful AI chatbot that can really help students discover biological models, synonyms for their design problems, and identify analogous biology terms. Importantly, Perplexity shows links to backup claims, as many chatbots can hallucinate.",
+            "itemLink": "https://www.perplexity.ai/"
+          },
+          {
+            "item": 2,
+            "itemTitle": "asknature.org",
+            "itemDescription": "A library of examples of biomimicry and bioinspired design from the Biomimicry Institute.",
+            "itemLink": "http://asknature.org/"
+          },
+          {
+            "item": 3,
+            "itemTitle": "Wikipedia.org",
+            "itemDescription": "A helpful research tool, particularly if students know nothing about an organism and want to start with general inquiry.",
+            "itemLink": "http://wikipedia.org/"
+          },
+          {
+            "item": 4,
+            "itemTitle": "scholar.google.com",
+            "itemDescription": "A great way for students to dive into real research articles. Be sure to show them how to click \"All X versions\" for an article to find free PDFs which are sometimes available.",
+            "itemLink": "http://scholar.google.com/"
+          }
+        ]
+      },
+      {
+        "lsnNum": 3,
+        "lsnTitle": "Select a Biological Model",
+        "lsnDur": 45,
+        "lsnPreface": "Once they have a short list of potential biological inspirations, they must choose one based on how likely they think it is to translate to real world solutions.",
+        "learningObj": ["Evaluate the pros/cons, and tradeoffs between different biological models to select one design inspiration.", "Propose a bioinspired (re)design solution to address problems with an existing product."],
+        "lsnPrep": {
+          "prepTitle": null,
+          "prepDur": 10,
+          "prepQuickDescription": null,
+          "prepDetails": null,
+          "prepVariantNotes": null,
+          "prepTeachingTips": null
+        },
+        "chunks": [
+          {
+            "chunkTitle": "Select a Biological Model",
+            "chunkStart": 0,
+            "chunkDur": 45,
+            "steps": [
+              {
+                "Step": 1,
+                "StepTitle": "Under construction.",
+                "StepQuickDescription": "We're working on this lesson, but for now, feel free to use [➚ Bioinspired Design Canvas](https://docs.google.com/presentation/d/18Y57aiS-E81XA5FdVGhj-ZUTt13zlxdZUO_stXALzac/edit?usp=drive_link) for inspiration.",
+                "StepDetails": "Choose how you would like students to research and pick the model for their design inspiration.",
+                "Vocab": null,
+                "VariantNotes": null,
+                "TeachingTips": null
+              }
+            ]
+          }
+        ],
+        "lsnExt": [
+          {
+            "item": 1,
+            "itemTitle": "OneZoom.org",
+            "itemDescription": "A fantastic tool for students to explore the true diversity of life on earth as a browseable tree of life.",
+            "itemLink": "http://onezoom.org/"
+          },
+          {
+            "item": 2,
+            "itemTitle": "Perplexity.ai",
+            "itemDescription": "A useful AI chatbot that can really help students discover biological models, synonyms for their design problems, and identify analogous biology terms. Importantly, Perplexity shows links to backup claims, as many chatbots can hallucinate.",
+            "itemLink": "https://www.perplexity.ai/"
+          }
+        ]
+      },
+      {
+        "lsnNum": 4,
+        "lsnTitle": "Propose Bioinspired Solutions",
+        "lsnDur": 45,
+        "lsnPreface": "Students summarize their work with a one-page graphic organizer. Teachers will decide if they should also present this as a pitch to the class.",
+        "learningObj": ["Propose a bioinspired (re)design solution to address problems with an existing product.", "Summarize and present their process: from identifying a problem to selection of biological inspiration model to proposed solution."],
+        "lsnPrep": {
+          "prepTitle": null,
+          "prepDur": 10,
+          "prepQuickDescription": null,
+          "prepDetails": null,
+          "prepVariantNotes": null,
+          "prepTeachingTips": null
+        },
+        "chunks": [
+          {
+            "chunkTitle": "Propose Bioinspired Solution",
+            "chunkStart": 0,
+            "chunkDur": 45,
+            "steps": [
+              {
+                "Step": 1,
+                "StepTitle": "Under construction.",
+                "StepQuickDescription": "Under construction. We're working on this lesson, but for now, feel free to use [➚ Bioinspired Design Canvas](https://docs.google.com/presentation/d/18Y57aiS-E81XA5FdVGhj-ZUTt13zlxdZUO_stXALzac/edit?usp=drive_link) for inspiration.",
+                "StepDetails": "Choose how you would like students to present their final design.",
+                "Vocab": null,
+                "VariantNotes": null,
+                "TeachingTips": null
+              }
+            ]
+          }
+        ],
+        "lsnExt": null
+      },
+      {
+        "lsnNum": 5,
+        "lsnTitle": "Evaluate",
+        "lsnDur": 45,
+        "lsnPreface": "If desired, students can incorporate feedback into further refinement of their redesign proposals.",
+        "learningObj": ["Propose a bioinspired (re)design solution to address problems with an existing product.", "Incorporate feedback and/or prototype test data into a revised redesign."],
+        "lsnPrep": {
+          "prepTitle": null,
+          "prepDur": 10,
+          "prepQuickDescription": null,
+          "prepDetails": null,
+          "prepVariantNotes": null,
+          "prepTeachingTips": null
+        },
+        "chunks": [
+          {
+            "chunkTitle": "Evaluate",
+            "chunkStart": 0,
+            "chunkDur": 45,
+            "steps": [
+              {
+                "Step": 1,
+                "StepTitle": "Under construction.",
+                "StepQuickDescription": "Under construction. We're working on this lesson, but for now, feel free to use [➚ Bioinspired Design Canvas](https://docs.google.com/presentation/d/18Y57aiS-E81XA5FdVGhj-ZUTt13zlxdZUO_stXALzac/edit?usp=drive_link) for inspiration.",
+                "StepDetails": "Choose how you would like students to evaluate their final design.",
+                "Vocab": null,
+                "VariantNotes": null,
+                "TeachingTips": null
+              }
+            ]
+          }
+        ],
+        "lsnExt": null
       }
     ],
     "gatheredVocab": [
       {
         "term": "Bioinspired Design",
         "definition": "process of designing solutions that take inspiration from organismal adaptations"
+      },
+      {
+        "term": "Function",
+        "definition": "serves as the bridge between engineering and biology."
       }
     ]
   }
