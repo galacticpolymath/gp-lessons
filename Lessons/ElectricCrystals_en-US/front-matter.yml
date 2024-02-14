@@ -6,7 +6,7 @@ Language: English
 Country: United States
 DefaultLanguage: English
 DefaultCountry: United States
-LastUpdated: 2023-12-15 17:50:01.949848
+LastUpdated: 2024-02-08 12:42:20.29366
 ReleaseDate: '2023-05-07'
 isTestRepo: no
 FirstPublicationDate: 2023-04-10 12:14:57
@@ -16,28 +16,36 @@ LsnStatuses:
   updated_date: .na
   new_date: '2023-05-07'
   sort_by_date: '2023-05-07'
+  unit_status: Live
+  unit_release_date: '2023-05-07'
 - lsn: 2
   status: Live
   updated_date: .na
   new_date: '2023-05-07'
   sort_by_date: '2023-05-07'
+  unit_status: Live
+  unit_release_date: '2023-05-07'
 - lsn: 3
   status: Live
   updated_date: .na
   new_date: '2023-05-07'
   sort_by_date: '2023-05-07'
+  unit_status: Live
+  unit_release_date: '2023-05-07'
 - lsn: 4
   status: Live
   updated_date: .na
   new_date: '2023-05-07'
   sort_by_date: '2023-05-07'
+  unit_status: Live
+  unit_release_date: '2023-05-07'
 MediumTitle: '''Electric Crystals'' |Science| G7-12 (en-US)'
 lang: en
 lng: eng
 locale: en-US
 DefaultLocale: en-US
-TemplateVer: 0.6.2
-galacticPubsVer: 0.9.8
+TemplateVer: 0.6.3
+galacticPubsVer: 1.0.1
 GPCatalogURL: https://gp-catalog.vercel.app/lessons/ElectricCrystals_en-US/LESSON.json
 GitHubURL: git@github.com:galacticpolymath/ElectricCrystals_en-US.git
 URL: https://www.galacticpolymath.com/lessons/en-US/6

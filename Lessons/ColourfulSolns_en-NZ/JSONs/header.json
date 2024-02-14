@@ -7,7 +7,7 @@
   "Country": "New Zealand",
   "DefaultLanguage": "English",
   "DefaultCountry": "New Zealand",
-  "LastUpdated": "2023-12-15 17:48:27.544026",
+  "LastUpdated": "2024-02-08 12:41:33.675659",
   "ReleaseDate": "2022-09-01",
   "isTestRepo": false,
   "FirstPublicationDate": "2022-06-26 20:30:21",
@@ -17,21 +17,27 @@
       "status": "Live",
       "updated_date": null,
       "new_date": "2022-09-01",
-      "sort_by_date": "2022-09-01"
+      "sort_by_date": "2022-09-01",
+      "unit_status": "Live",
+      "unit_release_date": "2022-09-01"
     },
     {
       "lsn": 2,
       "status": "Live",
       "updated_date": null,
       "new_date": "2022-09-01",
-      "sort_by_date": "2022-09-01"
+      "sort_by_date": "2022-09-01",
+      "unit_status": "Live",
+      "unit_release_date": "2022-09-01"
     },
     {
       "lsn": 3,
       "status": "Live",
       "updated_date": null,
       "new_date": "2022-09-01",
-      "sort_by_date": "2022-09-01"
+      "sort_by_date": "2022-09-01",
+      "unit_status": "Live",
+      "unit_release_date": "2022-09-01"
     }
   ],
   "MediumTitle": "'Colourful Solutions' |Science| Y9-13 (en-NZ)",
@@ -39,8 +45,8 @@
   "lng": "eng",
   "locale": "en-NZ",
   "DefaultLocale": "en-NZ",
-  "TemplateVer": "0.6.2",
-  "galacticPubsVer": "0.9.8",
+  "TemplateVer": "0.6.3",
+  "galacticPubsVer": "1.0.1",
   "URL": "https://www.galacticpolymath.com/lessons/en-NZ/4",
   "GdriveHome": "GP-LIVE",
   "GdriveDirName": "ColourfulSolns_en-NZ",

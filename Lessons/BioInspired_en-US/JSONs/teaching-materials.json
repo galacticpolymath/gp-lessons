@@ -210,6 +210,45 @@
                   ]
                 }
               ]
+            },
+            {
+              "lsn": "last",
+              "title": "Assessments",
+              "tags": null,
+              "preface": "",
+              "tile": "https://storage.googleapis.com/gp-cloud/icons/assessment%20icon.png",
+              "itemList": [
+                {
+                  "itemTitle": "Teacher Assessment",
+                  "itemDescription": null,
+                  "itemCat": "document",
+                  "links": [
+                    {
+                      "linkText": "PDF",
+                      "url": "https://docs.google.com/document/d/1vo-FcPJWNwlwkhOQ9_5y0RDK14M086dhaQse-vn_-PY/export?format=pdf"
+                    },
+                    {
+                      "linkText": "Preview/Copy in Google Docs",
+                      "url": "https://docs.google.com/document/d/1vo-FcPJWNwlwkhOQ9_5y0RDK14M086dhaQse-vn_-PY/template/preview"
+                    }
+                  ]
+                },
+                {
+                  "itemTitle": "Student Assessment",
+                  "itemDescription": null,
+                  "itemCat": "document",
+                  "links": [
+                    {
+                      "linkText": "PDF",
+                      "url": "https://docs.google.com/document/d/13ZZNpBEE5SJe9hOxomcli40h6-p1rg2e89JmB-LvrII/export?format=pdf"
+                    },
+                    {
+                      "linkText": "Preview/Copy in Google Docs",
+                      "url": "https://docs.google.com/document/d/13ZZNpBEE5SJe9hOxomcli40h6-p1rg2e89JmB-LvrII/template/preview"
+                    }
+                  ]
+                }
+              ]
             }
           ]
         }
@@ -286,6 +325,12 @@
             "itemTitle": "Digital Tool: Lucid Chart",
             "itemDescription": "For making mind maps easily. Free for education.",
             "itemLink": "https://www.lucidchart.com/pages/usecase/education"
+          },
+          {
+            "item": 2,
+            "itemTitle": "High Speed Train Inspired by the Kingfisher",
+            "itemDescription": "This article from AskNature provides more information for students to learn about the bioinspired design for Japan's JR-West railway company.",
+            "itemLink": "https://asknature.org/innovation/high-speed-train-inspired-by-the-kingfisher/"
           }
         ]
       },

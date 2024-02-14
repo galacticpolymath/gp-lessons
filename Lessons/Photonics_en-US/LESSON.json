@@ -2,13 +2,13 @@
   "numID": 9,
   "_id": "lesson_9_en-US",
   "ShortTitle": "Photonics",
-  "PublicationStatus": "Draft",
+  "PublicationStatus": "Beta",
   "Language": "English",
   "Country": "United States",
   "DefaultLanguage": "English",
   "DefaultCountry": "United States",
-  "LastUpdated": "2024-01-22 17:16:59.637036",
-  "ReleaseDate": "2024-01-26",
+  "LastUpdated": "2024-02-09 16:56:08.504763",
+  "ReleaseDate": "2024-02-10",
   "isTestRepo": false,
   "FirstPublicationDate": null,
   "LsnStatuses": [
@@ -17,21 +17,45 @@
       "status": "Live",
       "updated_date": null,
       "new_date": "2024-01-22",
-      "sort_by_date": "2024-01-22"
+      "sort_by_date": "2024-01-22",
+      "unit_status": "Beta",
+      "unit_release_date": "2024-02-10"
     },
     {
       "lsn": 2,
       "status": "Live",
       "updated_date": null,
       "new_date": "2024-01-22",
-      "sort_by_date": "2024-01-22"
+      "sort_by_date": "2024-01-22",
+      "unit_status": "Beta",
+      "unit_release_date": "2024-02-10"
     },
     {
       "lsn": 3,
+      "status": "Beta",
+      "updated_date": null,
+      "new_date": "2024-02-08",
+      "sort_by_date": "2024-02-08",
+      "unit_status": "Beta",
+      "unit_release_date": "2024-02-10"
+    },
+    {
+      "lsn": 4,
+      "status": "Beta",
+      "updated_date": null,
+      "new_date": "2024-02-08",
+      "sort_by_date": "2024-02-08",
+      "unit_status": "Beta",
+      "unit_release_date": "2024-02-10"
+    },
+    {
+      "lsn": 5,
       "status": "Coming Soon",
       "updated_date": null,
       "new_date": null,
-      "sort_by_date": "2024-01-22"
+      "sort_by_date": "2024-02-09",
+      "unit_status": "Beta",
+      "unit_release_date": "2024-02-10"
     }
   ],
   "MediumTitle": "'Photon Engineers' |Science| G6-9 (en-US)",
@@ -39,8 +63,8 @@
   "lng": "eng",
   "locale": "en-US",
   "DefaultLocale": "en-US",
-  "TemplateVer": "0.6.2",
-  "galacticPubsVer": "0.9.9",
+  "TemplateVer": "0.6.3",
+  "galacticPubsVer": "1.0.1",
   "URL": "https://www.galacticpolymath.com/lessons/en-US/9",
   "GdriveHome": "GP-Studio",
   "GdriveDirName": "Photonics_en-US",
@@ -65,8 +89,8 @@
     "https://storage.googleapis.com/gp-cloud/lessons/Photonics_en-US/Folland-Lab_logo.png",
     "https://storage.googleapis.com/gp-cloud/lessons/Photonics_en-US/Iowa_logo_blackBG.png"
   ],
-  "LessonBanner": "https://storage.googleapis.com/gp-cloud/lessons/Photonics_en-US/Photonics_1-banner.png",
-  "LessonCard": "https://storage.googleapis.com/gp-cloud/lessons/Photonics_en-US/Photonics_2-card.png",
+  "LessonBanner": "https://storage.googleapis.com/gp-cloud/lessons/Photonics_en-US/photonics-banner.png",
+  "LessonCard": "https://storage.googleapis.com/gp-cloud/lessons/Photonics_en-US/photonics-card.png",
   "TargetSubject": "Science",
   "LessonEnvir": "Classroom",
   "ForGrades": "6-9",
@@ -75,7 +99,7 @@
     "overview": {
       "__component": "lesson-plan.overview",
       "LearningSummary": "Embark on a journey through time and space to understand what light really is and how humans use it. From starting fires with sunlight to sending messages to other planets to current research in photonics, students will become more curious about light in their daily lives!",
-      "EstLessonTime": "2 x 45 min classes",
+      "EstLessonTime": "4 x 45 min classes",
       "GradesOrYears": "Grades",
       "ForGrades": "6-9",
       "TargetSubject": "Science",
@@ -108,13 +132,13 @@
         {
           "order": "0.5",
           "type": "video",
-          "forLsn": "2",
+          "forLsn": "3",
           "title": "What is Light?",
           "description": null,
-          "lessonRelevance": "DRAFT version. In this short video a photonics expert introduces light as a broad spectrum of frequencies.",
+          "lessonRelevance": "Light is both stranger and more interesting than we think. Dr. Tom Folland explains.",
           "by": "Galactic Polymath",
           "byLink": "https://www.youtube.com/channel/UCfyBNvN3CH4uWmwOCQVhmhg/featured",
-          "mainLink": "https://drive.google.com/file/d/1BSiSv5LVEFgDoUCIrX7evj2iefg0SO0h/preview?rm=minimal",
+          "mainLink": "https://www.youtube.com/embed/Pfgh29tQZlk",
           "otherLink": null
         },
         {
@@ -133,22 +157,22 @@
           "order": "2",
           "type": "video",
           "forLsn": "1",
-          "title": "2000 years of engineering with light (it’s about lenses)",
+          "title": "Engineering with Light: 2000 Years of Innovation",
           "description": null,
-          "lessonRelevance": "DRAFT version. This video explores the history of photonics, and introduces the scientific basis of lenses.",
+          "lessonRelevance": "This video explores the history of photonics, and introduces the scientific basis of lenses.",
           "by": "Galactic Polymath",
           "byLink": "https://www.youtube.com/channel/UCfyBNvN3CH4uWmwOCQVhmhg/featured",
-          "mainLink": "https://drive.google.com/file/d/1JDgqBPtbUdYjfCr5zIcsmgQ9zQYZB54R/preview?rm=minimal",
+          "mainLink": "https://www.youtube.com/embed/DREGrkSnZ2g",
           "otherLink": null
         },
         {
           "order": "3",
           "type": "video",
-          "forLsn": "1",
+          "forLsn": "2",
           "title": "How Glasses Work to Correct Vision",
           "description": null,
           "lessonRelevance": "More advanced students might be interested in learning how glasses and contacts work to correct vision.",
-          "by": "Galactic Polymath",
+          "by": "MooMooMath and Science",
           "byLink": "https://www.youtube.com/@MooMooMath",
           "mainLink": "https://www.youtube.com/embed/1vlojCoFrTw",
           "otherLink": null
@@ -156,7 +180,7 @@
         {
           "order": "4",
           "type": "pdf",
-          "forLsn": "1",
+          "forLsn": "2",
           "title": "Seeing Through Time worksheet",
           "description": null,
           "lessonRelevance": "This worksheet has students to take notes about lens technology and take on an optical engineering design challenge.",
@@ -168,13 +192,25 @@
         {
           "order": "6",
           "type": "pdf",
-          "forLsn": "2",
-          "title": "Communicating With Light Worksheet",
+          "forLsn": "3",
+          "title": "What is Light Worksheet",
           "description": null,
           "lessonRelevance": "On this worksheet students explore \"what is light?\" and brainstorm how messages can be encoded in waves.",
           "by": "Galactic Polymath",
           "byLink": "https://www.youtube.com/channel/UCfyBNvN3CH4uWmwOCQVhmhg/featured",
           "mainLink": "https://docs.google.com/document/d/1oKBFUmXcudtQE21y59Q1sDxxEdoMGWW9OIz7MUcLNFI/preview?rm=minimal",
+          "otherLink": null
+        },
+        {
+          "order": "7",
+          "type": "pdf",
+          "forLsn": "4",
+          "title": "Communicating with Light Worksheet",
+          "description": null,
+          "lessonRelevance": "Students work as a class to design a code to send messages to Mars.",
+          "by": "Galactic Polymath",
+          "byLink": "https://www.youtube.com/channel/UCfyBNvN3CH4uWmwOCQVhmhg/featured",
+          "mainLink": "https://docs.google.com/document/d/1kNB-kO3TCaewh8QpAUzDbh_uJykdx4I3PRQKBO-4yRw/preview?rm=minimal",
           "otherLink": null
         }
       ],
@@ -195,6 +231,14 @@
             {
               "lsn": "2",
               "lsnGradeVarNotes": null
+            },
+            {
+              "lsn": "3",
+              "lsnGradeVarNotes": null
+            },
+            {
+              "lsn": "4",
+              "lsnGradeVarNotes": null
             }
           ],
           "resources": [
@@ -212,81 +256,51 @@
                   "tags": [
                     null
                   ],
-                  "preface": "Explore lens innovations throughout history with a timeline puzzle sort, learn how lenses bend light through an interactive video, and brainstorm new materials to design a lens.",
-                  "tile": "https://storage.googleapis.com/gp-cloud/lessons/Photonics_en-US/Photonics_tiles-1-L1_Tile.png",
+                  "preface": "Discover the secrets printed on the US dollar bill using a water drop-lens, and explore lens innovations throughout history with a timeline puzzle sort.",
+                  "tile": "https://storage.googleapis.com/gp-cloud/lessons/Photonics_en-US/photonics-L1_Tile.png",
                   "itemList": [
+                    {
+                      "itemTitle": "Teacher Handout (Lesson 1)",
+                      "itemDescription": "Print 1",
+                      "itemCat": "presentation",
+                      "links": [
+                        {
+                          "linkText": "PDF",
+                          "url": "https://docs.google.com/presentation/d/18D0tqNx2flXrTFb1iFINHORV_diTpKMCWTbpSPGL8iU/export/pdf"
+                        },
+                        {
+                          "linkText": "Preview/Copy in Google Docs",
+                          "url": "https://docs.google.com/presentation/d/18D0tqNx2flXrTFb1iFINHORV_diTpKMCWTbpSPGL8iU/template/preview"
+                        }
+                      ]
+                    },
                     {
                       "itemTitle": "Presentation (Lesson 1)",
                       "itemDescription": "Need: WiFi, Computer, Projector, Sound",
                       "itemCat": "presentation",
                       "links": [
                         {
-                          "linkText": "Present Now (DRAFT FILE)",
+                          "linkText": "Present Now",
                           "url": "https://docs.google.com/presentation/d/1IfgB7A0h8uuCrMpQ0fMg6Jyk9fsjYdN4FT7zmaeW_qY/present"
                         },
                         {
-                          "linkText": "Preview/Copy in Google Docs (DRAFT FILE)",
+                          "linkText": "Preview/Copy in Google Docs",
                           "url": "https://docs.google.com/presentation/d/1IfgB7A0h8uuCrMpQ0fMg6Jyk9fsjYdN4FT7zmaeW_qY/template/preview"
                         }
                       ]
                     },
                     {
-                      "itemTitle": "Teacher Version of Timeline Puzzle",
-                      "itemDescription": "Print 1",
+                      "itemTitle": "Student Handout (Lesson 1)",
+                      "itemDescription": "Print 1 Per Student",
                       "itemCat": "presentation",
                       "links": [
                         {
-                          "linkText": "PDF (DRAFT FILE)",
-                          "url": "https://docs.google.com/presentation/d/18D0tqNx2flXrTFb1iFINHORV_diTpKMCWTbpSPGL8iU/export/pdf"
-                        },
-                        {
-                          "linkText": "Preview/Copy in Google Docs (DRAFT FILE)",
-                          "url": "https://docs.google.com/presentation/d/18D0tqNx2flXrTFb1iFINHORV_diTpKMCWTbpSPGL8iU/template/preview"
-                        }
-                      ]
-                    },
-                    {
-                      "itemTitle": "Student Version of Timeline Puzzle",
-                      "itemDescription": "Print class set for small groups",
-                      "itemCat": "presentation",
-                      "links": [
-                        {
-                          "linkText": "PDF (DRAFT FILE)",
+                          "linkText": "PDF",
                           "url": "https://docs.google.com/presentation/d/1U7XUGLNzaH5MAql1OWRl6QFIbTXfUlN4ySptYNiryFM/export/pdf"
                         },
                         {
-                          "linkText": "Preview/Copy in Google Docs (DRAFT FILE)",
+                          "linkText": "Preview/Copy in Google Docs",
                           "url": "https://docs.google.com/presentation/d/1U7XUGLNzaH5MAql1OWRl6QFIbTXfUlN4ySptYNiryFM/template/preview"
-                        }
-                      ]
-                    },
-                    {
-                      "itemTitle": "Teacher Worksheet (Lesson 1)",
-                      "itemDescription": "Print 1",
-                      "itemCat": "document",
-                      "links": [
-                        {
-                          "linkText": "PDF (DRAFT FILE)",
-                          "url": "https://docs.google.com/document/d/1rni5PN00oe1fxh64bnvSYY_MT_SZZxVvg84TWZqT6FU/export?format=pdf"
-                        },
-                        {
-                          "linkText": "Preview/Copy in Google Docs (DRAFT FILE)",
-                          "url": "https://docs.google.com/document/d/1rni5PN00oe1fxh64bnvSYY_MT_SZZxVvg84TWZqT6FU/template/preview"
-                        }
-                      ]
-                    },
-                    {
-                      "itemTitle": "Student Worksheet (Lesson 1)",
-                      "itemDescription": "Print 1 Per Student",
-                      "itemCat": "document",
-                      "links": [
-                        {
-                          "linkText": "PDF (DRAFT FILE)",
-                          "url": "https://docs.google.com/document/d/1lGF3DM_G_NVjIw7AFz9Xtfxa3LFchEY3GU2b_rQzSHI/export?format=pdf"
-                        },
-                        {
-                          "linkText": "Preview/Copy in Google Docs (DRAFT FILE)",
-                          "url": "https://docs.google.com/document/d/1lGF3DM_G_NVjIw7AFz9Xtfxa3LFchEY3GU2b_rQzSHI/template/preview"
                         }
                       ]
                     }
@@ -294,12 +308,12 @@
                 },
                 {
                   "lsn": "2",
-                  "title": "Communicating with light: A message to Mars",
+                  "title": "What's a lens? Bending light for sight",
                   "tags": [
                     null
                   ],
-                  "preface": "Investigate the full spectrum of light waves with a warm-up ranking game, then get up and move to create arm waves that encode messages, demonstrating how waves carry information.",
-                  "tile": "https://storage.googleapis.com/gp-cloud/lessons/Photonics_en-US/Photonics_tiles-2-L2_Tile.png",
+                  "preface": "Learn how lenses bend light through an interactive video, and brainstorm new materials to design a sight-correcting lens.",
+                  "tile": "https://storage.googleapis.com/gp-cloud/lessons/Photonics_en-US/photonics-L2_Tile.png",
                   "itemList": [
                     {
                       "itemTitle": "Presentation (Lesson 2)",
@@ -307,27 +321,12 @@
                       "itemCat": "presentation",
                       "links": [
                         {
-                          "linkText": "Present Now (DRAFT FILE)",
-                          "url": "https://docs.google.com/presentation/d/1adGVYookTpFv9R6o6stPiIDVwjuG_R5uQscsl7LxCK0/present"
+                          "linkText": "Present Now",
+                          "url": "https://docs.google.com/presentation/d/1uqEW_5ND3Qqv52WFXO6x4ew11TsOm7oZeytrVKBRThU/present"
                         },
                         {
-                          "linkText": "Preview/Copy in Google Docs (DRAFT FILE)",
-                          "url": "https://docs.google.com/presentation/d/1adGVYookTpFv9R6o6stPiIDVwjuG_R5uQscsl7LxCK0/template/preview"
-                        }
-                      ]
-                    },
-                    {
-                      "itemTitle": "Teacher Worksheet (Lesson 2)",
-                      "itemDescription": "Print 1",
-                      "itemCat": "document",
-                      "links": [
-                        {
-                          "linkText": "PDF (DRAFT FILE)",
-                          "url": "https://docs.google.com/document/d/18sGSNHuzd8H-OXY2bHKY1vUm0KGNJRjaudFtQRsx3oQ/export?format=pdf"
-                        },
-                        {
-                          "linkText": "Preview/Copy in Google Docs (DRAFT FILE)",
-                          "url": "https://docs.google.com/document/d/18sGSNHuzd8H-OXY2bHKY1vUm0KGNJRjaudFtQRsx3oQ/template/preview"
+                          "linkText": "Preview/Copy in Google Docs",
+                          "url": "https://docs.google.com/presentation/d/1uqEW_5ND3Qqv52WFXO6x4ew11TsOm7oZeytrVKBRThU/template/preview"
                         }
                       ]
                     },
@@ -337,12 +336,139 @@
                       "itemCat": "document",
                       "links": [
                         {
-                          "linkText": "PDF (DRAFT FILE)",
+                          "linkText": "PDF",
+                          "url": "https://docs.google.com/document/d/1lGF3DM_G_NVjIw7AFz9Xtfxa3LFchEY3GU2b_rQzSHI/export?format=pdf"
+                        },
+                        {
+                          "linkText": "Preview/Copy in Google Docs",
+                          "url": "https://docs.google.com/document/d/1lGF3DM_G_NVjIw7AFz9Xtfxa3LFchEY3GU2b_rQzSHI/template/preview"
+                        }
+                      ]
+                    },
+                    {
+                      "itemTitle": "Teacher Worksheet (Lesson 2)",
+                      "itemDescription": "Print 1",
+                      "itemCat": "document",
+                      "links": [
+                        {
+                          "linkText": "PDF",
+                          "url": "https://docs.google.com/document/d/1rni5PN00oe1fxh64bnvSYY_MT_SZZxVvg84TWZqT6FU/export?format=pdf"
+                        },
+                        {
+                          "linkText": "Preview/Copy in Google Docs",
+                          "url": "https://docs.google.com/document/d/1rni5PN00oe1fxh64bnvSYY_MT_SZZxVvg84TWZqT6FU/template/preview"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "lsn": "3",
+                  "title": "What is light? Making waves",
+                  "tags": [
+                    null
+                  ],
+                  "preface": "Illustrate the anatomy of a wave by linking together as a human wave-medium to transmit waves with different amplitudes and frequencies. Then, investigate the full spectrum of light waves with a ranking game.",
+                  "tile": "https://storage.googleapis.com/gp-cloud/lessons/Photonics_en-US/photonics-L3_Tile.png",
+                  "itemList": [
+                    {
+                      "itemTitle": "Presentation (Lesson 3)",
+                      "itemDescription": "Need: WiFi, Computer, Projector, Sound",
+                      "itemCat": "presentation",
+                      "links": [
+                        {
+                          "linkText": "Present Now",
+                          "url": "https://docs.google.com/presentation/d/1adGVYookTpFv9R6o6stPiIDVwjuG_R5uQscsl7LxCK0/present"
+                        },
+                        {
+                          "linkText": "Preview/Copy in Google Docs",
+                          "url": "https://docs.google.com/presentation/d/1adGVYookTpFv9R6o6stPiIDVwjuG_R5uQscsl7LxCK0/template/preview"
+                        }
+                      ]
+                    },
+                    {
+                      "itemTitle": "Student Worksheet (Lesson 3)",
+                      "itemDescription": "Print 1 Per Student",
+                      "itemCat": "document",
+                      "links": [
+                        {
+                          "linkText": "PDF",
                           "url": "https://docs.google.com/document/d/1oKBFUmXcudtQE21y59Q1sDxxEdoMGWW9OIz7MUcLNFI/export?format=pdf"
                         },
                         {
-                          "linkText": "Preview/Copy in Google Docs (DRAFT FILE)",
+                          "linkText": "Preview/Copy in Google Docs",
                           "url": "https://docs.google.com/document/d/1oKBFUmXcudtQE21y59Q1sDxxEdoMGWW9OIz7MUcLNFI/template/preview"
+                        }
+                      ]
+                    },
+                    {
+                      "itemTitle": "Teacher Worksheet (Lesson 3)",
+                      "itemDescription": "Print 1",
+                      "itemCat": "document",
+                      "links": [
+                        {
+                          "linkText": "PDF",
+                          "url": "https://docs.google.com/document/d/18sGSNHuzd8H-OXY2bHKY1vUm0KGNJRjaudFtQRsx3oQ/export?format=pdf"
+                        },
+                        {
+                          "linkText": "Preview/Copy in Google Docs",
+                          "url": "https://docs.google.com/document/d/18sGSNHuzd8H-OXY2bHKY1vUm0KGNJRjaudFtQRsx3oQ/template/preview"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "lsn": "4",
+                  "title": "Communicating with light: A message to Mars",
+                  "tags": [
+                    null
+                  ],
+                  "preface": "Expand on the advanced properties of light. Then design a code that uses waves to send a message to Mars!",
+                  "tile": "https://storage.googleapis.com/gp-cloud/lessons/Photonics_en-US/photonics-L4_Tile.png",
+                  "itemList": [
+                    {
+                      "itemTitle": "Presentation (Lesson 4)",
+                      "itemDescription": "Need: WiFi, Computer, Projector, Sound",
+                      "itemCat": "presentation",
+                      "links": [
+                        {
+                          "linkText": "Present Now",
+                          "url": "https://docs.google.com/presentation/d/1mTTmd-NbNJydkcorXlXK1DQrgkhuG58s9998OAKuU9M/present"
+                        },
+                        {
+                          "linkText": "Preview/Copy in Google Docs",
+                          "url": "https://docs.google.com/presentation/d/1mTTmd-NbNJydkcorXlXK1DQrgkhuG58s9998OAKuU9M/template/preview"
+                        }
+                      ]
+                    },
+                    {
+                      "itemTitle": "Student Worksheet (Lesson 4)",
+                      "itemDescription": "Print 1 Per Student",
+                      "itemCat": "document",
+                      "links": [
+                        {
+                          "linkText": "PDF",
+                          "url": "https://docs.google.com/document/d/1kNB-kO3TCaewh8QpAUzDbh_uJykdx4I3PRQKBO-4yRw/export?format=pdf"
+                        },
+                        {
+                          "linkText": "Preview/Copy in Google Docs",
+                          "url": "https://docs.google.com/document/d/1kNB-kO3TCaewh8QpAUzDbh_uJykdx4I3PRQKBO-4yRw/template/preview"
+                        }
+                      ]
+                    },
+                    {
+                      "itemTitle": "Teacher Worksheet (Lesson 4)",
+                      "itemDescription": "Print 1",
+                      "itemCat": "document",
+                      "links": [
+                        {
+                          "linkText": "PDF",
+                          "url": "https://docs.google.com/document/d/1TWZYpDPnW2pQ2ePNr7bfUbg1jrNcLjTr39PhnrM-Ukw/export?format=pdf"
+                        },
+                        {
+                          "linkText": "Preview/Copy in Google Docs",
+                          "url": "https://docs.google.com/document/d/1TWZYpDPnW2pQ2ePNr7bfUbg1jrNcLjTr39PhnrM-Ukw/template/preview"
                         }
                       ]
                     }
@@ -357,13 +483,13 @@
             "lsnNum": 1,
             "lsnTitle": "Seeing through time: A puzzling history of optics",
             "lsnDur": 45,
-            "lsnPreface": "Explore lens innovations throughout history with a timeline puzzle sort, learn how lenses bend light through an interactive video, and brainstorm new materials to design a lens.",
+            "lsnPreface": "Discover the secrets printed on the US dollar bill using a water drop-lens, and explore lens innovations throughout history with a timeline puzzle sort.",
             "learningObj": "Students will demonstrate an engineering mindset, using lenses to solve problems through magnification or focusing",
             "lsnPrep": {
               "prepTitle": "Prep",
               "prepDur": 5,
               "prepQuickDescription": "Print handouts",
-              "prepDetails": "Print student worksheets ([➚ Seeing Through Time worksheet](https://docs.google.com/document/d/1lGF3DM_G_NVjIw7AFz9Xtfxa3LFchEY3GU2b_rQzSHI/edit)) and one copy of the timeline puzzle sort ([➚ Magnification Technologies Timeline Puzzle](https://docs.google.com/presentation/d/18D0tqNx2flXrTFb1iFINHORV_diTpKMCWTbpSPGL8iU)) per student group (or one copy for the class to share).",
+              "prepDetails": "Print copies of the timeline puzzle sort ([➚ Magnification Technologies Timeline Puzzle](https://docs.google.com/presentation/d/18D0tqNx2flXrTFb1iFINHORV_diTpKMCWTbpSPGL8iU)).",
               "prepVariantNotes": null,
               "prepTeachingTips": null
             },
@@ -371,7 +497,7 @@
               {
                 "chunkTitle": "Warm Up",
                 "chunkStart": 0,
-                "chunkDur": 10,
+                "chunkDur": 20,
                 "steps": [
                   {
                     "Step": 1,
@@ -386,8 +512,8 @@
               },
               {
                 "chunkTitle": "Timeline Puzzle Sort",
-                "chunkStart": 10,
-                "chunkDur": 15,
+                "chunkStart": 20,
+                "chunkDur": 20,
                 "steps": [
                   {
                     "Step": 2,
@@ -397,20 +523,13 @@
                     "Vocab": null,
                     "VariantNotes": null,
                     "TeachingTips": null
-                  }
-                ]
-              },
-              {
-                "chunkTitle": "Interactive Video",
-                "chunkStart": 25,
-                "chunkDur": 15,
-                "steps": [
+                  },
                   {
                     "Step": 3,
-                    "StepTitle": "What Are Lenses?",
-                    "StepQuickDescription": "Watch a video about the history and science of lenses and follow along on the student worksheet.",
-                    "StepDetails": "The \"What Are Lenses?\" video ([▶ 2000 years of engineering with light (it’s about lenses)](https://drive.google.com/file/d/1JDgqBPtbUdYjfCr5zIcsmgQ9zQYZB54R/view?usp=sharing)) is embedded in the presentation slides with break points for discussion and reflection questions. Students can follow along with the discussion by taking notes on their worksheet: [➚ Seeing Through Time worksheet](https://docs.google.com/document/d/1lGF3DM_G_NVjIw7AFz9Xtfxa3LFchEY3GU2b_rQzSHI/edit).",
-                    "Vocab": "- **photonics:** The study of manipulating light.\n- **lens:** A piece of material which is transparent and curved, useful for bending light.\n- **convex:** A lens which curves outward on at least one side.\n- **concave:** A lens which curves inward (creating a shallow \"cave\") on at least one side.\n- **focal point:** The point at which light rays converge after passing through a lens.",
+                    "StepTitle": "Answer Reveal",
+                    "StepQuickDescription": "Watch the first part of [▶ Engineering with Light: 2000 Years of Innovation](https://www.youtube.com/watch?v=DREGrkSnZ2g) to reveal more secrets of the dollar bill, as well as the magnification timeline answers!",
+                    "StepDetails": null,
+                    "Vocab": null,
                     "VariantNotes": null,
                     "TeachingTips": null
                   }
@@ -423,20 +542,11 @@
                 "steps": [
                   {
                     "Step": 4,
-                    "StepTitle": "Engineering Mindset",
-                    "StepQuickDescription": "Students imagine themselves as optical engineers to consider the design challenges associated with making lenses.",
-                    "StepDetails": "In the space provided on their worksheets ([➚ Seeing Through Time worksheet](https://docs.google.com/document/d/1lGF3DM_G_NVjIw7AFz9Xtfxa3LFchEY3GU2b_rQzSHI/edit)) students answer several reflection questions related to lens design and optical engineering.",
+                    "StepTitle": "Reflection",
+                    "StepQuickDescription": "Students can correct their timeline if necessary, and are encouraged to look for lenses out in the world after class.",
+                    "StepDetails": null,
                     "Vocab": null,
                     "VariantNotes": null,
-                    "TeachingTips": null
-                  },
-                  {
-                    "Step": 5,
-                    "StepTitle": "Bonus Challenge: Glasses",
-                    "StepQuickDescription": "Extend the knowledge from the lesson to determine how vision should be corrected.",
-                    "StepDetails": "Students answer bonus reflection questions on their worksheet to determine what kind of glasses should go to far- or nearsighted people. They can check their answer and learn more about corrective eyeware with this video: [▶ How Glasses Work to Correct Vision](https://www.youtube.com/watch?v=1vlojCoFrTw).",
-                    "Vocab": "- **farsighted:** The focal point of the eye falls behind the retina.\n- **nearsighted:** The focal point of the eye falls in front of the retina.",
-                    "VariantNotes": "More advanced students (e.g. G8-9) could benefit from this more challenging reflection activity.",
                     "TeachingTips": null
                   }
                 ]
@@ -448,20 +558,14 @@
                 "itemTitle": "US Mint Currency Education Program",
                 "itemDescription": "Have students investigate other interesting facets of different dollar denominations using their liquid lenses.",
                 "itemLink": "https://www.uscurrency.gov/denominations/1"
-              },
-              {
-                "item": 2,
-                "itemTitle": "Geometric Optics",
-                "itemDescription": "Advanced students (e.g. G8-9) can explore the geometry of light, lenses, and mirrors using this interactive simulation.",
-                "itemLink": "https://phet.colorado.edu/en/simulations/geometric-optics"
               }
             ]
           },
           {
             "lsnNum": 2,
-            "lsnTitle": "Communicating with light: A message to Mars",
+            "lsnTitle": "What's a lens? Bending light for sight",
             "lsnDur": 45,
-            "lsnPreface": "Investigate the full spectrum of light waves with a warm-up ranking game, then get up and move to create arm waves that encode messages, demonstrating how waves carry information.",
+            "lsnPreface": "Learn how lenses bend light through an interactive video, and brainstorm new materials to design a sight-correcting lens.",
             "learningObj": [
               "Students will understand wave properties of light.",
               "Students will interpret data to validate how the properties of waves can be used to transmit information."
@@ -470,7 +574,89 @@
               "prepTitle": "Prep",
               "prepDur": 5,
               "prepQuickDescription": "Print handouts",
-              "prepDetails": "Print student worksheets ([➚ Communicating With Light Worksheet](https://docs.google.com/document/d/1oKBFUmXcudtQE21y59Q1sDxxEdoMGWW9OIz7MUcLNFI/edit?usp=drive_link))",
+              "prepDetails": "Print student worksheets ([➚ Seeing Through Time worksheet](https://docs.google.com/document/d/1lGF3DM_G_NVjIw7AFz9Xtfxa3LFchEY3GU2b_rQzSHI/edit)).",
+              "prepVariantNotes": null,
+              "prepTeachingTips": null
+            },
+            "chunks": [
+              {
+                "chunkTitle": "Interactive Videos",
+                "chunkStart": 0,
+                "chunkDur": 30,
+                "steps": [
+                  {
+                    "Step": 1,
+                    "StepTitle": "What Are Lenses?",
+                    "StepQuickDescription": "Watch a video about the history and science of lenses and follow along on the student worksheet.",
+                    "StepDetails": "The \"What Are Lenses?\" video ([▶ Engineering with Light: 2000 Years of Innovation](https://www.youtube.com/watch?v=DREGrkSnZ2g)) is embedded in the presentation slides with break points for discussion and reflection questions. Students can follow along with the discussion by taking notes on their worksheet: [➚ Seeing Through Time worksheet](https://docs.google.com/document/d/1lGF3DM_G_NVjIw7AFz9Xtfxa3LFchEY3GU2b_rQzSHI/edit).",
+                    "Vocab": "- **photonics:** The study of manipulating light.\n- **lens:** A piece of material which is transparent and curved, useful for bending light.\n- **convex:** A lens which curves outward on at least one side.\n- **concave:** A lens which curves inward (creating a shallow \"cave\") on at least one side.\n- **focal point:** The point at which light rays converge after passing through a lens.",
+                    "VariantNotes": null,
+                    "TeachingTips": null
+                  },
+                  {
+                    "Step": 2,
+                    "StepTitle": "Challenge: Glasses",
+                    "StepQuickDescription": "Extend the knowledge from the lesson to determine how vision should be corrected.",
+                    "StepDetails": "Students discuss in groups to determine what kind of glasses should go to far- or nearsighted people, recording the answers on their worksheets. They check their answer and learn more about corrective eyeware with this video: [▶ How Glasses Work to Correct Vision](https://www.youtube.com/watch?v=1vlojCoFrTw).",
+                    "Vocab": "- **farsighted:** The focal point of the eye falls behind the retina.\n- **nearsighted:** The focal point of the eye falls in front of the retina.",
+                    "VariantNotes": "Less advanced students (e.g. G6-7) might not be prepared for these challenge questions.",
+                    "TeachingTips": null
+                  }
+                ]
+              },
+              {
+                "chunkTitle": "Designing a Lens",
+                "chunkStart": 30,
+                "chunkDur": 10,
+                "steps": [
+                  {
+                    "Step": 3,
+                    "StepTitle": "Engineering Mindset",
+                    "StepQuickDescription": "Students imagine themselves as optical engineers to consider the design challenges associated with making lenses.",
+                    "StepDetails": "In the space provided on their worksheets ([➚ Seeing Through Time worksheet](https://docs.google.com/document/d/1lGF3DM_G_NVjIw7AFz9Xtfxa3LFchEY3GU2b_rQzSHI/edit)) students answer several reflection questions related to lens design and optical engineering.",
+                    "Vocab": null,
+                    "VariantNotes": null,
+                    "TeachingTips": null
+                  }
+                ]
+              },
+              {
+                "chunkTitle": "Wrap Up",
+                "chunkStart": 40,
+                "chunkDur": 5,
+                "steps": [
+                  {
+                    "Step": 4,
+                    "StepTitle": "Worksheet Review",
+                    "StepQuickDescription": "Students ensure they've completed their worksheets.",
+                    "StepDetails": "If needed, students can watch the video again at home to double check their answers.",
+                    "Vocab": null,
+                    "VariantNotes": null,
+                    "TeachingTips": null
+                  }
+                ]
+              }
+            ],
+            "lsnExt": [
+              {
+                "item": 1,
+                "itemTitle": "Geometric Optics",
+                "itemDescription": "Advanced students (e.g. G8-9) can explore the geometry of light, lenses, and mirrors using this interactive simulation.",
+                "itemLink": "https://phet.colorado.edu/en/simulations/geometric-optics"
+              }
+            ]
+          },
+          {
+            "lsnNum": 3,
+            "lsnTitle": "What is light? Making waves",
+            "lsnDur": 45,
+            "lsnPreface": "Illustrate the anatomy of a wave by linking together as a human wave-medium to transmit waves with different amplitudes and frequencies. Then, investigate the full spectrum of light waves with a ranking game.",
+            "learningObj": "Students will understand that light travels differently through various media, depending on the medium's index of refraction.",
+            "lsnPrep": {
+              "prepTitle": "Prep",
+              "prepDur": 5,
+              "prepQuickDescription": "Print handouts",
+              "prepDetails": "Print student worksheets ([➚ What is Light Worksheet](https://docs.google.com/document/d/1oKBFUmXcudtQE21y59Q1sDxxEdoMGWW9OIz7MUcLNFI/edit?usp=drive_link))",
               "prepVariantNotes": null,
               "prepTeachingTips": null
             },
@@ -478,23 +664,149 @@
               {
                 "chunkTitle": "Warm Up",
                 "chunkStart": 0,
-                "chunkDur": 10,
+                "chunkDur": 5,
                 "steps": [
                   {
                     "Step": 1,
-                    "StepTitle": "Review",
-                    "StepQuickDescription": "A couple quick questions to review what students learned in Lesson 1.",
+                    "StepTitle": "Brainstorm",
+                    "StepQuickDescription": "A couple quick questions to get students thinking about waves.",
                     "StepDetails": null,
+                    "Vocab": null,
+                    "VariantNotes": null,
+                    "TeachingTips": null
+                  }
+                ]
+              },
+              {
+                "chunkTitle": "Making Waves",
+                "chunkStart": 5,
+                "chunkDur": 20,
+                "steps": [
+                  {
+                    "Step": 2,
+                    "StepTitle": "Doing the Wave",
+                    "StepQuickDescription": "Linking their arms together, students send messages across the room by transferring a wave!",
+                    "StepDetails": "Students practice creating waves with various amplitudes and frequencies. Detailed instructions are in the teacher key.",
                     "Vocab": null,
                     "VariantNotes": null,
                     "TeachingTips": null
                   },
                   {
-                    "Step": 2,
-                    "StepTitle": "Certain-Tier: What is Light?",
-                    "StepQuickDescription": "Students rank how certain they are that a phenomenon is or is not light. Then we check in with Dr. Tom Folland via video ([▶ What is Light?](https://drive.google.com/file/d/1BSiSv5LVEFgDoUCIrX7evj2iefg0SO0h/view?usp=drive_link)) to hear how he defines light.",
-                    "StepDetails": "The student worksheet ([➚ Communicating With Light Worksheet](https://docs.google.com/document/d/1oKBFUmXcudtQE21y59Q1sDxxEdoMGWW9OIz7MUcLNFI/edit?usp=drive_link)) has space for students to rank how certain they are about whether or not a light-candidate is light, as well as room to notice similarities or surprises. Next we check in with photonics expert, Dr. Tom Folland, to hear how he defines light: [▶ What is Light?](https://drive.google.com/file/d/1BSiSv5LVEFgDoUCIrX7evj2iefg0SO0h/view?usp=drive_link)!",
+                    "Step": 3,
+                    "StepTitle": "Anatomy of a Wave",
+                    "StepQuickDescription": "It's time to learn about the parts that make up a wave.",
+                    "StepDetails": "The wave activity provides an introduction to waves, defining the pieces of a wave through cooperative body movement. Students follow along by taking notes on their worksheet ([➚ What is Light Worksheet](https://docs.google.com/document/d/1oKBFUmXcudtQE21y59Q1sDxxEdoMGWW9OIz7MUcLNFI/edit?usp=drive_link)).",
+                    "Vocab": "- **wave:** a repeating pattern that transfers energy from one place to another.\n- **amplitude:** the height of a wave.\n- **frequency:** the number of complete waves that travels per second.",
+                    "VariantNotes": null,
+                    "TeachingTips": null
+                  }
+                ]
+              },
+              {
+                "chunkTitle": "Certain-Tier",
+                "chunkStart": 25,
+                "chunkDur": 15,
+                "steps": [
+                  {
+                    "Step": 4,
+                    "StepTitle": "Is It Light?",
+                    "StepQuickDescription": "Students rank how certain they are that a phenomenon is or is not light. Then we check in with Dr. Tom Folland via video ([▶ What is Light?](https://www.youtube.com/watch?v=Pfgh29tQZlk)) to hear how he defines light.",
+                    "StepDetails": "The student worksheet ([➚ What is Light Worksheet](https://docs.google.com/document/d/1oKBFUmXcudtQE21y59Q1sDxxEdoMGWW9OIz7MUcLNFI/edit?usp=drive_link)) has space for students to rank how certain they are about whether or not a light-candidate is light, as well as room to notice similarities or surprises.",
                     "Vocab": "- **light:** electromagnetic radiation which includes the visible spectrum, as well as radio waves, infrared heat, x-rays, and more.",
+                    "VariantNotes": null,
+                    "TeachingTips": null
+                  },
+                  {
+                    "Step": 5,
+                    "StepTitle": "What is Light? with Dr. Tom Folland",
+                    "StepQuickDescription": "Check in with Dr. Tom Folland via video ([▶ What is Light?](https://www.youtube.com/watch?v=Pfgh29tQZlk)) to hear how he defines light.",
+                    "StepDetails": null,
+                    "Vocab": null,
+                    "VariantNotes": null,
+                    "TeachingTips": null
+                  }
+                ]
+              },
+              {
+                "chunkTitle": "Wrap Up",
+                "chunkStart": 40,
+                "chunkDur": 5,
+                "steps": [
+                  {
+                    "Step": 6,
+                    "StepTitle": "Reflection",
+                    "StepQuickDescription": "The presentation uses the Crab Nebula as an example of light radiated at different frequencies.",
+                    "StepDetails": null,
+                    "Vocab": null,
+                    "VariantNotes": null,
+                    "TeachingTips": null
+                  }
+                ]
+              }
+            ],
+            "lsnExt": [
+              {
+                "item": 1,
+                "itemTitle": "Waves or Particles? The Double Slit Experiment",
+                "itemDescription": "Check out this video to see what the average adult knows about light. The Double Slit Experiment introduces students to the central questions of quantum mechanics.",
+                "itemLink": "https://www.youtube.com/watch?v=Iuv6hY6zsd0&t=1s"
+              },
+              {
+                "item": 2,
+                "itemTitle": "What is Wifi?",
+                "itemDescription": "Explore videos like this one to dig further into relevant waves like Wifi!",
+                "itemLink": "https://www.youtube.com/watch?v=xmabFJUKMdg"
+              },
+              {
+                "item": 3,
+                "itemTitle": "The Work of Hedy Lamarr",
+                "itemDescription": "Hedy Lamarr was a famous actress and inventor who paved the wave for modern-day technologies such as Wifi and Bluetooth. Check out this lesson plan (G6-8) made by the Women's History Museum to learn more about her contributions to science.",
+                "itemLink": "https://www.womenshistory.org/sites/default/files/document/2018-08/Lamarr%20Lesson%20plan%20on%20Letterhead.pdf"
+              }
+            ]
+          },
+          {
+            "lsnNum": 4,
+            "lsnTitle": "Communicating with light: A message to Mars",
+            "lsnDur": 45,
+            "lsnPreface": "Expand on the advanced properties of light. Then design a code that uses waves to send a message to Mars!",
+            "learningObj": null,
+            "lsnPrep": {
+              "prepTitle": "Prep",
+              "prepDur": 5,
+              "prepQuickDescription": "Print handouts",
+              "prepDetails": "Print student worksheets ([➚ Communicating with Light Worksheet](https://docs.google.com/document/d/1kNB-kO3TCaewh8QpAUzDbh_uJykdx4I3PRQKBO-4yRw/edit))",
+              "prepVariantNotes": null,
+              "prepTeachingTips": null
+            },
+            "chunks": [
+              {
+                "chunkTitle": "Warm Up",
+                "chunkStart": 0,
+                "chunkDur": 5,
+                "steps": [
+                  {
+                    "Step": 1,
+                    "StepTitle": "Review",
+                    "StepQuickDescription": "Students quickly share out what they learned about light yesterday.",
+                    "StepDetails": null,
+                    "Vocab": null,
+                    "VariantNotes": null,
+                    "TeachingTips": null
+                  }
+                ]
+              },
+              {
+                "chunkTitle": "Advanced Properties of Light",
+                "chunkStart": 5,
+                "chunkDur": 5,
+                "steps": [
+                  {
+                    "Step": 2,
+                    "StepTitle": "What is Light? Continued",
+                    "StepQuickDescription": "The presentation gives a short overview of more advanced properties of light.",
+                    "StepDetails": null,
+                    "Vocab": "- **photon:** a particle of light\n- **electromagnetic fields:** an invisible field all around us, which oscillates to create light",
                     "VariantNotes": null,
                     "TeachingTips": null
                   }
@@ -507,18 +819,9 @@
                 "steps": [
                   {
                     "Step": 3,
-                    "StepTitle": "Anatomy of a Wave",
-                    "StepQuickDescription": "The fastest way to send a message to Mars is by using light waves-- so it's time to learn about the parts that make up waves.",
-                    "StepDetails": "The presentation guides an introduction to waves, defining the various pieces of a wave.",
-                    "Vocab": "- **wave:** a repeating pattern that transfers energy from one place to another.\n- **amplitude:** the height of a wave.\n- **frequency:** the number of complete waves that travels per second.",
-                    "VariantNotes": null,
-                    "TeachingTips": null
-                  },
-                  {
-                    "Step": 4,
-                    "StepTitle": "Making Waves",
-                    "StepQuickDescription": "Linking their arms together, students send messages across the room by transferring a wave!",
-                    "StepDetails": "Students practice creating waves with various amplitudes and frequencies. The activity culminates in sending a secret message from one side of the room to the other, using a code defined in the presentation. Detailed instructions for this activity are in the teacher worksheet.",
+                    "StepTitle": "Secret Codes",
+                    "StepQuickDescription": "The fastest way to send a message to Mars is by using light waves-- but how can information be encoded in them?",
+                    "StepDetails": "Students work together to design a code with three simple messages. The activity culminates in sending the secret messages from one side of the room to the other. Detailed instructions for this activity are in the teacher worksheet.",
                     "Vocab": null,
                     "VariantNotes": null,
                     "TeachingTips": null
@@ -531,7 +834,7 @@
                 "chunkDur": 10,
                 "steps": [
                   {
-                    "Step": 5,
+                    "Step": 4,
                     "StepTitle": "Radio Communication",
                     "StepQuickDescription": "To review wave anatomy, we look at radios as a practical application of encoding and decoding wave signals.",
                     "StepDetails": "From Morse code, to AM and FM radio, all the way to WiFi and Bluetooth, encoding messages in light has helped us send information faster and farther than ever before. With a nod to actress-inventor Hedy Lamarr, and technology we use every day, this wrap up discussion highlights the prevalence of light-communication all around us.",
@@ -540,9 +843,9 @@
                     "TeachingTips": null
                   },
                   {
-                    "Step": 6,
+                    "Step": 5,
                     "StepTitle": "Reflection",
-                    "StepQuickDescription": "Students reflect on what they've learned, what they enjoyed about the lesson, and any questions that remain.",
+                    "StepQuickDescription": "Lightning review of lessons 3 and 4, and a debrief of the photonics unit.",
                     "StepDetails": null,
                     "Vocab": null,
                     "VariantNotes": null,
@@ -551,7 +854,14 @@
                 ]
               }
             ],
-            "lsnExt": null
+            "lsnExt": [
+              {
+                "item": 1,
+                "itemTitle": "Radio Communication Problem Set",
+                "itemDescription": "Have your students calculate the wavelength, frequency and speed of radio waves with this problem set.",
+                "itemLink": "https://radiojove.gsfc.nasa.gov/education/lesson_plans/lesson4.pdf"
+              }
+            ]
           }
         ],
         "gatheredVocab": [
@@ -584,10 +894,6 @@
             "definition": "The focal point of the eye falls in front of the retina."
           },
           {
-            "term": "light",
-            "definition": "electromagnetic radiation which includes the visible spectrum, as well as radio waves, infrared heat, x-rays, and more."
-          },
-          {
             "term": "wave",
             "definition": "a repeating pattern that transfers energy from one place to another."
           },
@@ -598,6 +904,18 @@
           {
             "term": "frequency",
             "definition": "the number of complete waves that travels per second."
+          },
+          {
+            "term": "light",
+            "definition": "electromagnetic radiation which includes the visible spectrum, as well as radio waves, infrared heat, x-rays, and more."
+          },
+          {
+            "term": "photon",
+            "definition": "a particle of light"
+          },
+          {
+            "term": "electromagnetic fields",
+            "definition": "an invisible field all around us, which oscillates to create light"
           }
         ]
       }
@@ -641,7 +959,7 @@
                       "codes": "L.6.6",
                       "grades": "6",
                       "statements": "Acquire and use accurately grade-appropriate general academic and domain-specific words and phrases; gather vocabulary knowledge when considering a word or phrase important to comprehension or expression.",
-                      "alignmentNotes": "- Students are introduced to vocabularly related to waves and the manipulation of light.",
+                      "alignmentNotes": "Students are introduced to vocabularly related to waves and the manipulation of light.",
                       "subcat": null
                     },
                     {
@@ -651,7 +969,7 @@
                       "codes": "L.7.6",
                       "grades": "7",
                       "statements": "Acquire and use accurately grade-appropriate general academic and domain-specific words and phrases; gather vocabulary knowledge when considering a word or phrase important to comprehension or expression.",
-                      "alignmentNotes": "- Students are introduced to vocabularly related to waves and the manipulation of light.",
+                      "alignmentNotes": "Students are introduced to vocabularly related to waves and the manipulation of light.",
                       "subcat": null
                     },
                     {
@@ -661,7 +979,7 @@
                       "codes": "L.8.6",
                       "grades": "8",
                       "statements": "Acquire and use accurately grade-appropriate general academic and domain-specific words and phrases; gather vocabulary knowledge when considering a word or phrase important to comprehension or expression.",
-                      "alignmentNotes": "- Students are introduced to vocabularly related to waves and the manipulation of light.",
+                      "alignmentNotes": "Students are introduced to vocabularly related to waves and the manipulation of light.",
                       "subcat": null
                     },
                     {
@@ -674,7 +992,7 @@
                         "10"
                       ],
                       "statements": "Acquire and use accurately general academic and domain-specific words and phrases, sufficient for reading, writing, speaking, and listening at the college and career readiness level; demonstrate independence in gathering vocabulary knowledge when considering a word or phrase important to comprehension or expression.",
-                      "alignmentNotes": "- Students are introduced to vocabularly related to waves and the manipulation of light.",
+                      "alignmentNotes": "Students are introduced to vocabularly related to waves and the manipulation of light.",
                       "subcat": null
                     },
                     {
@@ -697,7 +1015,7 @@
                         "12"
                       ],
                       "statements": "Prepare for and participate effectively in a range of conversations and collaborations with diverse partners, building on others' ideas and expressing their own clearly and persuasively.",
-                      "alignmentNotes": "- By working in small groups, students will complete the Magnification Timeline puzzle sort. They will discuss the order in which various devices were invented, sharing and debating their historical knowledge to collectively determine a plausible invention timeline.",
+                      "alignmentNotes": "By working in small groups, students will complete the Magnification Timeline puzzle sort. They will discuss the order in which various devices were invented, sharing and debating their historical knowledge to collectively determine a plausible invention timeline.",
                       "subcat": null
                     }
                   ]
@@ -729,7 +1047,7 @@
                         "8"
                       ],
                       "statements": "Define a design problem that can be solved through the development of an object, tool, process or system and includes multiple criteria and constraints, including scientific knowledge that may limit possible solutions.",
-                      "alignmentNotes": "- Students consider the need for magnification as a design problem to be solved throughout history. In the Magnification Timeline Puzzle, students will think critically about the scientific and technological challenges that would have limited magnification inventions during different eras.",
+                      "alignmentNotes": "Students consider the need for magnification as a design problem to be solved throughout history. In the Magnification Timeline Puzzle, students will think critically about the scientific and technological challenges that would have limited magnification inventions during different eras.",
                       "subcat": "Ask Questions & Define Problems"
                     },
                     {
@@ -743,7 +1061,7 @@
                         "8"
                       ],
                       "statements": "Evaluate limitations of a model for a proposed object or tool.",
-                      "alignmentNotes": "- When prompted to design their own lens from a raw material, students will grapple with the challenges of executing their design with limited tools or resources.",
+                      "alignmentNotes": "When prompted to design their own lens from a raw material, students will grapple with the challenges of executing their design with limited tools or resources.",
                       "subcat": "Developing & Using Models"
                     },
                     {
@@ -757,7 +1075,7 @@
                         "8"
                       ],
                       "statements": "Ask questions that arise from careful observation of phenomena, models, or unexpected results, to clarify and/or seek additional information.",
-                      "alignmentNotes": "- When presented with examples of the electromagnetic radiation spectrum, students are encouraged to express surprise or ask questions about phenomena they don't immediately identify as light.",
+                      "alignmentNotes": "When presented with examples of the electromagnetic radiation spectrum, students are encouraged to express surprise or ask questions about phenomena they don't immediately identify as light.",
                       "subcat": "Ask Questions & Define Problems"
                     },
                     {
@@ -772,7 +1090,7 @@
                         "12"
                       ],
                       "statements": "Analyze complex real-world problems by specifying criteria and constraints for successful solutions.",
-                      "alignmentNotes": "- When prompted to design their own lens from a raw material, students will grapple with the challenges of executing their design with limited tools or resources.",
+                      "alignmentNotes": "When prompted to design their own lens from a raw material, students will grapple with the challenges of executing their design with limited tools or resources.",
                       "subcat": "Ask Questions & Define Problems"
                     },
                     {
@@ -787,7 +1105,7 @@
                         "12"
                       ],
                       "statements": "Ask questions that arise from careful observation of phenomena, or unexpected results, to clarify and/or seek additional information.",
-                      "alignmentNotes": "- When presented with examples of the electromagnetic radiation spectrum, students are encouraged to express surprise or ask questions about phenomena they don't immediately identify as light.",
+                      "alignmentNotes": "When presented with examples of the electromagnetic radiation spectrum, students are encouraged to express surprise or ask questions about phenomena they don't immediately identify as light.",
                       "subcat": "Ask Questions & Define Problems"
                     }
                   ]
@@ -807,7 +1125,7 @@
                         "8"
                       ],
                       "statements": "Digitized signals (sent as wave pulses) are a more reliable way to encode and transmit information.",
-                      "alignmentNotes": "- When challenged to send a message across their classroom using waves, students will discover that a series of wave pulses is efficient for sending messages. The lesson then connects that many modern signals rely on binary encodings to send digitized signals as wave pulses.",
+                      "alignmentNotes": "When challenged to send a message across their classroom using waves, students will discover that a series of wave pulses is efficient for sending messages. The lesson then connects that many modern signals rely on binary encodings to send digitized signals as wave pulses.",
                       "subcat": "Information Technologies & Instrumentation"
                     },
                     {
@@ -822,7 +1140,7 @@
                         "12"
                       ],
                       "statements": "Information can be digitized (e.g., a picture stored as the values of an array of pixels); in this form, it can be stored reliably in computer memory and sent over long distances as a series of wave pulses.",
-                      "alignmentNotes": "- After practicing sending their own messages across the classroom using waves, the lesson turns back to examples of modern technology and digitized signals. Students appreciate that most modern signals are sent via fiber optic cables, WiFi, or satellite, and messages are encoded in binary, as a series of wave pulses.",
+                      "alignmentNotes": "After practicing sending their own messages across the classroom using waves, the lesson turns back to examples of modern technology and digitized signals. Students appreciate that most modern signals are sent via fiber optic cables, WiFi, or satellite, and messages are encoded in binary, as a series of wave pulses.",
                       "subcat": "Wave Properties"
                     },
                     {
@@ -837,7 +1155,7 @@
                         "12"
                       ],
                       "statements": "When light or longer wavelength electromagnetic radiation is absorbed in matter, it is generally converted into thermal energy (heat). Shorter wavelength electromagnetic radiation (ultraviolet, X-rays, gamma rays) can ionize atoms and cause damage to living cells.",
-                      "alignmentNotes": "- Students are introduced to the entire electromagnetic spectrum through the context of how they interact with our world. Students learn that some light is visible, some can be absorbed and converted to heat, and ionizing radition is used in devices such as X-ray machines.",
+                      "alignmentNotes": "Students are introduced to the entire electromagnetic spectrum through the context of how they interact with our world. Students learn that some light is visible, some can be absorbed and converted to heat, and ionizing radition is used in devices such as X-ray machines.",
                       "subcat": "Electromagnetic Radiation"
                     },
                     {
@@ -852,7 +1170,7 @@
                         "12"
                       ],
                       "statements": "The wavelength and frequency of a wave are related to one another by the speed of travel of the wave, which depends on the type of wave and the medium through which it is passing.",
-                      "alignmentNotes": "- L3 will teach students how the wavelength and frequency of light change in various media, in order to preserve the speed of light as a constant.",
+                      "alignmentNotes": "L3 will teach students how the wavelength and frequency of light change in various media, in order to preserve the speed of light as a constant.",
                       "subcat": "Wave Properties"
                     }
                   ]
@@ -873,7 +1191,7 @@
                         "12"
                       ],
                       "statements": "Systems can be designed to do specific tasks.",
-                      "alignmentNotes": "- Students design unique codes that embed messages in waves using frequency and amplitude.",
+                      "alignmentNotes": "Students design unique codes that embed messages in waves using frequency and amplitude.",
                       "subcat": "Systems & Systems Models"
                     }
                   ]
@@ -906,7 +1224,7 @@
                         "12"
                       ],
                       "statements": "Integrate evidence from multiple relevant historical sources and interpretations into a reasoned argument about the past.",
-                      "alignmentNotes": "- Students compare their own historical knowledge and intuition to descriptions of magnification devices invented throughout history. Using their prior knowledge and the device descriptions, they sort the inventions into a plausible timeline.",
+                      "alignmentNotes": "Students compare their own historical knowledge and intuition to descriptions of magnification devices invented throughout history. Using their prior knowledge and the device descriptions, they sort the inventions into a plausible timeline.",
                       "subcat": null
                     },
                     {
@@ -920,7 +1238,7 @@
                         "8"
                       ],
                       "statements": "Organize applicable evidence into a coherent argument about the past.",
-                      "alignmentNotes": "- Students compare their own historical knowledge and intuition to descriptions of magnification devices invented throughout history. Using their prior knowledge and the device descriptions, they sort the inventions into a plausible timeline.",
+                      "alignmentNotes": "Students compare their own historical knowledge and intuition to descriptions of magnification devices invented throughout history. Using their prior knowledge and the device descriptions, they sort the inventions into a plausible timeline.",
                       "subcat": null
                     }
                   ]
@@ -952,7 +1270,7 @@
                         "8"
                       ],
                       "statements": "A simple wave has a repeating pattern with a specific wavelength, frequency, and amplitude.",
-                      "alignmentNotes": "- Students learn that waves are repeating patterns which transfer energy across space, as well as the anatomy of a wave (including wavelength, frequency, and amplitude).",
+                      "alignmentNotes": "Students learn that waves are repeating patterns which transfer energy across space, as well as the anatomy of a wave (including wavelength, frequency, and amplitude).",
                       "subcat": "Wave Properties"
                     },
                     {
@@ -966,7 +1284,7 @@
                         "8"
                       ],
                       "statements": "The path that light travels can be traced as straight lines, except at surfaces between different transparent materials (e.g., air and water, air and glass) where the light path bends.",
-                      "alignmentNotes": "- Students encounter Snell's law, and practice how light bends at interfaces depending on the medium's index of refraction.",
+                      "alignmentNotes": "Students encounter Snell's law, and practice how light bends at interfaces depending on the medium's index of refraction.",
                       "subcat": "Electromagnetic Radiation"
                     },
                     {
@@ -981,7 +1299,7 @@
                         "12"
                       ],
                       "statements": "Electromagnetic radiation (e.g., radio, microwaves, light) can be modeled as a wave of changing electric and magnetic fields or as particles called photons. The wave model is useful for explaining many features of electromagnetic radiation, and the particle model explains other features.",
-                      "alignmentNotes": "- Expanding our concept of (visible) light to include the entire electromagnetic spectrum, advanced students learn that light can be described using a wave model or a particle model.",
+                      "alignmentNotes": "Expanding our concept of (visible) light to include the entire electromagnetic spectrum, advanced students learn that light can be described using a wave model or a particle model.",
                       "subcat": "Electromagnetic Radiation"
                     },
                     {
@@ -996,7 +1314,7 @@
                         "12"
                       ],
                       "statements": "Multiple technologies based on the understanding of waves and their interactions with matter are part of everyday experiences in the modern world (e.g., medical imaging, communications, scanners) and in scientific research. They are essential tools for producing, transmitting, and capturing signals and for storing and interpreting the information contained in them.",
-                      "alignmentNotes": "- Throughout L2 students are introduced to modern technologies (such as radio, WiFi, and Bluetooth) based on sending and receiving signals which are encoded in light.",
+                      "alignmentNotes": "Throughout L2 students are introduced to modern technologies (such as radio, WiFi, and Bluetooth) based on sending and receiving signals which are encoded in light.",
                       "subcat": "Information Technologies & Instrumentation"
                     }
                   ]
@@ -1016,7 +1334,7 @@
                         "8"
                       ],
                       "statements": "Structures can be designed to serve particular functions by taking into account properties of different materials, and how materials can be shaped and used.",
-                      "alignmentNotes": "- Students are prompted to design their own lens from a raw material, taking into account its intended usage, available materials, and manufacturing challenges.",
+                      "alignmentNotes": "Students are prompted to design their own lens from a raw material, taking into account its intended usage, available materials, and manufacturing challenges.",
                       "subcat": "Structure & Function"
                     },
                     {
@@ -1030,7 +1348,7 @@
                         "8"
                       ],
                       "statements": "Time, space, and energy phenomena can be observed at various scales using models to study systems that are too large or too small.",
-                      "alignmentNotes": "- Students are introduced to the wave model of light, and are informed that other models exist to study different aspects of light.",
+                      "alignmentNotes": "Students are introduced to the wave model of light, and are informed that other models exist to study different aspects of light.",
                       "subcat": "Scale, Proportion, & Quantity"
                     },
                     {
@@ -1045,7 +1363,7 @@
                         "12"
                       ],
                       "statements": "The functions and properties of natural and designed objects and systems can be inferred from their overall structure, the way their components are shaped and used, and the molecular substructures of its various materials.",
-                      "alignmentNotes": "- Students are prompted to design their own lens from a raw material, taking into account its intended usage, available materials, and manufacturing challenges.",
+                      "alignmentNotes": "Students are prompted to design their own lens from a raw material, taking into account its intended usage, available materials, and manufacturing challenges.",
                       "subcat": "Structure & Function"
                     }
                   ]
@@ -1077,7 +1395,7 @@
                         "8"
                       ],
                       "statements": "Analyze connections among events and developments in broader historical contexts.",
-                      "alignmentNotes": "- During the Magnification Timeline puzzle sort, students use their understanding of historical events to determine when each device could realisitically have been invented.",
+                      "alignmentNotes": "During the Magnification Timeline puzzle sort, students use their understanding of historical events to determine when each device could realisitically have been invented.",
                       "subcat": null
                     },
                     {
@@ -1092,7 +1410,7 @@
                         "12"
                       ],
                       "statements": "Evaluate how historical events and developments were shaped by unique circumstances of time and place as well as broader historical contexts.",
-                      "alignmentNotes": "- During the Magnification Timeline puzzle sort, students use their understanding of historical events to determine when each device could realisitically have been invented.",
+                      "alignmentNotes": "During the Magnification Timeline puzzle sort, students use their understanding of historical events to determine when each device could realisitically have been invented.",
                       "subcat": null
                     }
                   ]
@@ -1112,7 +1430,7 @@
     "credits": {
       "__component": "lesson-plan.collapsible-text-section",
       "SectionTitle": "Credits",
-      "Content": "\n- [Dri Chiu Tattersfield](https://www.linkedin.com/in/dri-t/) Led the project; helped develop all lesson materials; co-wrote and produced supporting videos.\n- [Madelyn, Leembruggen](https://www.linkedin.com/in/mleembruggen/) Helped develop all lesson materials; performed in, co-wrote, storyboarded, and produced supporting videos.\n- [Ella Houlihan](https://www.linkedin.com/in/ella-houlihan-624878177/) Provided feedback and suggestions throughout development of lessons and media.\n- [Thomas Folland, PhD](https://scholar.google.com/citations?user=s-pbFU8AAAAJ&hl=en&oi=ao) Defined outreach goals; provided feedback throughout development; provided scientific validation of lesson content.\n- [Matt Wilkins, PhD](https://www.linkedin.com/in/mattwilkinsphd/) Directed the project; helped shape and revise all aspects of the lesson and supporting media",
+      "Content": "- [Dri Chiu Tattersfield](https://www.linkedin.com/in/dri-t/) Led the project; helped develop all lesson materials; co-wrote and produced supporting videos.\n- [Madelyn, Leembruggen](https://www.linkedin.com/in/mleembruggen/) Helped develop all lesson materials; performed in, co-wrote, storyboarded, and produced supporting videos.\n- [Ella Houlihan](https://www.linkedin.com/in/ella-houlihan-624878177/) Provided feedback and suggestions throughout development of lessons and media.\n- [Thomas Folland, PhD](https://scholar.google.com/citations?user=s-pbFU8AAAAJ&hl=en&oi=ao) Defined outreach goals; provided feedback throughout development; provided scientific validation of lesson content.\n- [Matt Wilkins, PhD](https://www.linkedin.com/in/mattwilkinsphd/) Directed the project; helped shape and revise all aspects of the lesson and supporting media",
       "InitiallyExpanded": true
     },
     "acknowledgments": {
@@ -1151,6 +1469,18 @@
       "__component": "lesson-plan.versions",
       "SectionTitle": "Version Notes",
       "Data": [
+        {
+          "major_release": "1",
+          "sub_releases": [
+            {
+              "version": "1.0.0",
+              "date": "February 9,2023",
+              "summary": "Major overhaul to break up into 4 lessons based on teacher feedback",
+              "notes": null,
+              "acknowledgments": "Thanks so much to Alexandra Patel & Abigail Mayo for early feedback!"
+            }
+          ]
+        },
         {
           "major_release": "Beta",
           "sub_releases": [

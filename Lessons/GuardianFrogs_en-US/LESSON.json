@@ -7,7 +7,7 @@
   "Country": "United States",
   "DefaultLanguage": "English",
   "DefaultCountry": "United States",
-  "LastUpdated": "2023-12-15 17:47:31.16147",
+  "LastUpdated": "2024-02-08 12:41:01.369502",
   "ReleaseDate": "2022-04-22",
   "isTestRepo": false,
   "FirstPublicationDate": "2022-04-01 15:16:29",
@@ -17,21 +17,27 @@
       "status": "Live",
       "updated_date": null,
       "new_date": "2022-04-22",
-      "sort_by_date": "2022-04-22"
+      "sort_by_date": "2022-04-22",
+      "unit_status": "Live",
+      "unit_release_date": "2022-04-22"
     },
     {
       "lsn": 2,
       "status": "Live",
       "updated_date": null,
       "new_date": "2022-04-22",
-      "sort_by_date": "2022-04-22"
+      "sort_by_date": "2022-04-22",
+      "unit_status": "Live",
+      "unit_release_date": "2022-04-22"
     },
     {
       "lsn": 3,
       "status": "Live",
       "updated_date": null,
       "new_date": "2022-04-22",
-      "sort_by_date": "2022-04-22"
+      "sort_by_date": "2022-04-22",
+      "unit_status": "Live",
+      "unit_release_date": "2022-04-22"
     }
   ],
   "MediumTitle": "'Guardian Frogs of Borneo' |Science| G5-9 (en-US)",
@@ -39,8 +45,8 @@
   "lng": "eng",
   "locale": "en-US",
   "DefaultLocale": "en-US",
-  "TemplateVer": "0.6.2",
-  "galacticPubsVer": "0.9.8",
+  "TemplateVer": "0.6.3",
+  "galacticPubsVer": "1.0.1",
   "URL": "https://www.galacticpolymath.com/lessons/en-US/2",
   "GdriveHome": "GP-LIVE",
   "GdriveDirName": "GuardianFrogs_en-US",
@@ -212,6 +218,36 @@
                       ]
                     },
                     {
+                      "itemTitle": "Student Worksheet (Lesson 1)",
+                      "itemDescription": "Print 1 Per Student",
+                      "itemCat": "document",
+                      "links": [
+                        {
+                          "linkText": "PDF",
+                          "url": "https://docs.google.com/document/d/1jIgQ8m4OvsSYOnWlnBgUXsjeK97w0mFlW2PmNcy91fo/export?format=pdf"
+                        },
+                        {
+                          "linkText": "Preview/Copy in Google Docs",
+                          "url": "https://docs.google.com/document/d/1jIgQ8m4OvsSYOnWlnBgUXsjeK97w0mFlW2PmNcy91fo/template/preview"
+                        }
+                      ]
+                    },
+                    {
+                      "itemTitle": "Teacher Worksheet (Lesson 1)",
+                      "itemDescription": "Print 1",
+                      "itemCat": "document",
+                      "links": [
+                        {
+                          "linkText": "PDF",
+                          "url": "https://docs.google.com/document/d/1jkBbS6L0sFdkwY304ZZqOGxtJEYQWhcjHcIG55l_lCI/export?format=pdf"
+                        },
+                        {
+                          "linkText": "Preview/Copy in Google Docs",
+                          "url": "https://docs.google.com/document/d/1jkBbS6L0sFdkwY304ZZqOGxtJEYQWhcjHcIG55l_lCI/template/preview"
+                        }
+                      ]
+                    },
+                    {
                       "itemTitle": "Student Worksheet (Lesson 1&2)",
                       "itemDescription": "Print 1 Per Student",
                       "itemCat": "document",
@@ -267,6 +303,36 @@
                   "preface": "Students organize, analyze, and interpret the data they collected in Part 1. Through data analysis, they will learn why *sex-role-reversed* species are so interesting.",
                   "tile": null,
                   "itemList": [
+                    {
+                      "itemTitle": "Teacher Worksheet (Lesson 2)",
+                      "itemDescription": "Print 1",
+                      "itemCat": "document",
+                      "links": [
+                        {
+                          "linkText": "PDF",
+                          "url": "https://docs.google.com/document/d/1jkBbS6L0sFdkwY304ZZqOGxtJEYQWhcjHcIG55l_lCI/export?format=pdf"
+                        },
+                        {
+                          "linkText": "Preview/Copy in Google Docs",
+                          "url": "https://docs.google.com/document/d/1jkBbS6L0sFdkwY304ZZqOGxtJEYQWhcjHcIG55l_lCI/template/preview"
+                        }
+                      ]
+                    },
+                    {
+                      "itemTitle": "Student Worksheet (Lesson 2)",
+                      "itemDescription": "Print 1 Per Student",
+                      "itemCat": "document",
+                      "links": [
+                        {
+                          "linkText": "PDF",
+                          "url": "https://docs.google.com/document/d/1jIgQ8m4OvsSYOnWlnBgUXsjeK97w0mFlW2PmNcy91fo/export?format=pdf"
+                        },
+                        {
+                          "linkText": "Preview/Copy in Google Docs",
+                          "url": "https://docs.google.com/document/d/1jIgQ8m4OvsSYOnWlnBgUXsjeK97w0mFlW2PmNcy91fo/template/preview"
+                        }
+                      ]
+                    },
                     {
                       "itemTitle": "Student Worksheet (Lesson 1&2)",
                       "itemDescription": "Print 1 Per Student",
@@ -739,7 +805,7 @@
                         "12"
                       ],
                       "statements": "Evaluate reports based on data.",
-                      "alignmentNotes": "- In P1&2, students analyze the data they collect in the interactive \"Role with It\" activity. In P3 they interpret a real scientific figure to test the hypothesis that Guardian frogs are a sex-role-reversed species.",
+                      "alignmentNotes": "In P1&2, students analyze the data they collect in the interactive \"Role with It\" activity. In P3 they interpret a real scientific figure to test the hypothesis that Guardian frogs are a sex-role-reversed species.",
                       "subcat": null
                     }
                   ]
@@ -758,7 +824,7 @@
                         "12"
                       ],
                       "statements": "Interpret differences in shape, center, and spread in the context of the data sets, accounting for possible effects of extreme data points (outliers).",
-                      "alignmentNotes": "- Students interpret differences (in an authentic scientific graph) between male and female frog calling patterns to test a hypothesis.",
+                      "alignmentNotes": "Students interpret differences (in an authentic scientific graph) between male and female frog calling patterns to test a hypothesis.",
                       "subcat": null
                     }
                   ]
@@ -784,7 +850,7 @@
                       "codes": "SL.6.2",
                       "grades": "6",
                       "statements": "Interpret information presented in diverse media and formats (e.g., visually, quantitatively, orally) and explain how it contributes to a topic, text, or issue under study.",
-                      "alignmentNotes": "- Students interpret differences (in an authentic scientific graph) between male and female frog calling patterns to test a hypothesis.",
+                      "alignmentNotes": "Students interpret differences (in an authentic scientific graph) between male and female frog calling patterns to test a hypothesis.",
                       "subcat": null
                     }
                   ]
@@ -802,7 +868,7 @@
                         "8"
                       ],
                       "statements": "Integrate visual information (e.g., in charts, graphs, photographs, videos, or maps) with other information in print and digital texts.",
-                      "alignmentNotes": "- In P1-P2, students will combine data they collect into tables and interpret their findings to identify a pattern. In P3, they will use data provided in a table to label missing text in a graph; then interpret the graph and explain how it supports the finding that Guardian frogs are a sex-role-reversed species.",
+                      "alignmentNotes": "In P1-P2, students will combine data they collect into tables and interpret their findings to identify a pattern. In P3, they will use data provided in a table to label missing text in a graph; then interpret the graph and explain how it supports the finding that Guardian frogs are a sex-role-reversed species.",
                       "subcat": null
                     },
                     {
@@ -813,7 +879,7 @@
                         "10"
                       ],
                       "statements": "Translate quantitative or technical information expressed in words in a text into visual form (e.g., a table or chart) and translate information expressed visually or mathematically (e.g., in an equation) into words.",
-                      "alignmentNotes": "- In P1-P2, students will combine data they collect into tables and interpret their findings to identify a pattern. In P3, they will use data provided in a table to label missing text in a graph; then interpret the graph and explain how it supports the finding that Guardian frogs are a sex-role-reversed species.",
+                      "alignmentNotes": "In P1-P2, students will combine data they collect into tables and interpret their findings to identify a pattern. In P3, they will use data provided in a table to label missing text in a graph; then interpret the graph and explain how it supports the finding that Guardian frogs are a sex-role-reversed species.",
                       "subcat": null
                     }
                   ]
@@ -843,7 +909,7 @@
                         "8"
                       ],
                       "statements": "Analyze and interpret data to provide evidence for phenomena.",
-                      "alignmentNotes": "- In P1-P2, students will combine data they collect into tables and interpret their findings to identify a pattern. In P3, they will use data provided in a table to label missing text in a graph; then interpret the graph and explain how it supports the finding that Guardian frogs are a sex-role-reversed species.",
+                      "alignmentNotes": "In P1-P2, students will combine data they collect into tables and interpret their findings to identify a pattern. In P3, they will use data provided in a table to label missing text in a graph; then interpret the graph and explain how it supports the finding that Guardian frogs are a sex-role-reversed species.",
                       "subcat": "Analyzing Data"
                     },
                     {
@@ -855,7 +921,7 @@
                         "8"
                       ],
                       "statements": "Ask questions that arise from careful observation of phenomena, models, or unexpected results, to clarify and/or seek additional information.",
-                      "alignmentNotes": "- Students will practice looking at real data that is variable, and become familiar with looking at mean and variability, through experience plotting boxplots and follow-up interpretation of data and discussion.",
+                      "alignmentNotes": "Students will practice looking at real data that is variable, and become familiar with looking at mean and variability, through experience plotting boxplots and follow-up interpretation of data and discussion.",
                       "subcat": "Ask Questions & Define Problems"
                     },
                     {
@@ -867,7 +933,7 @@
                         "8"
                       ],
                       "statements": "Apply concepts of statistics and probability (including mean, median, mode, and variability) to analyze and characterize data, using digital tools when feasible.",
-                      "alignmentNotes": "- Students calculate proportions of males and females of our sample of species. They use these statistics to derive a general pattern and identify exceptional species that buck the trend.",
+                      "alignmentNotes": "Students calculate proportions of males and females of our sample of species. They use these statistics to derive a general pattern and identify exceptional species that buck the trend.",
                       "subcat": "Analyzing Data"
                     },
                     {
@@ -880,7 +946,7 @@
                         "12"
                       ],
                       "statements": "Apply scientific reasoning, theory, and/or models to link evidence to the claims to assess the extent to which the reasoning and data support the explanation or conclusion.",
-                      "alignmentNotes": "- Students interpret differences (in an authentic scientific graph) between male and female frog calling patterns to test a hypothesis.",
+                      "alignmentNotes": "Students interpret differences (in an authentic scientific graph) between male and female frog calling patterns to test a hypothesis.",
                       "subcat": "Constructing Explanations & Designing Solutions"
                     },
                     {
@@ -893,7 +959,7 @@
                         "12"
                       ],
                       "statements": "Ask questions that arise from careful observation of phenomena, or unexpected results, to clarify and/or seek additional information.",
-                      "alignmentNotes": "- In P2, students are asked to identify surprising patterns and to explain which species they would study and why. This requires them to deeply understand the data they've collected.",
+                      "alignmentNotes": "In P2, students are asked to identify surprising patterns and to explain which species they would study and why. This requires them to deeply understand the data they've collected.",
                       "subcat": "Ask Questions & Define Problems"
                     },
                     {
@@ -906,7 +972,7 @@
                         "12"
                       ],
                       "statements": "Apply concepts of statistics and probability (including determining function fits to data, slope, intercept, and correlation coefficient for linear fits) to scientific and engineering questions and problems, using digital tools when feasible.",
-                      "alignmentNotes": "- Students interpret differences (in an authentic scientific graph) between male and female frog calling patterns to test a hypothesis.",
+                      "alignmentNotes": "Students interpret differences (in an authentic scientific graph) between male and female frog calling patterns to test a hypothesis.",
                       "subcat": "Analyzing Data"
                     }
                   ]
@@ -924,7 +990,7 @@
                         "8"
                       ],
                       "statements": "Patterns can be used to identify cause-and-effect relationships.",
-                      "alignmentNotes": "- Students interpret differences (in an authentic scientific graph) between male and female frog calling patterns to test a hypothesis.",
+                      "alignmentNotes": "Students interpret differences (in an authentic scientific graph) between male and female frog calling patterns to test a hypothesis.",
                       "subcat": "Patterns"
                     },
                     {
@@ -937,7 +1003,7 @@
                         "12"
                       ],
                       "statements": "Empirical evidence is needed to identify patterns.",
-                      "alignmentNotes": "- Students interpret differences (in an authentic scientific graph) between male and female frog calling patterns to test a hypothesis.",
+                      "alignmentNotes": "Students interpret differences (in an authentic scientific graph) between male and female frog calling patterns to test a hypothesis.",
                       "subcat": "Patterns"
                     }
                   ]
@@ -956,7 +1022,7 @@
                         "12"
                       ],
                       "statements": "The traits that positively affect survival are more likely to be reproduced, and thus are more common in the population.",
-                      "alignmentNotes": "- This standard is not explicitly addressed, but can easily be connected by asking students to explain how some of the behaviors covered in the lesson should be favored by selection (i.e. how they increase survival and/or reproduction of individuals who behave that way, compared to those who do not).",
+                      "alignmentNotes": "This standard is not explicitly addressed, but can easily be connected by asking students to explain how some of the behaviors covered in the lesson should be favored by selection (i.e. how they increase survival and/or reproduction of individuals who behave that way, compared to those who do not).",
                       "subcat": "Natural Selection"
                     }
                   ]
@@ -986,7 +1052,7 @@
                         "8"
                       ],
                       "statements": "Construct arguments using claims and evidence from multiple sources, while acknowledging the strengths and limitations of the arguments.",
-                      "alignmentNotes": "- In P1-P2, students interpret data they collect and organize in a table. In P3, they synthesize multiple lines of evidence to determine whether Guardian frogs are a sex-role-reversed species and argue for why they should be studied further.",
+                      "alignmentNotes": "In P1-P2, students interpret data they collect and organize in a table. In P3, they synthesize multiple lines of evidence to determine whether Guardian frogs are a sex-role-reversed species and argue for why they should be studied further.",
                       "subcat": null
                     }
                   ]
@@ -1016,7 +1082,7 @@
                         "8"
                       ],
                       "statements": "Animals engage in characteristic behaviors that increase the odds of reproduction.",
-                      "alignmentNotes": "- Students will explore a wide variety of animal mate attraction and parental behaviors that increase the odds of survival and reproduction and reflect on both the general pattern of \"caring females, competitive males\" and exceptions to this pattern.",
+                      "alignmentNotes": "Students will explore a wide variety of animal mate attraction and parental behaviors that increase the odds of survival and reproduction and reflect on both the general pattern of \"caring females, competitive males\" and exceptions to this pattern.",
                       "subcat": "Growth & Development of Organisms"
                     }
                   ]
@@ -1034,7 +1100,7 @@
                         "8"
                       ],
                       "statements": "Apply scientific ideas, principles, and/or evidence to construct, revise and/or use an explanation for real-world phenomena, examples, or events.",
-                      "alignmentNotes": "- Students will integrate data visualization of real biological data and scientific text, using scientific ideas and principles to investigate an real example of exceptions to the rule in nature, with evidence for sex role reversal in Guardian Frogs.",
+                      "alignmentNotes": "Students will integrate data visualization of real biological data and scientific text, using scientific ideas and principles to investigate an real example of exceptions to the rule in nature, with evidence for sex role reversal in Guardian Frogs.",
                       "subcat": "Constructing Explanations & Designing Solutions"
                     }
                   ]
@@ -1052,7 +1118,7 @@
                         "8"
                       ],
                       "statements": "Graphs, charts, and images can be used to identify patterns in data.",
-                      "alignmentNotes": "- Students will practice looking at real data that is variable, and become familiar with looking at mean and variability, through interpreting data represented in tables and scatter plots.",
+                      "alignmentNotes": "Students will practice looking at real data that is variable, and become familiar with looking at mean and variability, through interpreting data represented in tables and scatter plots.",
                       "subcat": "Patterns"
                     }
                   ]

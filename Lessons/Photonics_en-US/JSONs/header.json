@@ -2,13 +2,13 @@
   "numID": 9,
   "_id": "lesson_9_en-US",
   "ShortTitle": "Photonics",
-  "PublicationStatus": "Draft",
+  "PublicationStatus": "Beta",
   "Language": "English",
   "Country": "United States",
   "DefaultLanguage": "English",
   "DefaultCountry": "United States",
-  "LastUpdated": "2024-01-22 17:16:59.637036",
-  "ReleaseDate": "2024-01-26",
+  "LastUpdated": "2024-02-09 16:56:08.504763",
+  "ReleaseDate": "2024-02-10",
   "isTestRepo": false,
   "FirstPublicationDate": null,
   "LsnStatuses": [
@@ -17,21 +17,45 @@
       "status": "Live",
       "updated_date": null,
       "new_date": "2024-01-22",
-      "sort_by_date": "2024-01-22"
+      "sort_by_date": "2024-01-22",
+      "unit_status": "Beta",
+      "unit_release_date": "2024-02-10"
     },
     {
       "lsn": 2,
       "status": "Live",
       "updated_date": null,
       "new_date": "2024-01-22",
-      "sort_by_date": "2024-01-22"
+      "sort_by_date": "2024-01-22",
+      "unit_status": "Beta",
+      "unit_release_date": "2024-02-10"
     },
     {
       "lsn": 3,
+      "status": "Beta",
+      "updated_date": null,
+      "new_date": "2024-02-08",
+      "sort_by_date": "2024-02-08",
+      "unit_status": "Beta",
+      "unit_release_date": "2024-02-10"
+    },
+    {
+      "lsn": 4,
+      "status": "Beta",
+      "updated_date": null,
+      "new_date": "2024-02-08",
+      "sort_by_date": "2024-02-08",
+      "unit_status": "Beta",
+      "unit_release_date": "2024-02-10"
+    },
+    {
+      "lsn": 5,
       "status": "Coming Soon",
       "updated_date": null,
       "new_date": null,
-      "sort_by_date": "2024-01-22"
+      "sort_by_date": "2024-02-09",
+      "unit_status": "Beta",
+      "unit_release_date": "2024-02-10"
     }
   ],
   "MediumTitle": "'Photon Engineers' |Science| G6-9 (en-US)",
@@ -39,8 +63,8 @@
   "lng": "eng",
   "locale": "en-US",
   "DefaultLocale": "en-US",
-  "TemplateVer": "0.6.2",
-  "galacticPubsVer": "0.9.9",
+  "TemplateVer": "0.6.3",
+  "galacticPubsVer": "1.0.1",
   "URL": "https://www.galacticpolymath.com/lessons/en-US/9",
   "GdriveHome": "GP-Studio",
   "GdriveDirName": "Photonics_en-US",
@@ -59,8 +83,8 @@
   "SponsorName": ["NSF", "University of Iowa"],
   "SponsoredBy": "- [Dr. Tom Folland's Lab](https://physics.uiowa.edu/people/thomas-folland) at the University of Iowa\n- National Science Foundation CAREER award, through the division of materials research, grant 2236807",
   "SponsorLogo": ["https://storage.googleapis.com/gp-cloud/lessons/Photonics_en-US/Folland-Lab_logo.png", "https://storage.googleapis.com/gp-cloud/lessons/Photonics_en-US/Iowa_logo_blackBG.png"],
-  "LessonBanner": "https://storage.googleapis.com/gp-cloud/lessons/Photonics_en-US/Photonics_1-banner.png",
-  "LessonCard": "https://storage.googleapis.com/gp-cloud/lessons/Photonics_en-US/Photonics_2-card.png",
+  "LessonBanner": "https://storage.googleapis.com/gp-cloud/lessons/Photonics_en-US/photonics-banner.png",
+  "LessonCard": "https://storage.googleapis.com/gp-cloud/lessons/Photonics_en-US/photonics-card.png",
   "TargetSubject": "Science",
   "LessonEnvir": "Classroom",
   "ForGrades": "6-9",

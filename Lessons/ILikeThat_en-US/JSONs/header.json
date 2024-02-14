@@ -7,7 +7,7 @@
   "Country": "United States",
   "DefaultLanguage": "English",
   "DefaultCountry": "United States",
-  "LastUpdated": "2023-12-15 17:49:33.234319",
+  "LastUpdated": "2024-02-08 12:42:06.329022",
   "ReleaseDate": "2022-10-31",
   "isTestRepo": false,
   "FirstPublicationDate": "2022-07-11 21:10:05",
@@ -17,21 +17,27 @@
       "status": "Live",
       "updated_date": null,
       "new_date": "2022-10-31",
-      "sort_by_date": "2022-10-31"
+      "sort_by_date": "2022-10-31",
+      "unit_status": "Live",
+      "unit_release_date": "2022-10-31"
     },
     {
       "lsn": 2,
       "status": "Live",
       "updated_date": null,
       "new_date": "2022-10-31",
-      "sort_by_date": "2022-10-31"
+      "sort_by_date": "2022-10-31",
+      "unit_status": "Live",
+      "unit_release_date": "2022-10-31"
     },
     {
       "lsn": 3,
       "status": "Live",
       "updated_date": null,
       "new_date": "2022-10-31",
-      "sort_by_date": "2022-10-31"
+      "sort_by_date": "2022-10-31",
+      "unit_status": "Live",
+      "unit_release_date": "2022-10-31"
     }
   ],
   "MediumTitle": "'I Like That!' |Science| G5-9 (en-US)",
@@ -39,8 +45,8 @@
   "lng": "eng",
   "locale": "en-US",
   "DefaultLocale": "en-US",
-  "TemplateVer": "0.6.2",
-  "galacticPubsVer": "0.9.8",
+  "TemplateVer": "0.6.3",
+  "galacticPubsVer": "1.0.1",
   "URL": "https://www.galacticpolymath.com/lessons/en-US/5",
   "GdriveHome": "GP-LIVE",
   "GdriveDirName": "ILikeThat_en-US",

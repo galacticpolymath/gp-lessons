@@ -7,7 +7,7 @@
   "Country": "United States",
   "DefaultLanguage": "English",
   "DefaultCountry": "United States",
-  "LastUpdated": "2023-12-15 17:49:33.234319",
+  "LastUpdated": "2024-02-08 12:42:06.329022",
   "ReleaseDate": "2022-10-31",
   "isTestRepo": false,
   "FirstPublicationDate": "2022-07-11 21:10:05",
@@ -17,21 +17,27 @@
       "status": "Live",
       "updated_date": null,
       "new_date": "2022-10-31",
-      "sort_by_date": "2022-10-31"
+      "sort_by_date": "2022-10-31",
+      "unit_status": "Live",
+      "unit_release_date": "2022-10-31"
     },
     {
       "lsn": 2,
       "status": "Live",
       "updated_date": null,
       "new_date": "2022-10-31",
-      "sort_by_date": "2022-10-31"
+      "sort_by_date": "2022-10-31",
+      "unit_status": "Live",
+      "unit_release_date": "2022-10-31"
     },
     {
       "lsn": 3,
       "status": "Live",
       "updated_date": null,
       "new_date": "2022-10-31",
-      "sort_by_date": "2022-10-31"
+      "sort_by_date": "2022-10-31",
+      "unit_status": "Live",
+      "unit_release_date": "2022-10-31"
     }
   ],
   "MediumTitle": "'I Like That!' |Science| G5-9 (en-US)",
@@ -39,8 +45,8 @@
   "lng": "eng",
   "locale": "en-US",
   "DefaultLocale": "en-US",
-  "TemplateVer": "0.6.2",
-  "galacticPubsVer": "0.9.8",
+  "TemplateVer": "0.6.3",
+  "galacticPubsVer": "1.0.1",
   "URL": "https://www.galacticpolymath.com/lessons/en-US/5",
   "GdriveHome": "GP-LIVE",
   "GdriveDirName": "ILikeThat_en-US",
@@ -974,7 +980,7 @@
                       "codes": "5.NBT.A.4",
                       "grades": "5",
                       "statements": "Use place value understanding to round decimals to any place.",
-                      "alignmentNotes": "- In Part 3, students will calculate proportions of different character's body proportions (e.g. arm-length / torso-length) and round to the nearest hundredth.",
+                      "alignmentNotes": "In Part 3, students will calculate proportions of different character's body proportions (e.g. arm-length / torso-length) and round to the nearest hundredth.",
                       "subcat": null
                     },
                     {
@@ -984,7 +990,7 @@
                       "codes": "5.NBT.B.7",
                       "grades": "5",
                       "statements": "Add, subtract, multiply, and divide decimals to hundredths, using concrete models or drawings and strategies based on place value, properties of operations, and/or the relationship between addition and subtraction; relate the strategy to a written method and explain the reasoning used.",
-                      "alignmentNotes": "- In Part 3, students will calculate proportions of different character's body proportions (e.g. arm-length / torso-length) and round to the nearest hundredth.",
+                      "alignmentNotes": "In Part 3, students will calculate proportions of different character's body proportions (e.g. arm-length / torso-length) and round to the nearest hundredth.",
                       "subcat": null
                     },
                     {
@@ -994,7 +1000,7 @@
                       "codes": "5.NF.B.7b",
                       "grades": "5",
                       "statements": "Interpret division of a whole number by a unit fraction, and compute such quotients. *For example, create a story context for 4 &divide; (1/5), and use a visual fraction model to show the quotient. Use the relationship between multiplication and division to explain that 4 &divide; (1/5) = 20 because 20 &times; (1/5) = 4*.",
-                      "alignmentNotes": "- In Part 3, students will create ratios from character sheets to calculate proportions of different character's body proportions (e.g. arm-length / torso-length) and round to the nearest hundredth.",
+                      "alignmentNotes": "In Part 3, students will create ratios from character sheets to calculate proportions of different character's body proportions (e.g. arm-length / torso-length) and round to the nearest hundredth.",
                       "subcat": null
                     },
                     {
@@ -1004,7 +1010,7 @@
                       "codes": "6.NS.C.8",
                       "grades": "6",
                       "statements": "Solve real-world and mathematical problems by graphing points in all four quadrants of the coordinate plane. Include use of coordinates and absolute value to find distances between points with the same first coordinate or the same second coordinate.",
-                      "alignmentNotes": "- In part 1, students plot their top and bottom ranked images into a graph.",
+                      "alignmentNotes": "In part 1, students plot their top and bottom ranked images into a graph.",
                       "subcat": null
                     }
                   ]
@@ -1020,7 +1026,7 @@
                       "codes": "6.SP.A.2",
                       "grades": "6",
                       "statements": "Understand that a set of data collected to answer a statistical question has a distribution which can be described by its center, spread, and overall shape.",
-                      "alignmentNotes": "- In part 3, students work with histograms and box plots that show the spread and distribution of data points.",
+                      "alignmentNotes": "In part 3, students work with histograms and box plots that show the spread and distribution of data points.",
                       "subcat": null
                     },
                     {
@@ -1030,7 +1036,7 @@
                       "codes": "6.SP.A.3",
                       "grades": "6",
                       "statements": "Recognize that a measure of center for a numerical data set summarizes all of its values with a single number, while a measure of variation describes how its values vary with a single number.",
-                      "alignmentNotes": "- In part 3, students are given histograms that show the variabilty in human proportions and asked to plot the proportion values for different creatures to notice any deviations.",
+                      "alignmentNotes": "In part 3, students are given histograms that show the variabilty in human proportions and asked to plot the proportion values for different creatures to notice any deviations.",
                       "subcat": null
                     },
                     {
@@ -1041,7 +1047,7 @@
                       "codes": "6.SP.B.4",
                       "grades": "6",
                       "statements": "Display numerical data in plots on a number line, including dot plots, histograms, and box plots.",
-                      "alignmentNotes": "- In parts 2 and 3, students interact with box plots and histograms respectively.",
+                      "alignmentNotes": "In parts 2 and 3, students interact with box plots and histograms respectively.",
                       "subcat": null
                     },
                     {
@@ -1051,7 +1057,7 @@
                       "codes": "6.SP.B.5c",
                       "grades": "6",
                       "statements": "Giving quantitative measures of center (median and/or mean) and variability (interquartile range and/or mean absolute deviation), as well as describing any overall pattern and any striking deviations from the overall pattern with reference to the context in which the data were gathered.",
-                      "alignmentNotes": "- In part 3, students are given histograms that show the variabilty in human proportions and asked to plot the proportion values for different creatures to notice any deviations.",
+                      "alignmentNotes": "In part 3, students are given histograms that show the variabilty in human proportions and asked to plot the proportion values for different creatures to notice any deviations.",
                       "subcat": null
                     }
                   ]
@@ -1084,7 +1090,7 @@
                         "8"
                       ],
                       "statements": "Follow precisely a multistep procedure when carrying out experiments, taking measurements, or performing technical tasks.",
-                      "alignmentNotes": "- In parts 1 & 3, students follow a procedure to conduct the experiment with their classmates and collect data.",
+                      "alignmentNotes": "In parts 1 & 3, students follow a procedure to conduct the experiment with their classmates and collect data.",
                       "subcat": null
                     },
                     {
@@ -1098,7 +1104,7 @@
                         "8"
                       ],
                       "statements": "Integrate quantitative or technical information expressed in words in a text with a version of that information expressed visually (e.g., in a flowchart, diagram, model, graph, or table).",
-                      "alignmentNotes": "- In part 1, students convert their emotional and cognitive responses into numerical scores that they enter into a data table and analyze.",
+                      "alignmentNotes": "In part 1, students convert their emotional and cognitive responses into numerical scores that they enter into a data table and analyze.",
                       "subcat": null
                     }
                   ]
@@ -1130,7 +1136,7 @@
                         "8"
                       ],
                       "statements": "Ask questions that arise from careful observation of phenomena, models, or unexpected results, to clarify and/or seek additional information.",
-                      "alignmentNotes": "- In part 1, students investigate the researcher's concept map through experimentation.",
+                      "alignmentNotes": "In part 1, students investigate the researcher's concept map through experimentation.",
                       "subcat": "Ask Questions & Define Problems"
                     },
                     {
@@ -1146,7 +1152,7 @@
                         "8"
                       ],
                       "statements": "Construct, use, and/or present an oral and written argument supported by empirical evidence and scientific reasoning to support or refute an explanation or a model for a phenomenon or a solution to a problem.",
-                      "alignmentNotes": "- Throughout all 3 parts of the lesson, students are given multiple opportunities to think-pair-share, have structured classroom discussions, and work with groups to gain understanding.",
+                      "alignmentNotes": "Throughout all 3 parts of the lesson, students are given multiple opportunities to think-pair-share, have structured classroom discussions, and work with groups to gain understanding.",
                       "subcat": "Engaging in Argument from Evidence"
                     },
                     {
@@ -1160,7 +1166,7 @@
                         "8"
                       ],
                       "statements": "Construct an explanation using models or representations.",
-                      "alignmentNotes": "- In part 1, students are asked to explain the concept map via an example in their own lives.",
+                      "alignmentNotes": "In part 1, students are asked to explain the concept map via an example in their own lives.",
                       "subcat": "Constructing Explanations & Designing Solutions"
                     },
                     {
@@ -1176,7 +1182,7 @@
                         "8"
                       ],
                       "statements": "Apply scientific ideas, principles, and/or evidence to construct, revise and/or use an explanation for real-world phenomena, examples, or events.",
-                      "alignmentNotes": "- Throughout the lesson, students follow the scientific method to deepen their understanding of how perception, cognition, and emotion affect our preferences and decision making.",
+                      "alignmentNotes": "Throughout the lesson, students follow the scientific method to deepen their understanding of how perception, cognition, and emotion affect our preferences and decision making.",
                       "subcat": "Constructing Explanations & Designing Solutions"
                     },
                     {
@@ -1190,7 +1196,7 @@
                         "8"
                       ],
                       "statements": "Apply concepts of statistics and probability (including mean, median, mode, and variability) to analyze and characterize data, using digital tools when feasible.",
-                      "alignmentNotes": "- In Part 3, students will create ratios from character sheets to calculate proportions of different character's body proportions (e.g. arm-length / torso-length) and round to the nearest hundredth.",
+                      "alignmentNotes": "In Part 3, students will create ratios from character sheets to calculate proportions of different character's body proportions (e.g. arm-length / torso-length) and round to the nearest hundredth.",
                       "subcat": "Analyzing Data"
                     },
                     {
@@ -1204,7 +1210,7 @@
                         "8"
                       ],
                       "statements": "Conduct an investigation and/or evaluate and/or revise the experimental design to produce data to serve as the basis for evidence that meet the goals of the investigation.",
-                      "alignmentNotes": "- In part 1, students investigate the researcher's concept map through experimentation and data collection. In part 3, they conduct a separate investigation into what is 'creepy' vs 'cute' based on comparing character design dimensions to the range of natural human variation.",
+                      "alignmentNotes": "In part 1, students investigate the researcher's concept map through experimentation and data collection. In part 3, they conduct a separate investigation into what is 'creepy' vs 'cute' based on comparing character design dimensions to the range of natural human variation.",
                       "subcat": "Planning & Carrying out Investigations"
                     },
                     {
@@ -1218,7 +1224,7 @@
                         "8"
                       ],
                       "statements": "Use mathematical representations to describe and/or support scientific conclusions and design solutions.",
-                      "alignmentNotes": "- In Part 3, students will create ratios from character sheets to calculate proportions of different character's body proportions (e.g. arm-length / torso-length) and round to the nearest hundredth.",
+                      "alignmentNotes": "In Part 3, students will create ratios from character sheets to calculate proportions of different character's body proportions (e.g. arm-length / torso-length) and round to the nearest hundredth.",
                       "subcat": "Using Mathematics & Computational Thinking"
                     },
                     {
@@ -1232,7 +1238,7 @@
                         "8"
                       ],
                       "statements": "Apply mathematical concepts and/or processes (such as ratio, rate, percent, basic operations, and simple algebra) to scientific and engineering questions and problems.",
-                      "alignmentNotes": "- In Part 3, students will create ratios from character sheets to calculate proportions of different character's body proportions (e.g. arm-length / torso-length).",
+                      "alignmentNotes": "In Part 3, students will create ratios from character sheets to calculate proportions of different character's body proportions (e.g. arm-length / torso-length).",
                       "subcat": "Using Mathematics & Computational Thinking"
                     },
                     {
@@ -1246,7 +1252,7 @@
                         "8"
                       ],
                       "statements": "Use and/or develop a model of simple systems with uncertain and less predictable factors.",
-                      "alignmentNotes": "- In part 1, students are asked to explain the concept map via an example in their own lives.",
+                      "alignmentNotes": "In part 1, students are asked to explain the concept map via an example in their own lives.",
                       "subcat": "Developing & Using Models"
                     },
                     {
@@ -1261,7 +1267,7 @@
                         "12"
                       ],
                       "statements": "Ask questions that arise from examining models or a theory, to clarify and/or seek additional information and relationships.",
-                      "alignmentNotes": "- Students will be encouraged to ask questions and share understanding as they develop an understanding of a conceptual model (concept map) of visual processing in the brain.",
+                      "alignmentNotes": "Students will be encouraged to ask questions and share understanding as they develop an understanding of a conceptual model (concept map) of visual processing in the brain.",
                       "subcat": "Ask Questions & Define Problems"
                     },
                     {
@@ -1276,7 +1282,7 @@
                         "12"
                       ],
                       "statements": "Communicate scientific and/or technical information or ideas (e.g. about phenomena and/or the process of development and the design and performance of a proposed process or system) in multiple formats (including orally, graphically, textually, and mathematically).",
-                      "alignmentNotes": "- In Part 1, students will conduct an experiment to understand their own visual preferences and generate graphs of the classroom data. They will then interpret these findings to test a hypothesis. In Part 2, students similarly analyze a real scientific figure. In Part 3, they again collect data, this time based on anatomical ratios in character design sheets. In all cases, there are opportunities for students to share their ideas, observations and reflections.",
+                      "alignmentNotes": "In Part 1, students will conduct an experiment to understand their own visual preferences and generate graphs of the classroom data. They will then interpret these findings to test a hypothesis. In Part 2, students similarly analyze a real scientific figure. In Part 3, they again collect data, this time based on anatomical ratios in character design sheets. In all cases, there are opportunities for students to share their ideas, observations and reflections.",
                       "subcat": "Obtaining, Evaluating, & Communicating Information"
                     }
                   ]
@@ -1296,7 +1302,7 @@
                         "8"
                       ],
                       "statements": "Within cells, special structures are responsible for particular functions, and the cell membrane forms the boundary that controls what enters and leaves the cell.",
-                      "alignmentNotes": "- Part 2 focuses on specialization of cones in the eyes of humans and fish (darters) to detect different wavelengths of light.",
+                      "alignmentNotes": "Part 2 focuses on specialization of cones in the eyes of humans and fish (darters) to detect different wavelengths of light.",
                       "subcat": "Structure & Function"
                     },
                     {
@@ -1310,7 +1316,7 @@
                         "8"
                       ],
                       "statements": "Each sense receptor responds to different inputs (electromagnetic, mechanical, chemical), transmitting them as signals that travel along nerve cells to the brain. The signals are then processed in the brain, resulting in immediate behaviors or memories.",
-                      "alignmentNotes": "- Visual perception of color is the focus of Part 2. Students will gain a quite detailed understanding of how color is perceived, how visual sensitivity can directly affect preference, and over all parts, how perception, cognition, and emotion, affect preferences and behavior.",
+                      "alignmentNotes": "Visual perception of color is the focus of Part 2. Students will gain a quite detailed understanding of how color is perceived, how visual sensitivity can directly affect preference, and over all parts, how perception, cognition, and emotion, affect preferences and behavior.",
                       "subcat": "Information Processing"
                     },
                     {
@@ -1326,7 +1332,7 @@
                         "12"
                       ],
                       "statements": "Systems of specialized cells within organisms help them perform the essential functions of life.",
-                      "alignmentNotes": "- In Parts 1 and 2, students will gain a deeper understanding of how visual sensing of color and patterns affect what we can actually perceive, and how perception is affected by our emotions and cognition (memory and higher order thinking) to drive our preferences. This will involve a good amount of background about how we perceive color (i.e. that color refers to different wavelengths of light that are detected by cones in the retina).",
+                      "alignmentNotes": "In Parts 1 and 2, students will gain a deeper understanding of how visual sensing of color and patterns affect what we can actually perceive, and how perception is affected by our emotions and cognition (memory and higher order thinking) to drive our preferences. This will involve a good amount of background about how we perceive color (i.e. that color refers to different wavelengths of light that are detected by cones in the retina).",
                       "subcat": "Structure & Function"
                     }
                   ]
@@ -1362,7 +1368,7 @@
                         "8"
                       ],
                       "statements": "Complex and microscopic structures and systems can be visualized, modeled, and used to describe how their function depends on the shapes, composition, and relationships among its parts, therefore complex natural structures/systems can be analyzed to determine how they function.",
-                      "alignmentNotes": "- In part 2, students learn how the function of the cells of the eye affect preception.",
+                      "alignmentNotes": "In part 2, students learn how the function of the cells of the eye affect preception.",
                       "subcat": "Structure & Function"
                     },
                     {
@@ -1378,7 +1384,7 @@
                         "8"
                       ],
                       "statements": "Models can be used to represent systems and their interactions–such as inputs, processes and outputs–and energy and matter flows within systems.",
-                      "alignmentNotes": "- Throughout all 3 parts of the lessons, students use terms *perception*, *cognition* and *emotion* to explain the concept map.",
+                      "alignmentNotes": "Throughout all 3 parts of the lessons, students use terms *perception*, *cognition* and *emotion* to explain the concept map.",
                       "subcat": "Systems & Systems Models"
                     },
                     {
@@ -1395,7 +1401,7 @@
                         "12"
                       ],
                       "statements": "Models (e.g., physical, mathematical, computer models) can be used to simulate systems and interactions–including energy, matter, and information flows– within and between systems at different scales.",
-                      "alignmentNotes": "- Throughout all parts of the lesson, students will keep returning to a conceptual framework (concept map) of visual processing in the brain. With each Part, they will gain new insights and understanding about how the eyes (visual sensory systems) interact to affect *perception*, *cognition*, and *emotion,* and how these in turn affect preferences in humans, fish, and other animals.",
+                      "alignmentNotes": "Throughout all parts of the lesson, students will keep returning to a conceptual framework (concept map) of visual processing in the brain. With each Part, they will gain new insights and understanding about how the eyes (visual sensory systems) interact to affect *perception*, *cognition*, and *emotion,* and how these in turn affect preferences in humans, fish, and other animals.",
                       "subcat": "Systems & Systems Models"
                     }
                   ]
@@ -1425,7 +1431,7 @@
                       "codes": "7.NS.A.3",
                       "grades": "7",
                       "statements": "Solve real-world and mathematical problems involving the four operations with rational numbers.",
-                      "alignmentNotes": "- In all 3 parts, students will analyze real data (collected by themselves through novel experiments or from published research). This will involve calculation of proportions, adding up results, and higher-order data interpretation.",
+                      "alignmentNotes": "In all 3 parts, students will analyze real data (collected by themselves through novel experiments or from published research). This will involve calculation of proportions, adding up results, and higher-order data interpretation.",
                       "subcat": null
                     },
                     {
@@ -1435,7 +1441,7 @@
                       "codes": "7.RP.A.2",
                       "grades": "7",
                       "statements": "Recognize and represent proportional relationships between quantities.",
-                      "alignmentNotes": "- In Part 3, students will calculate proportions of different character's body proportions (e.g. arm-length / torso-length) and round to the nearest hundredth.",
+                      "alignmentNotes": "In Part 3, students will calculate proportions of different character's body proportions (e.g. arm-length / torso-length) and round to the nearest hundredth.",
                       "subcat": null
                     }
                   ]
@@ -1465,7 +1471,7 @@
                       "codes": "L.7.6",
                       "grades": "7",
                       "statements": "Acquire and use accurately grade-appropriate general academic and domain-specific words and phrases; gather vocabulary knowledge when considering a word or phrase important to comprehension or expression.",
-                      "alignmentNotes": "- Throughout all parts of the lesson, students will keep returning to a conceptual framework (concept map) of visual processing in the brain. With each Part, they will gain new insights and understanding about how the eyes (visual sensory systems) interact to affect *perception*, *cognition*, and *emotion,* and how these in turn affect preferences in humans, fish, and other animals.",
+                      "alignmentNotes": "Throughout all parts of the lesson, students will keep returning to a conceptual framework (concept map) of visual processing in the brain. With each Part, they will gain new insights and understanding about how the eyes (visual sensory systems) interact to affect *perception*, *cognition*, and *emotion,* and how these in turn affect preferences in humans, fish, and other animals.",
                       "subcat": null
                     },
                     {
@@ -1488,7 +1494,7 @@
                         "12"
                       ],
                       "statements": "Acquire and use accurately a range of general academic and domain-specific words and phrases sufficient for reading, writing, speaking, and listening at the college and career readiness level; demonstrate independence in gathering vocabulary knowledge when encountering an unknown term important to comprehension or expression.",
-                      "alignmentNotes": "- In this lesson, students will acquire and use several new vocabulary terms  (e.g. *cognition*, *perception*, *cones*, etc.). The terms are explained in context through readings and videos and students are given opportunities to incorporate the new terms into exercises and discussion.",
+                      "alignmentNotes": "In this lesson, students will acquire and use several new vocabulary terms  (e.g. *cognition*, *perception*, *cones*, etc.). The terms are explained in context through readings and videos and students are given opportunities to incorporate the new terms into exercises and discussion.",
                       "subcat": null
                     },
                     {
@@ -1500,7 +1506,7 @@
                       "codes": "SL.6.1",
                       "grades": "6",
                       "statements": "Engage effectively in a range of collaborative discussions (one-on-one, in groups, and teacher-led) with diverse partners on grade 6 topics, texts, and issues, building on others' ideas and expressing their own clearly.",
-                      "alignmentNotes": "- Throughout all 3 parts of the lesson, students are given multiple opportunities to think-pair-share, have structured classroom discussions, and work with groups to gain understanding.",
+                      "alignmentNotes": "Throughout all 3 parts of the lesson, students are given multiple opportunities to think-pair-share, have structured classroom discussions, and work with groups to gain understanding.",
                       "subcat": null
                     },
                     {
@@ -1512,7 +1518,7 @@
                       "codes": "SL.7.1",
                       "grades": "7",
                       "statements": "Engage effectively in a range of collaborative discussions (one-on-one, in groups, and teacher-led) with diverse partners on grade 7 topics, texts, and issues, building on others' ideas and expressing their own clearly.",
-                      "alignmentNotes": "- Students will interpret and integrate information from videos, handouts, classroom discussions, and group activities.",
+                      "alignmentNotes": "Students will interpret and integrate information from videos, handouts, classroom discussions, and group activities.",
                       "subcat": null
                     },
                     {
@@ -1524,7 +1530,7 @@
                       "codes": "SL.7.2",
                       "grades": "7",
                       "statements": "Analyze the main ideas and supporting details presented in diverse media and formats (e.g., visually, quantitatively, orally) and explain how the ideas clarify a topic, text, or issue under study.",
-                      "alignmentNotes": "- Students will interpret and integrate information from videos, handouts, classroom discussions, and group activities.",
+                      "alignmentNotes": "Students will interpret and integrate information from videos, handouts, classroom discussions, and group activities.",
                       "subcat": null
                     },
                     {
@@ -1536,7 +1542,7 @@
                       "codes": "SL.8.1",
                       "grades": "8",
                       "statements": "Engage effectively in a range of collaborative discussions (one-on-one, in groups, and teacher-led) with diverse partners on grade 8 topics, texts, and issues, building on others' ideas and expressing their own clearly.",
-                      "alignmentNotes": "- Throughout all 3 parts of the lesson, students are given multiple opportunities to think-pair-share, have structured classroom discussions, and work with groups to gain understanding.",
+                      "alignmentNotes": "Throughout all 3 parts of the lesson, students are given multiple opportunities to think-pair-share, have structured classroom discussions, and work with groups to gain understanding.",
                       "subcat": null
                     }
                   ]
@@ -1566,7 +1572,7 @@
                         "12"
                       ],
                       "statements": "Integrate and evaluate content presented in diverse media and formats, including visually and quantitatively, as well as in words.",
-                      "alignmentNotes": "- In Parts 1 and 2, students will interpret data collected by their classmates and real scientists (respectively), presented in tables and graphs. They will analyze and reflect on their findings.",
+                      "alignmentNotes": "In Parts 1 and 2, students will interpret data collected by their classmates and real scientists (respectively), presented in tables and graphs. They will analyze and reflect on their findings.",
                       "subcat": null
                     }
                   ]
@@ -1596,7 +1602,7 @@
                         "12"
                       ],
                       "statements": "Draw evidence from literary or informational texts to support analysis, reflection, and research.",
-                      "alignmentNotes": "- In Parts 1 and 2, students will interpret data collected by their classmates and real scientists (respectively), presented in tables and graphs. They will analyze and reflect on their findings.",
+                      "alignmentNotes": "In Parts 1 and 2, students will interpret data collected by their classmates and real scientists (respectively), presented in tables and graphs. They will analyze and reflect on their findings.",
                       "subcat": null
                     },
                     {
@@ -1606,7 +1612,7 @@
                       "codes": "W.5.2d",
                       "grades": "5",
                       "statements": "Use precise language and domain-specific vocabulary to inform about or explain the topic.",
-                      "alignmentNotes": "- Throughout all 3 parts of the lessons, students use terms *perception*, *cognition* and *emotion* to explain the concept map.",
+                      "alignmentNotes": "Throughout all 3 parts of the lessons, students use terms *perception*, *cognition* and *emotion* to explain the concept map.",
                       "subcat": null
                     },
                     {
@@ -1618,7 +1624,7 @@
                       "codes": "W.6.2d",
                       "grades": "6",
                       "statements": "Use precise language and domain-specific vocabulary to inform about or explain the topic.",
-                      "alignmentNotes": "- Throughout all 3 parts of the lessons, students use terms *perception*, *cognition* and *emotion* to explain the concept map.",
+                      "alignmentNotes": "Throughout all 3 parts of the lessons, students use terms *perception*, *cognition* and *emotion* to explain the concept map.",
                       "subcat": null
                     },
                     {
@@ -1629,7 +1635,7 @@
                       "codes": "W.6.9",
                       "grades": "6",
                       "statements": "Draw evidence from literary or informational texts to support analysis, reflection, and research.",
-                      "alignmentNotes": "- In Parts 1 and 2, students will interpret data collected by their classmates and real scientists (respectively), presented in tables and graphs. They will analyze and reflect on their findings.",
+                      "alignmentNotes": "In Parts 1 and 2, students will interpret data collected by their classmates and real scientists (respectively), presented in tables and graphs. They will analyze and reflect on their findings.",
                       "subcat": null
                     },
                     {
@@ -1643,7 +1649,7 @@
                         "8"
                       ],
                       "statements": "Introduce claim(s) about a topic or issue, acknowledge and distinguish the claim(s) from alternate or opposing claims, and organize the reasons and evidence logically.",
-                      "alignmentNotes": "- In part 1, students convert their emotional and cognitive responses into numerical scores that they enter into a data table and analyze.",
+                      "alignmentNotes": "In part 1, students convert their emotional and cognitive responses into numerical scores that they enter into a data table and analyze.",
                       "subcat": null
                     },
                     {
@@ -1657,7 +1663,7 @@
                         "8"
                       ],
                       "statements": "Support claim(s) with logical reasoning and relevant, accurate data and evidence that demonstrate an understanding of the topic or text, using credible sources.",
-                      "alignmentNotes": "- In part 2, students view representative data from the scientists' research and view videos of the scientists explaining the research to explain the results.",
+                      "alignmentNotes": "In part 2, students view representative data from the scientists' research and view videos of the scientists explaining the research to explain the results.",
                       "subcat": null
                     },
                     {
@@ -1669,7 +1675,7 @@
                       "codes": "W.7.1",
                       "grades": "7",
                       "statements": "Write arguments to support claims with clear reasons and relevant evidence.",
-                      "alignmentNotes": "- In the worksheet of all 3 parts, students will draw conclusions and support claims with data.",
+                      "alignmentNotes": "In the worksheet of all 3 parts, students will draw conclusions and support claims with data.",
                       "subcat": null
                     },
                     {
@@ -1681,7 +1687,7 @@
                       "codes": "W.7.9",
                       "grades": "7",
                       "statements": "Draw evidence from literary or informational texts to support analysis, reflection, and research.",
-                      "alignmentNotes": "- Students will interpret and integrate information from videos, handouts, classroom discussions, and group activities.",
+                      "alignmentNotes": "Students will interpret and integrate information from videos, handouts, classroom discussions, and group activities.",
                       "subcat": null
                     }
                   ]
@@ -1715,7 +1721,7 @@
                         "8"
                       ],
                       "statements": "Ask questions to identify and/or clarify evidence and/or the premise(s) of an argument.",
-                      "alignmentNotes": "- Throughout the lesson, students are encouraged to ask questions about themselves: why do I like x or y, but not z? They also interrogate the model of visual processing in the brain as they learn how perception, cognition, and emotion affect preferences in humans and fish, in different contexts.",
+                      "alignmentNotes": "Throughout the lesson, students are encouraged to ask questions about themselves: why do I like x or y, but not z? They also interrogate the model of visual processing in the brain as they learn how perception, cognition, and emotion affect preferences in humans and fish, in different contexts.",
                       "subcat": "Ask Questions & Define Problems"
                     },
                     {
@@ -1731,7 +1737,7 @@
                         "8"
                       ],
                       "statements": "Ask questions to clarify and/or refine a model, an explanation, or an engineering problem.",
-                      "alignmentNotes": "- Throughout, students will build on and refine their understanding of a conceptual model for visual processing in the brain.",
+                      "alignmentNotes": "Throughout, students will build on and refine their understanding of a conceptual model for visual processing in the brain.",
                       "subcat": "Ask Questions & Define Problems"
                     },
                     {
@@ -1747,7 +1753,7 @@
                         "8"
                       ],
                       "statements": "Ask questions that require sufficient and appropriate empirical evidence to answer.",
-                      "alignmentNotes": "- In all 3 parts, students will ask questions, make hypotheses and/or predictions, and test the predictions with real data.",
+                      "alignmentNotes": "In all 3 parts, students will ask questions, make hypotheses and/or predictions, and test the predictions with real data.",
                       "subcat": "Ask Questions & Define Problems"
                     },
                     {
@@ -1763,7 +1769,7 @@
                         "8"
                       ],
                       "statements": "Ask questions that can be investigated within the scope of the classroom, outdoor environment, and museums and other public facilities with available resources and, when appropriate, frame a hypothesis based on observations and scientific principles.",
-                      "alignmentNotes": "- In all 3 parts, students will ask questions, make hypotheses and/or predictions, and test the predictions with real data.",
+                      "alignmentNotes": "In all 3 parts, students will ask questions, make hypotheses and/or predictions, and test the predictions with real data.",
                       "subcat": "Ask Questions & Define Problems"
                     },
                     {
@@ -1777,7 +1783,7 @@
                         "8"
                       ],
                       "statements": "Use graphical displays (e.g., maps, charts, graphs, and/or tables) of large data sets to identify temporal and spatial relationships.",
-                      "alignmentNotes": "- In Part 2, students will analyze a box plot to test whether female darters (fish) spent more time near one of two experimental model fish. (See Background)",
+                      "alignmentNotes": "In Part 2, students will analyze a box plot to test whether female darters (fish) spent more time near one of two experimental model fish. (See Background)",
                       "subcat": "Analyzing Data"
                     },
                     {
@@ -1790,7 +1796,7 @@
                         "12"
                       ],
                       "statements": "Critically read scientific literature adapted for classroom use to determine the central ideas or conclusions and/or to obtain scientific and/or technical information to summarize complex evidence, concepts, processes, or information presented in a text by paraphrasing them in simpler but still accurate terms.",
-                      "alignmentNotes": "- Extension: See links in the Extensions and Background sections for scientific articles that you can read and analyze with your class after you have taught the lesson.",
+                      "alignmentNotes": "Extension: See links in the Extensions and Background sections for scientific articles that you can read and analyze with your class after you have taught the lesson.",
                       "subcat": "Obtaining, Evaluating, & Communicating Information"
                     }
                   ]
@@ -1810,7 +1816,7 @@
                         "8"
                       ],
                       "statements": "In multicellular organisms, the body is a system of multiple interacting subsystems. These subsystems are groups of cells that work together to form tissues and organs that are specialized for particular body functions.",
-                      "alignmentNotes": "- We do not go into detail about body systems and subsystems, though this is an implicit take-home.",
+                      "alignmentNotes": "We do not go into detail about body systems and subsystems, though this is an implicit take-home.",
                       "subcat": "Structure & Function"
                     },
                     {
@@ -1824,7 +1830,7 @@
                         "8"
                       ],
                       "statements": "A simple wave has a repeating pattern with a specific wavelength, frequency, and amplitude.",
-                      "alignmentNotes": "- Though the terms *frequency* and *amplitude* are not introduced, the we refer to different *wavelengths* of light throughout Part 2 in particular. This is explained in one of the videos in Part 2.",
+                      "alignmentNotes": "Though the terms *frequency* and *amplitude* are not introduced, the we refer to different *wavelengths* of light throughout Part 2 in particular. This is explained in one of the videos in Part 2.",
                       "subcat": "Wave Properties"
                     },
                     {
@@ -1838,7 +1844,7 @@
                         "8"
                       ],
                       "statements": "When light shines on an object, it is reflected, absorbed, or transmitted through the object, depending on the object’s material and the frequency (color) of the light.",
-                      "alignmentNotes": "- In Part 2, multiple connected videos explain how reflected light is perceived by the eye as different colors, depending on the degree certain wavelengths of light excite different cone cells in the retina.",
+                      "alignmentNotes": "In Part 2, multiple connected videos explain how reflected light is perceived by the eye as different colors, depending on the degree certain wavelengths of light excite different cone cells in the retina.",
                       "subcat": "Electromagnetic Radiation"
                     },
                     {
@@ -1852,7 +1858,7 @@
                         "8"
                       ],
                       "statements": "A wave model of light is useful for explaining brightness, color, and the frequency-dependent bending of light at a surface between media.",
-                      "alignmentNotes": "- In Part 2, students get a crash course in color and color perception in humans and fish.",
+                      "alignmentNotes": "In Part 2, students get a crash course in color and color perception in humans and fish.",
                       "subcat": "Electromagnetic Radiation"
                     }
                   ]
@@ -1872,7 +1878,7 @@
                         "8"
                       ],
                       "statements": "Systems may interact with other systems; they may have sub-systems and be a part of larger complex systems.",
-                      "alignmentNotes": "- Through the conceptual framework of visual signal processing, students will become very familiar with the connections between the eyes and different aspects of neural processing (though we don't go into the specific parts of the brain, which is a bit beyond the scope of this lesson).",
+                      "alignmentNotes": "Through the conceptual framework of visual signal processing, students will become very familiar with the connections between the eyes and different aspects of neural processing (though we don't go into the specific parts of the brain, which is a bit beyond the scope of this lesson).",
                       "subcat": "Systems & Systems Models"
                     }
                   ]
@@ -1906,7 +1912,7 @@
                         "8"
                       ],
                       "statements": "Construct explanations using reasoning, correct sequence, examples, and details with relevant information and data, while acknowledging the strengths and weaknesses of the explanations.",
-                      "alignmentNotes": "- At the end of each Part, students will reflect on the experiments and analyses they conducted. This will involve recognizing the strength or limitations of the evidence based on the data at hand.",
+                      "alignmentNotes": "At the end of each Part, students will reflect on the experiments and analyses they conducted. This will involve recognizing the strength or limitations of the evidence based on the data at hand.",
                       "subcat": null
                     },
                     {
@@ -1923,7 +1929,7 @@
                         "12"
                       ],
                       "statements": "Construct explanations using sound reasoning, correct sequence (linear or non-linear), examples, and details with significant and pertinent information and data, while acknowledging the strengths and weaknesses of the explanation given its purpose (e.g., cause and effect, chronological, procedural, technical).",
-                      "alignmentNotes": "- At the end of each Part, students will reflect on the experiments and analyses they conducted. This will involve recognizing the strength or limitations of the evidence based on the data at hand.",
+                      "alignmentNotes": "At the end of each Part, students will reflect on the experiments and analyses they conducted. This will involve recognizing the strength or limitations of the evidence based on the data at hand.",
                       "subcat": null
                     }
                   ]

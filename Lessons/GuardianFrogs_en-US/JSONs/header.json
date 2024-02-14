@@ -7,7 +7,7 @@
   "Country": "United States",
   "DefaultLanguage": "English",
   "DefaultCountry": "United States",
-  "LastUpdated": "2023-12-15 17:47:31.16147",
+  "LastUpdated": "2024-02-08 12:41:01.369502",
   "ReleaseDate": "2022-04-22",
   "isTestRepo": false,
   "FirstPublicationDate": "2022-04-01 15:16:29",
@@ -17,21 +17,27 @@
       "status": "Live",
       "updated_date": null,
       "new_date": "2022-04-22",
-      "sort_by_date": "2022-04-22"
+      "sort_by_date": "2022-04-22",
+      "unit_status": "Live",
+      "unit_release_date": "2022-04-22"
     },
     {
       "lsn": 2,
       "status": "Live",
       "updated_date": null,
       "new_date": "2022-04-22",
-      "sort_by_date": "2022-04-22"
+      "sort_by_date": "2022-04-22",
+      "unit_status": "Live",
+      "unit_release_date": "2022-04-22"
     },
     {
       "lsn": 3,
       "status": "Live",
       "updated_date": null,
       "new_date": "2022-04-22",
-      "sort_by_date": "2022-04-22"
+      "sort_by_date": "2022-04-22",
+      "unit_status": "Live",
+      "unit_release_date": "2022-04-22"
     }
   ],
   "MediumTitle": "'Guardian Frogs of Borneo' |Science| G5-9 (en-US)",
@@ -39,8 +45,8 @@
   "lng": "eng",
   "locale": "en-US",
   "DefaultLocale": "en-US",
-  "TemplateVer": "0.6.2",
-  "galacticPubsVer": "0.9.8",
+  "TemplateVer": "0.6.3",
+  "galacticPubsVer": "1.0.1",
   "URL": "https://www.galacticpolymath.com/lessons/en-US/2",
   "GdriveHome": "GP-LIVE",
   "GdriveDirName": "GuardianFrogs_en-US",

@@ -7,7 +7,7 @@
   "Country": "United States",
   "DefaultLanguage": "English",
   "DefaultCountry": "United States",
-  "LastUpdated": "2023-12-15 17:48:01.617587",
+  "LastUpdated": "2024-02-08 12:41:17.657221",
   "ReleaseDate": "2021-12-15",
   "isTestRepo": false,
   "FirstPublicationDate": "2021-12-15 17:06:16",
@@ -17,35 +17,45 @@
       "status": "Live",
       "updated_date": null,
       "new_date": "2021-12-15",
-      "sort_by_date": "2021-12-15"
+      "sort_by_date": "2021-12-15",
+      "unit_status": "Live",
+      "unit_release_date": "2021-12-15"
     },
     {
       "lsn": 2,
       "status": "Live",
       "updated_date": null,
       "new_date": "2021-12-15",
-      "sort_by_date": "2021-12-15"
+      "sort_by_date": "2021-12-15",
+      "unit_status": "Live",
+      "unit_release_date": "2021-12-15"
     },
     {
       "lsn": 3,
       "status": "Live",
       "updated_date": null,
       "new_date": "2021-12-15",
-      "sort_by_date": "2021-12-15"
+      "sort_by_date": "2021-12-15",
+      "unit_status": "Live",
+      "unit_release_date": "2021-12-15"
     },
     {
       "lsn": 4,
       "status": "Live",
       "updated_date": null,
       "new_date": "2021-12-15",
-      "sort_by_date": "2021-12-15"
+      "sort_by_date": "2021-12-15",
+      "unit_status": "Live",
+      "unit_release_date": "2021-12-15"
     },
     {
       "lsn": 5,
       "status": "Live",
       "updated_date": null,
       "new_date": "2021-12-15",
-      "sort_by_date": "2021-12-15"
+      "sort_by_date": "2021-12-15",
+      "unit_status": "Live",
+      "unit_release_date": "2021-12-15"
     }
   ],
   "MediumTitle": "'Genetic Rescue to the Rescue' |Science| G9-12 (en-US)",
@@ -53,8 +63,8 @@
   "lng": "eng",
   "locale": "en-US",
   "DefaultLocale": "en-US",
-  "TemplateVer": "0.6.2",
-  "galacticPubsVer": "0.9.8",
+  "TemplateVer": "0.6.3",
+  "galacticPubsVer": "1.0.1",
   "URL": "https://www.galacticpolymath.com/lessons/en-US/3",
   "GdriveHome": "GP-LIVE",
   "GdriveDirName": "geneticRescue_sci",
@@ -1270,7 +1280,7 @@
                         "12"
                       ],
                       "statements": "Represent data on two quantitative variables on a scatter plot, and describe how the variables are related.",
-                      "alignmentNotes": "- Students will interpret population data from Trinidadian guppies and use their findings to explain how it models changes in the Florida Panther population after genetic rescue has occured.",
+                      "alignmentNotes": "Students will interpret population data from Trinidadian guppies and use their findings to explain how it models changes in the Florida Panther population after genetic rescue has occured.",
                       "subcat": null
                     },
                     {
@@ -1285,7 +1295,7 @@
                         "12"
                       ],
                       "statements": "Interpret the slope (rate of change) and the intercept (constant term) of a linear model in the context of the data.",
-                      "alignmentNotes": "- Students will interpret population data from Trinidadian guppies and use their findings to explain how it models changes in the Florida Panther population after genetic rescue has occured.",
+                      "alignmentNotes": "Students will interpret population data from Trinidadian guppies and use their findings to explain how it models changes in the Florida Panther population after genetic rescue has occured.",
                       "subcat": null
                     }
                   ]
@@ -1316,7 +1326,7 @@
                         "10"
                       ],
                       "statements": "Use a variety of techniques to sequence events so that they build on one another to create a coherent whole.",
-                      "alignmentNotes": "- Students use information to complete a logic model depicting genetic rescue.",
+                      "alignmentNotes": "Students use information to complete a logic model depicting genetic rescue.",
                       "subcat": null
                     },
                     {
@@ -1329,7 +1339,7 @@
                         "10"
                       ],
                       "statements": "Conduct short as well as more sustained research projects to answer a question (including a self-generated question) or solve a problem; narrow or broaden the inquiry when appropriate; synthesize multiple sources on the subject, demonstrating understanding of the subject under investigation.",
-                      "alignmentNotes": "- Students take part in a role-playing activity where they consider three options for how to address the issues with Florida Panthers and discuss the pros and cons of each.",
+                      "alignmentNotes": "Students take part in a role-playing activity where they consider three options for how to address the issues with Florida Panthers and discuss the pros and cons of each.",
                       "subcat": null
                     }
                   ]
@@ -1362,7 +1372,7 @@
                         "12"
                       ],
                       "statements": "Make strategic use of digital media and visual displays of data to express information and enhance understanding of presentations.",
-                      "alignmentNotes": "- Students integrate graphs, video, and classroom discussions and reflections to enhance understanding of genetic rescue.",
+                      "alignmentNotes": "Students integrate graphs, video, and classroom discussions and reflections to enhance understanding of genetic rescue.",
                       "subcat": null
                     }
                   ]
@@ -1395,7 +1405,7 @@
                         "12"
                       ],
                       "statements": "Evaluate competing design solutions to a real-world problem based on scientific ideas and principles, empirical evidence, and logical arguments regarding relevant factors (e.g., economic, societal, environmental, ethical considerations).",
-                      "alignmentNotes": "- Students take part in a role-playing activity where they consider three options for how to address the issues with Florida Panthers and discuss the pros and cons of each.",
+                      "alignmentNotes": "Students take part in a role-playing activity where they consider three options for how to address the issues with Florida Panthers and discuss the pros and cons of each.",
                       "subcat": "Engaging in Argument from Evidence"
                     },
                     {
@@ -1410,7 +1420,7 @@
                         "12"
                       ],
                       "statements": "Design, evaluate, and/or refine a solution to a complex real-world problem, based on scientific knowledge, student-generated sources of evidence, prioritized criteria, and tradeoff considerations.",
-                      "alignmentNotes": "- Students take part in a role-playing activity where they consider three options for how to address the issues with Florida Panthers and discuss the pros and cons of each.",
+                      "alignmentNotes": "Students take part in a role-playing activity where they consider three options for how to address the issues with Florida Panthers and discuss the pros and cons of each.",
                       "subcat": "Constructing Explanations & Designing Solutions"
                     },
                     {
@@ -1425,7 +1435,7 @@
                         "12"
                       ],
                       "statements": "Evaluate the impact of new data on a working explanation and/or model of a proposed process or system.",
-                      "alignmentNotes": "- Students will interpret population data from Trinidadian guppies and use their findings to explain how it models changes in the Florida Panther population after genetic rescue has occured.",
+                      "alignmentNotes": "Students will interpret population data from Trinidadian guppies and use their findings to explain how it models changes in the Florida Panther population after genetic rescue has occured.",
                       "subcat": "Analyzing Data"
                     }
                   ]
@@ -1446,7 +1456,7 @@
                         "12"
                       ],
                       "statements": "Humans depend on the living world for the resources and other benefits provided by biodiversity. But human activity is also having adverse impacts on biodiversity through overpopulation, overexploitation, habitat destruction, pollution, introduction of invasive species, and climate change. Thus, sustaining biodiversity so that ecosystem functioning and productivity are maintained is essential to supporting and enhancing life on Earth. Sustaining biodiversity also aids humanity by preserving landscapes of recreational or inspirational value.",
-                      "alignmentNotes": "- Students watch videos to learn about the benefits provided by a healthy Florida Panther population and participate in a Think-Pair-Share to discuss the potential impacts of losing Florida Panthers.",
+                      "alignmentNotes": "Students watch videos to learn about the benefits provided by a healthy Florida Panther population and participate in a Think-Pair-Share to discuss the potential impacts of losing Florida Panthers.",
                       "subcat": "Biodiversity & Humans"
                     }
                   ]
@@ -1467,7 +1477,7 @@
                         "12"
                       ],
                       "statements": "Algebraic thinking is used to examine scientific data and predict the effect of a change in one variable on another (e.g., linear growth vs. exponential growth).",
-                      "alignmentNotes": "- Students will interpret population data from Trinidadian guppies and use their findings to explain how it models changes in the Florida Panther population after genetic rescue has occured.",
+                      "alignmentNotes": "Students will interpret population data from Trinidadian guppies and use their findings to explain how it models changes in the Florida Panther population after genetic rescue has occured.",
                       "subcat": "Scale, Proportion, & Quantity"
                     }
                   ]
@@ -1500,7 +1510,7 @@
                         "12"
                       ],
                       "statements": "Evaluate the impact of human settlement activities on the environmental and cultural characteristics of specific places and regions.",
-                      "alignmentNotes": "- Students watch a video that highlights how human expansion and development has contributed to fragmentation and they use a worksheet to reflect on how this process has contributed to the issues seen in Florida panthers.",
+                      "alignmentNotes": "Students watch a video that highlights how human expansion and development has contributed to fragmentation and they use a worksheet to reflect on how this process has contributed to the issues seen in Florida panthers.",
                       "subcat": null
                     }
                   ]
@@ -1533,7 +1543,7 @@
                         "12"
                       ],
                       "statements": "Compare and evaluate competing arguments or design solutions in light of currently accepted explanations, new evidence, limitations (e.g., trade-offs), constraints, and ethical issues.",
-                      "alignmentNotes": "- Students take part in a role-playing activity where they consider three options for how to address the issues with Florida Panthers and discuss the pros and cons of each.",
+                      "alignmentNotes": "Students take part in a role-playing activity where they consider three options for how to address the issues with Florida Panthers and discuss the pros and cons of each.",
                       "subcat": "Engaging in Argument from Evidence"
                     },
                     {
@@ -1548,7 +1558,7 @@
                         "12"
                       ],
                       "statements": "Make and defend a claim based on evidence about the natural world or the effectiveness of a design solution that reflects scientific knowledge, and student-generated evidence.",
-                      "alignmentNotes": "- Students take part in a role-playing activity where they consider three options for how to address the issues with Florida Panthers and discuss the pros and cons of each.",
+                      "alignmentNotes": "Students take part in a role-playing activity where they consider three options for how to address the issues with Florida Panthers and discuss the pros and cons of each.",
                       "subcat": "Engaging in Argument from Evidence"
                     },
                     {
@@ -1563,7 +1573,7 @@
                         "12"
                       ],
                       "statements": "Make a quantitative and/or qualitative claim regarding the relationship between dependent and independent variables.",
-                      "alignmentNotes": "- Students interpret graphs depicting Trinidadian guppies' population size and genetic variation over time to determine success of genetic rescue treatment.",
+                      "alignmentNotes": "Students interpret graphs depicting Trinidadian guppies' population size and genetic variation over time to determine success of genetic rescue treatment.",
                       "subcat": "Constructing Explanations & Designing Solutions"
                     },
                     {
@@ -1601,7 +1611,7 @@
                         "12"
                       ],
                       "statements": "Natural selection occurs only if there is both (1) variation in the genetic information between organisms in a population and (2) variation in the expression of that genetic information–that is, trait variation–that leads to differences in performance among individuals.",
-                      "alignmentNotes": "- Look at genetic variation at different scales in Parts 1 and 2.",
+                      "alignmentNotes": "Look at genetic variation at different scales in Parts 1 and 2.",
                       "subcat": "Natural Selection"
                     },
                     {
@@ -1616,7 +1626,7 @@
                         "12"
                       ],
                       "statements": "Evolution is a consequence of the interaction of four factors: (1) the potential for a species to increase in number, (2) the genetic variation of individuals in a species due to mutation and sexual reproduction, (3) competition for an environment’s limited supply of the resources that individuals need in order to survive and reproduce, and (4) the ensuing proliferation of those organisms that are better able to survive and reproduce in that environment.",
-                      "alignmentNotes": "- Students participate in a simulated breeding activity, deepening their understanding of the genotype -> phenotype connection.",
+                      "alignmentNotes": "Students participate in a simulated breeding activity, deepening their understanding of the genotype -> phenotype connection.",
                       "subcat": "Adaptation"
                     },
                     {
@@ -1631,7 +1641,7 @@
                         "12"
                       ],
                       "statements": "Species become extinct because they can no longer survive and reproduce in their altered environment. If members cannot adjust to change that is too fast or drastic, the opportunity for the species’ evolution is lost.",
-                      "alignmentNotes": "- Students explore the extinction vortext concept by reviewing and comparing multiple graphs that show changes in population size (and genetic variation) over time.",
+                      "alignmentNotes": "Students explore the extinction vortext concept by reviewing and comparing multiple graphs that show changes in population size (and genetic variation) over time.",
                       "subcat": "Adaptation"
                     }
                   ]
@@ -1652,7 +1662,7 @@
                         "12"
                       ],
                       "statements": "Systems can be designed to do specific tasks.",
-                      "alignmentNotes": "- Students will evaluate the characteristics of a variety of commonly used model organisms and select the ones that best fit for studying the problem in Florida panthers",
+                      "alignmentNotes": "Students will evaluate the characteristics of a variety of commonly used model organisms and select the ones that best fit for studying the problem in Florida panthers",
                       "subcat": "Systems & Systems Models"
                     },
                     {
@@ -1667,7 +1677,7 @@
                         "12"
                       ],
                       "statements": "Models (e.g., physical, mathematical, computer models) can be used to simulate systems and interactions–including energy, matter, and information flows– within and between systems at different scales.",
-                      "alignmentNotes": "- Students will evaluate the characteristics of a variety of commonly used model organisms and select the ones that best fit for studying the problem in Florida panthers.",
+                      "alignmentNotes": "Students will evaluate the characteristics of a variety of commonly used model organisms and select the ones that best fit for studying the problem in Florida panthers.",
                       "subcat": "Systems & Systems Models"
                     },
                     {
@@ -1682,7 +1692,7 @@
                         "12"
                       ],
                       "statements": "Models can be used to predict the behavior of a system, but these predictions have limited precision and reliability due to the assumptions and approximations inherent in models.",
-                      "alignmentNotes": "- Students will evaluate the characteristics of a variety of commonly used model organisms and select the ones that best fit for studying the problem in Florida panthers.",
+                      "alignmentNotes": "Students will evaluate the characteristics of a variety of commonly used model organisms and select the ones that best fit for studying the problem in Florida panthers.",
                       "subcat": "Systems & Systems Models"
                     }
                   ]

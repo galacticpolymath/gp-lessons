@@ -7,7 +7,7 @@
   "Country": "United States",
   "DefaultLanguage": "English",
   "DefaultCountry": "United States",
-  "LastUpdated": "2023-12-15 17:50:01.949848",
+  "LastUpdated": "2024-02-08 12:42:20.29366",
   "ReleaseDate": "2023-05-07",
   "isTestRepo": false,
   "FirstPublicationDate": "2023-04-10 12:14:57",
@@ -17,28 +17,36 @@
       "status": "Live",
       "updated_date": null,
       "new_date": "2023-05-07",
-      "sort_by_date": "2023-05-07"
+      "sort_by_date": "2023-05-07",
+      "unit_status": "Live",
+      "unit_release_date": "2023-05-07"
     },
     {
       "lsn": 2,
       "status": "Live",
       "updated_date": null,
       "new_date": "2023-05-07",
-      "sort_by_date": "2023-05-07"
+      "sort_by_date": "2023-05-07",
+      "unit_status": "Live",
+      "unit_release_date": "2023-05-07"
     },
     {
       "lsn": 3,
       "status": "Live",
       "updated_date": null,
       "new_date": "2023-05-07",
-      "sort_by_date": "2023-05-07"
+      "sort_by_date": "2023-05-07",
+      "unit_status": "Live",
+      "unit_release_date": "2023-05-07"
     },
     {
       "lsn": 4,
       "status": "Live",
       "updated_date": null,
       "new_date": "2023-05-07",
-      "sort_by_date": "2023-05-07"
+      "sort_by_date": "2023-05-07",
+      "unit_status": "Live",
+      "unit_release_date": "2023-05-07"
     }
   ],
   "MediumTitle": "'Electric Crystals' |Science| G7-12 (en-US)",
@@ -46,8 +54,8 @@
   "lng": "eng",
   "locale": "en-US",
   "DefaultLocale": "en-US",
-  "TemplateVer": "0.6.2",
-  "galacticPubsVer": "0.9.8",
+  "TemplateVer": "0.6.3",
+  "galacticPubsVer": "1.0.1",
   "URL": "https://www.galacticpolymath.com/lessons/en-US/6",
   "GdriveHome": "GP-LIVE",
   "GdriveDirName": "ElectricCrystals_en-US",

@@ -73,10 +73,10 @@
                 },
                 {
                   "lessons": [],
-                  "codes": ["6.SP.B.5", "6.SP.B.5a", "6.SP.B.5c"],
+                  "codes": "6.SP.B.5",
                   "grades": "6",
-                  "statements": ["Summarize numerical data sets in relation to their context, such as by:", "Reporting the number of observations.", "Giving quantitative measures of center (median and/or mean) and variability (interquartile range and/or mean absolute deviation), as well as describing any overall pattern and any striking deviations from the overall pattern with reference to the context in which the data were gathered."],
-                  "alignmentNotes": "- Students compare the data in a scatter plot and a histogram, then determine the differences between the two graphs\n- NA",
+                  "statements": "Summarize numerical data sets in relation to their context, such as by:",
+                  "alignmentNotes": "- Students compare the data in a scatter plot and a histogram, then determine the differences between the two graphs",
                   "subcat": null
                 },
                 {

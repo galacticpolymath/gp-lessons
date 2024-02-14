@@ -53,6 +53,36 @@
                   ]
                 },
                 {
+                  "itemTitle": "Student Worksheet (Lesson 1)",
+                  "itemDescription": "Print 1 Per Student",
+                  "itemCat": "document",
+                  "links": [
+                    {
+                      "linkText": "PDF",
+                      "url": "https://docs.google.com/document/d/1jIgQ8m4OvsSYOnWlnBgUXsjeK97w0mFlW2PmNcy91fo/export?format=pdf"
+                    },
+                    {
+                      "linkText": "Preview/Copy in Google Docs",
+                      "url": "https://docs.google.com/document/d/1jIgQ8m4OvsSYOnWlnBgUXsjeK97w0mFlW2PmNcy91fo/template/preview"
+                    }
+                  ]
+                },
+                {
+                  "itemTitle": "Teacher Worksheet (Lesson 1)",
+                  "itemDescription": "Print 1",
+                  "itemCat": "document",
+                  "links": [
+                    {
+                      "linkText": "PDF",
+                      "url": "https://docs.google.com/document/d/1jkBbS6L0sFdkwY304ZZqOGxtJEYQWhcjHcIG55l_lCI/export?format=pdf"
+                    },
+                    {
+                      "linkText": "Preview/Copy in Google Docs",
+                      "url": "https://docs.google.com/document/d/1jkBbS6L0sFdkwY304ZZqOGxtJEYQWhcjHcIG55l_lCI/template/preview"
+                    }
+                  ]
+                },
+                {
                   "itemTitle": "Student Worksheet (Lesson 1&2)",
                   "itemDescription": "Print 1 Per Student",
                   "itemCat": "document",
@@ -108,6 +138,36 @@
               "preface": "Students organize, analyze, and interpret the data they collected in Part 1. Through data analysis, they will learn why *sex-role-reversed* species are so interesting.",
               "tile": null,
               "itemList": [
+                {
+                  "itemTitle": "Teacher Worksheet (Lesson 2)",
+                  "itemDescription": "Print 1",
+                  "itemCat": "document",
+                  "links": [
+                    {
+                      "linkText": "PDF",
+                      "url": "https://docs.google.com/document/d/1jkBbS6L0sFdkwY304ZZqOGxtJEYQWhcjHcIG55l_lCI/export?format=pdf"
+                    },
+                    {
+                      "linkText": "Preview/Copy in Google Docs",
+                      "url": "https://docs.google.com/document/d/1jkBbS6L0sFdkwY304ZZqOGxtJEYQWhcjHcIG55l_lCI/template/preview"
+                    }
+                  ]
+                },
+                {
+                  "itemTitle": "Student Worksheet (Lesson 2)",
+                  "itemDescription": "Print 1 Per Student",
+                  "itemCat": "document",
+                  "links": [
+                    {
+                      "linkText": "PDF",
+                      "url": "https://docs.google.com/document/d/1jIgQ8m4OvsSYOnWlnBgUXsjeK97w0mFlW2PmNcy91fo/export?format=pdf"
+                    },
+                    {
+                      "linkText": "Preview/Copy in Google Docs",
+                      "url": "https://docs.google.com/document/d/1jIgQ8m4OvsSYOnWlnBgUXsjeK97w0mFlW2PmNcy91fo/template/preview"
+                    }
+                  ]
+                },
                 {
                   "itemTitle": "Student Worksheet (Lesson 1&2)",
                   "itemDescription": "Print 1 Per Student",

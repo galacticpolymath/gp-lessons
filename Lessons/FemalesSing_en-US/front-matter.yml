@@ -6,7 +6,7 @@ Language: English
 Country: United States
 DefaultLanguage: English
 DefaultCountry: United States
-LastUpdated: 2024-01-15 13:16:20.336851
+LastUpdated: 2024-02-08 12:41:51.707033
 ReleaseDate: '2021-12-16'
 isTestRepo: no
 FirstPublicationDate: 2021-12-16 16:03:12
@@ -16,23 +16,29 @@ LsnStatuses:
   updated_date: .na
   new_date: '2021-12-16'
   sort_by_date: '2021-12-16'
+  unit_status: Live
+  unit_release_date: '2021-12-16'
 - lsn: 2
   status: Live
   updated_date: .na
   new_date: '2021-12-16'
   sort_by_date: '2021-12-16'
+  unit_status: Live
+  unit_release_date: '2021-12-16'
 - lsn: 3
   status: Live
   updated_date: .na
   new_date: '2021-12-16'
   sort_by_date: '2021-12-16'
+  unit_status: Live
+  unit_release_date: '2021-12-16'
 MediumTitle: '''Females singing to be heard'' |Math| G5–8 & 9–12 (en-US)'
 lang: en
 lng: eng
 locale: en-US
 DefaultLocale: en-US
-TemplateVer: 0.6.2
-galacticPubsVer: 0.9.8
+TemplateVer: 0.6.3
+galacticPubsVer: 1.0.1
 GPCatalogURL: https://gp-catalog.vercel.app/lessons/FemalesSing_en-US/LESSON.json
 URL: https://www.galacticpolymath.com/lessons/en-US/1
 GdriveHome: GP-LIVE
@@ -66,7 +72,7 @@ GradesOrYears: Grades
 LessonTiles: .na
 EstLessonTime: 3 x 45 min
 PullStandardsInfoFrom: standardX
-LearningPlotCorrection: yes
+LearningPlotCorrection: no
 LearningChartFriendly: yes
 LearningEpaulette: https://storage.googleapis.com/gp-cloud/lessons/FemalesSing_en-US/GP-Learning-Epaulette.png
 LearningEpaulette_vert: https://storage.googleapis.com/gp-cloud/lessons/FemalesSing_en-US/GP-Learning-Epaulette_vert.png

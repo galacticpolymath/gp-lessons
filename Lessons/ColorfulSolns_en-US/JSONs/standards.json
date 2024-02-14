@@ -20,7 +20,7 @@
                   "codes": "7.NS.A.3",
                   "grades": "7",
                   "statements": "Solve real-world and mathematical problems involving the four operations with rational numbers.",
-                  "alignmentNotes": "- In Part 2, students will do basic addition and multiplication to calculate starting price of each technology. In Part 3, they will analyze a graph of how unit price changes with how many units are produced in order to decide on which technology is appropriate.",
+                  "alignmentNotes": "In Part 2, students will do basic addition and multiplication to calculate starting price of each technology. In Part 3, they will analyze a graph of how unit price changes with how many units are produced in order to decide on which technology is appropriate.",
                   "subcat": null
                 },
                 {
@@ -30,7 +30,7 @@
                   "codes": "HSN-Q.A.1",
                   "grades": ["9", "10", "11", "12"],
                   "statements": "Use units as a way to understand problems and to guide the solution of multi-step problems; choose and interpret units consistently in formulas; choose and interpret the scale and the origin in graphs and data displays.",
-                  "alignmentNotes": "- Part 3 involves students grappling with how 3 technologies' prices scale differently as production increases. This involves understanding the changing unit scales (on an order of 10) as displayed on a graph.",
+                  "alignmentNotes": "Part 3 involves students grappling with how 3 technologies' prices scale differently as production increases. This involves understanding the changing unit scales (on an order of 10) as displayed on a graph.",
                   "subcat": null
                 }
               ]
@@ -47,7 +47,7 @@
                   "codes": "8.EE.A.3",
                   "grades": "8",
                   "statements": "Use numbers expressed in the form of a single digit times an integer power of 10 to estimate very large or very small quantities, and to express how many times as much one is than the other. *For example, estimate the population of the United States as 3 times 10^8 and the population of the world as 7 times 10^9, and determine that the world population is more than 20 times larger*.",
-                  "alignmentNotes": "- The central graph in Part 2 and 3 has a logarithmic X- and Y- axis. Though logarithms are not an explicit learning target; rather, they are asked to interpret the graph using relative units, this can be an opportunity to dive deeper into this topic if you like.",
+                  "alignmentNotes": "The central graph in Part 2 and 3 has a logarithmic X- and Y- axis. Though logarithms are not an explicit learning target; rather, they are asked to interpret the graph using relative units, this can be an opportunity to dive deeper into this topic if you like.",
                   "subcat": null
                 },
                 {
@@ -57,7 +57,7 @@
                   "codes": "8.F.B.5",
                   "grades": "8",
                   "statements": "Describe qualitatively the functional relationship between two quantities by analyzing a graph (e.g., where the function is increasing or decreasing, linear or nonlinear). Sketch a graph that exhibits the qualitative features of a function that has been described verbally.",
-                  "alignmentNotes": "- In Part 3, students are asked to interpret different inflection points and other features on the graph to hypothesize about the processes that explain them.",
+                  "alignmentNotes": "In Part 3, students are asked to interpret different inflection points and other features on the graph to hypothesize about the processes that explain them.",
                   "subcat": null
                 },
                 {
@@ -67,7 +67,7 @@
                   "codes": "HSF-IF.B.4",
                   "grades": ["9", "10", "11", "12"],
                   "statements": "For a function that models a relationship between two quantities, interpret key features of graphs and tables in terms of the quantities, and sketch graphs showing key features given a verbal description of the relationship. *Key features include: intercepts; intervals where the function is increasing, decreasing, positive, or negative; relative maximums and minimums; symmetries; end behavior; and periodicity*.",
-                  "alignmentNotes": "- In Part 3, students are asked to interpret different inflection points and other features on the graph to hypothesize about the processes that explain them. (For example, why does the Tyrian purple, snail-derived dye technology, curve suddenly shoot straight up? Answer: because price increases as supplies dwindle).",
+                  "alignmentNotes": "In Part 3, students are asked to interpret different inflection points and other features on the graph to hypothesize about the processes that explain them. (For example, why does the Tyrian purple, snail-derived dye technology, curve suddenly shoot straight up? Answer: because price increases as supplies dwindle).",
                   "subcat": null
                 }
               ]
@@ -95,7 +95,7 @@
                   "codes": "RH.6-8.2",
                   "grades": ["6", "7", "8"],
                   "statements": "Determine the central ideas or information of a primary or secondary source; provide an accurate summary of the source distinct from prior knowledge or opinions.",
-                  "alignmentNotes": "- In Part 1, students will work independently and in groups to extract information from complex texts about each technology and complete concept maps of the chemical processes involved.",
+                  "alignmentNotes": "In Part 1, students will work independently and in groups to extract information from complex texts about each technology and complete concept maps of the chemical processes involved.",
                   "subcat": null
                 },
                 {
@@ -107,7 +107,7 @@
                   "codes": "RH.6-8.7",
                   "grades": ["6", "7", "8"],
                   "statements": "Integrate visual information (e.g., in charts, graphs, photographs, videos, or maps) with other information in print and digital texts.",
-                  "alignmentNotes": "- Throughout Parts 1-3, students will integrate readings, discussions, and graphs to gain a deeper understanding of the pros and cons of the 3 dye technologies under study.",
+                  "alignmentNotes": "Throughout Parts 1-3, students will integrate readings, discussions, and graphs to gain a deeper understanding of the pros and cons of the 3 dye technologies under study.",
                   "subcat": null
                 },
                 {
@@ -117,7 +117,7 @@
                   "codes": "CCRA.R.1",
                   "grades": ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12"],
                   "statements": "Read closely to determine what the text says explicitly and to make logical inferences from it; cite specific textual evidence when writing or speaking to support conclusions drawn from the text.",
-                  "alignmentNotes": "- In Part 1, students will work independently and in groups to extract information from complex texts about each technology and complete concept maps of the chemical processes involved.",
+                  "alignmentNotes": "In Part 1, students will work independently and in groups to extract information from complex texts about each technology and complete concept maps of the chemical processes involved.",
                   "subcat": null
                 }
               ]
@@ -133,7 +133,7 @@
                   "codes": "SL.7.1",
                   "grades": "7",
                   "statements": "Engage effectively in a range of collaborative discussions (one-on-one, in groups, and teacher-led) with diverse partners on grade 7 topics, texts, and issues, building on others' ideas and expressing their own clearly.",
-                  "alignmentNotes": "- In Part 1, students will work independently and in groups to extract information from complex texts about each technology and complete concept maps of the chemical processes involved. Throughout the lesson, there are many opportunities for sharing ideas and observations and building a shared knowledge of the technologies and their various tradeoffs.",
+                  "alignmentNotes": "In Part 1, students will work independently and in groups to extract information from complex texts about each technology and complete concept maps of the chemical processes involved. Throughout the lesson, there are many opportunities for sharing ideas and observations and building a shared knowledge of the technologies and their various tradeoffs.",
                   "subcat": null
                 },
                 {
@@ -143,7 +143,7 @@
                   "codes": "SL.8.1",
                   "grades": "8",
                   "statements": "Engage effectively in a range of collaborative discussions (one-on-one, in groups, and teacher-led) with diverse partners on grade 8 topics, texts, and issues, building on others' ideas and expressing their own clearly.",
-                  "alignmentNotes": "- In Part 1, students will work independently and in groups to extract information from complex texts about each technology and complete concept maps of the chemical processes involved. Throughout the lesson, there are many opportunities for sharing ideas and observations and building a shared knowledge of the technologies and their various tradeoffs.",
+                  "alignmentNotes": "In Part 1, students will work independently and in groups to extract information from complex texts about each technology and complete concept maps of the chemical processes involved. Throughout the lesson, there are many opportunities for sharing ideas and observations and building a shared knowledge of the technologies and their various tradeoffs.",
                   "subcat": null
                 },
                 {
@@ -154,7 +154,7 @@
                   "codes": "SL.8.1b",
                   "grades": "8",
                   "statements": "Follow rules for collegial discussions and decision-making, track progress toward specific goals and deadlines, and define individual roles as needed.",
-                  "alignmentNotes": "- In Part 1 and 2, students will need to work together to make sense of the systems put in front of them. They will have flexibility to define roles and strategies for filling out the missing pieces of information from the resources put in front of them.",
+                  "alignmentNotes": "In Part 1 and 2, students will need to work together to make sense of the systems put in front of them. They will have flexibility to define roles and strategies for filling out the missing pieces of information from the resources put in front of them.",
                   "subcat": null
                 },
                 {
@@ -165,7 +165,7 @@
                   "codes": "SL.9-10.1",
                   "grades": ["9", "10"],
                   "statements": "Initiate and participate effectively in a range of collaborative discussions (one-on-one, in groups, and teacher-led) with diverse partners on grades 9-10 topics, texts, and issues, building on others' ideas and expressing their own clearly and persuasively.",
-                  "alignmentNotes": "- In Part 1 and 2, students will need to work together to make sense of the systems put in front of them. They will have flexibility to define roles and strategies for filling out the missing pieces of information from the resources put in front of them.",
+                  "alignmentNotes": "In Part 1 and 2, students will need to work together to make sense of the systems put in front of them. They will have flexibility to define roles and strategies for filling out the missing pieces of information from the resources put in front of them.",
                   "subcat": null
                 },
                 {
@@ -177,7 +177,7 @@
                   "codes": "CCRA.L.6",
                   "grades": ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12"],
                   "statements": "Acquire and use accurately a range of general academic and domain-specific words and phrases sufficient for reading, writing, speaking, and listening at the college and career readiness level; demonstrate independence in gathering vocabulary knowledge when encountering an unknown term important to comprehension or expression.",
-                  "alignmentNotes": "- Throughout the unit, students will gain specialized STEM vocabulary, as well as relevant Māori indigenous terminology related to understanding the cultural significance and impact of indigenous technology.",
+                  "alignmentNotes": "Throughout the unit, students will gain specialized STEM vocabulary, as well as relevant Māori indigenous terminology related to understanding the cultural significance and impact of indigenous technology.",
                   "subcat": null
                 }
               ]
@@ -205,7 +205,7 @@
                   "codes": "AQDP-M4",
                   "grades": ["6", "7", "8"],
                   "statements": "Ask questions to clarify and/or refine a model, an explanation, or an engineering problem.",
-                  "alignmentNotes": "- Students will think, ask questions, discuss, and summarize a fairly robust cost/benefit analysis of the 3 dye technologies.",
+                  "alignmentNotes": "Students will think, ask questions, discuss, and summarize a fairly robust cost/benefit analysis of the 3 dye technologies.",
                   "subcat": "Ask Questions & Define Problems"
                 },
                 {
@@ -215,7 +215,7 @@
                   "codes": "DATA-M8",
                   "grades": ["6", "7", "8"],
                   "statements": "Analyze data to define an optimal operational range for a proposed object, tool, process or system that best meets criteria for success.",
-                  "alignmentNotes": "- Incorporating multiple lines of evidence, students will do a thorough cost/benefit analysis of the 3 dye technologies at the focus of the lesson.",
+                  "alignmentNotes": "Incorporating multiple lines of evidence, students will do a thorough cost/benefit analysis of the 3 dye technologies at the focus of the lesson.",
                   "subcat": "Analyzing Data"
                 },
                 {
@@ -225,7 +225,7 @@
                   "codes": "MOD-M1",
                   "grades": ["6", "7", "8"],
                   "statements": "Evaluate limitations of a model for a proposed object or tool.",
-                  "alignmentNotes": "- Students will do a thorough cost/benefit analysis of the 3 dye technologies at the focus of the lesson.",
+                  "alignmentNotes": "Students will do a thorough cost/benefit analysis of the 3 dye technologies at the focus of the lesson.",
                   "subcat": "Developing & Using Models"
                 },
                 {
@@ -235,7 +235,7 @@
                   "codes": "MOD-M2",
                   "grades": ["6", "7", "8"],
                   "statements": "Develop or modify a model– based on evidence–to match what happens if a variable or component of a system is changed.",
-                  "alignmentNotes": "- In Part 3, students will explore and interpret a graph of how unit price changes with how many units are produced. They also consider the implications for society, sustainability, and consumer benefits of choosing a particular technology to dye products.",
+                  "alignmentNotes": "In Part 3, students will explore and interpret a graph of how unit price changes with how many units are produced. They also consider the implications for society, sustainability, and consumer benefits of choosing a particular technology to dye products.",
                   "subcat": "Developing & Using Models"
                 },
                 {
@@ -245,7 +245,7 @@
                   "codes": "AQDP-H9",
                   "grades": ["9", "10", "11", "12"],
                   "statements": "Analyze complex real-world problems by specifying criteria and constraints for successful solutions.",
-                  "alignmentNotes": "- In Part 3, students will integrate multiple lines of evidence to consider the implications for society, sustainability, and consumer benefits of choosing a particular technology to dye products.",
+                  "alignmentNotes": "In Part 3, students will integrate multiple lines of evidence to consider the implications for society, sustainability, and consumer benefits of choosing a particular technology to dye products.",
                   "subcat": "Ask Questions & Define Problems"
                 },
                 {
@@ -255,7 +255,7 @@
                   "codes": "INFO-H1",
                   "grades": ["9", "10", "11", "12"],
                   "statements": "Critically read scientific literature adapted for classroom use to determine the central ideas or conclusions and/or to obtain scientific and/or technical information to summarize complex evidence, concepts, processes, or information presented in a text by paraphrasing them in simpler but still accurate terms.",
-                  "alignmentNotes": "- In Part 1, students will work independently and in groups to extract information from complex texts about each technology and complete concept maps of the chemical processes involved.",
+                  "alignmentNotes": "In Part 1, students will work independently and in groups to extract information from complex texts about each technology and complete concept maps of the chemical processes involved.",
                   "subcat": "Obtaining, Evaluating, & Communicating Information"
                 },
                 {
@@ -265,7 +265,7 @@
                   "codes": "AQDP-H8",
                   "grades": ["9", "10", "11", "12"],
                   "statements": "Define a design problem that involves the development of a process or system with interacting components and criteria and constraints that may include social, technical and/or environmental considerations.",
-                  "alignmentNotes": "- In Part 3, students will integrate multiple lines of evidence to consider the implications for society, sustainability, and consumer benefits of choosing a particular technology to dye products.",
+                  "alignmentNotes": "In Part 3, students will integrate multiple lines of evidence to consider the implications for society, sustainability, and consumer benefits of choosing a particular technology to dye products.",
                   "subcat": "Ask Questions & Define Problems"
                 }
               ]
@@ -281,7 +281,7 @@
                   "codes": "ESS3.D-M1",
                   "grades": ["6", "7", "8"],
                   "statements": "Human activities, such as the release of greenhouse gases from burning fossil fuels, are major factors in the current rise in Earth’s mean surface temperature (global warming). Reducing the level of climate change and reducing human vulnerability to whatever climate changes do occur depend on the understanding of climate science, engineering capabilities, and other kinds of knowledge, such as understanding of human behavior, and on applying that knowledge wisely in decisions and activities.",
-                  "alignmentNotes": "- In Part 3, students will learn how overexploitation of marine snails could impact the harvest, pricing, and economics of producing Tyrian purple at a large scale. They will also watch a video about detrimental impacts of the dye industry on the global environment. They will incorporate this knowledge into their cost/benefit analysis.",
+                  "alignmentNotes": "In Part 3, students will learn how overexploitation of marine snails could impact the harvest, pricing, and economics of producing Tyrian purple at a large scale. They will also watch a video about detrimental impacts of the dye industry on the global environment. They will incorporate this knowledge into their cost/benefit analysis.",
                   "subcat": "Global Climate Change"
                 },
                 {
@@ -291,7 +291,7 @@
                   "codes": "ESS3.C-H1",
                   "grades": ["9", "10", "11", "12"],
                   "statements": "The sustainability of human societies and the biodiversity that supports them requires responsible management of natural resources.",
-                  "alignmentNotes": "- In Part 3, students will explore sustainability issues associated with fossil-fuel and marine snail-derived dye technologies.",
+                  "alignmentNotes": "In Part 3, students will explore sustainability issues associated with fossil-fuel and marine snail-derived dye technologies.",
                   "subcat": "Human Impacts on Earth Systems"
                 },
                 {
@@ -301,7 +301,7 @@
                   "codes": "ESS3.C-H2",
                   "grades": ["9", "10", "11", "12"],
                   "statements": "Scientists and engineers can make major contributions by developing technologies that produce less pollution and waste and that preclude ecosystem degradation.",
-                  "alignmentNotes": "- A take-home of this lesson is hopefully that STEM professionals are working to solve problems and that the engineers and scientists of the future will be able to achieve a better balance of the diverse sustainability, cultural significance, and cost requirements of consumers through innovation.",
+                  "alignmentNotes": "A take-home of this lesson is hopefully that STEM professionals are working to solve problems and that the engineers and scientists of the future will be able to achieve a better balance of the diverse sustainability, cultural significance, and cost requirements of consumers through innovation.",
                   "subcat": "Human Impacts on Earth Systems"
                 },
                 {
@@ -313,7 +313,7 @@
                   "codes": "ESS3.D-H1",
                   "grades": ["9", "10", "11", "12"],
                   "statements": "Though the magnitudes of human impacts are greater than they have ever been, so too are human abilities to model, predict, and manage current and future impacts.",
-                  "alignmentNotes": "- Students will gain an authentic glimpse into the scientific and engineering mindset as they grapple with the complexities and tradeoffs of the 3 technologies. Hopefully they are left with a sense of agency and motivation to pursue a career that expands our capabilities further.",
+                  "alignmentNotes": "Students will gain an authentic glimpse into the scientific and engineering mindset as they grapple with the complexities and tradeoffs of the 3 technologies. Hopefully they are left with a sense of agency and motivation to pursue a career that expands our capabilities further.",
                   "subcat": "Global Climate Change"
                 },
                 {
@@ -323,7 +323,7 @@
                   "codes": "ETS1.A-H2",
                   "grades": ["9", "10", "11", "12"],
                   "statements": "Humanity faces major global challenges today, such as the need for supplies of clean water and food or for energy sources that minimize pollution, which can be addressed through engineering. These global challenges also may have manifestations in local communities.",
-                  "alignmentNotes": "- In Part 3, students go through a hypothetical example of how overharvesting affects fishermen and consumers. They then watch a video that introduces a number of issues from the massive synthetic dye market around the globe.",
+                  "alignmentNotes": "In Part 3, students go through a hypothetical example of how overharvesting affects fishermen and consumers. They then watch a video that introduces a number of issues from the massive synthetic dye market around the globe.",
                   "subcat": "Defining & Delimiting an Engineering Problem"
                 },
                 {
@@ -333,7 +333,7 @@
                   "codes": "LS2.C-H2",
                   "grades": ["9", "10", "11", "12"],
                   "statements": "Moreover, anthropogenic changes (induced by human activity) in the environment–including habitat destruction, pollution, introduction of invasive species, overexploitation, and climate change–can disrupt an ecosystem and threaten the survival of some species.",
-                  "alignmentNotes": "- In Part 3, students are walked through a hypothetical example of how overharvesting Murex snails can drive extinction and destroy the market for Tyrian purple dye.",
+                  "alignmentNotes": "In Part 3, students are walked through a hypothetical example of how overharvesting Murex snails can drive extinction and destroy the market for Tyrian purple dye.",
                   "subcat": "Ecosystem Dynamics, Functioning, & Resilience"
                 },
                 {
@@ -343,7 +343,7 @@
                   "codes": "LS4.D-H2",
                   "grades": ["9", "10", "11", "12"],
                   "statements": "Humans depend on the living world for the resources and other benefits provided by biodiversity. But human activity is also having adverse impacts on biodiversity through overpopulation, overexploitation, habitat destruction, pollution, introduction of invasive species, and climate change. Thus, sustaining biodiversity so that ecosystem functioning and productivity are maintained is essential to supporting and enhancing life on Earth. Sustaining biodiversity also aids humanity by preserving landscapes of recreational or inspirational value.",
-                  "alignmentNotes": "- In Part 3, students will integrate multiple lines of evidence to consider the implications for society, sustainability, and consumer benefits of choosing a particular technology to dye products.",
+                  "alignmentNotes": "In Part 3, students will integrate multiple lines of evidence to consider the implications for society, sustainability, and consumer benefits of choosing a particular technology to dye products.",
                   "subcat": "Biodiversity & Humans"
                 }
               ]
@@ -371,7 +371,7 @@
                   "codes": "D2.Eco.1.6-8",
                   "grades": ["6", "7", "8"],
                   "statements": "Explain how economic decisions affect the well-being of individuals, businesses, and society.",
-                  "alignmentNotes": "- In Part 3, students will explore and interpret a graph of how unit price changes with how many units are produced. They also consider the implications for society, sustainability, and consumer benefits of choosing a particular technology to dye products.",
+                  "alignmentNotes": "In Part 3, students will explore and interpret a graph of how unit price changes with how many units are produced. They also consider the implications for society, sustainability, and consumer benefits of choosing a particular technology to dye products.",
                   "subcat": null
                 },
                 {
@@ -381,7 +381,7 @@
                   "codes": "D2.Eco.6.6-8",
                   "grades": ["6", "7", "8"],
                   "statements": "Explain how changes in supply and demand cause changes in prices and quantities of goods and services, labor, credit, and foreign currencies.",
-                  "alignmentNotes": "- In Part 3, students will explore and interpret a graph of how unit price changes with how many units are produced. They also consider the implications for society, sustainability, and consumer benefits of choosing a particular technology to dye products.",
+                  "alignmentNotes": "In Part 3, students will explore and interpret a graph of how unit price changes with how many units are produced. They also consider the implications for society, sustainability, and consumer benefits of choosing a particular technology to dye products.",
                   "subcat": null
                 },
                 {
@@ -393,7 +393,7 @@
                   "codes": "D2.Geo.4.6-8",
                   "grades": ["6", "7", "8"],
                   "statements": "Explain how cultural patterns and economic decisions influence environments and the daily lives of people in both nearby and distant places.",
-                  "alignmentNotes": "- Throughout the unit, students are asked to weigh cultural, sustainability, and other considerations against the need of consumers to express themselves through color.",
+                  "alignmentNotes": "Throughout the unit, students are asked to weigh cultural, sustainability, and other considerations against the need of consumers to express themselves through color.",
                   "subcat": null
                 },
                 {
@@ -403,7 +403,7 @@
                   "codes": "D2.Geo.6.6-8",
                   "grades": ["6", "7", "8"],
                   "statements": "Explain how the physical and human characteristics of places and regions are connected to human identities and cultures.",
-                  "alignmentNotes": "- Students learn about how natural dyes (in particular, tānekaha) connect people to the place from which dye ingredients were harvested, as well as the cultural traditions and history behind the technology itself.",
+                  "alignmentNotes": "Students learn about how natural dyes (in particular, tānekaha) connect people to the place from which dye ingredients were harvested, as well as the cultural traditions and history behind the technology itself.",
                   "subcat": null
                 },
                 {
@@ -413,7 +413,7 @@
                   "codes": "D2.Geo.10.9-12",
                   "grades": ["9", "10", "11", "12"],
                   "statements": "Evaluate how changes in the environmental and cultural characteristics of a place or region influence spatial patterns of trade and land use.",
-                  "alignmentNotes": "- In Part 3, students go through a worked example of how overharvesting snails affects biodiversity, economics, and geography at local and regional scales.",
+                  "alignmentNotes": "In Part 3, students go through a worked example of how overharvesting snails affects biodiversity, economics, and geography at local and regional scales.",
                   "subcat": null
                 }
               ]
@@ -441,7 +441,7 @@
                   "codes": "Goal 6",
                   "grades": ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12"],
                   "statements": "Ensure availability and sustainable management of water and sanitation for all",
-                  "alignmentNotes": "- In Part 3, students will integrate multiple lines of evidence to consider the implications for society, sustainability, and consumer benefits of choosing a particular technology to dye products.",
+                  "alignmentNotes": "In Part 3, students will integrate multiple lines of evidence to consider the implications for society, sustainability, and consumer benefits of choosing a particular technology to dye products.",
                   "subcat": "Clean Water and Sanitation"
                 },
                 {
@@ -451,7 +451,7 @@
                   "codes": "Goal 8",
                   "grades": ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12"],
                   "statements": "Promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all",
-                  "alignmentNotes": "- Sustainability is an inherent factor in the cost/benefit analysis students will undertake. Indigenous technology is also integral in the lesson. This should drive home the recognition that economic development should include marginalized groups and perspectives, while also minimizing negative impacts on the environment.",
+                  "alignmentNotes": "Sustainability is an inherent factor in the cost/benefit analysis students will undertake. Indigenous technology is also integral in the lesson. This should drive home the recognition that economic development should include marginalized groups and perspectives, while also minimizing negative impacts on the environment.",
                   "subcat": "Decent Work and Economic Growth"
                 }
               ]
@@ -467,7 +467,7 @@
                   "codes": "Goal 12",
                   "grades": ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12"],
                   "statements": "Ensure sustainable consumption and production patterns",
-                  "alignmentNotes": "- In Part 3, students are walked through a hypothetical example of how overharvesting Murex snails can drive extinction and destroy the market for Tyrian purple dye. They also watch a video about the myriad environmental harms of mass production of fossil-fule-derived synthetic dyes.",
+                  "alignmentNotes": "In Part 3, students are walked through a hypothetical example of how overharvesting Murex snails can drive extinction and destroy the market for Tyrian purple dye. They also watch a video about the myriad environmental harms of mass production of fossil-fule-derived synthetic dyes.",
                   "subcat": "Responsible Consumption and Production"
                 }
               ]
@@ -495,7 +495,7 @@
                   "codes": "DATA-M1",
                   "grades": ["6", "7", "8"],
                   "statements": "Construct, analyze, and/or interpret graphical displays of data and/or large data sets to identify linear and nonlinear relationships.",
-                  "alignmentNotes": "- In Part 3, students will go through a detailed analysis of 3 curves showing the effect of production scale on unit price using the 3 different dye technologies. These curves include linear and exponential patterns that stem from underlying processes such as overharvesting or gradual technological improvement.",
+                  "alignmentNotes": "In Part 3, students will go through a detailed analysis of 3 curves showing the effect of production scale on unit price using the 3 different dye technologies. These curves include linear and exponential patterns that stem from underlying processes such as overharvesting or gradual technological improvement.",
                   "subcat": "Analyzing Data"
                 },
                 {
@@ -505,7 +505,7 @@
                   "codes": "INFO-M1",
                   "grades": ["6", "7", "8"],
                   "statements": "Critically read scientific texts adapted for classroom use to determine the central ideas and/or obtain scientific and/or technical information to describe patterns in and/or evidence about the natural and designed world(s).",
-                  "alignmentNotes": "- In Part 1, students will work independently and in groups to extract information from complex texts about each technology and complete concept maps of the chemical processes involved.",
+                  "alignmentNotes": "In Part 1, students will work independently and in groups to extract information from complex texts about each technology and complete concept maps of the chemical processes involved.",
                   "subcat": "Obtaining, Evaluating, & Communicating Information"
                 },
                 {
@@ -515,7 +515,7 @@
                   "codes": "MATH-M4",
                   "grades": ["6", "7", "8"],
                   "statements": "Apply mathematical concepts and/or processes (such as ratio, rate, percent, basic operations, and simple algebra) to scientific and engineering questions and problems.",
-                  "alignmentNotes": "- In Part 2, students will do basic addition and multiplication to calculate starting price of each technology. In Part 3, they will analyze a graph of how unit price changes with how many units are produced in order to decide on which technology is appropriate.",
+                  "alignmentNotes": "In Part 2, students will do basic addition and multiplication to calculate starting price of each technology. In Part 3, they will analyze a graph of how unit price changes with how many units are produced in order to decide on which technology is appropriate.",
                   "subcat": "Using Mathematics & Computational Thinking"
                 },
                 {
@@ -525,7 +525,7 @@
                   "codes": "CEDS-H5",
                   "grades": ["9", "10", "11", "12"],
                   "statements": "Design, evaluate, and/or refine a solution to a complex real-world problem, based on scientific knowledge, student-generated sources of evidence, prioritized criteria, and tradeoff considerations.",
-                  "alignmentNotes": "- In Part 3, students will integrate multiple lines of evidence to consider the implications for society, sustainability, and consumer benefits to make a recommendation of a particular dye technology that achieves their desired balance of priorities.",
+                  "alignmentNotes": "In Part 3, students will integrate multiple lines of evidence to consider the implications for society, sustainability, and consumer benefits to make a recommendation of a particular dye technology that achieves their desired balance of priorities.",
                   "subcat": "Constructing Explanations & Designing Solutions"
                 }
               ]
@@ -541,7 +541,7 @@
                   "codes": "ESS3.C-M2",
                   "grades": ["6", "7", "8"],
                   "statements": "Typically as human populations and per capita consumption of natural resources increase, so do the negative impacts on Earth unless the activities and technologies involved are engineered otherwise.",
-                  "alignmentNotes": "- In Part 3, students will explore sustainability issues associated with fossil-fuel and marine snail-derived dye technologies.",
+                  "alignmentNotes": "In Part 3, students will explore sustainability issues associated with fossil-fuel and marine snail-derived dye technologies.",
                   "subcat": "Human Impacts on Earth Systems"
                 },
                 {
@@ -551,7 +551,7 @@
                   "codes": "ETS1.B-H1",
                   "grades": ["9", "10", "11", "12"],
                   "statements": "When evaluating solutions it is important to take into account a range of constraints including cost, safety, reliability, and aesthetics and to consider social, cultural, and environmental impacts.",
-                  "alignmentNotes": "- In Part 3, students will integrate multiple lines of evidence to consider the implications for society, sustainability, and consumer benefits of choosing a particular technology to dye products.",
+                  "alignmentNotes": "In Part 3, students will integrate multiple lines of evidence to consider the implications for society, sustainability, and consumer benefits of choosing a particular technology to dye products.",
                   "subcat": "Developing Possible Solutions"
                 },
                 {
@@ -561,7 +561,7 @@
                   "codes": "ETS1.A-H1",
                   "grades": ["9", "10", "11", "12"],
                   "statements": "Criteria and constraints also include satisfying any requirements set by society, such as taking issues of risk mitigation into account, and they should be quantified to the extent possible and stated in such a way that one can tell if a given design meets them.",
-                  "alignmentNotes": "- In Part 3, students will integrate multiple lines of evidence to consider the implications for society, sustainability, and consumer benefits to make a recommendation of a particular dye technology that achieves their desired balance of priorities.",
+                  "alignmentNotes": "In Part 3, students will integrate multiple lines of evidence to consider the implications for society, sustainability, and consumer benefits to make a recommendation of a particular dye technology that achieves their desired balance of priorities.",
                   "subcat": "Defining & Delimiting an Engineering Problem"
                 }
               ]
@@ -577,7 +577,7 @@
                   "codes": "SPQ-H4",
                   "grades": ["9", "10", "11", "12"],
                   "statements": "Using the concept of orders of magnitude allows one to understand how a model at one scale relates to a model at another scale.",
-                  "alignmentNotes": "- Part 3 involves students grappling with how 3 technologies' prices scale differently as production increases. This involves understanding the changing unit scales (by an order of 10; i.e. a logarithmic scale) as displayed on a graph.",
+                  "alignmentNotes": "Part 3 involves students grappling with how 3 technologies' prices scale differently as production increases. This involves understanding the changing unit scales (by an order of 10; i.e. a logarithmic scale) as displayed on a graph.",
                   "subcat": "Scale, Proportion, & Quantity"
                 }
               ]

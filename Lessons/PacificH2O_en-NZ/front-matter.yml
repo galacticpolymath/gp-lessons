@@ -6,7 +6,7 @@ Language: English
 Country: United States
 DefaultLanguage: English
 DefaultCountry: United States
-LastUpdated: 2023-12-08 15:46:35.062891
+LastUpdated: 2024-02-08 12:38:41.123099
 ReleaseDate: '2050-01-01'
 isTestRepo: no
 FirstPublicationDate: .na
@@ -16,8 +16,8 @@ lang: en
 lng: eng
 locale: en-US
 DefaultLocale: en-US
-TemplateVer: 0.6.2
-galacticPubsVer: 0.9.8
+TemplateVer: 0.6.3
+galacticPubsVer: 1.0.1
 URL: https://www.galacticpolymath.com/lessons/en-US/NA
 GdriveHome: GP-Studio
 GdriveDirName: PacificH2O_en-NZ
@@ -45,7 +45,7 @@ GradesOrYears: Grades
 LessonTiles: .na
 EstLessonTime: .na
 PullStandardsInfoFrom: myFile
-LearningPlotCorrection: yes
+LearningPlotCorrection: no
 LearningChartFriendly: .na
 LearningEpaulette: .na
 LearningEpaulette_vert: .na

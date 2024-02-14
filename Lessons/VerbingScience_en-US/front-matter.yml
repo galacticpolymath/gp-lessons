@@ -6,17 +6,18 @@ Language: English
 Country: United States
 DefaultLanguage: English
 DefaultCountry: United States
-LastUpdated: 2023-11-10 14:41:33.035826
+LastUpdated: 2024-02-08 12:38:42.204966
 ReleaseDate: '2050-01-01'
 isTestRepo: no
 FirstPublicationDate: .na
+LsnStatuses: .na
 MediumTitle: '''VerbingScience'' |Math| (en-US)'
 lang: en
 lng: eng
 locale: en-US
 DefaultLocale: en-US
-TemplateVer: 0.6.1
-galacticPubsVer: 0.9.8
+TemplateVer: 0.6.3
+galacticPubsVer: 1.0.1
 URL: https://www.galacticpolymath.com/lessons/en-US/10
 GdriveHome: GP-Studio
 GdriveDirName: VerbingScience_en-US
@@ -44,7 +45,7 @@ GradesOrYears: Grades
 LessonTiles: .na
 EstLessonTime: .na
 PullStandardsInfoFrom: myFile
-LearningPlotCorrection: yes
+LearningPlotCorrection: no
 LearningChartFriendly: .na
 LearningEpaulette: .na
 LearningEpaulette_vert: .na

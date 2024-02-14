@@ -7,7 +7,7 @@
   "Country": "United States",
   "DefaultLanguage": "English",
   "DefaultCountry": "United States",
-  "LastUpdated": "2023-12-15 17:48:01.617587",
+  "LastUpdated": "2024-02-08 12:41:17.657221",
   "ReleaseDate": "2021-12-15",
   "isTestRepo": false,
   "FirstPublicationDate": "2021-12-15 17:06:16",
@@ -17,35 +17,45 @@
       "status": "Live",
       "updated_date": null,
       "new_date": "2021-12-15",
-      "sort_by_date": "2021-12-15"
+      "sort_by_date": "2021-12-15",
+      "unit_status": "Live",
+      "unit_release_date": "2021-12-15"
     },
     {
       "lsn": 2,
       "status": "Live",
       "updated_date": null,
       "new_date": "2021-12-15",
-      "sort_by_date": "2021-12-15"
+      "sort_by_date": "2021-12-15",
+      "unit_status": "Live",
+      "unit_release_date": "2021-12-15"
     },
     {
       "lsn": 3,
       "status": "Live",
       "updated_date": null,
       "new_date": "2021-12-15",
-      "sort_by_date": "2021-12-15"
+      "sort_by_date": "2021-12-15",
+      "unit_status": "Live",
+      "unit_release_date": "2021-12-15"
     },
     {
       "lsn": 4,
       "status": "Live",
       "updated_date": null,
       "new_date": "2021-12-15",
-      "sort_by_date": "2021-12-15"
+      "sort_by_date": "2021-12-15",
+      "unit_status": "Live",
+      "unit_release_date": "2021-12-15"
     },
     {
       "lsn": 5,
       "status": "Live",
       "updated_date": null,
       "new_date": "2021-12-15",
-      "sort_by_date": "2021-12-15"
+      "sort_by_date": "2021-12-15",
+      "unit_status": "Live",
+      "unit_release_date": "2021-12-15"
     }
   ],
   "MediumTitle": "'Genetic Rescue to the Rescue' |Science| G9-12 (en-US)",
@@ -53,8 +63,8 @@
   "lng": "eng",
   "locale": "en-US",
   "DefaultLocale": "en-US",
-  "TemplateVer": "0.6.2",
-  "galacticPubsVer": "0.9.8",
+  "TemplateVer": "0.6.3",
+  "galacticPubsVer": "1.0.1",
   "URL": "https://www.galacticpolymath.com/lessons/en-US/3",
   "GdriveHome": "GP-LIVE",
   "GdriveDirName": "geneticRescue_sci",

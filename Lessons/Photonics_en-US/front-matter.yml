@@ -1,13 +1,13 @@
 numID: 9
 _id: lesson_9_en-US
 ShortTitle: Photonics
-PublicationStatus: Draft
+PublicationStatus: Beta
 Language: English
 Country: United States
 DefaultLanguage: English
 DefaultCountry: United States
-LastUpdated: 2024-01-22 17:16:59.637036
-ReleaseDate: '2024-01-26'
+LastUpdated: 2024-02-09 16:56:08.504763
+ReleaseDate: '2024-02-10'
 isTestRepo: no
 FirstPublicationDate: .na
 LsnStatuses:
@@ -16,23 +16,43 @@ LsnStatuses:
   updated_date: .na
   new_date: '2024-01-22'
   sort_by_date: '2024-01-22'
+  unit_status: Beta
+  unit_release_date: '2024-02-10'
 - lsn: 2
   status: Live
   updated_date: .na
   new_date: '2024-01-22'
   sort_by_date: '2024-01-22'
+  unit_status: Beta
+  unit_release_date: '2024-02-10'
 - lsn: 3
+  status: Beta
+  updated_date: .na
+  new_date: '2024-02-08'
+  sort_by_date: '2024-02-08'
+  unit_status: Beta
+  unit_release_date: '2024-02-10'
+- lsn: 4
+  status: Beta
+  updated_date: .na
+  new_date: '2024-02-08'
+  sort_by_date: '2024-02-08'
+  unit_status: Beta
+  unit_release_date: '2024-02-10'
+- lsn: 5
   status: Coming Soon
   updated_date: .na
   new_date: .na
-  sort_by_date: '2024-01-22'
+  sort_by_date: '2024-02-09'
+  unit_status: Beta
+  unit_release_date: '2024-02-10'
 MediumTitle: '''Photon Engineers'' |Science| G6-9 (en-US)'
 lang: en
 lng: eng
 locale: en-US
 DefaultLocale: en-US
-TemplateVer: 0.6.2
-galacticPubsVer: 0.9.9
+TemplateVer: 0.6.3
+galacticPubsVer: 1.0.1
 URL: https://www.galacticpolymath.com/lessons/en-US/9
 GdriveHome: GP-Studio
 GdriveDirName: Photonics_en-US
@@ -57,18 +77,20 @@ SponsoredBy: |-
 SponsorLogo:
 - https://storage.googleapis.com/gp-cloud/lessons/Photonics_en-US/Folland-Lab_logo.png
 - https://storage.googleapis.com/gp-cloud/lessons/Photonics_en-US/Iowa_logo_blackBG.png
-LessonBanner: https://storage.googleapis.com/gp-cloud/lessons/Photonics_en-US/Photonics_1-banner.png
-LessonCard: https://storage.googleapis.com/gp-cloud/lessons/Photonics_en-US/Photonics_2-card.png
+LessonBanner: https://storage.googleapis.com/gp-cloud/lessons/Photonics_en-US/photonics-banner.png
+LessonCard: https://storage.googleapis.com/gp-cloud/lessons/Photonics_en-US/photonics-card.png
 TargetSubject: Science
 LessonEnvir: Classroom
 ForGrades: 6-9
 GradesOrYears: Grades
 LessonTiles:
-- https://storage.googleapis.com/gp-cloud/lessons/Photonics_en-US/Photonics_tiles-1-L1_Tile.png
-- https://storage.googleapis.com/gp-cloud/lessons/Photonics_en-US/Photonics_tiles-2-L2_Tile.png
-EstLessonTime: 2 x 45 min classes
+- https://storage.googleapis.com/gp-cloud/lessons/Photonics_en-US/photonics-L1_Tile.png
+- https://storage.googleapis.com/gp-cloud/lessons/Photonics_en-US/photonics-L2_Tile.png
+- https://storage.googleapis.com/gp-cloud/lessons/Photonics_en-US/photonics-L3_Tile.png
+- https://storage.googleapis.com/gp-cloud/lessons/Photonics_en-US/photonics-L4_Tile.png
+EstLessonTime: 4 x 45 min classes
 PullStandardsInfoFrom: myFile
-LearningPlotCorrection: yes
+LearningPlotCorrection: no
 LearningChartFriendly: yes
 LearningEpaulette: https://storage.googleapis.com/gp-cloud/lessons/Photonics_en-US/GP-Learning-Epaulette.png
 LearningEpaulette_vert: https://storage.googleapis.com/gp-cloud/lessons/Photonics_en-US/GP-Learning-Epaulette_vert.png
@@ -143,8 +165,7 @@ Feedback: |
   - [For teachers](https://forms.gle/XXwdht92z2cc2ttq5)
   - [For students](https://forms.gle/VezvxbpAZpoEfqT18)
 Credits:
-  value: |2-
-
+  value: |-
     - [Dri Chiu Tattersfield](https://www.linkedin.com/in/dri-t/) Led the project; helped develop all lesson materials; co-wrote and produced supporting videos.
     - [Madelyn, Leembruggen](https://www.linkedin.com/in/mleembruggen/) Helped develop all lesson materials; performed in, co-wrote, storyboarded, and produced supporting videos.
     - [Ella Houlihan](https://www.linkedin.com/in/ella-houlihan-624878177/) Provided feedback and suggestions throughout development of lessons and media.
@@ -174,14 +195,17 @@ Acknowledgments:
   - https://www.phuturedoctors.com/
 Versions:
   ver_num:
+  - 1.0.0
   - 0.2.1
   - 0.2.0
   - 0.1.0
   date:
+  - February 9,2023
   - January 19, 2023
   - January 15, 2023
   - December 4, 2023
   ver_summary:
+  - Major overhaul to break up into 4 lessons based on teacher feedback
   - Added authors and acknowledgments
   - Updates for finalization
   - Lesson initialized
@@ -189,10 +213,12 @@ Versions:
   - .na
   - .na
   - .na
+  - .na
   ver_acknowledgments:
-  - .na
-  - .na
-  - .na
+  - Thanks so much to Alexandra Patel & Abigail Mayo for early feedback!
+  - .na.character
+  - .na.character
+  - .na.character
 ScriptsToRun: .na
 GoogleCloudStorage:
   filename: .na

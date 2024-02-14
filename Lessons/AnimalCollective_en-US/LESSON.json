@@ -7,7 +7,7 @@
   "Country": "United States",
   "DefaultLanguage": "English",
   "DefaultCountry": "United States",
-  "LastUpdated": "2023-12-15 17:46:37.116533",
+  "LastUpdated": "2024-02-08 12:40:31.1563",
   "ReleaseDate": "2023-09-28",
   "isTestRepo": false,
   "FirstPublicationDate": null,
@@ -17,42 +17,54 @@
       "status": "Live",
       "updated_date": null,
       "new_date": "2023-09-28",
-      "sort_by_date": "2023-09-28"
+      "sort_by_date": "2023-09-28",
+      "unit_status": "Live",
+      "unit_release_date": "2023-09-28"
     },
     {
       "lsn": 2,
       "status": "Live",
       "updated_date": null,
       "new_date": "2023-09-28",
-      "sort_by_date": "2023-09-28"
+      "sort_by_date": "2023-09-28",
+      "unit_status": "Live",
+      "unit_release_date": "2023-09-28"
     },
     {
       "lsn": 3,
       "status": "Live",
       "updated_date": null,
       "new_date": "2023-09-28",
-      "sort_by_date": "2023-09-28"
+      "sort_by_date": "2023-09-28",
+      "unit_status": "Live",
+      "unit_release_date": "2023-09-28"
     },
     {
       "lsn": 4,
       "status": "Live",
       "updated_date": null,
       "new_date": "2023-09-28",
-      "sort_by_date": "2023-09-28"
+      "sort_by_date": "2023-09-28",
+      "unit_status": "Live",
+      "unit_release_date": "2023-09-28"
     },
     {
       "lsn": 5,
       "status": "Live",
       "updated_date": null,
       "new_date": "2023-09-28",
-      "sort_by_date": "2023-09-28"
+      "sort_by_date": "2023-09-28",
+      "unit_status": "Live",
+      "unit_release_date": "2023-09-28"
     },
     {
       "lsn": 6,
       "status": "Live",
       "updated_date": null,
       "new_date": "2023-09-28",
-      "sort_by_date": "2023-09-28"
+      "sort_by_date": "2023-09-28",
+      "unit_status": "Live",
+      "unit_release_date": "2023-09-28"
     }
   ],
   "MediumTitle": "'Animal Collective' |Science| G11-university (en-US)",
@@ -60,8 +72,8 @@
   "lng": "eng",
   "locale": "en-US",
   "DefaultLocale": "en-US",
-  "TemplateVer": "0.6.2",
-  "galacticPubsVer": "0.9.8",
+  "TemplateVer": "0.6.3",
+  "galacticPubsVer": "1.0.1",
   "URL": "https://www.galacticpolymath.com/lessons/en-US/7",
   "GdriveHome": "GP-LIVE",
   "GdriveDirName": "AnimalCollective_en-US",
@@ -1226,7 +1238,7 @@
                         "12"
                       ],
                       "statements": "*Recognize the purposes of and differences among sample surveys, experiments, and observational studies; explain how randomization relates to each.*",
-                      "alignmentNotes": "- In Lesson 4, students will witness random behavior of simulated fish as they run virtual experimental trials.",
+                      "alignmentNotes": "In Lesson 4, students will witness random behavior of simulated fish as they run virtual experimental trials.",
                       "subcat": null
                     },
                     {
@@ -1241,7 +1253,7 @@
                         "12"
                       ],
                       "statements": "Use data from a randomized experiment to compare two treatments; use simulations to decide if differences between parameters are significant.",
-                      "alignmentNotes": "- Using our \"Swimming in the Dark\" simulation, students will test the impact of different behavioral parameters on the schooling behavior of virtual fish.",
+                      "alignmentNotes": "Using our \"Swimming in the Dark\" simulation, students will test the impact of different behavioral parameters on the schooling behavior of virtual fish.",
                       "subcat": null
                     },
                     {
@@ -1256,7 +1268,7 @@
                         "12"
                       ],
                       "statements": "Evaluate reports based on data.",
-                      "alignmentNotes": "- Students will draw conclusions using data they collect about what factors explain the observation that fish are often found in shady spots.",
+                      "alignmentNotes": "Students will draw conclusions using data they collect about what factors explain the observation that fish are often found in shady spots.",
                       "subcat": null
                     }
                   ]
@@ -1278,7 +1290,7 @@
                         "12"
                       ],
                       "statements": "Represent data on two quantitative variables on a scatter plot, and describe how the variables are related.",
-                      "alignmentNotes": "- In both simulations \"Swimming in the Dark\" and \"EchoSim\", students will interpret scatterplot data to understand trial results.",
+                      "alignmentNotes": "In both simulations \"Swimming in the Dark\" and \"EchoSim\", students will interpret scatterplot data to understand trial results.",
                       "subcat": null
                     }
                   ]
@@ -1309,7 +1321,7 @@
                         "12"
                       ],
                       "statements": "Make strategic use of digital media (e.g., textual, graphical, audio, visual, and interactive elements) in presentations to enhance understanding of findings, reasoning, and evidence and to add interest.",
-                      "alignmentNotes": "- Students will draw abstract representations of their own social networks and use it as a way to grapple with the concept of complexity.",
+                      "alignmentNotes": "Students will draw abstract representations of their own social networks and use it as a way to grapple with the concept of complexity.",
                       "subcat": null
                     },
                     {
@@ -1326,7 +1338,7 @@
                         "12"
                       ],
                       "statements": "Acquire and use accurately general academic and domain-specific words and phrases, sufficient for reading, writing, speaking, and listening at the college and career readiness level; demonstrate independence in gathering vocabulary knowledge when considering a word or phrase important to comprehension or expression.",
-                      "alignmentNotes": "- Throughout the unit, students will acquire and use new scientific terms such as *emergence* and *complexity.* These are terms that many adults struggle to wrap their heads around, so it should be a fun challenge for students.",
+                      "alignmentNotes": "Throughout the unit, students will acquire and use new scientific terms such as *emergence* and *complexity.* These are terms that many adults struggle to wrap their heads around, so it should be a fun challenge for students.",
                       "subcat": null
                     }
                   ]
@@ -1359,7 +1371,7 @@
                         "12"
                       ],
                       "statements": "Communicate scientific and/or technical information or ideas (e.g. about phenomena and/or the process of development and the design and performance of a proposed process or system) in multiple formats (including orally, graphically, textually, and mathematically).",
-                      "alignmentNotes": "- Students will draw their own social network to convey the concept of complexity in a personalized way.",
+                      "alignmentNotes": "Students will draw their own social network to convey the concept of complexity in a personalized way.",
                       "subcat": "Obtaining, Evaluating, & Communicating Information"
                     },
                     {
@@ -1376,7 +1388,7 @@
                         "12"
                       ],
                       "statements": "Create and/or revise a computational model or simulation of a phenomenon, designed device, process, or system.",
-                      "alignmentNotes": "- Students will have multiple experiences to explore, tinker, and analyze simplified models of individual behavior. They will see multiple examples of how simple rules acting in complex groups lead to the emergence of unexpected patterns and phenomena.",
+                      "alignmentNotes": "Students will have multiple experiences to explore, tinker, and analyze simplified models of individual behavior. They will see multiple examples of how simple rules acting in complex groups lead to the emergence of unexpected patterns and phenomena.",
                       "subcat": "Using Mathematics & Computational Thinking"
                     },
                     {
@@ -1392,7 +1404,7 @@
                         "12"
                       ],
                       "statements": "Use a model to provide mechanistic accounts of phenomena.",
-                      "alignmentNotes": "- The live action \"flocking activity\" and the \"Swimming in the Dark\" simulation are designed to help students internalize the mechanisms underlying the emergent property of fish schooling.",
+                      "alignmentNotes": "The live action \"flocking activity\" and the \"Swimming in the Dark\" simulation are designed to help students internalize the mechanisms underlying the emergent property of fish schooling.",
                       "subcat": "Developing & Using Models"
                     },
                     {
@@ -1407,7 +1419,7 @@
                         "12"
                       ],
                       "statements": "Analyze data using tools, technologies, and/or models (e.g., computational, mathematical) in order to make valid and reliable scientific claims or determine an optimal design solution.",
-                      "alignmentNotes": "- In the \"Swimming in the Dark\" activity, students will draw conclusions from evidence about what mechanism causes fish to school into the shade and stay there.",
+                      "alignmentNotes": "In the \"Swimming in the Dark\" activity, students will draw conclusions from evidence about what mechanism causes fish to school into the shade and stay there.",
                       "subcat": "Analyzing Data"
                     },
                     {
@@ -1422,7 +1434,7 @@
                         "12"
                       ],
                       "statements": "Evaluate the impact of new data on a working explanation and/or model of a proposed process or system.",
-                      "alignmentNotes": "- Students will run multiple trials using the \"Swimming in the Dark\" simulation. They will look at the impact of new data on the running average to understand relative impact of different variables.",
+                      "alignmentNotes": "Students will run multiple trials using the \"Swimming in the Dark\" simulation. They will look at the impact of new data on the running average to understand relative impact of different variables.",
                       "subcat": "Analyzing Data"
                     },
                     {
@@ -1437,7 +1449,7 @@
                         "12"
                       ],
                       "statements": "Manipulate variables and collect data about a complex model of a proposed process or system to identify failure points or improve performance relative to criteria for success or other variables.",
-                      "alignmentNotes": "- Students will run multiple trials using the \"Swimming in the Dark\" simulation. They will look at the impact of new data on the running average to understand relative impact of different variables.",
+                      "alignmentNotes": "Students will run multiple trials using the \"Swimming in the Dark\" simulation. They will look at the impact of new data on the running average to understand relative impact of different variables.",
                       "subcat": "Planning & Carrying out Investigations"
                     },
                     {
@@ -1452,7 +1464,7 @@
                         "12"
                       ],
                       "statements": "Analyze complex real-world problems by specifying criteria and constraints for successful solutions.",
-                      "alignmentNotes": "- Particularly in the \"EchoSim\" simulation, students will analyze digital simulations of complex human social media behavior to draw conclusions about good digital citizenship.",
+                      "alignmentNotes": "Particularly in the \"EchoSim\" simulation, students will analyze digital simulations of complex human social media behavior to draw conclusions about good digital citizenship.",
                       "subcat": "Ask Questions & Define Problems"
                     },
                     {
@@ -1467,7 +1479,7 @@
                         "12"
                       ],
                       "statements": "Develop and/or use a model (including mathematical and computational) to generate data to support explanations, predict phenomena, analyze systems, and/or solve problems.",
-                      "alignmentNotes": "- Students will integrate findings from tinkering with the \"EchoSim\" simulation to predict patterns and understand complex social media behavioral patterns.",
+                      "alignmentNotes": "Students will integrate findings from tinkering with the \"EchoSim\" simulation to predict patterns and understand complex social media behavioral patterns.",
                       "subcat": "Developing & Using Models"
                     }
                   ]
@@ -1491,7 +1503,7 @@
                         "12"
                       ],
                       "statements": "Classifications or explanations used at one scale may fail or need revision when information from smaller or larger scales is introduced; thus requiring improved investigations and experiments.",
-                      "alignmentNotes": "- Throughout the unit, students will see that certain patterns \"emerge\" at one scale that are not present in the underlying individuals. Particularly in Lesson 2, as students experiment with The Game of Life, they will see patterns when zoomed out on a big grid that are not present when zoomed in.",
+                      "alignmentNotes": "Throughout the unit, students will see that certain patterns \"emerge\" at one scale that are not present in the underlying individuals. Particularly in Lesson 2, as students experiment with The Game of Life, they will see patterns when zoomed out on a big grid that are not present when zoomed in.",
                       "subcat": "Patterns"
                     },
                     {
@@ -1506,7 +1518,7 @@
                         "12"
                       ],
                       "statements": "Changes in systems may have various causes that may not have equal effects.",
-                      "alignmentNotes": "- By running experimental trials in a virtual simulation, students will see which factors have big and small impacts on digital fish schooling behavior.",
+                      "alignmentNotes": "By running experimental trials in a virtual simulation, students will see which factors have big and small impacts on digital fish schooling behavior.",
                       "subcat": "Cause & Effect: Mechanism & Explanation"
                     },
                     {
@@ -1522,7 +1534,7 @@
                         "12"
                       ],
                       "statements": "Cause and effect relationships can be suggested and predicted for complex natural and human designed systems by examining what is known about smaller scale mechanisms within the system.",
-                      "alignmentNotes": "- In both simulations \"Swimming in the Dark\" and \"EchoSim\", students will tinker with variables, run trials, and collect response data from graphs to understand causal relationships between individual behavior rules and group behavior.",
+                      "alignmentNotes": "In both simulations \"Swimming in the Dark\" and \"EchoSim\", students will tinker with variables, run trials, and collect response data from graphs to understand causal relationships between individual behavior rules and group behavior.",
                       "subcat": "Cause & Effect: Mechanism & Explanation"
                     },
                     {
@@ -1541,7 +1553,7 @@
                         "12"
                       ],
                       "statements": "Models (e.g., physical, mathematical, computer models) can be used to simulate systems and interactions–including energy, matter, and information flows– within and between systems at different scales.",
-                      "alignmentNotes": "- Every part of this unit involves the creation and interpretation of different physical, hand-drawn, and digital models for complex systems.",
+                      "alignmentNotes": "Every part of this unit involves the creation and interpretation of different physical, hand-drawn, and digital models for complex systems.",
                       "subcat": "Systems & Systems Models"
                     }
                   ]
@@ -1576,7 +1588,7 @@
                         "12"
                       ],
                       "statements": "Analyze relationships and interactions within and between human and physical systems to explain reciprocal influences that occur among them.",
-                      "alignmentNotes": "- Throughout the unit, students will have multiple exposures to how humans interact in groups and how the digital and social environment interact to drive the formation of echo chambers.",
+                      "alignmentNotes": "Throughout the unit, students will have multiple exposures to how humans interact in groups and how the digital and social environment interact to drive the formation of echo chambers.",
                       "subcat": null
                     },
                     {
@@ -1591,7 +1603,7 @@
                         "12"
                       ],
                       "statements": "Analyze complex and interacting factors that influenced the perspectives of people during different historical eras.",
-                      "alignmentNotes": "- Particularly in the \"EchoSim\" simulation, students will see how different individual behaviors on social media influence the flow of information and formation of relationships in the modern day.",
+                      "alignmentNotes": "Particularly in the \"EchoSim\" simulation, students will see how different individual behaviors on social media influence the flow of information and formation of relationships in the modern day.",
                       "subcat": null
                     }
                   ]
@@ -1624,7 +1636,7 @@
                         "12"
                       ],
                       "statements": "The traits that positively affect survival are more likely to be reproduced, and thus are more common in the population.",
-                      "alignmentNotes": "- In Lesson 1, students will use their own social network to think about complexity. They'll then consider why we (and other animal groups) live in such complex groups. They will reflect on the pros and cons of group-living.",
+                      "alignmentNotes": "In Lesson 1, students will use their own social network to think about complexity. They'll then consider why we (and other animal groups) live in such complex groups. They will reflect on the pros and cons of group-living.",
                       "subcat": "Natural Selection"
                     },
                     {
@@ -1642,7 +1654,7 @@
                         "12"
                       ],
                       "statements": "Group behavior has evolved because membership can increase the chances of survival for individuals and their genetic relatives.",
-                      "alignmentNotes": "- Students will discuss costs and benefits of group membership from an evolutionary standpoint in Lesson 1. They will gain deeper insights into this throughought the unit.",
+                      "alignmentNotes": "Students will discuss costs and benefits of group membership from an evolutionary standpoint in Lesson 1. They will gain deeper insights into this throughought the unit.",
                       "subcat": "Social Interactions & Group Behavior"
                     }
                   ]
@@ -1665,7 +1677,7 @@
                         "12"
                       ],
                       "statements": "Use mathematical models and/or computer simulations to predict the effects of a design solution on systems and/or the interactions between systems.",
-                      "alignmentNotes": "- In Lesson 2, students will try to predict the behavior of \"The Game of Life\" simulation to begin to understand emergence. In lesson 4, they will change parameters controlling a fish schooling simulation to run experiments. In Lesson 5, they'll apply all their understanding of complexity and emergence to test how social media parameters lead to the formation of Echo Chambers.",
+                      "alignmentNotes": "In Lesson 2, students will try to predict the behavior of \"The Game of Life\" simulation to begin to understand emergence. In lesson 4, they will change parameters controlling a fish schooling simulation to run experiments. In Lesson 5, they'll apply all their understanding of complexity and emergence to test how social media parameters lead to the formation of Echo Chambers.",
                       "subcat": "Using Mathematics & Computational Thinking"
                     },
                     {
@@ -1681,7 +1693,7 @@
                         "12"
                       ],
                       "statements": "Develop and/or use multiple types of models to provide mechanistic accounts and/or predict phenomena, and move flexibly between model types based on merits and limitations.",
-                      "alignmentNotes": "- Students will use the movement of their own bodies as a way to represent and understand fish schooling. They will compare this experience to the digital simulation in Lesson 4, and reconcile these results with scientific findings.",
+                      "alignmentNotes": "Students will use the movement of their own bodies as a way to represent and understand fish schooling. They will compare this experience to the digital simulation in Lesson 4, and reconcile these results with scientific findings.",
                       "subcat": "Developing & Using Models"
                     }
                   ]
@@ -1702,7 +1714,7 @@
                         "12"
                       ],
                       "statements": "Patterns observable at one scale may not be observable or exist at other scales.",
-                      "alignmentNotes": "- Particularly in Lesson 2, as students experiment with The Game of Life, they will see how patterns emerge unexpectedly at higher scales that are not present at smaller scales. (Like patterns they say when zoomed out on a big grid that are not present when zoomed in).",
+                      "alignmentNotes": "Particularly in Lesson 2, as students experiment with The Game of Life, they will see how patterns emerge unexpectedly at higher scales that are not present at smaller scales. (Like patterns they say when zoomed out on a big grid that are not present when zoomed in).",
                       "subcat": "Scale, Proportion, & Quantity"
                     }
                   ]

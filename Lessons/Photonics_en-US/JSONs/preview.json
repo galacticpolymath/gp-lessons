@@ -6,13 +6,13 @@
     {
       "order": "0.5",
       "type": "video",
-      "forLsn": "2",
+      "forLsn": "3",
       "title": "What is Light?",
       "description": null,
-      "lessonRelevance": "DRAFT version. In this short video a photonics expert introduces light as a broad spectrum of frequencies.",
+      "lessonRelevance": "Light is both stranger and more interesting than we think. Dr. Tom Folland explains.",
       "by": "Galactic Polymath",
       "byLink": "https://www.youtube.com/channel/UCfyBNvN3CH4uWmwOCQVhmhg/featured",
-      "mainLink": "https://drive.google.com/file/d/1BSiSv5LVEFgDoUCIrX7evj2iefg0SO0h/preview?rm=minimal",
+      "mainLink": "https://www.youtube.com/embed/Pfgh29tQZlk",
       "otherLink": null
     },
     {
@@ -31,22 +31,22 @@
       "order": "2",
       "type": "video",
       "forLsn": "1",
-      "title": "2000 years of engineering with light (it’s about lenses)",
+      "title": "Engineering with Light: 2000 Years of Innovation",
       "description": null,
-      "lessonRelevance": "DRAFT version. This video explores the history of photonics, and introduces the scientific basis of lenses.",
+      "lessonRelevance": "This video explores the history of photonics, and introduces the scientific basis of lenses.",
       "by": "Galactic Polymath",
       "byLink": "https://www.youtube.com/channel/UCfyBNvN3CH4uWmwOCQVhmhg/featured",
-      "mainLink": "https://drive.google.com/file/d/1JDgqBPtbUdYjfCr5zIcsmgQ9zQYZB54R/preview?rm=minimal",
+      "mainLink": "https://www.youtube.com/embed/DREGrkSnZ2g",
       "otherLink": null
     },
     {
       "order": "3",
       "type": "video",
-      "forLsn": "1",
+      "forLsn": "2",
       "title": "How Glasses Work to Correct Vision",
       "description": null,
       "lessonRelevance": "More advanced students might be interested in learning how glasses and contacts work to correct vision.",
-      "by": "Galactic Polymath",
+      "by": "MooMooMath and Science",
       "byLink": "https://www.youtube.com/@MooMooMath",
       "mainLink": "https://www.youtube.com/embed/1vlojCoFrTw",
       "otherLink": null
@@ -54,7 +54,7 @@
     {
       "order": "4",
       "type": "pdf",
-      "forLsn": "1",
+      "forLsn": "2",
       "title": "Seeing Through Time worksheet",
       "description": null,
       "lessonRelevance": "This worksheet has students to take notes about lens technology and take on an optical engineering design challenge.",
@@ -66,13 +66,25 @@
     {
       "order": "6",
       "type": "pdf",
-      "forLsn": "2",
-      "title": "Communicating With Light Worksheet",
+      "forLsn": "3",
+      "title": "What is Light Worksheet",
       "description": null,
       "lessonRelevance": "On this worksheet students explore \"what is light?\" and brainstorm how messages can be encoded in waves.",
       "by": "Galactic Polymath",
       "byLink": "https://www.youtube.com/channel/UCfyBNvN3CH4uWmwOCQVhmhg/featured",
       "mainLink": "https://docs.google.com/document/d/1oKBFUmXcudtQE21y59Q1sDxxEdoMGWW9OIz7MUcLNFI/preview?rm=minimal",
+      "otherLink": null
+    },
+    {
+      "order": "7",
+      "type": "pdf",
+      "forLsn": "4",
+      "title": "Communicating with Light Worksheet",
+      "description": null,
+      "lessonRelevance": "Students work as a class to design a code to send messages to Mars.",
+      "by": "Galactic Polymath",
+      "byLink": "https://www.youtube.com/channel/UCfyBNvN3CH4uWmwOCQVhmhg/featured",
+      "mainLink": "https://docs.google.com/document/d/1kNB-kO3TCaewh8QpAUzDbh_uJykdx4I3PRQKBO-4yRw/preview?rm=minimal",
       "otherLink": null
     }
   ],

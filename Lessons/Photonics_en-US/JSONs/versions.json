@@ -3,6 +3,18 @@
   "SectionTitle": "Version Notes",
   "Data": [
     {
+      "major_release": "1",
+      "sub_releases": [
+        {
+          "version": "1.0.0",
+          "date": "February 9,2023",
+          "summary": "Major overhaul to break up into 4 lessons based on teacher feedback",
+          "notes": null,
+          "acknowledgments": "Thanks so much to Alexandra Patel & Abigail Mayo for early feedback!"
+        }
+      ]
+    },
+    {
       "major_release": "Beta",
       "sub_releases": [
         {

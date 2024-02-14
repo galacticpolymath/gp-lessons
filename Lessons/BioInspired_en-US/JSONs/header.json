@@ -2,13 +2,13 @@
   "numID": 8,
   "_id": "lesson_8_en-US",
   "ShortTitle": "BioInspired",
-  "PublicationStatus": "Live",
+  "PublicationStatus": "Beta",
   "Language": "English",
   "Country": "United States",
   "DefaultLanguage": "English",
   "DefaultCountry": "United States",
-  "LastUpdated": "2024-01-22 17:40:20.056916",
-  "ReleaseDate": "2023-01-21",
+  "LastUpdated": "2024-02-08 12:39:14.309231",
+  "ReleaseDate": "2024-01-21",
   "isTestRepo": false,
   "FirstPublicationDate": null,
   "LsnStatuses": [
@@ -17,35 +17,45 @@
       "status": "Beta",
       "updated_date": null,
       "new_date": "2024-01-22",
-      "sort_by_date": "2024-01-22"
+      "sort_by_date": "2024-01-22",
+      "unit_status": "Beta",
+      "unit_release_date": "2024-01-21"
     },
     {
       "lsn": 2,
       "status": "Beta",
       "updated_date": null,
       "new_date": "2024-01-22",
-      "sort_by_date": "2024-01-22"
+      "sort_by_date": "2024-01-22",
+      "unit_status": "Beta",
+      "unit_release_date": "2024-01-21"
     },
     {
       "lsn": 3,
       "status": "Beta",
       "updated_date": null,
       "new_date": "2024-01-22",
-      "sort_by_date": "2024-01-22"
+      "sort_by_date": "2024-01-22",
+      "unit_status": "Beta",
+      "unit_release_date": "2024-01-21"
     },
     {
       "lsn": 4,
       "status": "Beta",
       "updated_date": null,
       "new_date": "2024-01-22",
-      "sort_by_date": "2024-01-22"
+      "sort_by_date": "2024-01-22",
+      "unit_status": "Beta",
+      "unit_release_date": "2024-01-21"
     },
     {
       "lsn": 5,
       "status": "Beta",
       "updated_date": null,
       "new_date": "2024-01-22",
-      "sort_by_date": "2024-01-22"
+      "sort_by_date": "2024-01-22",
+      "unit_status": "Beta",
+      "unit_release_date": "2024-01-21"
     }
   ],
   "MediumTitle": "'Bioinspired Design' |Science| G8-University (en-US)",
@@ -53,8 +63,8 @@
   "lng": "eng",
   "locale": "en-US",
   "DefaultLocale": "en-US",
-  "TemplateVer": "0.6.2",
-  "galacticPubsVer": "0.9.9",
+  "TemplateVer": "0.6.3",
+  "galacticPubsVer": "1.0.1",
   "URL": "https://www.galacticpolymath.com/lessons/en-US/8",
   "GdriveHome": "GP-Studio",
   "GdriveDirName": "BioInspired_en-US",
