@@ -1,0 +1,33 @@
+{
+  "__component": "lesson-plan.standards",
+  "Data": [
+    {
+      "subject": "Science",
+      "target": false,
+      "sets": [
+        {
+          "slug": "NGSS",
+          "name": "NGSS",
+          "dimensions": [
+            {
+              "slug": "SEP",
+              "name": "Science & Engineering Practices",
+              "standardsGroup": [
+                {
+                  "lessons": [
+                    "1"
+                  ],
+                  "codes": "AQDP-M1",
+                  "grades": ["6", "7", "8"],
+                  "statements": "Ask questions that arise from careful observation of phenomena, models, or unexpected results, to clarify and/or seek additional information.",
+                  "alignmentNotes": "Document the alignment for each standard.",
+                  "subcat": "Ask Questions & Define Problems"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,253 @@
+{
+  "__component": "lesson-plan.standards",
+  "Data": [
+    {
+      "subject": "ELA",
+      "target": false,
+      "sets": [
+        {
+          "slug": "NZC",
+          "name": "NZ Curriculum",
+          "dimensions": [
+            {
+              "slug": "n14",
+              "name": "Listening, Reading, and Viewing",
+              "standardsGroup": [
+                {
+                  "lessons": [],
+                  "codes": "Level 4. Language Features",
+                  "grades": [],
+                  "statements": "Students will show an increasing understanding of how language features are used for effect within and across texts.",
+                  "alignmentNotes": "Placeholder",
+                  "subcat": null
+                },
+                {
+                  "lessons": [],
+                  "codes": "Level 5. Language Features",
+                  "grades": [],
+                  "statements": "Students will show an understanding of how language features are used for effect within and across texts.",
+                  "alignmentNotes": "Placeholder",
+                  "subcat": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "subject": "Science",
+      "target": false,
+      "sets": [
+        {
+          "slug": "NZC",
+          "name": "NZ Curriculum",
+          "dimensions": [
+            {
+              "slug": "n4",
+              "name": "Material World",
+              "standardsGroup": [
+                {
+                  "lessons": [],
+                  "codes": "Level 4. Chemistry and Society",
+                  "grades": [],
+                  "statements": "Students will: Relate the observed, characteristic chemical and physical properties of a range of different materials to technological uses and natural processes.",
+                  "alignmentNotes": "Placeholder",
+                  "subcat": null
+                }
+              ]
+            },
+            {
+              "slug": "n2",
+              "name": "Nature of Science",
+              "standardsGroup": [
+                {
+                  "lessons": [],
+                  "codes": "Level 4. Communicating in Science",
+                  "grades": [],
+                  "statements": "Students will:\n- Begin to use a range of scientific symbols, conventions, and vocabulary.",
+                  "alignmentNotes": "Placeholder",
+                  "subcat": null
+                },
+                {
+                  "lessons": [],
+                  "codes": "Level 4. Investigating in Science",
+                  "grades": [],
+                  "statements": "Students will:\n- Build on prior experiences, working together to share and examine their own and others’ knowledge. \n- Ask questions, find evidence, explore simple models, and carry out appropriate investigations to develop simple explanations.",
+                  "alignmentNotes": "Placeholder",
+                  "subcat": null
+                },
+                {
+                  "lessons": [],
+                  "codes": "Level 5. Communicating in Science",
+                  "grades": [],
+                  "statements": "Students will:\n- Use a wider range of science vocabulary, symbols, and conventions.",
+                  "alignmentNotes": "Placeholder",
+                  "subcat": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "subject": "Social Studies",
+      "target": false,
+      "sets": [
+        {
+          "slug": "NZC",
+          "name": "NZ Curriculum",
+          "dimensions": [
+            {
+              "slug": "n9",
+              "name": "Social Studies",
+              "standardsGroup": [
+                {
+                  "lessons": [],
+                  "codes": "Level 4",
+                  "grades": [],
+                  "statements": "Students will understand how people pass on and sustain culture and heritage for different reasons and that this has consequences for people.",
+                  "alignmentNotes": "Placeholder",
+                  "subcat": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "subject": "ELA",
+      "target": true,
+      "sets": [
+        {
+          "slug": "NZC",
+          "name": "NZ Curriculum",
+          "dimensions": [
+            {
+              "slug": "n13",
+              "name": "Listening, Reading, and Viewing",
+              "standardsGroup": [
+                {
+                  "lessons": [],
+                  "codes": "Level 4. Processes and Strategies",
+                  "grades": [],
+                  "statements": "Students will integrate sources of information, processes, and strategies confidently to identify, form, and express ideas.",
+                  "alignmentNotes": "Placeholder",
+                  "subcat": null
+                },
+                {
+                  "lessons": [],
+                  "codes": "Level 5. Processes and Strategies",
+                  "grades": [],
+                  "statements": "Students will integrate sources of information, processes, and strategies purposefully and confidently to identify, form, and express increasingly sophisticated ideas.",
+                  "alignmentNotes": "Placeholder",
+                  "subcat": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "subject": "Science",
+      "target": true,
+      "sets": [
+        {
+          "slug": "NZC",
+          "name": "NZ Curriculum",
+          "dimensions": [
+            {
+              "slug": "n3",
+              "name": "Nature of Science",
+              "standardsGroup": [
+                {
+                  "lessons": [],
+                  "codes": "Level 4. Participating and Contributing",
+                  "grades": [],
+                  "statements": "Students will:\n- Use their growing science knowledge when considering issues of concern to them.\n- Explore various aspects of an issue and make decisions about possible actions.",
+                  "alignmentNotes": "Placeholder",
+                  "subcat": null
+                },
+                {
+                  "lessons": [],
+                  "codes": "Level 5. Investigating in Science",
+                  "grades": [],
+                  "statements": "Students will:\n- Show an increasing awareness of the complexity of working scientifically, including recognition of multiple variables.\n- Begin to evaluate the suitability of the investigative methods chosen.",
+                  "alignmentNotes": "Placeholder",
+                  "subcat": null
+                },
+                {
+                  "lessons": [],
+                  "codes": "Level 5. Participating and Contributing",
+                  "grades": [],
+                  "statements": "Students will develop an understanding of socio-scientific issues by gathering relevant scientific information in order to draw evidence-based conclusions and to take action where appropriate.",
+                  "alignmentNotes": "Placeholder",
+                  "subcat": null
+                }
+              ]
+            },
+            {
+              "slug": "n8",
+              "name": "Material World",
+              "standardsGroup": [
+                {
+                  "lessons": [],
+                  "codes": "Level 5. Properties and changes of matter",
+                  "grades": [],
+                  "statements": "- Investigate the chemical and physical properties of different groups of substances, for example, acids and bases, fuels, and metals. \n- Distinguish between pure substances and mixtures and between elements and compounds.",
+                  "alignmentNotes": "Placeholder",
+                  "subcat": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "subject": "Social Studies",
+      "target": true,
+      "sets": [
+        {
+          "slug": "NZC",
+          "name": "NZ Curriculum",
+          "dimensions": [
+            {
+              "slug": "n10",
+              "name": "Social Studies",
+              "standardsGroup": [
+                {
+                  "lessons": [],
+                  "codes": "Level 4",
+                  "grades": [],
+                  "statements": "Understand how people participate individually and collectively in response to community challenges.",
+                  "alignmentNotes": "Placeholder",
+                  "subcat": null
+                },
+                {
+                  "lessons": [],
+                  "codes": "Level 4",
+                  "grades": [],
+                  "statements": "Students will understand how exploration and innovation create opportunities and challenges for people, places, and environments.",
+                  "alignmentNotes": "Placeholder",
+                  "subcat": null
+                },
+                {
+                  "lessons": [],
+                  "codes": "Level 5",
+                  "grades": [],
+                  "statements": "Students will understand how people’s management of resources impacts on environmental and social sustainability.",
+                  "alignmentNotes": "Placeholder",
+                  "subcat": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

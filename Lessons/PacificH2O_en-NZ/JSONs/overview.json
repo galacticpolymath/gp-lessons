@@ -1,16 +1,16 @@
 {
   "__component": "lesson-plan.overview",
   "LearningSummary": null,
-  "EstLessonTime": null,
-  "GradesOrYears": "Grades",
-  "ForGrades": null,
-  "TargetSubject": "Math",
+  "EstLessonTime": "3–4 class periods",
+  "GradesOrYears": "Years",
+  "ForGrades": "9-13",
+  "TargetSubject": "Science",
   "Text": null,
   "Tags": [
     {
       "Value": null
     }
   ],
-  "SteamEpaulette": null,
-  "SteamEpaulette_vert": null
+  "SteamEpaulette": "https://storage.googleapis.com/gp-cloud/lessons/PacificH2O_en-NZ/GP-Learning-Epaulette.png",
+  "SteamEpaulette_vert": "https://storage.googleapis.com/gp-cloud/lessons/PacificH2O_en-NZ/GP-Learning-Epaulette_vert.png"
 }

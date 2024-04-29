@@ -1,0 +1,428 @@
+{
+  "numID": 11,
+  "_id": "lesson_11_en-US",
+  "ShortTitle": "HeardThatBird",
+  "PublicationStatus": "Hidden",
+  "Language": "English",
+  "Country": "United States",
+  "DefaultLanguage": "English",
+  "DefaultCountry": "United States",
+  "LastUpdated": "2024-04-26 13:51:17.629198",
+  "ReleaseDate": "2050-01-01",
+  "isTestRepo": false,
+  "FirstPublicationDate": null,
+  "LsnStatuses": [
+    {
+      "lsn": 1,
+      "status": "Beta",
+      "updated_date": null,
+      "new_date": "2024-04-26",
+      "sort_by_date": "2024-04-26",
+      "unit_status": "Hidden",
+      "unit_release_date": "2050-01-01"
+    }
+  ],
+  "MediumTitle": "'Heard That Bird' |Science| G6-12 (en-US)",
+  "lang": "en",
+  "lng": "eng",
+  "locale": "en-US",
+  "DefaultLocale": "en-US",
+  "TemplateVer": "0.6.3",
+  "galacticPubsVer": "1.0.1",
+  "URL": "https://www.galacticpolymath.com/lessons/en-US/11",
+  "GdriveHome": "GP-Studio",
+  "GdriveDirName": "HeardThatBird_en-US",
+  "GdriveTeachMatPath": "GP-Studio/Edu/Lessons/HeardThatBird_en-US/teaching-materials",
+  "GdriveTeachMatID": "15tKbnmGeJxRrtKpOulX492Y69yp7lnja",
+  "GdrivePublicID": null,
+  "GdriveDirID": "15ocjRT7aMkyGBmwdwXaTcVcBRhFnhLNc",
+  "GdriveMetaID": "15sjROBwlgP6fRQdUgd7Ehf3RD5e5rrHo",
+  "GdriveTeachItID": "17k1leEfg3dIUtABBRjplKlR5uO33TMQaUj2kXXLi1jc",
+  "GdriveStandardsID": "12QSdKmnhCLvq4wtSOjTohXykWO97NzxfS71xia0MEiU",
+  "GdrivePublishedID": "15rmdHlJp2_54i9uSTkQZEneaSJLBzmU7",
+  "GdriveDirURL": "https://drive.google.com/drive/folders/15ocjRT7aMkyGBmwdwXaTcVcBRhFnhLNc",
+  "RebuildAllMaterials": false,
+  "Title": "Heard That Bird",
+  "Subtitle": "A Pop Culture Intro to Birding by Ear",
+  "SponsorName": "National Science Foundation",
+  "SponsoredBy": "- [Dr. Nicole Creanza](https://creanzalab.com/) is an Associate Professor at Vanderbilt University. Her lab studies how human languages and birdsongs evolve through time and space.\n- The National Science Foundation\n",
+  "SponsorLogo": "https://storage.googleapis.com/gp-cloud/lessons/HeardThatBird_en-US/NSF_logo_sm.png",
+  "LessonBanner": "https://storage.googleapis.com/gp-cloud/lessons/HeardThatBird_en-US/HeardThatBird-2-banner.png",
+  "LessonCard": null,
+  "TargetSubject": "Science",
+  "LessonEnvir": "Classroom",
+  "ForGrades": "6-12",
+  "GradesOrYears": "Grades",
+  "Section": {
+    "overview": {
+      "__component": "lesson-plan.overview",
+      "LearningSummary": "Students will learn how to use spectrograms to visualize and identify birds they hear. They will see 3 women bird researchers at different career levels model scientific thought processes and leave class excited to use the free Merlin app to ID birds outside of class.",
+      "EstLessonTime": "1 x 45 class",
+      "GradesOrYears": "Grades",
+      "ForGrades": "6-12",
+      "TargetSubject": "Science",
+      "Text": "#### Driving Question(s):\n1. What natural sounds are we missing as we go about our daily lives?\n2. How can spectrograms be used to help us identify birds in the environment?\n3. What can bird sounds teach us about human emotion and communication?\n#### Hook(s):\nStudents will compete against bird scientists in a gameshow to identify birds in pop culture. Can they beat the experts?! ",
+      "Tags": [
+        {
+          "Value": "Animal communication"
+        },
+        {
+          "Value": "bird song"
+        },
+        {
+          "Value": "species identification"
+        },
+        {
+          "Value": "ornithology"
+        },
+        {
+          "Value": "acoustic"
+        }
+      ],
+      "SteamEpaulette": "https://storage.googleapis.com/gp-cloud/lessons/HeardThatBird_en-US/GP-Learning-Epaulette.png",
+      "SteamEpaulette_vert": "https://storage.googleapis.com/gp-cloud/lessons/HeardThatBird_en-US/GP-Learning-Epaulette_vert.png"
+    },
+    "preview": {
+      "__component": "lesson-plan.unit-preview",
+      "SectionTitle": "Lesson Preview",
+      "QuickPrep": "1. Check out lesson multimedia below\n2. Look over <AnchorLink href=\"#teaching_materials\"> Teaching Materials <\/AnchorLink>\n3. Read our easy <AnchorLink href=\"#procedure\"> Procedure <\/AnchorLink>\n4. Teach it and <AnchorLink href=\"#feedback\"> let us know what you think! <\/AnchorLink>\n",
+      "Multimedia": [
+        null
+      ],
+      "InitiallyExpanded": true
+    },
+    "teaching-materials": {
+      "__component": "teaching-resources.teaching-resources",
+      "SectionTitle": "Teaching Materials",
+      "Data": {
+        "lessonPreface": null,
+        "lessonDur": "3 x 45 min",
+        "classroom": {
+          "gradeVariantNotes": [
+            {
+              "lsn": "1",
+              "lsnGradeVarNotes": null
+            }
+          ],
+          "resources": [
+            {
+              "grades": "Grades 6-10",
+              "gradePrefix": "G6-10",
+              "links": {
+                "linkText": "Browse & Download All G6-10 Materials",
+                "url": "https://drive.google.com/drive/folders/15xRbdBXmETH-btsDX3a6mlTZJQec7ICI"
+              },
+              "lessons": [
+                {
+                  "lsn": "1",
+                  "title": "Heard that Bird?",
+                  "tags": [
+                    [
+                      "games",
+                      "pop culture",
+                      "spectrograms"
+                    ]
+                  ],
+                  "preface": "Interactive presentation, asking students to follow along with scientists and identify bird sounds in pop culture.",
+                  "tile": "https://storage.googleapis.com/gp-cloud/lessons/HeardThatBird_en-US/L1_HeardThatBird-2-tile.png",
+                  "itemList": [
+                    {
+                      "itemTitle": "Presentation (Lesson 1)",
+                      "itemDescription": "Need: WiFi, Computer, Projector, Sound",
+                      "itemCat": "presentation",
+                      "links": [
+                        {
+                          "linkText": "Present Now",
+                          "url": "https://docs.google.com/presentation/d/1Ap-5KpikBslJz92tJhaHngLDYjlIZBS7P2Kt_Fq-Kn8/present"
+                        },
+                        {
+                          "linkText": "Preview/Copy in Google Docs",
+                          "url": "https://docs.google.com/presentation/d/1Ap-5KpikBslJz92tJhaHngLDYjlIZBS7P2Kt_Fq-Kn8/template/preview"
+                        }
+                      ]
+                    },
+                    {
+                      "itemTitle": "Student Worksheet (Lesson 1)",
+                      "itemDescription": "Print 1 Per Student",
+                      "itemCat": "document",
+                      "links": [
+                        {
+                          "linkText": "PDF",
+                          "url": "https://docs.google.com/document/d/16pKtD3YnQ59tOISSWduM8YEcNBoyRVySYSl__1f-ljk/export?format=pdf"
+                        },
+                        {
+                          "linkText": "Preview/Copy in Google Docs",
+                          "url": "https://docs.google.com/document/d/16pKtD3YnQ59tOISSWduM8YEcNBoyRVySYSl__1f-ljk/template/preview"
+                        }
+                      ]
+                    },
+                    {
+                      "itemTitle": "Teacher Worksheet (Lesson 1)",
+                      "itemDescription": "Print 1",
+                      "itemCat": "document",
+                      "links": [
+                        {
+                          "linkText": "PDF",
+                          "url": "https://docs.google.com/document/d/18QsOkEghsBH0C42jhB3b5Zj1PzXMsz7SZzHR_Ehv5_4/export?format=pdf"
+                        },
+                        {
+                          "linkText": "Preview/Copy in Google Docs",
+                          "url": "https://docs.google.com/document/d/18QsOkEghsBH0C42jhB3b5Zj1PzXMsz7SZzHR_Ehv5_4/template/preview"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        "lesson": [
+          {
+            "lsnNum": 1,
+            "lsnTitle": "Heard that Bird?",
+            "lsnDur": 45,
+            "lsnPreface": "Interactive presentation, asking students to follow along with scientists and identify bird sounds in pop culture.",
+            "learningObj": [
+              "Students will analyze spectrograms to visualize and differentiate sounds.",
+              "Students will mirror the process of real scientists to identify bird species.",
+              "Students will analyze bird sounds in popular culture to foster curiousity of birds in their daily lives."
+            ],
+            "lsnPrep": {
+              "prepTitle": "Prep",
+              "prepDur": 10,
+              "prepQuickDescription": "Print handouts. \nCheck slideshow audio/video.\nDetermine team format for gameshow.",
+              "prepDetails": "The gameshow relies on many videos embedded into the slide deck. Make sure that your projector can amplify the video and sound appropriately.\nAdditionally, you might want to think about how students will work in teams during the gameshow.",
+              "prepVariantNotes": null,
+              "prepTeachingTips": null
+            },
+            "chunks": [
+              {
+                "chunkTitle": "Engage",
+                "chunkStart": 0,
+                "chunkDur": 5,
+                "steps": [
+                  {
+                    "Step": 1,
+                    "StepTitle": "Listening Hook",
+                    "StepQuickDescription": "Students will listen to two different bird sounds and think about what words or feelings come up.",
+                    "StepDetails": null,
+                    "Vocab": null,
+                    "VariantNotes": null,
+                    "TeachingTips": null
+                  }
+                ]
+              },
+              {
+                "chunkTitle": "Introduce the Game",
+                "chunkStart": 5,
+                "chunkDur": 10,
+                "steps": [
+                  {
+                    "Step": 2,
+                    "StepTitle": "Play Clip #1: Practice Round",
+                    "StepQuickDescription": "During the initial practice round, students will learn the format of the gameshow and be introduced to sound spectrograms.",
+                    "StepDetails": null,
+                    "Vocab": "- **Sound spectrogram:**  a visual representation of frequencies in a recording over time",
+                    "VariantNotes": null,
+                    "TeachingTips": null
+                  }
+                ]
+              },
+              {
+                "chunkTitle": "Play the Game",
+                "chunkStart": 15,
+                "chunkDur": 20,
+                "steps": [
+                  {
+                    "Step": 3,
+                    "StepTitle": "Play Clips #2-8",
+                    "StepQuickDescription": "During the game, students can keep track of their scores in the Heard that Bird worksheet and play alongside bird song researchers at Vanderbilt University!",
+                    "StepDetails": null,
+                    "Vocab": null,
+                    "VariantNotes": null,
+                    "TeachingTips": null
+                  }
+                ]
+              },
+              {
+                "chunkTitle": "End the Game",
+                "chunkStart": 35,
+                "chunkDur": 10,
+                "steps": [
+                  {
+                    "Step": 4,
+                    "StepTitle": "Complete Exit Ticket",
+                    "StepQuickDescription": "Students will reflect on the game by completing the exit ticket questions on their worksheet.",
+                    "StepDetails": null,
+                    "Vocab": null,
+                    "VariantNotes": null,
+                    "TeachingTips": "Students can further test their bird song skills by exploring Cornell University's Bird Song Hero!"
+                  }
+                ]
+              }
+            ],
+            "lsnExt": [
+              {
+                "item": 1,
+                "itemTitle": "Cornell University's Bird Song Hero",
+                "itemDescription": "This game will further test students' spectrogram skills in identifying bird songs!",
+                "itemLink": "https://academy.allaboutbirds.org/features/bird-song-hero/bird-song-hero-tutorial"
+              },
+              {
+                "item": 2,
+                "itemTitle": "Article: The link between birdsong and language",
+                "itemDescription": "What can birds teach us about human connection? This article gives us a look into how bird scientists can help us make better sense of linguistics and human culture",
+                "itemLink": "https://www.bbcearth.com/news/the-link-between-birdsong-and-language"
+              },
+              {
+                "item": 3,
+                "itemTitle": "Cornell University's Merlin ID App",
+                "itemDescription": "Record birds live and ID them based on their songs",
+                "itemLink": "https://merlin.allaboutbirds.org/"
+              },
+              {
+                "item": 4,
+                "itemTitle": "The Language of Birds: Video from Cornell's lab of Ornithology",
+                "itemDescription": "Allow students to further explore bird communication in detail",
+                "itemLink": "https://youtu.be/1X5WMu_oJnQ"
+              },
+              {
+                "item": 5,
+                "itemTitle": "Bird Communication k-12 Lesson Plans",
+                "itemDescription": "Looking for more lesson plans on birds? Check out these materials",
+                "itemLink": "https://www.birds.cornell.edu/k12/bird-communication/"
+              },
+              {
+                "item": 6,
+                "itemTitle": "Cornell University's eBird Essentials",
+                "itemDescription": "Get your students into nature and collecting data like real scientists with Cornell's eBird project",
+                "itemLink": "https://www.birds.cornell.edu/k12/ebird-edu/"
+              },
+              {
+                "item": 7,
+                "itemTitle": "The Anatomy of Bird Song Presentation",
+                "itemDescription": "Dive into the anatomy of bird song with these free slides",
+                "itemLink": "https://academy.allaboutbirds.org/anatomy-of-bird-song-slides/"
+              },
+              {
+                "item": 8,
+                "itemTitle": "The Joys and Challenges of Birding While Black: Video by PBS",
+                "itemDescription": "Bird watching is for everyone, but systemic racism in the US means that not everyone has the same experience birding. Learn more about the different experience of birders, and help your students consider ways to make birding more accessible to everyone!",
+                "itemLink": "https://www.pbs.org/wgbh/nova/video/joys-challenges-birding-while-black-christian-cooper/"
+              },
+              {
+                "item": 9,
+                "itemTitle": "Article: How LA's bird population is shaped by historic redlining and racist loan practices",
+                "itemDescription": "Provide your students with a case study to explore how historical and social factors impact bird populations today. Redlined areas have less data samples of birds.Encourage your students to collect data and support a science in urban areas. We need more citizen scientists producing data in our communities!",
+                "itemLink": "https://phys.org/news/2023-10-la-bird-population-historic-redlining.html#google_vignette"
+              },
+              {
+                "item": 10,
+                "itemTitle": "Article: The Sounds that make us calmer",
+                "itemDescription": "Explore the exciting connections between bird sounds, music, and human emotion",
+                "itemLink": "https://www.bbc.com/culture/article/20210609-the-sounds-that-make-us-calmer"
+              }
+            ]
+          }
+        ],
+        "gatheredVocab": [
+          {
+            "term": "Sound spectrogram",
+            "definition": "a visual representation of frequencies in a recording over time"
+          }
+        ]
+      }
+    },
+    "background": {
+      "__component": "lesson-plan.collapsible-text-section",
+      "SectionTitle": "Background",
+      "Content": "#### Connection to Research\n In this lesson, students directly follow the footsteps of scientists who are working to better understand bird communication. \n#### Research Background\n Some of our abilities we are born with, and others we learn over time. Like humans, some birds learn to sing and communicate by interacting with others in their community. Nicole Creanza’s lab looks at how these learned singing behaviors came to be, and how they are evolving over time. Learning more about bird communication helps us to better understand our own human language.",
+      "InitiallyExpanded": true
+    },
+    "standards-header": {
+      "__component": "lesson-plan.section-heading",
+      "SectionTitle": "Learning Standards"
+    },
+    "learning-chart": {
+      "__component": "lesson-plan.learning-chart",
+      "Title": "About the GP Learning Chart",
+      "Description": "This Galactic Polymath Learning Chart illustrates the areas of knowledge covered. This lesson targets Science, but it helps teach national learning standards in 4 subjects: \n- [Common Core Math](https://learning.ccsso.org/common-core-state-standards-initiative); [Common Core ELA](https://learning.ccsso.org/common-core-state-standards-initiative); [Next Generation Science (NGSS)](https://www.nextgenscience.org/); and [College, Career, and Civic Life (C3) Social Studies Standards](https://www.socialstudies.org/standards/c3).\nIn total, there are 1 standards across US grade band(s): 5-6, 7-8.",
+      "Footnote": "",
+      "Badge": "https://storage.googleapis.com/gp-cloud/lessons/HeardThatBird_en-US/GP-Learning-Chart.png"
+    },
+    "standards": {
+      "__component": "lesson-plan.standards",
+      "Data": [
+        {
+          "subject": "Science",
+          "target": false,
+          "sets": [
+            {
+              "slug": "NGSS",
+              "name": "NGSS",
+              "dimensions": [
+                {
+                  "slug": "SEP",
+                  "name": "Science & Engineering Practices",
+                  "standardsGroup": [
+                    {
+                      "lessons": [
+                        "1"
+                      ],
+                      "codes": "AQDP-M1",
+                      "grades": [
+                        "6",
+                        "7",
+                        "8"
+                      ],
+                      "statements": "Ask questions that arise from careful observation of phenomena, models, or unexpected results, to clarify and/or seek additional information.",
+                      "alignmentNotes": "Document the alignment for each standard.",
+                      "subcat": "Ask Questions & Define Problems"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "feedback": {
+      "__component": "lesson-plan.collapsible-text-section",
+      "SectionTitle": "Feedback",
+      "Content": "### Please let us know how it went with your class!\n#### We want to know what you (and/or your students) think!\nShare your feedback in < 5 min with these forms:\n- [For teachers](https://forms.gle/FLNgns1rQno3Wqyu5)\n- [For students](https://forms.gle/tPG4FV2oVTxUVsiPA)\n",
+      "InitiallyExpanded": true
+    },
+    "acknowledgments": {
+      "__component": "lesson-plan.acknowledgments",
+      "SectionTitle": "Acknowledgments",
+      "Data": null
+    },
+    "versions": {
+      "__component": "lesson-plan.versions",
+      "SectionTitle": "Version Notes",
+      "Data": [
+        {
+          "major_release": "Beta",
+          "sub_releases": [
+            {
+              "version": "0.1.0",
+              "date": "January 22, 2024",
+              "summary": "Lesson initialized",
+              "notes": null,
+              "acknowledgments": null
+            },
+            {
+              "version": "0.2.0",
+              "date": "April 26, 2024",
+              "summary": "Unit alpha draft published",
+              "notes": null,
+              "acknowledgments": null
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

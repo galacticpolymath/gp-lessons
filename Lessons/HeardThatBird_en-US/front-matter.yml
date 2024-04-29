@@ -1,0 +1,147 @@
+numID: 11
+_id: lesson_11_en-US
+ShortTitle: HeardThatBird
+PublicationStatus: Hidden
+Language: English
+Country: United States
+DefaultLanguage: English
+DefaultCountry: United States
+LastUpdated: 2024-04-26 14:08:04.101181
+ReleaseDate: '2050-01-01'
+isTestRepo: no
+FirstPublicationDate: .na
+LsnStatuses:
+- lsn: 1
+  status: Beta
+  updated_date: .na
+  new_date: '2024-04-26'
+  sort_by_date: '2024-04-26'
+  unit_status: Hidden
+  unit_release_date: '2050-01-01'
+MediumTitle: '''Heard That Bird'' |Science| G6-12 (en-US)'
+lang: en
+lng: eng
+locale: en-US
+DefaultLocale: en-US
+TemplateVer: 0.6.3
+galacticPubsVer: 1.0.1
+URL: https://www.galacticpolymath.com/lessons/en-US/11
+GdriveHome: GP-Studio
+GdriveDirName: HeardThatBird_en-US
+GdriveTeachMatPath: GP-Studio/Edu/Lessons/HeardThatBird_en-US/teaching-materials
+GdriveTeachMatID: 15tKbnmGeJxRrtKpOulX492Y69yp7lnja
+GdrivePublicID: .na
+GdriveDirID: 15ocjRT7aMkyGBmwdwXaTcVcBRhFnhLNc
+GdriveMetaID: 15sjROBwlgP6fRQdUgd7Ehf3RD5e5rrHo
+GdriveTeachItID: 17k1leEfg3dIUtABBRjplKlR5uO33TMQaUj2kXXLi1jc
+GdriveStandardsID: 12QSdKmnhCLvq4wtSOjTohXykWO97NzxfS71xia0MEiU
+GdrivePublishedID: 15rmdHlJp2_54i9uSTkQZEneaSJLBzmU7
+GdriveDirURL: https://drive.google.com/drive/folders/15ocjRT7aMkyGBmwdwXaTcVcBRhFnhLNc
+RebuildAllMaterials: no
+Title: Heard That Bird
+Subtitle: A Pop Culture Intro to Birding by Ear
+SponsorName: National Science Foundation
+SponsoredBy: |
+  - [Dr. Nicole Creanza](https://creanzalab.com/) is an Associate Professor at Vanderbilt University. Her lab studies how human languages and birdsongs evolve through time and space.
+  - The National Science Foundation
+SponsorLogo: https://storage.googleapis.com/gp-cloud/lessons/HeardThatBird_en-US/NSF_logo_sm.png
+LessonBanner: https://storage.googleapis.com/gp-cloud/lessons/HeardThatBird_en-US/HeardThatBird-2-banner.png
+LessonCard: .na
+TargetSubject: Science
+LessonEnvir: Classroom
+ForGrades: 6-12
+GradesOrYears: Grades
+LessonTiles: https://storage.googleapis.com/gp-cloud/lessons/HeardThatBird_en-US/L1_HeardThatBird-2-tile.png
+EstLessonTime: 1 x 45 class
+PullStandardsInfoFrom: myFile
+LearningPlotCorrection: no
+LearningChartFriendly: yes
+LearningEpaulette: https://storage.googleapis.com/gp-cloud/lessons/HeardThatBird_en-US/GP-Learning-Epaulette.png
+LearningEpaulette_vert: https://storage.googleapis.com/gp-cloud/lessons/HeardThatBird_en-US/GP-Learning-Epaulette_vert.png
+LearningEpaulette_params_heightScalar: 0.5
+LearningEpaulette_params_randomSeed: 101
+LearningChart: https://storage.googleapis.com/gp-cloud/lessons/HeardThatBird_en-US/GP-Learning-Chart.png
+LearningChart_params_centralText: .na
+LearningChart_params_caption: .na
+LearningChart_params_captionN: yes
+SupportingMedia: https://storage.googleapis.com/gp-cloud/lessons/HeardThatBird_en-US/vocab.csv
+LearningSummary: Students will learn how to use spectrograms to visualize and identify
+  birds they hear. They will see 3 women bird researchers at different career levels
+  model scientific thought processes and leave class excited to use the free Merlin
+  app to ID birds outside of class.
+DrivingQ: |-
+  1. What natural sounds are we missing as we go about our daily lives?
+  2. How can spectrograms be used to help us identify birds in the environment?
+  3. What can bird sounds teach us about human emotion and communication?
+EssentialQ: .na
+Hooks: 'Students will compete against bird scientists in a gameshow to identify birds
+  in pop culture. Can they beat the experts?! '
+MiscMD: .na
+LearningObj: .na
+Tags:
+- Animal communication
+- bird song
+- species identification
+- ornithology
+- acoustic
+Description: .na
+QuickPrep: |
+  1. Check out lesson multimedia below
+  2. Look over [Teaching Materials](#teaching_materials)
+  3. Read our easy [Procedure](#procedure)
+  4. Teach it and [let us know what you think!](#feedback)
+Bonus: .na
+Extensions: .na
+Background: Some of our abilities we are born with, and others we learn over time.
+  Like humans, some birds learn to sing and communicate by interacting with others
+  in their community. Nicole Creanza’s lab looks at how these learned singing behaviors
+  came to be, and how they are evolving over time. Learning more about bird communication
+  helps us to better understand our own human language.
+ConnectionToResearch: In this lesson, students directly follow the footsteps of scientists
+  who are working to better understand bird communication.
+Feedback: |
+  ### Please let us know how it went with your class!
+  #### We want to know what you (and/or your students) think!
+  Share your feedback in < 5 min with these forms:
+  - [For teachers](https://forms.gle/FLNgns1rQno3Wqyu5)
+  - [For students](https://forms.gle/tPG4FV2oVTxUVsiPA)
+Credits:
+  value: .na
+Acknowledgments:
+  Role: .na
+  Role_def: .na
+  Name: .na
+  Title: .na
+  Affiliation: .na
+  Location: .na
+  Link: .na
+Versions:
+  ver_num:
+  - 0.1.0
+  - 0.2.0
+  date:
+  - January 22, 2024
+  - April 26, 2024
+  ver_summary:
+  - Lesson initialized
+  - Unit alpha draft published
+  ver_notes:
+  - .na
+  - .na
+  ver_acknowledgments:
+  - .na
+  - .na
+ScriptsToRun: .na
+GoogleCloudStorage:
+  filename: .na
+  WD_rel_path: .na
+  cloud_path: .na
+  mod_time: .na
+  last_uploaded: .na
+ReadyToCompile:
+- Front Matter
+- Standards Alignment
+- Teaching Materials
+- Procedure
+- Acknowledgments
+- Versions

@@ -1,0 +1,28 @@
+{
+  "__component": "lesson-plan.overview",
+  "LearningSummary": "Students will learn how to use spectrograms to visualize and identify birds they hear. They will see 3 women bird researchers at different career levels model scientific thought processes and leave class excited to use the free Merlin app to ID birds outside of class.",
+  "EstLessonTime": "1 x 45 class",
+  "GradesOrYears": "Grades",
+  "ForGrades": "6-12",
+  "TargetSubject": "Science",
+  "Text": "#### Driving Question(s):\n1. What natural sounds are we missing as we go about our daily lives?\n2. How can spectrograms be used to help us identify birds in the environment?\n3. What can bird sounds teach us about human emotion and communication?\n#### Hook(s):\nStudents will compete against bird scientists in a gameshow to identify birds in pop culture. Can they beat the experts?! ",
+  "Tags": [
+    {
+      "Value": "Animal communication"
+    },
+    {
+      "Value": "bird song"
+    },
+    {
+      "Value": "species identification"
+    },
+    {
+      "Value": "ornithology"
+    },
+    {
+      "Value": "acoustic"
+    }
+  ],
+  "SteamEpaulette": "https://storage.googleapis.com/gp-cloud/lessons/HeardThatBird_en-US/GP-Learning-Epaulette.png",
+  "SteamEpaulette_vert": "https://storage.googleapis.com/gp-cloud/lessons/HeardThatBird_en-US/GP-Learning-Epaulette_vert.png"
+}

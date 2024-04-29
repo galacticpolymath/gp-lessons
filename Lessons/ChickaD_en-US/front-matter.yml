@@ -1,17 +1,17 @@
 numID: 12
 _id: lesson_12_en-US
 ShortTitle: ChickaD
-PublicationStatus: Proto
+PublicationStatus: Hidden
 Language: English
 Country: United States
 DefaultLanguage: English
 DefaultCountry: United States
-LastUpdated: 2024-02-17 17:39:37.149343
+LastUpdated: 2024-04-02 14:17:22.588694
 ReleaseDate: '2050-01-01'
 isTestRepo: no
 FirstPublicationDate: .na
 LsnStatuses: .na
-MediumTitle: '''ChickaD''(en-US)'
+MediumTitle: '''Unnamed Evolution Unit''(en-US)'
 lang: en
 lng: eng
 locale: en-US
@@ -31,7 +31,7 @@ GdriveStandardsID: 15vmwu34nEg381l24XqY0AvUdwFb3H70vs6jKCECTShU
 GdrivePublishedID: 16HL3uAk2Jlv2lgoav9tsVf0QW320Gcx3
 GdriveDirURL: https://drive.google.com/drive/folders/16E3b2BY1WEk1FCyGhm5cqL4gufawPbzr
 RebuildAllMaterials: no
-Title: .na
+Title: Unnamed Evolution Unit
 Subtitle: .na
 SponsorName: .na
 SponsoredBy: .na

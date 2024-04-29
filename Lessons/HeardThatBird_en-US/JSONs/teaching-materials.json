@@ -1,0 +1,235 @@
+{
+  "__component": "teaching-resources.teaching-resources",
+  "SectionTitle": "Teaching Materials",
+  "Data": {
+    "lessonPreface": null,
+    "lessonDur": "3 x 45 min",
+    "classroom": {
+      "gradeVariantNotes": [
+        {
+          "lsn": "1",
+          "lsnGradeVarNotes": null
+        }
+      ],
+      "resources": [
+        {
+          "grades": "Grades 6-10",
+          "gradePrefix": "G6-10",
+          "links": {
+            "linkText": "Browse & Download All G6-10 Materials",
+            "url": "https://drive.google.com/drive/folders/15xRbdBXmETH-btsDX3a6mlTZJQec7ICI"
+          },
+          "lessons": [
+            {
+              "lsn": "1",
+              "title": "Heard that Bird?",
+              "tags": [
+                ["games", "pop culture", "spectrograms"]
+              ],
+              "preface": "Interactive presentation, asking students to follow along with scientists and identify bird sounds in pop culture.",
+              "tile": "https://storage.googleapis.com/gp-cloud/lessons/HeardThatBird_en-US/L1_HeardThatBird-2-tile.png",
+              "itemList": [
+                {
+                  "itemTitle": "Presentation (Lesson 1)",
+                  "itemDescription": "Need: WiFi, Computer, Projector, Sound",
+                  "itemCat": "presentation",
+                  "links": [
+                    {
+                      "linkText": "Present Now",
+                      "url": "https://docs.google.com/presentation/d/1Ap-5KpikBslJz92tJhaHngLDYjlIZBS7P2Kt_Fq-Kn8/present"
+                    },
+                    {
+                      "linkText": "Preview/Copy in Google Docs",
+                      "url": "https://docs.google.com/presentation/d/1Ap-5KpikBslJz92tJhaHngLDYjlIZBS7P2Kt_Fq-Kn8/template/preview"
+                    }
+                  ]
+                },
+                {
+                  "itemTitle": "Student Worksheet (Lesson 1)",
+                  "itemDescription": "Print 1 Per Student",
+                  "itemCat": "document",
+                  "links": [
+                    {
+                      "linkText": "PDF",
+                      "url": "https://docs.google.com/document/d/16pKtD3YnQ59tOISSWduM8YEcNBoyRVySYSl__1f-ljk/export?format=pdf"
+                    },
+                    {
+                      "linkText": "Preview/Copy in Google Docs",
+                      "url": "https://docs.google.com/document/d/16pKtD3YnQ59tOISSWduM8YEcNBoyRVySYSl__1f-ljk/template/preview"
+                    }
+                  ]
+                },
+                {
+                  "itemTitle": "Teacher Worksheet (Lesson 1)",
+                  "itemDescription": "Print 1",
+                  "itemCat": "document",
+                  "links": [
+                    {
+                      "linkText": "PDF",
+                      "url": "https://docs.google.com/document/d/18QsOkEghsBH0C42jhB3b5Zj1PzXMsz7SZzHR_Ehv5_4/export?format=pdf"
+                    },
+                    {
+                      "linkText": "Preview/Copy in Google Docs",
+                      "url": "https://docs.google.com/document/d/18QsOkEghsBH0C42jhB3b5Zj1PzXMsz7SZzHR_Ehv5_4/template/preview"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "lesson": [
+      {
+        "lsnNum": 1,
+        "lsnTitle": "Heard that Bird?",
+        "lsnDur": 45,
+        "lsnPreface": "Interactive presentation, asking students to follow along with scientists and identify bird sounds in pop culture.",
+        "learningObj": ["Students will analyze spectrograms to visualize and differentiate sounds.", "Students will mirror the process of real scientists to identify bird species.", "Students will analyze bird sounds in popular culture to foster curiousity of birds in their daily lives."],
+        "lsnPrep": {
+          "prepTitle": "Prep",
+          "prepDur": 10,
+          "prepQuickDescription": "Print handouts. \nCheck slideshow audio/video.\nDetermine team format for gameshow.",
+          "prepDetails": "The gameshow relies on many videos embedded into the slide deck. Make sure that your projector can amplify the video and sound appropriately.\nAdditionally, you might want to think about how students will work in teams during the gameshow.",
+          "prepVariantNotes": null,
+          "prepTeachingTips": null
+        },
+        "chunks": [
+          {
+            "chunkTitle": "Engage",
+            "chunkStart": 0,
+            "chunkDur": 5,
+            "steps": [
+              {
+                "Step": 1,
+                "StepTitle": "Listening Hook",
+                "StepQuickDescription": "Students will listen to two different bird sounds and think about what words or feelings come up.",
+                "StepDetails": null,
+                "Vocab": null,
+                "VariantNotes": null,
+                "TeachingTips": null
+              }
+            ]
+          },
+          {
+            "chunkTitle": "Introduce the Game",
+            "chunkStart": 5,
+            "chunkDur": 10,
+            "steps": [
+              {
+                "Step": 2,
+                "StepTitle": "Play Clip #1: Practice Round",
+                "StepQuickDescription": "During the initial practice round, students will learn the format of the gameshow and be introduced to sound spectrograms.",
+                "StepDetails": null,
+                "Vocab": "- **Sound spectrogram:**  a visual representation of frequencies in a recording over time",
+                "VariantNotes": null,
+                "TeachingTips": null
+              }
+            ]
+          },
+          {
+            "chunkTitle": "Play the Game",
+            "chunkStart": 15,
+            "chunkDur": 20,
+            "steps": [
+              {
+                "Step": 3,
+                "StepTitle": "Play Clips #2-8",
+                "StepQuickDescription": "During the game, students can keep track of their scores in the Heard that Bird worksheet and play alongside bird song researchers at Vanderbilt University!",
+                "StepDetails": null,
+                "Vocab": null,
+                "VariantNotes": null,
+                "TeachingTips": null
+              }
+            ]
+          },
+          {
+            "chunkTitle": "End the Game",
+            "chunkStart": 35,
+            "chunkDur": 10,
+            "steps": [
+              {
+                "Step": 4,
+                "StepTitle": "Complete Exit Ticket",
+                "StepQuickDescription": "Students will reflect on the game by completing the exit ticket questions on their worksheet.",
+                "StepDetails": null,
+                "Vocab": null,
+                "VariantNotes": null,
+                "TeachingTips": "Students can further test their bird song skills by exploring Cornell University's Bird Song Hero!"
+              }
+            ]
+          }
+        ],
+        "lsnExt": [
+          {
+            "item": 1,
+            "itemTitle": "Cornell University's Bird Song Hero",
+            "itemDescription": "This game will further test students' spectrogram skills in identifying bird songs!",
+            "itemLink": "https://academy.allaboutbirds.org/features/bird-song-hero/bird-song-hero-tutorial"
+          },
+          {
+            "item": 2,
+            "itemTitle": "Article: The link between birdsong and language",
+            "itemDescription": "What can birds teach us about human connection? This article gives us a look into how bird scientists can help us make better sense of linguistics and human culture",
+            "itemLink": "https://www.bbcearth.com/news/the-link-between-birdsong-and-language"
+          },
+          {
+            "item": 3,
+            "itemTitle": "Cornell University's Merlin ID App",
+            "itemDescription": "Record birds live and ID them based on their songs",
+            "itemLink": "https://merlin.allaboutbirds.org/"
+          },
+          {
+            "item": 4,
+            "itemTitle": "The Language of Birds: Video from Cornell's lab of Ornithology",
+            "itemDescription": "Allow students to further explore bird communication in detail",
+            "itemLink": "https://youtu.be/1X5WMu_oJnQ"
+          },
+          {
+            "item": 5,
+            "itemTitle": "Bird Communication k-12 Lesson Plans",
+            "itemDescription": "Looking for more lesson plans on birds? Check out these materials",
+            "itemLink": "https://www.birds.cornell.edu/k12/bird-communication/"
+          },
+          {
+            "item": 6,
+            "itemTitle": "Cornell University's eBird Essentials",
+            "itemDescription": "Get your students into nature and collecting data like real scientists with Cornell's eBird project",
+            "itemLink": "https://www.birds.cornell.edu/k12/ebird-edu/"
+          },
+          {
+            "item": 7,
+            "itemTitle": "The Anatomy of Bird Song Presentation",
+            "itemDescription": "Dive into the anatomy of bird song with these free slides",
+            "itemLink": "https://academy.allaboutbirds.org/anatomy-of-bird-song-slides/"
+          },
+          {
+            "item": 8,
+            "itemTitle": "The Joys and Challenges of Birding While Black: Video by PBS",
+            "itemDescription": "Bird watching is for everyone, but systemic racism in the US means that not everyone has the same experience birding. Learn more about the different experience of birders, and help your students consider ways to make birding more accessible to everyone!",
+            "itemLink": "https://www.pbs.org/wgbh/nova/video/joys-challenges-birding-while-black-christian-cooper/"
+          },
+          {
+            "item": 9,
+            "itemTitle": "Article: How LA's bird population is shaped by historic redlining and racist loan practices",
+            "itemDescription": "Provide your students with a case study to explore how historical and social factors impact bird populations today. Redlined areas have less data samples of birds.Encourage your students to collect data and support a science in urban areas. We need more citizen scientists producing data in our communities!",
+            "itemLink": "https://phys.org/news/2023-10-la-bird-population-historic-redlining.html#google_vignette"
+          },
+          {
+            "item": 10,
+            "itemTitle": "Article: The Sounds that make us calmer",
+            "itemDescription": "Explore the exciting connections between bird sounds, music, and human emotion",
+            "itemLink": "https://www.bbc.com/culture/article/20210609-the-sounds-that-make-us-calmer"
+          }
+        ]
+      }
+    ],
+    "gatheredVocab": [
+      {
+        "term": "Sound spectrogram",
+        "definition": "a visual representation of frequencies in a recording over time"
+      }
+    ]
+  }
+}

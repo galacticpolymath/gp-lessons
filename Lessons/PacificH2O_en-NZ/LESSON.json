@@ -1,25 +1,53 @@
 {
-  "numID": null,
-  "_id": null,
+  "numID": 13,
+  "_id": "lesson_13_en-US",
   "ShortTitle": "PacificH2O",
-  "PublicationStatus": "Proto",
+  "PublicationStatus": "Hidden",
   "Language": "English",
   "Country": "United States",
   "DefaultLanguage": "English",
   "DefaultCountry": "United States",
-  "LastUpdated": "2024-02-08 12:38:41.123099",
+  "LastUpdated": "2024-04-10 11:42:20.046307",
   "ReleaseDate": "2050-01-01",
   "isTestRepo": false,
   "FirstPublicationDate": null,
-  "LsnStatuses": null,
-  "MediumTitle": "'PacificH2O' |Math| (en-US)",
+  "LsnStatuses": [
+    {
+      "lsn": 1,
+      "status": "Beta",
+      "updated_date": null,
+      "new_date": "2024-04-02",
+      "sort_by_date": "2024-04-02",
+      "unit_status": "Hidden",
+      "unit_release_date": "2050-01-01"
+    },
+    {
+      "lsn": 2,
+      "status": "Beta",
+      "updated_date": null,
+      "new_date": "2024-04-02",
+      "sort_by_date": "2024-04-02",
+      "unit_status": "Hidden",
+      "unit_release_date": "2050-01-01"
+    },
+    {
+      "lsn": 3,
+      "status": "Beta",
+      "updated_date": null,
+      "new_date": "2024-04-02",
+      "sort_by_date": "2024-04-02",
+      "unit_status": "Hidden",
+      "unit_release_date": "2050-01-01"
+    }
+  ],
+  "MediumTitle": "'Pacific H2O' |Science| Y9-13 (en-US)",
   "lang": "en",
   "lng": "eng",
   "locale": "en-US",
   "DefaultLocale": "en-US",
   "TemplateVer": "0.6.3",
   "galacticPubsVer": "1.0.1",
-  "URL": "https://www.galacticpolymath.com/lessons/en-US/NA",
+  "URL": "https://www.galacticpolymath.com/lessons/en-US/13",
   "GdriveHome": "GP-Studio",
   "GdriveDirName": "PacificH2O_en-NZ",
   "GdriveTeachMatPath": "GP-Studio/Edu/Lessons/PacificH2O_en-NZ/teaching-materials",
@@ -32,40 +60,697 @@
   "GdrivePublishedID": "14Bdt0f3S4iQi1ecg2ri0AitSjXNlQnY7",
   "GdriveDirURL": "https://drive.google.com/drive/folders/149QQA5qlc16i0Y8syL3FJbS6crbvXC9E",
   "RebuildAllMaterials": false,
-  "Title": null,
-  "Subtitle": null,
-  "SponsorName": null,
-  "SponsoredBy": null,
-  "SponsorLogo": [],
-  "LessonBanner": null,
+  "Title": "Pacific H2O",
+  "Subtitle": "A Choose-Your-Own STEM Adventure",
+  "SponsorName": "University of Canterbury",
+  "SponsoredBy": "[The Department of Chemical and Process Engineering at the University of Canterbury](https://www.canterbury.ac.nz/engineering/) in Christchurch, New Zealand",
+  "SponsorLogo": "https://storage.googleapis.com/gp-cloud/lessons/PacificH2O_en-NZ/canterbury_logo.jpg",
+  "LessonBanner": "https://storage.googleapis.com/gp-cloud/lessons/PacificH2O_en-NZ/PacificH2O-UnitAssets-1-banner.png",
   "LessonCard": null,
-  "TargetSubject": "Math",
+  "TargetSubject": "Science",
   "LessonEnvir": null,
-  "ForGrades": null,
-  "GradesOrYears": "Grades",
+  "ForGrades": "9-13",
+  "GradesOrYears": "Years",
   "Section": {
     "overview": {
       "__component": "lesson-plan.overview",
       "LearningSummary": null,
-      "EstLessonTime": null,
-      "GradesOrYears": "Grades",
-      "ForGrades": null,
-      "TargetSubject": "Math",
+      "EstLessonTime": "3–4 class periods",
+      "GradesOrYears": "Years",
+      "ForGrades": "9-13",
+      "TargetSubject": "Science",
       "Text": null,
       "Tags": [
         {
           "Value": null
         }
       ],
-      "SteamEpaulette": null,
-      "SteamEpaulette_vert": null
+      "SteamEpaulette": "https://storage.googleapis.com/gp-cloud/lessons/PacificH2O_en-NZ/GP-Learning-Epaulette.png",
+      "SteamEpaulette_vert": "https://storage.googleapis.com/gp-cloud/lessons/PacificH2O_en-NZ/GP-Learning-Epaulette_vert.png"
     },
     "preview": {
       "__component": "lesson-plan.unit-preview",
       "SectionTitle": "Lesson Preview",
       "QuickPrep": "1. Check out lesson multimedia below\n2. Look over <AnchorLink href=\"#teaching_materials\"> Teaching Materials <\/AnchorLink>\n3. Read our easy <AnchorLink href=\"#procedure\"> Procedure <\/AnchorLink>\n4. Teach it and <AnchorLink href=\"#feedback\"> let us know what you think! <\/AnchorLink>\n",
-      "Multimedia": null,
+      "Multimedia": [
+        {
+          "order": "1",
+          "type": "web-app",
+          "forLsn": "2",
+          "title": "PacificH2O Interactive Lab",
+          "description": null,
+          "lessonRelevance": "A Choose-Your-Own Adventure app that mediates a blended learning lab. Students try to identify impurities in different water sources and remove them as they embody different STEM career roles.",
+          "by": "Galactic Polymath",
+          "byLink": "https://www.youtube.com/channel/UCfyBNvN3CH4uWmwOCQVhmhg/featured",
+          "mainLink": "https://pacific-h2o.galacticpolymath.com/",
+          "otherLink": null
+        }
+      ],
       "InitiallyExpanded": true
+    },
+    "teaching-materials": {
+      "__component": "teaching-resources.teaching-resources",
+      "SectionTitle": "Teaching Materials",
+      "Data": {
+        "lessonPreface": null,
+        "lessonDur": "3 x ~50 min",
+        "classroom": {
+          "gradeVariantNotes": [
+            {
+              "lsn": "1",
+              "lsnGradeVarNotes": null
+            },
+            {
+              "lsn": "2",
+              "lsnGradeVarNotes": null
+            }
+          ],
+          "resources": [
+            {
+              "grades": "Years 9-12",
+              "gradePrefix": "Y9-12",
+              "links": {
+                "linkText": "Browse & Download All Y9-12 Materials",
+                "url": "https://drive.google.com/drive/folders/14IoGLdgBY-oRKtf6CcRgL1CWkyc2AGZC"
+              },
+              "lessons": [
+                {
+                  "lsn": "1",
+                  "title": "Water Matters: Mind-mapping the meaning of water",
+                  "tags": [
+                    [
+                      "mind maps",
+                      "activity",
+                      "SEL"
+                    ]
+                  ],
+                  "preface": "Students create mind maps to reflect on what water means to them, as an engagement hook to investigate water purification technologies and Pacific water issues.",
+                  "tile": null,
+                  "itemList": [
+                    {
+                      "itemTitle": "Presentation (Lesson 1)",
+                      "itemDescription": "Need: WiFi, Computer, Projector, Sound",
+                      "itemCat": "presentation",
+                      "links": [
+                        {
+                          "linkText": "PDF",
+                          "url": "https://docs.google.com/presentation/d/1c2_RmA0DmxTMQnjPnxuW9TY77gtzWIQg6kIxxYLtS0Q/export/pdf"
+                        },
+                        {
+                          "linkText": "Preview/Copy in Google Docs",
+                          "url": "https://docs.google.com/presentation/d/1c2_RmA0DmxTMQnjPnxuW9TY77gtzWIQg6kIxxYLtS0Q/template/preview"
+                        }
+                      ]
+                    },
+                    {
+                      "itemTitle": "Teacher Worksheet (Lesson 1)",
+                      "itemDescription": "Print 1",
+                      "itemCat": "document",
+                      "links": [
+                        {
+                          "linkText": "PDF",
+                          "url": "https://docs.google.com/document/d/1r7rv0yL38NzVJAFeZIws-BPnZ0rioZeEwKG95rGVFYc/export?format=pdf"
+                        },
+                        {
+                          "linkText": "Preview/Copy in Google Docs",
+                          "url": "https://docs.google.com/document/d/1r7rv0yL38NzVJAFeZIws-BPnZ0rioZeEwKG95rGVFYc/template/preview"
+                        }
+                      ]
+                    },
+                    {
+                      "itemTitle": "Student Worksheet (Lesson 1)",
+                      "itemDescription": "Print 1 Per Student",
+                      "itemCat": "document",
+                      "links": [
+                        {
+                          "linkText": "PDF",
+                          "url": "https://docs.google.com/document/d/11JPZ7dH5Q2xMsiPX981TUFpR30EIFLRIEHJ_RRyA_1E/export?format=pdf"
+                        },
+                        {
+                          "linkText": "Preview/Copy in Google Docs",
+                          "url": "https://docs.google.com/document/d/11JPZ7dH5Q2xMsiPX981TUFpR30EIFLRIEHJ_RRyA_1E/template/preview"
+                        }
+                      ]
+                    },
+                    {
+                      "itemTitle": "Student Handout (Lesson 1)",
+                      "itemDescription": "Classroom Set (Detailed Mindmap Example from a STEM professional)",
+                      "itemCat": "pdf",
+                      "links": [
+                        {
+                          "linkText": "PDF",
+                          "url": "https://drive.google.com/file/d/1UsU4c4ft5D8OWdvijmdMpaz1NoqpA8-w"
+                        },
+                        {
+                          "linkText": "Preview/Copy in Google Docs",
+                          "url": "https://drive.google.com/file/d/1UsU4c4ft5D8OWdvijmdMpaz1NoqpA8-w"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "lsn": "2",
+                  "title": "Pacific H2O Lab: Connecting Pacific problem-solving to the classroom",
+                  "tags": [
+                    [
+                      "hands-on",
+                      "blended learning",
+                      "lab"
+                    ]
+                  ],
+                  "preface": "Students interact with a choose-your-own-adventure app as they do a hands-on lab to identify and remove contaminants in water samples.",
+                  "tile": null,
+                  "itemList": [
+                    {
+                      "itemTitle": "Presentation (Lesson 2)",
+                      "itemDescription": "Need: WiFi, Computer, Projector, Sound",
+                      "itemCat": "presentation",
+                      "links": [
+                        {
+                          "linkText": "Present Now",
+                          "url": "https://docs.google.com/presentation/d/1rvYa0OGXGpscUWM3pBqE88xjRqzhTPP6rLj2-qZ6PWg/present"
+                        },
+                        {
+                          "linkText": "Preview/Copy in Google Docs",
+                          "url": "https://docs.google.com/presentation/d/1rvYa0OGXGpscUWM3pBqE88xjRqzhTPP6rLj2-qZ6PWg/template/preview"
+                        }
+                      ]
+                    },
+                    {
+                      "itemTitle": "Teacher Preparation Doc (Lesson 2)",
+                      "itemDescription": "Read before lab",
+                      "itemCat": "document",
+                      "links": [
+                        {
+                          "linkText": "PDF",
+                          "url": "https://docs.google.com/document/d/163z_GRTUF751GfIGeCmtYNtm0itIxr9eMvyc_TDfPOI/export?format=pdf"
+                        },
+                        {
+                          "linkText": "Preview/Copy in Google Docs",
+                          "url": "https://docs.google.com/document/d/163z_GRTUF751GfIGeCmtYNtm0itIxr9eMvyc_TDfPOI/template/preview"
+                        }
+                      ]
+                    },
+                    {
+                      "itemTitle": "Student Worksheet (Lesson 2)",
+                      "itemDescription": "Print 1 Per Student",
+                      "itemCat": "document",
+                      "links": [
+                        {
+                          "linkText": "PDF",
+                          "url": "https://docs.google.com/document/d/1w0HrG3R7eQ0ynTI9mCqOdc86VlP6lHJzyVg2VYE9nyg/export?format=pdf"
+                        },
+                        {
+                          "linkText": "Preview/Copy in Google Docs",
+                          "url": "https://docs.google.com/document/d/1w0HrG3R7eQ0ynTI9mCqOdc86VlP6lHJzyVg2VYE9nyg/template/preview"
+                        }
+                      ]
+                    },
+                    {
+                      "itemTitle": "Student Lab Procedures (Lesson 2)",
+                      "itemDescription": "Print 1 Per Group",
+                      "itemCat": "document",
+                      "links": [
+                        {
+                          "linkText": "PDF",
+                          "url": "https://docs.google.com/document/d/1c5U77u3znSmEqtzzfvNQ-hqZCUZXHYDg8QkSRsfdows/export?format=pdf"
+                        },
+                        {
+                          "linkText": "Preview/Copy in Google Docs",
+                          "url": "https://docs.google.com/document/d/1c5U77u3znSmEqtzzfvNQ-hqZCUZXHYDg8QkSRsfdows/template/preview"
+                        }
+                      ]
+                    },
+                    {
+                      "itemTitle": "Teacher Lab Procedures (Lesson 2)",
+                      "itemDescription": "Read before lab",
+                      "itemCat": "document",
+                      "links": [
+                        {
+                          "linkText": "PDF",
+                          "url": "https://docs.google.com/document/d/1kq6d7e_B6WMKPQq5SpJdy1bR45iJWdJNwwVZUvFuLHg/export?format=pdf"
+                        },
+                        {
+                          "linkText": "Preview/Copy in Google Docs",
+                          "url": "https://docs.google.com/document/d/1kq6d7e_B6WMKPQq5SpJdy1bR45iJWdJNwwVZUvFuLHg/template/preview"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        "lesson": [
+          {
+            "lsnNum": 1,
+            "lsnTitle": "Water Matters: Mind-mapping the meaning of water",
+            "lsnDur": 45,
+            "lsnPreface": "Students create mind maps to reflect on what water means to them, as an engagement hook to investigate water purification technologies and Pacific water issues.",
+            "learningObj": [
+              "Explore their personal values and experiences related to water and connect them to the importance of engineering clean water in the Pacific.",
+              "Examine the value of water through a Pacific cultural lens."
+            ],
+            "lsnPrep": {
+              "prepTitle": "Prep",
+              "prepDur": 10,
+              "prepQuickDescription": "Print student handouts and gather pens/pencils/markers for mind-mapping. Make sure your projector can play audio and video included in the slideshow.",
+              "prepDetails": null,
+              "prepVariantNotes": null,
+              "prepTeachingTips": null
+            },
+            "chunks": [
+              {
+                "chunkTitle": "Engage",
+                "chunkStart": 0,
+                "chunkDur": 10,
+                "steps": [
+                  {
+                    "Step": 1,
+                    "StepTitle": "What is a Mind Map?",
+                    "StepQuickDescription": "Through examples and a supporting video, students will learn what a mind map is and how it connects to the topic of water.",
+                    "StepDetails": "The lesson 1 slideshow will walk you through the entire lesson. Additionally, the teacher worksheet has several mind-mapping tips.",
+                    "Vocab": "- **Mind map:**  a diagram that visually organizes information to show relationships among connected concepts.",
+                    "VariantNotes": null,
+                    "TeachingTips": null
+                  }
+                ]
+              },
+              {
+                "chunkTitle": "Explore",
+                "chunkStart": 10,
+                "chunkDur": 10,
+                "steps": [
+                  {
+                    "Step": 2,
+                    "StepTitle": "Create Your Mind Map",
+                    "StepQuickDescription": "Students will create a mind map that represents their connection to water.",
+                    "StepDetails": "Questions to prompt student thinking:\n- How do you use water daily?\n- What aspects of your life rely on clean water?\n- How does your family / community rely on water?",
+                    "Vocab": null,
+                    "VariantNotes": null,
+                    "TeachingTips": "This fun and creative exercise would be further supported if teachers tried it for themselves ahead of time!"
+                  }
+                ]
+              },
+              {
+                "chunkTitle": "Explain",
+                "chunkStart": 20,
+                "chunkDur": 10,
+                "steps": [
+                  {
+                    "Step": 3,
+                    "StepTitle": "Share Your Mind Map",
+                    "StepQuickDescription": "Students will explain their thinking with the class and view their classmates' approach to the exercise.",
+                    "StepDetails": null,
+                    "Vocab": null,
+                    "VariantNotes": null,
+                    "TeachingTips": null
+                  }
+                ]
+              },
+              {
+                "chunkTitle": "Elaborate",
+                "chunkStart": 30,
+                "chunkDur": 10,
+                "steps": [
+                  {
+                    "Step": 4,
+                    "StepTitle": "Viewing the Mind Map of a Pacific STEM Professional",
+                    "StepQuickDescription": "Students will elaborate on their thinking about water while viewing an elaborate mind map from a maritime manager in Niue.",
+                    "StepDetails": "Print copies of the student handout for this part of the lesson.",
+                    "Vocab": null,
+                    "VariantNotes": null,
+                    "TeachingTips": null
+                  }
+                ]
+              },
+              {
+                "chunkTitle": "Evaluate",
+                "chunkStart": 40,
+                "chunkDur": 5,
+                "steps": [
+                  {
+                    "Step": 5,
+                    "StepTitle": "Reflect",
+                    "StepQuickDescription": "Students will reflect on the lesson and think about a prompt that primes them for the next lesson.",
+                    "StepDetails": null,
+                    "Vocab": null,
+                    "VariantNotes": null,
+                    "TeachingTips": null
+                  }
+                ]
+              }
+            ],
+            "lsnExt": null
+          },
+          {
+            "lsnNum": 2,
+            "lsnTitle": "Pacific H2O Lab: Connecting Pacific problem-solving to the classroom",
+            "lsnDur": 55,
+            "lsnPreface": "Students interact with a choose-your-own-adventure app as they do a hands-on lab to identify and remove contaminants in water samples.",
+            "learningObj": [
+              "Examine the value of water through a Pacific cultural lens.",
+              "Understand factors that limit access to clean water in the Pacific.",
+              "Conduct tests and treatments on a sample of contaminated water using laboratory equipment.",
+              "Embody the role of a STEM professional and collaborate with a team to make complex decisions in the narrative of the lab's website."
+            ],
+            "lsnPrep": {
+              "prepTitle": "Prepare Lab Materials",
+              "prepDur": 45,
+              "prepQuickDescription": "Read through the Lab Preparation document which outlines the supplies that are needed for the lesson.\nPrint student worksheet and student lab procedures",
+              "prepDetails": null,
+              "prepVariantNotes": null,
+              "prepTeachingTips": "Note: Supplies that are being ordered may take many days or multiple weeks to arrive. Plan ahead by gathering supplies well before you intend to conduct the lab with students."
+            },
+            "chunks": [
+              {
+                "chunkTitle": "Introduction",
+                "chunkStart": 0,
+                "chunkDur": 5,
+                "steps": [
+                  {
+                    "Step": 1,
+                    "StepTitle": "What is a Blended Lab?",
+                    "StepQuickDescription": "After a quick review of the previous lesson, students will learn about how the blended lab is structured and how to document their work.",
+                    "StepDetails": null,
+                    "Vocab": "- **Blended lab:**  Students making decisions in a web app and executing their decisions using lab equipment and supplies.",
+                    "VariantNotes": null,
+                    "TeachingTips": null
+                  }
+                ]
+              },
+              {
+                "chunkTitle": "Engineer-Your-Adventure",
+                "chunkStart": 5,
+                "chunkDur": 45,
+                "steps": [
+                  {
+                    "Step": 2,
+                    "StepTitle": "Conduct the Lab",
+                    "StepQuickDescription": "Students work in teams to achieve the overall objective of delivering clean water to their assigned community in the Pacific. Teams will create their own unique problem-solving path as they make decisions in the app and execute them in the lab.",
+                    "StepDetails": "Note: Each group will move at a different pace through the blended lab. If some groups are waiting for an assay or treatment, they can explore the further learning resources located on the back page of their lab notebook worksheet.",
+                    "Vocab": null,
+                    "VariantNotes": null,
+                    "TeachingTips": null
+                  }
+                ]
+              },
+              {
+                "chunkTitle": "Wrap Up",
+                "chunkStart": 50,
+                "chunkDur": 5,
+                "steps": [
+                  {
+                    "Step": 3,
+                    "StepTitle": "Clean Up & Finalize Lab Notebook",
+                    "StepQuickDescription": "Students clean up their workspace and finish recording information about their decision-making.",
+                    "StepDetails": null,
+                    "Vocab": null,
+                    "VariantNotes": null,
+                    "TeachingTips": null
+                  }
+                ]
+              }
+            ],
+            "lsnExt": null
+          }
+        ],
+        "gatheredVocab": [
+          {
+            "term": "Mind map",
+            "definition": "a diagram that visually organizes information to show relationships among connected concepts."
+          },
+          {
+            "term": "Blended lab",
+            "definition": "Students making decisions in a web app and executing their decisions using lab equipment and supplies."
+          }
+        ]
+      }
+    },
+    "background": {
+      "__component": "lesson-plan.collapsible-text-section",
+      "SectionTitle": "Background",
+      "Content": "#### Connection to Research\n This unit connects to authentic engineering thinking. In Lesson 2, the Choose-Your-Own STEM Adventure blended chemistry lab, students will think through and discuss water purification strategies with classmates. They will interact with a web app that tracks the environmental and monetary costs of their decisions as they perform hands-on labs to assess and filter out impurities in water samples. \n#### Research Background\n Links to relevant papers:\n- Here",
+      "InitiallyExpanded": true
+    },
+    "standards-header": {
+      "__component": "lesson-plan.section-heading",
+      "SectionTitle": "Learning Standards"
+    },
+    "standards": {
+      "__component": "lesson-plan.standards",
+      "Data": [
+        {
+          "subject": "ELA",
+          "target": false,
+          "sets": [
+            {
+              "slug": "NZC",
+              "name": "NZ Curriculum",
+              "dimensions": [
+                {
+                  "slug": "n14",
+                  "name": "Listening, Reading, and Viewing",
+                  "standardsGroup": [
+                    {
+                      "lessons": [],
+                      "codes": "Level 4. Language Features",
+                      "grades": [],
+                      "statements": "Students will show an increasing understanding of how language features are used for effect within and across texts.",
+                      "alignmentNotes": "Placeholder",
+                      "subcat": null
+                    },
+                    {
+                      "lessons": [],
+                      "codes": "Level 5. Language Features",
+                      "grades": [],
+                      "statements": "Students will show an understanding of how language features are used for effect within and across texts.",
+                      "alignmentNotes": "Placeholder",
+                      "subcat": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "subject": "Science",
+          "target": false,
+          "sets": [
+            {
+              "slug": "NZC",
+              "name": "NZ Curriculum",
+              "dimensions": [
+                {
+                  "slug": "n4",
+                  "name": "Material World",
+                  "standardsGroup": [
+                    {
+                      "lessons": [],
+                      "codes": "Level 4. Chemistry and Society",
+                      "grades": [],
+                      "statements": "Students will: Relate the observed, characteristic chemical and physical properties of a range of different materials to technological uses and natural processes.",
+                      "alignmentNotes": "Placeholder",
+                      "subcat": null
+                    }
+                  ]
+                },
+                {
+                  "slug": "n2",
+                  "name": "Nature of Science",
+                  "standardsGroup": [
+                    {
+                      "lessons": [],
+                      "codes": "Level 4. Communicating in Science",
+                      "grades": [],
+                      "statements": "Students will:\n- Begin to use a range of scientific symbols, conventions, and vocabulary.",
+                      "alignmentNotes": "Placeholder",
+                      "subcat": null
+                    },
+                    {
+                      "lessons": [],
+                      "codes": "Level 4. Investigating in Science",
+                      "grades": [],
+                      "statements": "Students will:\n- Build on prior experiences, working together to share and examine their own and others’ knowledge. \n- Ask questions, find evidence, explore simple models, and carry out appropriate investigations to develop simple explanations.",
+                      "alignmentNotes": "Placeholder",
+                      "subcat": null
+                    },
+                    {
+                      "lessons": [],
+                      "codes": "Level 5. Communicating in Science",
+                      "grades": [],
+                      "statements": "Students will:\n- Use a wider range of science vocabulary, symbols, and conventions.",
+                      "alignmentNotes": "Placeholder",
+                      "subcat": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "subject": "Social Studies",
+          "target": false,
+          "sets": [
+            {
+              "slug": "NZC",
+              "name": "NZ Curriculum",
+              "dimensions": [
+                {
+                  "slug": "n9",
+                  "name": "Social Studies",
+                  "standardsGroup": [
+                    {
+                      "lessons": [],
+                      "codes": "Level 4",
+                      "grades": [],
+                      "statements": "Students will understand how people pass on and sustain culture and heritage for different reasons and that this has consequences for people.",
+                      "alignmentNotes": "Placeholder",
+                      "subcat": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "subject": "ELA",
+          "target": true,
+          "sets": [
+            {
+              "slug": "NZC",
+              "name": "NZ Curriculum",
+              "dimensions": [
+                {
+                  "slug": "n13",
+                  "name": "Listening, Reading, and Viewing",
+                  "standardsGroup": [
+                    {
+                      "lessons": [],
+                      "codes": "Level 4. Processes and Strategies",
+                      "grades": [],
+                      "statements": "Students will integrate sources of information, processes, and strategies confidently to identify, form, and express ideas.",
+                      "alignmentNotes": "Placeholder",
+                      "subcat": null
+                    },
+                    {
+                      "lessons": [],
+                      "codes": "Level 5. Processes and Strategies",
+                      "grades": [],
+                      "statements": "Students will integrate sources of information, processes, and strategies purposefully and confidently to identify, form, and express increasingly sophisticated ideas.",
+                      "alignmentNotes": "Placeholder",
+                      "subcat": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "subject": "Science",
+          "target": true,
+          "sets": [
+            {
+              "slug": "NZC",
+              "name": "NZ Curriculum",
+              "dimensions": [
+                {
+                  "slug": "n3",
+                  "name": "Nature of Science",
+                  "standardsGroup": [
+                    {
+                      "lessons": [],
+                      "codes": "Level 4. Participating and Contributing",
+                      "grades": [],
+                      "statements": "Students will:\n- Use their growing science knowledge when considering issues of concern to them.\n- Explore various aspects of an issue and make decisions about possible actions.",
+                      "alignmentNotes": "Placeholder",
+                      "subcat": null
+                    },
+                    {
+                      "lessons": [],
+                      "codes": "Level 5. Investigating in Science",
+                      "grades": [],
+                      "statements": "Students will:\n- Show an increasing awareness of the complexity of working scientifically, including recognition of multiple variables.\n- Begin to evaluate the suitability of the investigative methods chosen.",
+                      "alignmentNotes": "Placeholder",
+                      "subcat": null
+                    },
+                    {
+                      "lessons": [],
+                      "codes": "Level 5. Participating and Contributing",
+                      "grades": [],
+                      "statements": "Students will develop an understanding of socio-scientific issues by gathering relevant scientific information in order to draw evidence-based conclusions and to take action where appropriate.",
+                      "alignmentNotes": "Placeholder",
+                      "subcat": null
+                    }
+                  ]
+                },
+                {
+                  "slug": "n8",
+                  "name": "Material World",
+                  "standardsGroup": [
+                    {
+                      "lessons": [],
+                      "codes": "Level 5. Properties and changes of matter",
+                      "grades": [],
+                      "statements": "- Investigate the chemical and physical properties of different groups of substances, for example, acids and bases, fuels, and metals. \n- Distinguish between pure substances and mixtures and between elements and compounds.",
+                      "alignmentNotes": "Placeholder",
+                      "subcat": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "subject": "Social Studies",
+          "target": true,
+          "sets": [
+            {
+              "slug": "NZC",
+              "name": "NZ Curriculum",
+              "dimensions": [
+                {
+                  "slug": "n10",
+                  "name": "Social Studies",
+                  "standardsGroup": [
+                    {
+                      "lessons": [],
+                      "codes": "Level 4",
+                      "grades": [],
+                      "statements": "Understand how people participate individually and collectively in response to community challenges.",
+                      "alignmentNotes": "Placeholder",
+                      "subcat": null
+                    },
+                    {
+                      "lessons": [],
+                      "codes": "Level 4",
+                      "grades": [],
+                      "statements": "Students will understand how exploration and innovation create opportunities and challenges for people, places, and environments.",
+                      "alignmentNotes": "Placeholder",
+                      "subcat": null
+                    },
+                    {
+                      "lessons": [],
+                      "codes": "Level 5",
+                      "grades": [],
+                      "statements": "Students will understand how people’s management of resources impacts on environmental and social sustainability.",
+                      "alignmentNotes": "Placeholder",
+                      "subcat": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
     },
     "feedback": {
       "__component": "lesson-plan.collapsible-text-section",

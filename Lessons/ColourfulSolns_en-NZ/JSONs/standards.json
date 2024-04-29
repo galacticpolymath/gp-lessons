@@ -10,7 +10,7 @@
           "name": "NZ Curriculum",
           "dimensions": [
             {
-              "slug": "dummy18",
+              "slug": "n18",
               "name": "Geometry and Measurement",
               "standardsGroup": [
                 {
@@ -38,7 +38,7 @@
           "name": "NZ Curriculum",
           "dimensions": [
             {
-              "slug": "dummy15",
+              "slug": "n15",
               "name": "Listening, Reading, and Viewing",
               "standardsGroup": [
                 {
@@ -80,7 +80,7 @@
           "name": "NZ Curriculum",
           "dimensions": [
             {
-              "slug": "dummy4",
+              "slug": "n4",
               "name": "Material World",
               "standardsGroup": [
                 {
@@ -108,7 +108,7 @@
           "name": "NZ Curriculum",
           "dimensions": [
             {
-              "slug": "dummy19",
+              "slug": "n19",
               "name": "Geometry and Measurement",
               "standardsGroup": [
                 {
@@ -136,7 +136,7 @@
           "name": "NZ Curriculum",
           "dimensions": [
             {
-              "slug": "dummy17",
+              "slug": "n17",
               "name": "Listening, Reading, and Viewing",
               "standardsGroup": [
                 {
@@ -178,7 +178,7 @@
           "name": "NZ Curriculum",
           "dimensions": [
             {
-              "slug": "dummy2",
+              "slug": "n2",
               "name": "Nature of Science",
               "standardsGroup": [
                 {
@@ -240,7 +240,7 @@
               ]
             },
             {
-              "slug": "dummy7",
+              "slug": "n7",
               "name": "Material World",
               "standardsGroup": [
                 {
@@ -268,7 +268,7 @@
           "name": "NZ Curriculum",
           "dimensions": [
             {
-              "slug": "dummy8",
+              "slug": "n8",
               "name": "Social Studies",
               "standardsGroup": [
                 {
